@@ -136,6 +136,19 @@ def parse_reports(text: str) -> list[dict]:
 
     return reports
 
+def clean_footnote_text(text: str) -> str:
+    """
+    Clean comment text for use in a Quarto/Pandoc footnote definition.
+    """
+    text = EC_TAG_RE.sub("", text)
+    text = " ".join(text.split())
+
+    # Prevent accidental Markdown footnote/bracket parsing inside comments.
+    text = text.replace("[", r"\[")
+    text = text.replace("]", r"\]")
+
+    return text
+
 
 def build_qmd() -> None:
     source = WITNESS_SOURCE.read_text(encoding="utf-8")
@@ -157,47 +170,66 @@ def build_qmd() -> None:
         "",
         "```{=html}",
         '<div class="sira-witness" data-witness="WABAW">',
+        "```",
+        "",
     ]
 
+    footnotes = []
+
     for report in reports[:50]:
+        report_id = report["id"]
+
         qmd_parts.append(
-            f'''
-<article class="sira-report" id="{report["id"]}" dir="rtl">
+            f'''```{{=html}}
+<article class="sira-report" id="{report_id}" dir="rtl">
   <header class="sira-report-header">
-    <a class="report-id" href="#{report["id"]}">{report["id"]}</a>
+    <a class="report-id" href="#{report_id}">{report_id}</a>
   </header>
   <div class="witness-text">
     {report["html"]}
   </div>
 </article>
-'''
+```'''
         )
 
         if report["comment"]:
-            qmd_parts.append(
-                f'''
-        <aside class="sira-comment" dir="ltr">
-        <button class="sira-comment-toggle" type="button" aria-expanded="false">
-            Comment
-        </button>
-        <div class="sira-comment-body" hidden>
-            {report["comment"]}
-        </div>
-        </aside>
-        '''
+            footnote_id = f"comment-{report_id}"
+            comment_text = clean_footnote_text(report["comment"])
+
+            qmd_parts.extend(
+                [
+                    "",
+                    '::: {.sira-comment-ref}',
+                    f"Comment.[^{footnote_id}]",
+                    ":::",
+                    "",
+                ]
             )
+
+            footnotes.append(f"[^{footnote_id}]: {comment_text}")
 
     qmd_parts.extend(
         [
+            "```{=html}",
             "</div>",
             "```",
             "",
         ]
     )
 
+    if footnotes:
+        qmd_parts.extend(
+            [
+                "",
+                *footnotes,
+                "",
+            ]
+        )
+
     OUTPUT.write_text("\n".join(qmd_parts), encoding="utf-8")
     print(f"Wrote {OUTPUT}")
     print(f"Parsed {len(reports)} reports; wrote first 50.")
+    print(f"Wrote {len(footnotes)} editorial comments as Quarto footnotes.")
 
 
 if __name__ == "__main__":

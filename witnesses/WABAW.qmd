@@ -10,7 +10,9 @@ This page is generated from the encoded Sira witness source file.
 
 ```{=html}
 <div class="sira-witness" data-witness="WABAW">
+```
 
+```{=html}
 <article class="sira-report" id="SHBMV02P036H" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV02P036H">SHBMV02P036H</a>
@@ -19,18 +21,13 @@ This page is generated from the encoded Sira witness source file.
     حدثنا عباد بن العوام عن محمد بن إسحاق عن بكير عن الأشج عن عبد الله الخولاني قال رأيت ميمونة زوج النبي صلى الله عليه وسلم تصلي في درع واحد فضلا وقد وضعت بعض كمها على رأسها قال وكان عبيد الله يتيما في حجرها. <span class="page-no" title="volume 2 page 36">§</span>
   </div>
 </article>
+```
 
+::: {.sira-comment-ref}
+Comment.[^comment-SHBMV02P036H]
+:::
 
-        <aside class="sira-comment" dir="ltr">
-        <button class="sira-comment-toggle" type="button" aria-expanded="false">
-            Comment
-        </button>
-        <div class="sira-comment-body" hidden>
-            A similar fragment is also found in WSACD but phrased differently and is attributed to ʿUbayd Allāh al-Khawlānī not ʿAbd al-Khawlānī.
-        </div>
-        </aside>
-        
-
+```{=html}
 <article class="sira-report" id="NYMXV01P490A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#NYMXV01P490A">NYMXV01P490A</a>
@@ -39,8 +36,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا حبيب بن الحسن ثنا الحسن بن علي بن الوليد ثنا إبراهيم بن زياد ثنا عباد بن العوام ثنا محمد بن إسحاق عن أبي مالك بن ثعلبة بن أبي مالك عن أبيه قال اختصم إلى رسول الله صلى الله عليه وسلم في واد يقال له مهزور وكان الوادي فينا وكان يستأثر بعضهم على بعض فقضى رسول الله صلى الله عليه وسلم إذا بلغ الماء الكعبين لم يحبس الأعلى على الأسفل رواه عبدة بن سليمان وأبو معاوية وعبد الرحيم بن سليمان ومحمد بن سلمة الحراني في آخرين عن ابن إسحاق مثله ورواه صفوان بن سليم عن ثعلبة بن أبي مالك أشبع من هذا. <span class="page-no" title="volume 1 page 490">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="QSHBV01P463A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#QSHBV01P463A">QSHBV01P463A</a>
@@ -49,18 +46,13 @@ This page is generated from the encoded Sira witness source file.
     <span class="variant-id">VAR_GHHXV03P1226A</span> <span class="variant-id">VAR_BQMXV06P078A</span> حديث عمر <span class="page-no" title="volume 1 page 463">§</span> قال حدثنا عباد بن العوام عن محمد بن إسحاق عن يزيد بن أبي حبيب أو يعقوب بن عتبة قال أبو عبيد والمحفوظ عندي أنه يعقوب بن عتبة عن يزيد بن هرمز عن ابن أبي ذباب أن عمر أخر الصدقة عام الرمادة قال فلما أحيا الناس بعثني فقال اعقل عليهم عقالين فاقسم فيهم عقالا وائتني بالآخر قال أبو عبيد ألا ترى أن عمر قد أخذهم بصدقة عامين وهو يعلم أن في مثل هذه <span class="page-no" title="volume 1 page 464">§</span> المدة وأقل منها ما تكون الحوادث بالماشية من الزيادة والنقصان فلم يشترط عليهم أن يحاسبوا بشيء مما تلف. <span class="page-no" title="volume 1 page 465">§</span>
   </div>
 </article>
+```
 
+::: {.sira-comment-ref}
+Comment.[^comment-QSHBV01P463A]
+:::
 
-        <aside class="sira-comment" dir="ltr">
-        <button class="sira-comment-toggle" type="button" aria-expanded="false">
-            Comment
-        </button>
-        <div class="sira-comment-body" hidden>
-            This fragment is not found in HSNX. It recounts how ʿUmar b. al-Khaṭṭāb distribute charity during the Year of the Drought (Ramādah), which occurred in the year 18 during a major drought (see SFTXV01P138C). Also see WBSAB, WABAW, WAKMW, and WSFAB for a reference to the event.
-        </div>
-        </aside>
-        
-
+```{=html}
 <article class="sira-report" id="GHHXV03P1226A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#GHHXV03P1226A">GHHXV03P1226A</a>
@@ -69,8 +61,8 @@ This page is generated from the encoded Sira witness source file.
     <span class="variant-id">VAR_QSHBV01P463A</span> <span class="variant-id">VAR_BQMXV06P078A</span> حدثنا سعيد بن سليمان حدثنا عباد عن ابن إسحاق حدثني يعقوب بن عتيبة عن يزيد بن هرمز عن ابن أبي ذباب قال أخر عمر الصدقة عام الرمادة فلما أحيا الناس بعثني فقال اعقل عليهم عقالين فاقسم بينهم عقالا وائتني بعقال. <span class="page-no" title="volume 3 page 1226">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="BQMXV06P078A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#BQMXV06P078A">BQMXV06P078A</a>
@@ -79,8 +71,8 @@ This page is generated from the encoded Sira witness source file.
     <span class="variant-id">VAR_QSHBV01P463A</span> <span class="variant-id">VAR_GHHXV03P1226A</span> قال أحمد هذا الحديث فيما رواه محمد بن إسحاق بن يسار عن يعقوب بن عتبة عن يزيد بن هرمز عن ابن أبي ذباب قال أخر عمر الصدقة عام الرمادة فلما أحيي الناس بعثني فقال اعقل عليهم عقالين فاقسم فيهم عقالا وأتني بالآخر أخبرناه أبو عبد الرحمن السلمي قال أخبرنا أبو الحسن الكازري قال حدثنا علي بن عبد العزيز عن أبي عبيد قال حدثنا عباد بن العوام عن محمد بن إسحاق عن يزيد بن أبي حبيب أو يعقوب بن عتبة وقال غير عباد عن ابن إسحاق عن يعقوب بن عتبة. <span class="page-no" title="volume 6 page 78">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="AMAWV01P090A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#AMAWV01P090A">AMAWV01P090A</a>
@@ -89,8 +81,8 @@ This page is generated from the encoded Sira witness source file.
     أخبرنا محمد بن أحمد بن سهل النحوي إذناً قال أخبرنا <span class="page-no" title="volume 1 page 90">§</span> أبو الحسين محمد بن أحمد بن الطيب بن كماري الفقيه قال حدثنا العباد قال حدثنا محمد بن إسحاق قال حدثنا أبو بكر الغرافي قال حدثنا إسماعيل ابن علية يرفعه إلى أبي الحمراء قال سمعت رسول الله صلى الله عليه وسلم يقول لما أسري بي إلى السماء رأيت على ساق العرش الأيمن أنا وحدي لا إله غيري غرست جنة عدن بيدي محمد صفوتي أيدته بعلي <span class="page-no" title="volume 1 page 91">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="THQXV02P182A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#THQXV02P182A">THQXV02P182A</a>
@@ -99,8 +91,8 @@ This page is generated from the encoded Sira witness source file.
     علي بن معبد قد حدثنا قال حدثنا سعيد بن سليمان الواسطي قال حدثنا عباد بن العوام عن محمد بن إسحاق عن أبان بن صالح عن عكرمة قال وقفت مع الحسين بن علي فكان يهل حتى رمى جمرة العقبة فقلت يا أبا عبد الله ما هذا قال كان أبي يفعل ذلك وأخبرني أن رسول الله صلى الله عليه وسلم كان يفعل ذلك قال فرجعت إلى ابن عباس فأخبرته فقال صدق أخبرني الفضل أخي أن رسول الله صلى الله عليه وسلم لبى حتى انتهى إليها وكان رديفه فأخبر الحسن بن علي عن علي بن أبي طالب رضي الله عنه أن مذهبه كان في قطع التلبية في الحج كمثل ما ذكرنا عن عمر رضي الله عنه وقد ذكر ابن عباس عن علي ما يدل على أن مذهبه كان عنده في ذلك هذا المذهب أيضا كما. <span class="page-no" title="volume 2 page 182">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="BLJXV01P569A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#BLJXV01P569A">BLJXV01P569A</a>
@@ -109,8 +101,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا سعيد بن سليمان ثنا عباد بن العوام أنبأ محمد بن إسحاق عن يحيى بن عباد بن عبد الله بن الزبير عن أبيه قال لما توفي رسول الله صلى الله عليه وسلم اختلفوا في غسله وقالوا كيف نصنع أنجرد رسول الله كما نجرد موتانا فألقى الله عز وجل عليهم النوم فما أحد يرفع رأسه فسمعوا مناديا ينادي من عرض البيت أن اغسلوه وعليه ثيابه فغسل في قميص له يصبون الماء فوق القميص ويدلكونه به فقالت عائشة لو كنت استقبلت من أمري ما استدبرت ما غسله إلا نساؤه. <span class="page-no" title="volume 1 page 569">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBNV02P418A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBNV02P418A">SHBNV02P418A</a>
@@ -119,8 +111,8 @@ This page is generated from the encoded Sira witness source file.
     نا عباد بن العوام عن محمد بن إسحاق عن يزيد بن أبي خبيب عن مرثد بن عبد الله اليزني عن رجل من أصحاب النبي صلى الله عليه وسلم عن النبي صلى الله عليه وسلم قال جزئت النار سبعين جزءا تسعة وستون للآمر وجزء للقاتل. <span class="page-no" title="volume 2 page 418">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV02P036A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV02P036A">SHBMV02P036A</a>
@@ -129,8 +121,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا عباد بن العوام عن محمد بن إسحاق عن بكير عن الأشج عن عبد الله الخولاني قال رأيت ميمونة زوج النبي صلى الله عليه وسلم تصلي في درع واحد فضلا وقد وضعت بعض كمها على رأسها قال وكان عبيد الله يتيما في حجرها. <span class="page-no" title="volume 2 page 36">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV03P033A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV03P033A">SHBMV03P033A</a>
@@ -139,8 +131,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا عباد بن العوام عن يحيى بن أبي إسحاق قال خرجت مع سالم بن عبد الله في جنازة فأخذ غير طريقها فعارضناها فلما انتهينا إلى القبر جلس قبل أن توضع. <span class="page-no" title="volume 3 page 33">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV03P471A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV03P471A">SHBMV03P471A</a>
@@ -149,8 +141,8 @@ This page is generated from the encoded Sira witness source file.
     عباد بن العوام عن محمد بن إسحاق قال قرأت كتاب عمر بن عبد العزيز إنها لا تحل له حتى تنكح زوجا غيره. <span class="page-no" title="volume 3 page 471">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV03P513A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV03P513A">SHBMV03P513A</a>
@@ -159,8 +151,8 @@ This page is generated from the encoded Sira witness source file.
     أبو بكر عن عباد بن العوام عن محمد بن إسحاق عن مكحول قال قلت للزهري أما علمت عمر حين انقضى أجله وابن مسعود بالعراق حين انقضى أجله وعثمان بن عفان كانوا يستبرئون الأمة بحيضة حتى كان معاوية فكان يقول حيضتان فقال الزهري وأنا أزيدك عبادة بن الصامت. <span class="page-no" title="volume 3 page 513">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV04P281A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV04P281A">SHBMV04P281A</a>
@@ -169,8 +161,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا عباد بن العوام عن محمد بن إسحاق عن نافع عن ابن عمر قال كان لا يرى بأسا بالكتابة على الوصفاء. <span class="page-no" title="volume 4 page 281">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV04P485A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV04P485A">SHBMV04P485A</a>
@@ -179,8 +171,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو بكر قال حدثنا عباد بن العوام عن محمد بن إسحاق عن عبد الله بن بابي مولى أم سلمة أو عائشة قالت رأيت سعدا يحمل مكتلا من عذرة الناس إلى أرض له يقال لها زغانة فقلت له يا أبا إسحاق أتحمل هذا قال إن مكتل عرة مكتل حب <span class="page-no" title="volume 4 page 485">§</span> في قوله <a href="https://quran.com/2/282" class="quran">ولا يأب الشهداء إذا ما دعوا</a>. <span class="page-no" title="volume 4 page 486">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV05P115A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV05P115A">SHBMV05P115A</a>
@@ -189,8 +181,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو بكر قال حدثنا عباد بن العوام عن محمد بن إسحاق عن عمرو بن شعيب أن النبي صلى الله عليه وسلم أمر بالعقيقة يوم السابع للمولود ووضع الأذى وتسميته. <span class="page-no" title="volume 5 page 115">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV05P360A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV05P360A">SHBMV05P360A</a>
@@ -199,8 +191,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو بكر قال حدثنا عباد بن العوام عن محمد بن إسحاق عمن سمع القاسم بن محمد وسئل عن رجل ضرب منخرة رجل فذهب صوته فقال فيها الدية. <span class="page-no" title="volume 5 page 360">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV05P521A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV05P521A">SHBMV05P521A</a>
@@ -209,8 +201,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو بكر قال حدثنا عباد بن العوام عن محمد بن إسحاق عن حكم بن حكيم بن عباد بن حنيف عن النعمان بن مرة الزرقي أن عليا قطع سارقا من الحفر حفر القدم. <span class="page-no" title="volume 5 page 521">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="SHBMV07P306A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#SHBMV07P306A">SHBMV07P306A</a>
@@ -219,8 +211,8 @@ This page is generated from the encoded Sira witness source file.
     عباد بن العوام عن محمد بن إسحاق عن محمد بن يحيى بن حبان قال قال إنما جعل ابن الزبير عهدة الرقيق ثلاثة لقول رسول الله صلى الله عليه وسلم لمنقذ بن عمرو قال لا خلابة إذا بعت بيعا فأنت بالخيار ثلاثا. <span class="page-no" title="volume 7 page 306">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="HBHXV04P478A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#HBHXV04P478A">HBHXV04P478A</a>
@@ -229,8 +221,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو جعفر المدائني قال أخبرنا عباد بن العوام عن محمد بن إسحاق حدثنا حسين بن عبد الله عن عكرمة عن ابن عباس قال جاءت أم الفضل ابنة الحارث بأم حبيبة بنت عباس فوضعتها في حجر رسول الله صلى الله عليه وسلم فبالت فاختلجتها أم الفضل ثم لكمت بين كتفيها ثم اختلجتها فقال رسول الله صلى الله عليه وسلم أعطيني قدحا من ماء فصبه على مبالها ثم قال اسلكوا الماء في سبيل البول. <span class="page-no" title="volume 4 page 478">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="ZTTHV01P561A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#ZTTHV01P561A">ZTTHV01P561A</a>
@@ -239,8 +231,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا سعيد بن سليمان قال حدثنا عباد بن العوام عن محمد بن إسحاق عن محمد بن يحيى بن حبان عن عمه واسع بن حبان أن جده منقذا كان قد أتى عليه ثلاثون ومائة سنة فكان إذا بايع غبنفذكر ذلك للنبي صلى الله عليه وسلم فقال إذا بايعت فقل لا خلابة وأنت بالخيار. <span class="page-no" title="volume 1 page 561">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="ZTKXV02P781A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#ZTKXV02P781A">ZTKXV02P781A</a>
@@ -249,8 +241,8 @@ This page is generated from the encoded Sira witness source file.
     وحدثنا سعيد بن سليمان قال حدثنا عباد بن عوام عن محمد بن إسحاق قال حدثنا محمد بن المنكدر عن أميمة بنت رقيقة قالت أتيت النبي صلى الله عليه وسلم في نساء من المهاجرات نبايعه فقال إني لا أصافح النساء وإن قولي لمائة منكن مثل قولي لواحدة منكن اذهبن فقد بايعتكن. <span class="page-no" title="volume 2 page 781">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="HBRXV02P392A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#HBRXV02P392A">HBRXV02P392A</a>
@@ -259,8 +251,8 @@ This page is generated from the encoded Sira witness source file.
     سمعت أبي يقول حدثنا عباد بن العوام عن محمد بن إسحاق بن يسار عن عمران بن أبي أنس أن رجلا كان له كلب صائد قد أعطيه به عشرين بعيرا فخطب امرأة وخطبها معه رجل من قومها فقالت لا أنكحك إلا على كلبك فنكحها وساق الكلب إليها فعدا عليه الآخر فقتله فترافعوا إلى عثمان بن عفان فغرمه عشرين بعيرا سمعت أبي يقول هذا باطل نهى النبي صلى الله عليه وسلم عن ثمن الكلب. <span class="page-no" title="volume 2 page 392">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="HBRXV02P393A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#HBRXV02P393A">HBRXV02P393A</a>
@@ -269,8 +261,8 @@ This page is generated from the encoded Sira witness source file.
     قال أبو علي بن الصواف وحدثنا أحمد بن سهل الأشناني قال حدثنا أبو زكريا يحيى بن المبارك قال حدثنا عباد بن العوام عن محمد بن إسحاق عن عمران بن أبي أنس أن رجلا كان له كلب صيود قد أعطي به عشرين بعيرا وكان يخطب امرأة فقالت لا أتزوجك إلا على كلبك هذا وكان معه بن عم لها يخطبها قال فتزوجها على الكلب وساق الكلب إليها قال فعدا الآخر على الكلب فقتله فرفع ذلك إلى عثمان فأغرمه عشرين بعيرا. <span class="page-no" title="volume 2 page 393">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="HBHXV21P024A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#HBHXV21P024A">HBHXV21P024A</a>
@@ -279,8 +271,8 @@ This page is generated from the encoded Sira witness source file.
     حدثنا أبو جعفر المدائني وهو محمد بن جعفر حدثنا عباد بن العوام حدثنا محمد بن إسحاق عن محمد بن المنكدر <span class="page-no" title="volume 21 page 24">§</span> عن أنس بن مالك قال قال رسول الله صلى الله عليه وسلم إن أمام الدجال سنين خداعة يكذب فيها الصادق ويصدق فيها الكاذب ويخون فيها الأمين ويؤتمن فيها الخائن ويتكلم فيها الرويبضة قيل وما الرويبضة قال الفويسق يتكلم في أمر العامة. <span class="page-no" title="volume 24 page 25">§</span>
   </div>
 </article>
-
-
+```
+```{=html}
 <article class="sira-report" id="DYTKV01P167A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#DYTKV01P167A">DYTKV01P167A</a>
@@ -289,6 +281,11 @@ This page is generated from the encoded Sira witness source file.
     حدثنا سعدويه عن عباد بن العوام عن محمد بن <span class="page-no" title="volume 1 page 167">§</span> إسحاق عن عبد الله بن أبي <span class="page-no" title="volume 1 page 168">§</span> أمامة عن ابن كعب بن مالك عن أبيه قال قال رسول الله صلى الله عليه وسلم البذاذة من الإيمان. <span class="page-no" title="volume 1 page 169">§</span>
   </div>
 </article>
-
+```
+```{=html}
 </div>
 ```
+
+
+[^comment-SHBMV02P036H]: A similar fragment is also found in WSACD but phrased differently and is attributed to ʿUbayd Allāh al-Khawlānī not ʿAbd al-Khawlānī.
+[^comment-QSHBV01P463A]: This fragment is not found in HSNX. It recounts how ʿUmar b. al-Khaṭṭāb distribute charity during the Year of the Drought (Ramādah), which occurred in the year 18 during a major drought (see SFTXV01P138C). Also see WBSAB, WABAW, WAKMW, and WSFAB for a reference to the event.
