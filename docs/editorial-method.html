@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>2&nbsp; Editorial Method – The Sira Project</title>
+<title>Editorial Method – The Sira Project</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -33,7 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./witnesses.html" rel="next">
+<link href="./witnesses/WABAW.html" rel="next">
 <link href="./index.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./editorial-method.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Editorial Method</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./editorial-method.html"><span class="chapter-title">Editorial Method</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -113,26 +113,17 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">The Sira Project</span></span></a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">The Sira Project</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./editorial-method.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Editorial Method</span></span></a>
+  <a href="./editorial-method.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Editorial Method</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./witnesses.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">witnesses.html</span></span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./witnesses/WABAW.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī</span></span></a>
+  <a href="./witnesses/WABAW.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī</span></a>
   </div>
 </li>
     </ul>
@@ -148,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Editorial Method</span></h1>
+<h1 class="title"><span class="chapter-title">Editorial Method</span></h1>
 </div>
 
 
@@ -170,7 +161,41 @@ ul.task-list li input[type="checkbox"] {
 
 
 </main> <!-- /main -->
+<script>
 
+document.addEventListener("DOMContentLoaded", function () {
+
+  document.querySelectorAll(".sira-comment-toggle").forEach(function (button) {
+
+    button.addEventListener("click", function () {
+
+      const body = button.parentElement.querySelector(".sira-comment-body");
+
+      const isHidden = body.hasAttribute("hidden");
+
+
+
+      if (isHidden) {
+
+        body.removeAttribute("hidden");
+
+        button.setAttribute("aria-expanded", "true");
+
+      } else {
+
+        body.setAttribute("hidden", "");
+
+        button.setAttribute("aria-expanded", "false");
+
+      }
+
+    });
+
+  });
+
+});
+
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -574,12 +599,12 @@ ul.task-list li input[type="checkbox"] {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./index.html" class="pagination-link" aria-label="The Sira Project">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">The Sira Project</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">The Sira Project</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./witnesses.html" class="pagination-link" aria-label="witnesses.html">
-        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">witnesses.html</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./witnesses/WABAW.html" class="pagination-link" aria-label="ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī">
+        <span class="nav-page-text"><span class="chapter-title">ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

@@ -21,6 +21,16 @@ This page is generated from the encoded Sira witness source file.
 </article>
 
 
+        <aside class="sira-comment" dir="ltr">
+        <button class="sira-comment-toggle" type="button" aria-expanded="false">
+            Comment
+        </button>
+        <div class="sira-comment-body" hidden>
+            A similar fragment is also found in WSACD but phrased differently and is attributed to ʿUbayd Allāh al-Khawlānī not ʿAbd al-Khawlānī.
+        </div>
+        </aside>
+        
+
 <article class="sira-report" id="NYMXV01P490A" dir="rtl">
   <header class="sira-report-header">
     <a class="report-id" href="#NYMXV01P490A">NYMXV01P490A</a>
@@ -40,6 +50,16 @@ This page is generated from the encoded Sira witness source file.
   </div>
 </article>
 
+
+        <aside class="sira-comment" dir="ltr">
+        <button class="sira-comment-toggle" type="button" aria-expanded="false">
+            Comment
+        </button>
+        <div class="sira-comment-body" hidden>
+            This fragment is not found in HSNX. It recounts how ʿUmar b. al-Khaṭṭāb distribute charity during the Year of the Drought (Ramādah), which occurred in the year 18 during a major drought (see SFTXV01P138C). Also see WBSAB, WABAW, WAKMW, and WSFAB for a reference to the event.
+        </div>
+        </aside>
+        
 
 <article class="sira-report" id="GHHXV03P1226A" dir="rtl">
   <header class="sira-report-header">

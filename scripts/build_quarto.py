@@ -78,17 +78,40 @@ def clean_report_text(text: str) -> str:
 
 
 def split_comment(block: str) -> tuple[str, str]:
-    parts = re.split(r"\n#\s+@COMMENT:\s*", block, maxsplit=1)
+    """
+    Split one witness report block into report text and editorial comment.
+
+    Comments in the source look like:
+
+        # @COMMENT: A similar fragment is also found...
+    """
+    parts = re.split(r"\n#\s*@COMMENT:\s*", block, maxsplit=1)
+
     if len(parts) == 1:
         return block, ""
 
-    report_text, comment = parts
+    report_text = parts[0].strip()
+    comment = parts[1].strip()
+
+    # Remove internal editor/date tags such as @EC_03/09/23@
     comment = EC_TAG_RE.sub("", comment).strip()
+
     return report_text, comment
 
 
 def parse_reports(text: str) -> list[dict]:
-    chunks = re.split(r"\n(?=#\s+@)", text)
+    """
+    Parse witness reports and attach comments to the preceding report.
+
+    We split only on report-start tags like:
+
+        # @SHBMV02P036H_BEG_WABAW
+
+    This keeps the following PageV... line and optional # @COMMENT line
+    attached to the same report.
+    """
+    chunks = re.split(r"\n(?=#\s+@[A-Z]{4,5}V\d+P\d+[A-Z]*_BEG_[A-Z]{4,5})", text)
+
     reports = []
 
     for chunk in chunks:
@@ -153,10 +176,15 @@ def build_qmd() -> None:
         if report["comment"]:
             qmd_parts.append(
                 f'''
-<aside class="sira-comment" dir="ltr">
-  <strong>Comment.</strong> {report["comment"]}
-</aside>
-'''
+        <aside class="sira-comment" dir="ltr">
+        <button class="sira-comment-toggle" type="button" aria-expanded="false">
+            Comment
+        </button>
+        <div class="sira-comment-body" hidden>
+            {report["comment"]}
+        </div>
+        </aside>
+        '''
             )
 
     qmd_parts.extend(

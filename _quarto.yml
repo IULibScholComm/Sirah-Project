@@ -15,4 +15,4 @@ format:
     toc-depth: 2
     number-sections: false
     css: assets/sira.css
-    include-after-body: assets/sira.js
+    include-after-body: assets/sira.html

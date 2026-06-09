@@ -1,0 +1,18 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".sira-comment-toggle").forEach(function (button) {
+    button.addEventListener("click", function () {
+      const body = button.parentElement.querySelector(".sira-comment-body");
+      const isHidden = body.hasAttribute("hidden");
+
+      if (isHidden) {
+        body.removeAttribute("hidden");
+        button.setAttribute("aria-expanded", "true");
+      } else {
+        body.setAttribute("hidden", "");
+        button.setAttribute("aria-expanded", "false");
+      }
+    });
+  });
+});
+</script>
