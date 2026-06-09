@@ -1,0 +1,3 @@
+# Editorial Method
+
+This page will describe the source files, witness encoding, variant handling, bibliography, update model, and publication workflow.

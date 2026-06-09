@@ -1,0 +1,18 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "The Sira Project"
+  chapters:
+    - index.qmd
+    - editorial-method.qmd
+    - witnesses/WABAW.qmd
+
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    css: assets/sira.css
+    include-after-body: assets/sira.js

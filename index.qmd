@@ -1,0 +1,5 @@
+# The Sira Project
+
+This is a Quarto/IULP pilot publication for the Sira Project.
+
+The purpose of this pilot is to test whether the project can be published as a Quarto-based digital scholarly edition while preserving the raw witness files as the authoritative source data.

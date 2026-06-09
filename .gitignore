@@ -1,1 +1,3 @@
 */*.kate-swp
+/.quarto/
+**/*.quarto_ipynb
