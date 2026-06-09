@@ -9,10 +9,12 @@ book:
     - editorial-method.qmd
     - witnesses/WABAW.qmd
 
+lang: en
+
 format:
   html:
     toc: true
     toc-depth: 2
     number-sections: false
-    css: assets/sira.css
     reference-location: margin
+    css: assets/sira.css

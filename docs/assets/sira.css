@@ -8,6 +8,8 @@
   padding: 1rem 1.25rem;
   margin: 1.25rem 0;
   background: #fff;
+  direction: rtl;
+  unicode-bidi: isolate;
 }
 
 .sira-report-header {
@@ -15,6 +17,8 @@
   text-align: left;
   font-size: 0.9rem;
   margin-bottom: 0.75rem;
+  direction: ltr;
+  unicode-bidi: isolate;
 }
 
 .report-id {
@@ -26,7 +30,10 @@
   font-size: 1.25rem;
   line-height: 2.2;
   text-align: right;
+  direction: rtl;
+  unicode-bidi: isolate;
 }
+
 
 .page-no {
   direction: ltr;
@@ -46,3 +53,17 @@
   margin: 0 0.2rem;
 }
 
+
+
+.report-label {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #666;
+  margin-right: 0.35rem;
+}
+
+.sira-comment-ref {
+  direction: ltr;
+  unicode-bidi: isolate;
+}

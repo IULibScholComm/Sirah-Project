@@ -160,9 +160,12 @@ def build_qmd() -> None:
     qmd_parts = [
         "---",
         f'title: "{witness_title}"',
+        'lang: "en"',
+        'witness-code: "WABAW"',
+        'source-language: "ar"',
         "---",
         "",
-        f"# {arabic_title}",
+        f'# <span lang="ar" dir="rtl">{html.escape(arabic_title)}</span>',
         "",
         "**Witness code:** `WABAW`",
         "",
@@ -181,8 +184,9 @@ def build_qmd() -> None:
 
         qmd_parts.append(
             f'''```{{=html}}
-<article class="sira-report" id="{report_id}" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="{report_id}" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#{report_id}">{report_id}</a>
   </header>
   <div class="witness-text">
@@ -199,7 +203,7 @@ def build_qmd() -> None:
             qmd_parts.extend(
                 [
                     "",
-                    '::: {.sira-comment-ref}',
+                    '::: {.sira-comment-ref lang="en" dir="ltr"}',
                     f"Comment.[^{footnote_id}]",
                     ":::",
                     "",

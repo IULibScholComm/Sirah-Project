@@ -1,8 +1,11 @@
 ---
 title: "ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī"
+lang: "en"
+witness-code: "WABAW"
+source-language: "ar"
 ---
 
-# السيرة النبوية لمحمد بن اسحاق في رواية عباد بن عوام الكلابي الوسطي
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عباد بن عوام الكلابي الوسطي</span>
 
 **Witness code:** `WABAW`
 
@@ -13,8 +16,9 @@ This page is generated from the encoded Sira witness source file.
 ```
 
 ```{=html}
-<article class="sira-report" id="SHBMV02P036H" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV02P036H" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV02P036H">SHBMV02P036H</a>
   </header>
   <div class="witness-text">
@@ -23,13 +27,14 @@ This page is generated from the encoded Sira witness source file.
 </article>
 ```
 
-::: {.sira-comment-ref}
+::: {.sira-comment-ref lang="en" dir="ltr"}
 Comment.[^comment-SHBMV02P036H]
 :::
 
 ```{=html}
-<article class="sira-report" id="NYMXV01P490A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="NYMXV01P490A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#NYMXV01P490A">NYMXV01P490A</a>
   </header>
   <div class="witness-text">
@@ -38,8 +43,9 @@ Comment.[^comment-SHBMV02P036H]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="QSHBV01P463A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="QSHBV01P463A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#QSHBV01P463A">QSHBV01P463A</a>
   </header>
   <div class="witness-text">
@@ -48,13 +54,14 @@ Comment.[^comment-SHBMV02P036H]
 </article>
 ```
 
-::: {.sira-comment-ref}
+::: {.sira-comment-ref lang="en" dir="ltr"}
 Comment.[^comment-QSHBV01P463A]
 :::
 
 ```{=html}
-<article class="sira-report" id="GHHXV03P1226A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="GHHXV03P1226A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#GHHXV03P1226A">GHHXV03P1226A</a>
   </header>
   <div class="witness-text">
@@ -63,8 +70,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="BQMXV06P078A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="BQMXV06P078A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#BQMXV06P078A">BQMXV06P078A</a>
   </header>
   <div class="witness-text">
@@ -73,8 +81,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="AMAWV01P090A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="AMAWV01P090A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#AMAWV01P090A">AMAWV01P090A</a>
   </header>
   <div class="witness-text">
@@ -83,8 +92,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="THQXV02P182A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="THQXV02P182A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#THQXV02P182A">THQXV02P182A</a>
   </header>
   <div class="witness-text">
@@ -93,8 +103,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="BLJXV01P569A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="BLJXV01P569A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#BLJXV01P569A">BLJXV01P569A</a>
   </header>
   <div class="witness-text">
@@ -103,8 +114,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBNV02P418A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBNV02P418A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBNV02P418A">SHBNV02P418A</a>
   </header>
   <div class="witness-text">
@@ -113,8 +125,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV02P036A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV02P036A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV02P036A">SHBMV02P036A</a>
   </header>
   <div class="witness-text">
@@ -123,8 +136,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV03P033A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV03P033A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV03P033A">SHBMV03P033A</a>
   </header>
   <div class="witness-text">
@@ -133,8 +147,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV03P471A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV03P471A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV03P471A">SHBMV03P471A</a>
   </header>
   <div class="witness-text">
@@ -143,8 +158,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV03P513A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV03P513A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV03P513A">SHBMV03P513A</a>
   </header>
   <div class="witness-text">
@@ -153,8 +169,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV04P281A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV04P281A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV04P281A">SHBMV04P281A</a>
   </header>
   <div class="witness-text">
@@ -163,8 +180,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV04P485A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV04P485A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV04P485A">SHBMV04P485A</a>
   </header>
   <div class="witness-text">
@@ -173,8 +191,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV05P115A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV05P115A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV05P115A">SHBMV05P115A</a>
   </header>
   <div class="witness-text">
@@ -183,8 +202,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV05P360A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV05P360A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV05P360A">SHBMV05P360A</a>
   </header>
   <div class="witness-text">
@@ -193,8 +213,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV05P521A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV05P521A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV05P521A">SHBMV05P521A</a>
   </header>
   <div class="witness-text">
@@ -203,8 +224,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="SHBMV07P306A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="SHBMV07P306A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#SHBMV07P306A">SHBMV07P306A</a>
   </header>
   <div class="witness-text">
@@ -213,8 +235,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="HBHXV04P478A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="HBHXV04P478A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#HBHXV04P478A">HBHXV04P478A</a>
   </header>
   <div class="witness-text">
@@ -223,8 +246,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="ZTTHV01P561A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="ZTTHV01P561A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#ZTTHV01P561A">ZTTHV01P561A</a>
   </header>
   <div class="witness-text">
@@ -233,8 +257,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="ZTKXV02P781A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="ZTKXV02P781A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#ZTKXV02P781A">ZTKXV02P781A</a>
   </header>
   <div class="witness-text">
@@ -243,8 +268,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="HBRXV02P392A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="HBRXV02P392A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#HBRXV02P392A">HBRXV02P392A</a>
   </header>
   <div class="witness-text">
@@ -253,8 +279,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="HBRXV02P393A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="HBRXV02P393A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#HBRXV02P393A">HBRXV02P393A</a>
   </header>
   <div class="witness-text">
@@ -263,8 +290,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="HBHXV21P024A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="HBHXV21P024A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#HBHXV21P024A">HBHXV21P024A</a>
   </header>
   <div class="witness-text">
@@ -273,8 +301,9 @@ Comment.[^comment-QSHBV01P463A]
 </article>
 ```
 ```{=html}
-<article class="sira-report" id="DYTKV01P167A" dir="rtl">
-  <header class="sira-report-header">
+<article class="sira-report" id="DYTKV01P167A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Report</span>
     <a class="report-id" href="#DYTKV01P167A">DYTKV01P167A</a>
   </header>
   <div class="witness-text">
