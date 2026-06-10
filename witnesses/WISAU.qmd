@@ -1,0 +1,56 @@
+---
+title: "Ismāʿīl b. Abī Uways"
+lang: "en"
+witness-code: "WISAU"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية اسماعيل بن ابي اويس</span>
+
+**Witness code:** `WISAU`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WISAU">
+```
+
+```{=html}
+<article class="sira-report" id="BKHWV01P013A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHWV01P013A">BKHWV01P013A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHW" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>al-Taʾrīkh al-awsaṭ</span></a>, vol. 1 p. 13</div>
+  </header>
+  <div class="witness-text">
+    حدثنا إسماعيل بن أبي أويس قال قال محمد بن إسحاق بن يسار إنما سمي هاشما لهشمه الثريد بمكة فقال مسافر بن أبي عمرو عمرو الذي هشم الثريد لقومه وقريش في سنة وفي إعجاف.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV01P004A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV01P004A">BKHBV01P004A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 1 pp. 4-5</div>
+  </header>
+  <div class="witness-text">
+    حدثنا اسمعيل بن أبى اويس قال قال محمد بن اسحاق بن يسار إن بنى عبد مناف بن قصى عبد شمس وهاشم والمطلب اخوة لام وامهم عاتكة بنت مرة وكان نوفل اخاهم لابيهم وانما سمى هاشما لهشمه الثريد بمكة فقال مسافر بن أبى عمرو <span class="page-no" title="end of page 4 of vol. 1">§</span> عمرو العلى هشم الثريد لقومه وقريش في سنة وفى اعجاف. <span class="page-no" title="end of page 5 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RZJXV06P329A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RZJXV06P329A">RZJXV06P329A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RZJX" class="source-link"><span class='ref-author'>Ibn Abī Ḥātim al-Rāzī</span>, <span class='ref-title'>al-Jarḥ waʾl-taʿdīl</span></a>, vol. 6 p. 329</div>
+  </header>
+  <div class="witness-text">
+    روى ابن أبي أويس عن ابيه عن ابن اسحاق عن ابى منظور الشامي عن عمه عن عامر الرام اخى الخضر قال جلست إلى النبي صلى الله عليه وسلم روى ابن أبي أويس عن ابيه عن ابن اسحاق فأدخل بينه وبين ابى منظور الحسن بن عمارة. <span class="page-no" title="end of page 329 of vol. 6">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

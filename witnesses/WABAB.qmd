@@ -1,0 +1,1494 @@
+---
+title: "ʿAbd al-Aʿlā b. ʿAbd al-Aʿlā al-Shāmī al-Baṣrī"
+lang: "en"
+witness-code: "WABAB"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الأعلى بن عبد الأعلى الشامي البصري</span>
+
+**Witness code:** `WABAB`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WABAB">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `KHZXV03P036D`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="KHZXV03P036D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KHZXV03P036D">KHZXV03P036D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHZX" class="source-link"><span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span></a>, vol. 3 pp. 36-157</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BNHXV05P156C</span> <span class="variant-id">VAR_BQQXV01P056C</span> <span class="variant-id">VAR_TTXXV02P222C</span> نا مؤمل بن هشام اليشكري نا إسماعيل يعني ابن علية عن محمد بن إسحاق ح وثنا الفضل بن يعقوب الجزري ثنا عبد الأعلى نا محمد ح وثنا سعيد بن يحيى بن سعيد الأموي نا أبي عن محمد بن إسحاق وثنا محمد بن رافع ويعقوب بن إبراهيم الدورقي قالا ثنا يزيد وهو ابن هارون أخبرنا محمد وهو ابن إسحاق حدثني مكحول عن محمود بن الربيع الأنصاري وكان يسكن إيلياء عن عبادة بن الصامت قال صلى بنا رسول الله صلى الله عليه وسلم صلاة الصبح فثقلت عليه القراءة فلما انصرف قال إني لأراكم تقرؤون وراء إمامكم قال قلنا أجل والله يا رسول الله هذا قال فلا تفعلوا إلا بأم الكتاب فإنه لا صلاة لمن لم يقرأ بها. <span class="page-no" title="end of page 36 of vol. 3">§</span> <span class="page-no" title="end of page 157 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BNHXV05P156C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BNHXV05P156C">BNHXV05P156C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BNHX" class="source-link"><span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span></a>, vol. 5 p. 156</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P036D</span> <span class="variant-id">VAR_BQQXV01P056C</span> <span class="variant-id">VAR_TTXXV02P222C</span> أخبرنا محمد بن إسحاق بن خزيمة قال حدثنا الفضل بن يعقوب الجزري قال حدثنا عبد الأعلى قال حدثنا محمد بن إسحاق قال حدثني مكحول عن محمود بن الربيع وكان يسكن إيلياء عن عبادة بن الصامت قال صلى بنا رسول الله <span class="page-no" title="end of page 156 of vol. 5">§</span> صلى الله عليه وسلم صلاة الصبح فثقلت عليه القراءة فلما انصرف قال إني لأراكم تقرؤون وراء إمامكم قال قلنا أجل والله يا رسول الله هذا قال فلا تفعلوا إلا بأم الكتاب فإنه لا صلاة لمن لم يقرأ بها.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQQXV01P056C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQQXV01P056C">BQQXV01P056C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQQX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span></a>, vol. 1 pp. 56-58</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P036D</span> <span class="variant-id">VAR_BNHXV05P156C</span> <span class="variant-id">VAR_TTXXV02P222C</span> وأخبرنا أبو عبد الله الحافظ ثنا أبو الفضل محمد بن إبراهيم المزكي نا إبراهيم بن أبي طالب ثنا المؤمل بن هشام اليشكري ثنا إسماعيل بن علية عن محمد بن إسحاق ح <span class="page-no" title="end of page 56 of vol. 1">§</span> وأخبرنا أبو بكر أحمد بن محمد بن الحارث الفقيه أنا عبد الله بن محمد بن جعفر الأصبهاني نا عبدان نا أبو بكر بن أبي شيبة ثنا ابن نمير نا محمد بن إسحاق ح وأخبرنا محمد بن عبد الله الحافظ أنبأ أبو علي الحسين بن علي الحافظ ثنا أبو يعلى ثنا محمد بن عبد الله بن نمير ثنا أبي ويزيد بن هارون ح قال أبو علي وحدثنا عبد الله بن محمد بن عبد الرحمن الأزدي ثنا إسحاق بن إبراهيم الحنظلي أنبأ عبدة بن سليمان قالوا ثنا محمد بن إسحاق ح وأخبرنا أبو علي الروزباري أنا أبو بكر بن داسة ثنا أبو داود ثنا النفيلي محمد بن سلمة عن محمد بن إسحاق فذكروا هذا الحديث بالإسناد الأول ومعناه وفي الباب عن يزيد بن أبي حبيب وحماد بن سلمة ومحمد بن أبي عدي وعبد الأعلى بن عبد الأعلى وعمر بن حبيب عن محمد بن إسحاق بن يسار وأخبرنا أبو عبد الله الحافظ أنبأ أبو علي الحسين بن علي الحافظ ثنا أبو أيوب سليمان بن الحسن العطار بالبصرة ثنا عبد الله بن سعد بن إبراهيم الزهري نا أبي وعمي ثنا أبي عن ابن إسحاق حدثني مكحول عن محمود عن عبادة بن الصامت قال صلى بنا رسول الله صلى الله عليه وسلم الصبح فثقلت عليه القراءة أقبل علينا بوجهه فقال إني لأراكم تقرأون خلف إمامكم إذا جهر قال قلنا أجل والله يا رسول الله قال فلا تفعلوا إلا بأم القرآن فإنه لا صلاة لمن لم يقرأ بها <span class="page-no" title="end of page 57 of vol. 1">§</span> وأخبرنا أبو بكر بن الحارث الفقيه أنبأ علي بن عمر الحافظ ثنا ابن صاعد ثنا عبيد الله بن سعد ثنا عمي ثنا أبي عن ابن إسحاق قال حدثني مكحول بهذا وهذا إسناد صحيح ذكر فيه سماع محمد بن إسحاق من مكحول وأخرج محمد بن إسماعيل البخاري رحمه الله هذا الحديث في كتاب وجوب القراءة خلف الإمام عن أحمد بن خالد الوهبي عن محمد بن إسحاق. <span class="page-no" title="end of page 58 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TTXXV02P222C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TTXXV02P222C">TTXXV02P222C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TTXX" class="source-link"><span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span></a>, vol. 2 pp. 222-223</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P036D</span> <span class="variant-id">VAR_BNHXV05P156C</span> <span class="variant-id">VAR_BQQXV01P056C</span> فروى الإمام أحمد ثنا يعقوب ثنا أبي عن ابن إسحاق حدثني مكحول عن محمود بن ربيع الأنصاري عن عبادة بن الصامت قال صلى بنا رسول الله صلى الله عليه وسلم الصبح فثقلت عليه القراءة فلما انصرف رسول الله صلى الله عليه وسلم من صلاته أقبل علينا بوجهه فقال إني لأراكم تقرؤون خلف إمامكم إذا جهر قال قلنا أجل والله يارسول الله إنه لهذا فقال رسول الله صلى الله عليه وسلم فلا تفعلوا إلا بأم القرآن فإنه لا صلاة لمن لم يقرأ بها ورواه الإمام أحمد أيضا عن محمد بن سلمة ويزيد عن ابن إسحاق ورواه أبو داود عن عبد الله بن محمد النفيلي عن محمد بن سلمة عن ابن إسحاق ورواه الترمذي عن هناد عن عبدة عن ابن إسحاق وقال <span class="page-no" title="end of page 222 of vol. 2">§</span> حديث حسن ورواه أبو يعلى الموصلي عن جعفر بن مهران السباك عن عبد الأعلى عن ابن إسحاق ورواه الطبراني عن عبيد بن غنام عن أبي بكر بن أبي شيبة عن عبد الله بن نمير عن ابن إسحاق ورواه أبو حاتم البستي عن ابن خزيمة عن الفضل بن يعقوب الجزري عن عبد الأعلى عن ابن إسحاق ورواه الدارقطني بطرق عن ابن إسحاق وقال هذا إسناد حسن. <span class="page-no" title="end of page 223 of vol. 2">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `KHZXV03P036D`:** [^comment-KHZXV03P036D-1]
+
+```{=html}
+<article class="sira-report" id="MZMFV01P083B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZMFV01P083B">MZMFV01P083B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZMF" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>al-Muntaqā min al-fawāʾid al-ḥisān fī al-ḥadīth</span></a>, vol. 1 pp. 83-249</div>
+  </header>
+  <div class="witness-text">
+    وبه ثنا محمد بن يحيى ثنا عبد الأعلى عن ابن إسحاق عن عمه موسى بن يسار عن أبي هريرة رضي الله عنه قال مر رسول الله صلى الله عليه وسلم برجل يسوق بدنة فقال اركبها قال إنها بدنة قال اركبها ويحك. <span class="page-no" title="end of page 83 of vol. 1">§</span> <span class="page-no" title="end of page 249 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-MZMFV01P083B-1]
+
+```{=html}
+<article class="sira-report" id="HYMXV02P248E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYMXV02P248E">HYMXV02P248E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYMX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>al-Maqṣid al-ʿalī fī zawāʾid Abī Yaʿlā al-Mawṣilī</span></a>, vol. 2 p. 248</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبيد الله بن عمر حدثنا يزيد بن زريع عن محمد بن إسحاق حدثني أبان بن صالح عن عكرمة قال دفعت مع الحسين بن علي من المزدلفة فلم أزل أسمعه يقول لبيك اللهم لبيك حتى انتهى إلى الجمرة فقلت له ما هذا إلا الإهلال يا أبا عبد الله قال سمعت أبي علي بن أبي طالب يهل حتى انتهى إلى الجمرة وحدثني أن <span class="page-no" title="end of page 248 of vol. 2">§</span> رسول الله صلى الله عليه وسلم أهل حتى انتهى إليها قال فرجعت إلى ابن عباس فأخبرته بقول حسين فقال صدق حدثنا أبو بكر حدثنا عبد الأعلى عن محمد بن إسحاق حدثني أبان بن صالح فذكر نحوه.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZZBXV15P123B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZZBXV15P123B">ZZBXV15P123B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 15 pp. 123-124</div>
+  </header>
+  <div class="witness-text">
+    وحدثنا الفضل بن يعقوب قال حدثنا عبد الأعلى قال حدثنا محمد بن إسحاق قال حدثنا سعيد بن أبي سعيد عن أبيه عن أبي هريرة قال صلى بنا رسول الله صلى الله عليه وسلم فإذا رجل في آخر الصفوف أو كان في آخر الصفوف فقال يا فلان ألا تتقي الله ألا تنظر كيف تصلي إن أحدكم إذا قام يصلي إنما يقوم يناجي ربه فلينظر كيف يصلي إنكم ترون أني لا أراكم إني والله أراكم من خلف ظهري كما أرى من بين يدي. <span class="page-no" title="end of page 123 of vol. 15">§</span> <span class="page-no" title="end of page 124 of vol. 15">§</span>
+  </div>
+</article>
+```
+
+[^comment-ZZBXV15P123B-1]
+
+```{=html}
+<article class="sira-report" id="ZZBXV15P124A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZZBXV15P124A">ZZBXV15P124A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 15 p. 124</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الفضل بن يعقوب قال حدثنا عبد الأعلى بن عبد الأعلى قال حدثنا محمد بن إسحاق عن سعيد بن أبي سعيد عن أبيه عن أبي هريرة قال أهدى أعرابي إلى رسول الله صلى الله عليه ناقة ثم أتى رسول الله صلى الله عليه وسلم فعوضه رسول الله صلى الله عليه وسلم منها فظل يسخط فقام رسول الله صلى الله عليه وسلم فقال إن قوما يهدون إلي وإن رجلا أهدى إلي ناقة من إبل أعرفها كما أعرف بعض أهلي فذكر كلمة كأنه يخبر عن إثابته فظل يتسخط والله لا أقبل من أحد من العرب بعد مقامي هذا إلا من قرشي أو أنصاري أو ثقفي أو دوسي.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HYZXV01P185D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYZXV01P185D">HYZXV01P185D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYZX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr al-Haythamī</span>, <span class='ref-title'>Mawārid al-ẓamʾān ilā zawāʾid Ibn Ḥibbān</span></a>, vol. 1 p. 185</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا عبد الله بن أحمد بن موسى بعسكر مكرم حدثنا محمد بن عثمان العقيلي حدثنا عبد الأعلى عن ابن إسحاق حدثني محمد بن إبراهيم عن محمود بن لبيد عن جابر بن عبد الله قال سمعت رسول الله صلى الله عليه وسلم يقول من مات له ثلاثة من الولد دخل الجنة قال قلنا يا رسول الله واثنان قال واثنان قال محمود قلت لجابر بن عبد الله إني لأراكم لو قلتم واحد لقال واحدا قال والله أظن ذلك. <span class="page-no" title="end of page 185 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HJRTV04P517A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJRTV04P517A">HJRTV04P517A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span></a>, vol. 4 pp. 517-518</div>
+  </header>
+  <div class="witness-text">
+    إن كنا لنفعله على عهد رسول الله صلى الله عليه وسلم ثم لا نغتسل وفي الحديث قصة طح في الطهارة ثنا ابن أبي داود ثنا محمد بن عبد الله بن نمير ثنا ابن إدريس وعن ابن أبي داود ثنا عياش بن الوليد الرقام ثنا عبد الأعلى كلاهما عن ابن إسحاق عن يزيد بن أبي حبيب عن معمر بن أبي حبيبة عن عبيد بن رفاعة عن أبيه قال إني لجالس عند عمر بن الخطاب إذا جاءه رجل فقال يا أمير المؤمنين هذا زيد بن ثابت يفتي الناس في الغسل من الجنابة برأيه فقال أعجل علي به فجاءه زيد فقال عمر قد بلغ من أمرك أن تفتي الناس في الغسل من الجنابة من رأيك في مسجد رسول الله صلى الله عليه وسلم فقال له زيد أم والله يا أمير المؤمنين ما أفتيت برأيي ولكني سمعت من أعمامي شيئا فقلته فقال له من أي أعمامك <span class="page-no" title="end of page 517 of vol. 4">§</span> فقال من أبي بن كعب وأبي أيوب ورفاعة بن رافع فالتفت إلي عمر فقال ما يقول هذا الفتى قال قلت فذكره وذكر القصة. <span class="page-no" title="end of page 518 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV02P178A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV02P178A">STBXV02P178A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 2 p. 178</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن عبد العزيز ثنا أبو معمر المقعد ثنا عبد الوارث بن سعيد عن محمد بن إسحاق ح وحدثنا أبو شعيب الحراني ثنا أبو جعفر النفيلي ثنا محمد بن سلمة عن محمد بن إسحاق حدثني يعقوب بن عتبة عن مسلم بن عبد الله الجهني عن جندب بن عبد الله الجهني ح وحدثنا عبد الله بن أحمد بن حنبل ثنا جعفر بن مهران السباك ثنا عبد الأعلى السامي حدثنا محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله عن جندب بن عبد الله الجهني قال بعث رسول الله صلى الله عليه وسلم غالب بن عبد الله الكلبي كلب عوف بن ليث في سرية كنت فيهم فأمره أن يشن الغارة على بني الملوح بالكديد قال فخرجنا حتى إذا كنا بقديد لقينا الحارث بن برصاء الليثي فأخذناه قال إنما جئت لأسلم إنما خرجت أريد رسول الله صلى الله عليه وسلم قال قلنا إن تكن مسلما فلن يضرك رباط ليلة وإن تكن غير ذلك فسنوثق منك فأوثقناه رباطا ثم خلفنا عليه رويجلا لنا أسود كان معنا فقلنا له إن نازعك فاحتز رأسه ثم أتينا الكديد مع مغرب الشمس وكنا في ناحية من الوادي وبعثني أصحابي ربيئة لهم إلى تل مشرف على الحاضر قال فأسندت فيه حتى إذا كنت على ظهره ونظرت إلى القوم انبطحت فوالله إني لعليه أنظر إذ خرج رجل من خبائه فقال لامرأته والله إني لأرى سوادا ما رأيته في أول النهار فانظري في أوعيتك لا يكون الكلاب اجترت بعضها فنظرت قالت فوالله ما أفقد من أوعيتي شيئا قال أعطيني قوسي فأعطته قوسا وسهمين معها قال فرمى بسهم فوالله ما أخطأ جنبي قال فانتزعته وثبت قال ثم رمى بالآخر فوضعه في منكبي فانتزعته وثبت فقال لامرأته لو كانت زائلة لقد تحرك بعد لقد خالطه سهماي فإذا أنت أصبحت فابتغيهما فخذيهما لا تضيعهما الكلاب قال ثم دخل حتى إذا راحت رائحة الناس من إبلهم وغنمهم قد احتلبوا وغبطوا واطمأنوا شننا عليهم الغارة فقتلنا واستقنا الغنم ثم وجهناها وخرج صريخ القوم في قومهم فجاءهم الدهم فجاءوا في طلبنا حتى مررنا بابن البرصاء فانطلقنا به معنا وبصاحبنا الذي خلفناه قال فأدركنا القوم حتى نظرنا إليهم ما بيننا وبينهم إلا الوادي على ناحيته موجهين ومن ناحية الأخرى في طلبنا إذ جاء الله به من حيث شاء ما رأينا قبل ذلك مطرا ما يقدر أحد على أن يجيزه لقد رأيتهم وقوفا ينظرون إلينا ونحن نحدوها ما يقدر رجل منهم أن يصل إلينا حتى إذا عرجناها ما أنسى قول راجز من المسلمين وهو يحدوها في أعقابها البحر الرجز <span class='poetry-line'><span class='hemistich1'>أبى أبو القاسم أن تعزبي</span> <span class='hemistich2'>في خطل نباته مغلولب</span></span> صفر أعاليه كلون المذهب. <span class="page-no" title="end of page 178 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KTHRV01P087C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTHRV01P087C">KTHRV01P087C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHR" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span></a>, vol. 1 pp. 87-88</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الله قال حدثني أبي قال حدثنا يحيى بن آدم حدثنا <span class="page-no" title="end of page 87 of vol. 1">§</span> زهير وابن إدريس عن محمد بن إسحاق عن يزيد بن أبي حبيب عن معمر بن أبي حبيبة عن عبيد بن رفاعة بن رافع عن أبيه قال زهير في حديثه رفاعة ابن رافع وكان عقبيا بدريا قال كنت عند عمر فقيل له إن زيد بن ثابت يفتي الناس في المسجد قال زهير في حديثه الناس برأيه في الذي يجامع ولا ينزل فقال له عجل به فأتى به فقال ياعدو نفسه أو قد بلغت أن تفتي في مسجد رسول الله صلى الله عليه وسلم برأيك قال ما فعلت ولكن حدثني عمومتي عن رسول الله صلى الله عليه وسلم قال أي عمومتك قال أبي بن كعب قال زهير وأبو أيوب ورفاعة بن رافع فالتفت إلى عمر فقال مايقول هذا الفتى قال زهير في حديثه ماذا يقول هذا الغلام فقلت كنا نفعله في عهد رسول الله صلى الله عليه وسلم قال فسألتم عنه رسول الله صلى الله عليه وسلم قال كنا نفعله على عهده فلم نغتسل قال فجمع الناس واتفق الناس على أن الماء لا يكون إلا من الماء إلا رجلين علي بن أبي طالب ومعاذ بن جبل قالا إذا جاوز الختان الختان فقد وجب الغسل قال فقال علي يا أمير المؤمنين إن أعلم الناس بهذا أزواج رسول الله صلى الله عليه وسلم فأرسل إلى حفصة فقالت لا علم لي فأرسل إلى عائشة فقالت إذا جاوز الختان الختان وجب الغسل قال فتحطم عمر يعني تغيظ ثم قال لا يبلغني أن أحدا فعله ولا يغتسل إلا أنهكته عقوبة <span class="page-no" title="end of page 88 of vol. 1">§</span> حدثنا عبد الله حدثني أبو بكر بن أبي شيبة حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن يزيد بن أبي حبيب عن معمر بن أبي حبيبة عن عبيد بن رفاعة بن رافع عن أبيه فذكر نحوه ومعناه تفرد به <span class="page-no" title="end of page 88 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MNMQV01P160B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MNMQV01P160B">MNMQV01P160B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MNMQ" class="source-link"><span class='ref-author'>Muḥammad b. Naṣr b. al-Ḥajjāj al-Marwazī</span>, <span class='ref-title'>Mukhtaṣar qayām al-layl wa-qiyām Ramaḍān wa-Kitāb al-witr</span></a>, vol. 1 pp. 160-171</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يحيى بن خلف ثنا عبد الأعلى حدثنا محمد بن إسحاق عن يزيد بن أبي حبيب عن مرثد بن عبد الله اليزني عن عقبة بن عامر الجهني رضي الله عنه قال سمعت رسول الله صلى الله عليه وسلم يقول اقرءوا بهاتين الآيتين من سورة البقرة فإني أعطيتهما من تحت العرش وفي رواية اقرءوا بالآيتين من خاتمة البقرة فإن الله أعطانيهما من تحت العرش قال وعن علي بن أبي طالب رضي الله عنه ما كنت أرى أحدا يعقل ينام حتى يقرأ الثلاث آيات من آخر البقرة فإنهن لمن كنز من تحت العرش قال وعن ابن مسعود رضي الله عنه لما أسري برسول الله صلى الله عليه وسلم انتهى به إلى سدرة المنتهى فذكره وقال فأعطي ثلاثا أعطي الصلوات الخمس وأعطي خواتيم سورة البقرة وغفران من لا يشرك بالله شيئا من أمته المقحمات. <span class="page-no" title="end of page 160 of vol. 1">§</span> <span class="page-no" title="end of page 171 of vol. 11">§</span>
+  </div>
+</article>
+```
+
+[^comment-MNMQV01P160B-1]
+
+```{=html}
+<article class="sira-report" id="STBXV11P171B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV11P171B">STBXV11P171B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 11 p. 171</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الحسن بن علي المعمري حدثني أحمد بن أيوب بن راشد ثنا عبد الأعلى حدثني محمد بن إسحاق عن ابن أبي نجيح عن عطاء عن ابن عباس <a href="https://quran.com/8/67" class="quran" title="Qurʾān 8.67" target="_blank">ما كان لنبي أن يكون له أسرى</a> فقرأ حتى إذا بلغ <a href="https://quran.com/8/68" class="quran" title="Qurʾān 8.68" target="_blank">عذاب عظيم</a> يعني غنائم بدر قبل أن يحلها لهم يقول لولا أني لا أعذب من عصاني حتى أتقدم إليه <a href="https://quran.com/8/68" class="quran" title="Qurʾān 8.68" target="_blank">لمسكم فيما أخذتم عذاب عظيم</a>.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV11P171C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV11P171C">STBXV11P171C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 11 p. 171</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الحسن بن علي المعمري ثنا أحمد بن أيوب بن راشد ثنا عبد الأعلى حدثني محمد بن إسحاق عن ابن أبي نجيح عن عطاء عن ابن عباس <a href="https://quran.com/8/70" class="quran" title="Qurʾān 8.70" target="_blank">قل لمن في أيديكم من الأسرى</a> حتى بلغ <a href="https://quran.com/8/70" class="quran" title="Qurʾān 8.70" target="_blank">أخذ منكم</a> قال كان العباس يقول في والله أنزلت حين أخبرت رسول الله صلى الله عليه وسلم عن إسلامي وسألته أن يحاسبني بالعشرين أوقية التي وجد معي فأبى أن يحاسبني بها فأعطاني الله بالعشرين أوقية عشرين عبدا كلهم تاجر بمالي في يده مع ما أرجو من مغفرة الله. <span class="page-no" title="end of page 171 of vol. 11">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV11P171A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV11P171A">STBXV11P171A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 11 p. 171</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الحسن بن علي المعمري ثنا أحمد بن أيوب بن راشد ثنا عبد الأعلى حدثني محمد بن إسحاق عن ابن أبي نجيح عن عطاء عن ابن عباس قال افترض الله عليهم أن يقاتل الواحد العشرة فشق ذلك عليهم فوضع ذلك عنهم فرد إلى أن يقاتلوا العدو إذا كانوا ضعفين. <span class="page-no" title="end of page 171 of vol. 11">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RJXXV11P220B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RJXXV11P220B">RJXXV11P220B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RJXX" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd al-Wāḥid al-Maqdisī</span>, <span class='ref-title'>al-Aḥādīth al-mukhtārah</span></a>, vol. 11 p. 220</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو جعفر محمد بن أحمد وفاطمة بنت سعد الخير أن فاطمة بنت عبد الله أخبرتهم أبنا محمد بن عبد الله أبنا سليمان بن أحمد الطبراني ثنا الحسن بن علي المعمري ثنا أحمد بن أيوب بن راشد ثنا عبد الأعلى حدثني محمد بن إسحاق عن ابن أبي نجيح عن عطاء عن ابن عباس قال افترض الله عليهم أن يقاتل الواحد العشرة فثقل ذلك عليهم فوضع ذلك عنهم فرد إلى أن يقاتلوا العدو إذا كانوا ضعفين. <span class="page-no" title="end of page 220 of vol. 11">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `BRKXV07P534C`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="BRKXV07P534C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BRKXV07P534C">BRKXV07P534C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BRKX" class="source-link"><span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Istidhkār</span></a>, vol. 7 pp. 534-359</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_NHXXV03P359C</span> <span class="variant-id">VAR_KTHQV03P109C</span> <span class="variant-id">VAR_AAIBV04P236C</span> <span class="variant-id">VAR_YNBHV07P007B</span> قال أبو بكر قال وحدثني عبد الأعلى عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عن جده قال قال رسول الله صلى الله عليه وسلم لا تقطع يد السارق في دون ثمن المجن قال وكان ثمن المجن عشرة دراهم. <span class="page-no" title="end of page 534 of vol. 7">§</span> <span class="page-no" title="end of page 359 of vol. 3">§</span> # @COMMENT Passage not located in HSNX. Deals with punishments for stealing. Similar passages are also found in WABAB, WMSAH, and WAKMW, which places the value at ten dirhāms (also see YNQXV23P279C witnessed by WSACD). WSACD places the value at ten dīnār.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NHXXV03P359C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NHXXV03P359C">NHXXV03P359C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NHXX" class="source-link"><span class='ref-author'>ʿAbd Allāh b. Yūsuf b. Muḥammad al-Zaylaʿī</span>, <span class='ref-title'>Nasb al-rāyah li-aḥādīth al-hidāyah</span></a>, vol. 3 p. 359</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BRKXV07P534C</span> <span class="variant-id">VAR_KTHQV03P109C</span> <span class="variant-id">VAR_AAIBV04P236C</span> <span class="variant-id">VAR_YNBHV07P007B</span> رواه النسائي أيضا أخبرنا خلاد بن أسلم عن عبد الله بن إدريس عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عنورواه ابن أبي شيبة في مصنفه حدثنا عبد الأعلى عن محمد بن إسحاق به قال قال رسول الله صلى الله عليه وسلم لا تقطع يد السارق في دون ثمن المجن قال عبد الله وكان ثمن المجن عشرة دراهم انتهى.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHQV03P109C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHQV03P109C">KTHQV03P109C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHQ" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Tafsīr al-Qurʾān al-ʿAẓīm</span></a>, vol. 3 p. 109</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BRKXV07P534C</span> <span class="variant-id">VAR_NHXXV03P359C</span> <span class="variant-id">VAR_AAIBV04P236C</span> <span class="variant-id">VAR_YNBHV07P007B</span> حدثنا عبد الأعلى عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عن جده قال قال رسول الله صلى الله عليه وسلم لا تقطع يد السارق في دون ثمن المجن وكان ثمن المجن عشرة دراهم. <span class="page-no" title="end of page 109 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="AAIBV04P236C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#AAIBV04P236C">AAIBV04P236C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAIB" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Itḥāf al-khiyrah al-maharah bi-Zawāʾid al-masānid al-ʿashrah</span></a>, vol. 4 p. 236</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BRKXV07P534C</span> <span class="variant-id">VAR_NHXXV03P359C</span> <span class="variant-id">VAR_KTHQV03P109C</span> <span class="variant-id">VAR_YNBHV07P007B</span> قال أبو بكر بن أبي شيبة ثنا عبد الأعلى عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عن جده قال قال رسول الله صلى الله عليه وسلم لا تقطع يد السارق في دون ثمن المجن. <span class="page-no" title="end of page 236 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="YNBHV07P007B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#YNBHV07P007B">YNBHV07P007B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-YNBH" class="source-link"><span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span></a>, vol. 7 p. 7</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BRKXV07P534C</span> <span class="variant-id">VAR_NHXXV03P359C</span> <span class="variant-id">VAR_KTHQV03P109C</span> <span class="variant-id">VAR_AAIBV04P236C</span> ورواه ابن أبي شيبة في مصنفه حدثنا عبد الأعلى رحمه الله عن محمد بن إسحاق رحمه الله قال قال رسول الله صلى الله عليه وسلم لا تقطع يد السارق في دون ثمن المجن قال عبد الله كان ثمن المجن عشرة دراهم. <span class="page-no" title="end of page 7 of vol. 7">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="IHMAV05P134E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#IHMAV05P134E">IHMAV05P134E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMA" class="source-link"><span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span></a>, vol. 5 p. 134</div>
+  </header>
+  <div class="witness-text">
+    وعن ابن أبي شيبة نا عبد الأعلى عن محمد بن إسحاق سمعت عكرمة يقول أهل رسول الله صلى الله عليه وسلم حتى رمى الجمرة وأبو بكر وعمر. <span class="page-no" title="end of page 134 of vol. 5">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `SMJXV01P274A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="SMJXV01P274A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SMJXV01P274A">SMJXV01P274A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 1 pp. 274-1418</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MGHSV01P1418B</span> حدثنا الفضل بن يعقوب الجزري قال حدثنا عبد الأعلى عن محمد بن إسحاق عن يحيى بن عباد بن عبد الله بن الزبير عن أبيه عن عائشة قالت سمعت رسول الله صلى الله عليه وسلم يقول كل صلاة لا يقرأ فيها بأم الكتاب فهي خداج. <span class="page-no" title="end of page 274 of vol. 1">§</span> <span class="page-no" title="end of page 1418 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MGHSV01P1418B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MGHSV01P1418B">MGHSV01P1418B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MGHS" class="source-link"><span class='ref-author'>Mughalṭāy b. Qalīj</span>, <span class='ref-title'>Sharḥ sunan Ibn Mājah</span></a>, vol. 1 p. 1418</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P274A</span> حدثنا الفضل بن يعقوب الجزري ثنا عبد الأعلى عن محمد بن إسحاق عن يحيى بن عباد بن عبد الله بن الزبير عن أبيه عن عائشة قالت سمعت رسول الله صلى الله عليه وآله وسلم يقول كل صلاة لا يقرأ فيها بأم الكتاب فهي خداج.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `SMJXV01P274A`:** [^comment-SMJXV01P274A-1]
+
+```{=html}
+<article class="sira-report" id="MYWXV08P061A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MYWXV08P061A">MYWXV08P061A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 8 pp. 61-24</div>
+  </header>
+  <div class="witness-text">
+    حدثنا جعفر بن مهران حدثنا عبد الأعلى حدثنا محمد بن إسحاق حدثني يعقوب بن عتبة عن الزهري عن عروة عن عائشة قالت رجع رسول الله صلى الله عليه وسلم فاضطجع في حجرتي في ذلك اليوم حين دخل من المسجد فدخل علي رجل من آل أبي بكر وفي يده سواك أخضر قالت فنظر إليه رسول الله صلى الله عليه وسلم وهو في يده نظرا عرفت أنه يريده قلت يا رسول الله أتحب أن أعطيك هذا السواك قال نعم فأخذته فمضغته له حتى لينته ثم أعطيته إياه <span class="page-no" title="end of page 61 of vol. 8">§</span> قالت فاستن به كأحسن ما رأيته يستن بسواك قبله قالت ثم وضعه فوجدت رسول الله صلى الله عليه وسلم يثقل في حجري قالت فذهبت أنظر في وجهه فإذا بصره قد شخص وهو يقول بل الرفيق الأعلى من الجنة قالت فقلت: خيرت فاخترت والذي بعثك بالحق قالت وقبض رسول الله صلى الله عليه وسلم. <span class="page-no" title="end of page 62 of vol. 8">§</span> <span class="page-no" title="end of page 24 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-MYWXV08P061A-1]
+
+```{=html}
+<article class="sira-report" id="KTMXV01P024A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV01P024A">KTMXV01P024A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 1 p. 24</div>
+  </header>
+  <div class="witness-text">
+    حدثنا إسحاق بن إدريس قال حدثنا عبد الأعلى بن عبد الأعلى قال حدثنا محمد بن إسحاق قال حدثني عبد الله بن محمد بن عامر بن سعد عن أبيه قال سمعت النبي صلى الله عليه وسلم يقول إذا تنخم أحدكم في المسجد فليغيب نخامته أن تصيب جلد مؤمن أو ثوبه فيؤذيه حدثنا ابن أبي شيبة قال حدثنا عبد الله بن عامر عن محمد بن إسحاق عن عبد الله بن محمد بإسناده مثله.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBMV07P431A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV07P431A">SHBMV07P431A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 7 pp. 431-174</div>
+  </header>
+  <div class="witness-text">
+    عبد الأعلى عن ابن إسحاق عن عبد الملك بن أبي بكر عن الزهري عن عبيد الله بن عبد الله بن عتبة عن ابن عباس قال كنت أختلف إلى عبد الرحمن بن عوف ونحن بمنى مع عمر بن الخطاب أعلم عبد الرحمن بن عوف القرآن فأتيته في المنزل فلم أجده فقيل هو عند أمير المؤمنين فانتظرته حتى جاء فقال لي قد غضب هذا اليوم غضبا ما رأيته غضب مثله منذ كان قال قلت لم ذاك قال بلغه أن رجلين من الأنصار ذكرا بيعة أبي بكر فقالا والله ما كانت إلا فلتة فما يمنع امرأ إن هلك هذا أن يقوم إلى من يحب فيضرب على يده فتكون كما كانت قال فهم عمر أن يكلم الناس قال فقلت لا تفعل يا أمير المؤمنين فإنك ببلد قد اجتمعت إليه أفناء العرب كلها وإنك إن قلت مقالة حملت عنك وانتشرت في الأرض كلها فلم تدر ما يكون في ذلك وإنما يعينك من قد عرفت أنه سيصير إلى المدينة فلما قدمنا المدينة رحت مهجرا حتى أخذت عضادة المنبر اليمنى وراح إلي سعيد بن زيد بن عمرو بن نفيل حتى جلس معي فقلت ليقولن هذا اليوم مقالة ما قالها منذ استخلف قال وما عسى أن يقول قلت ستسمع ذلك قال فلما اجتمع الناس خرج عمر حتى جلس على المنبر ثم حمد الله وأثنى عليه ثم ذكر رسول الله صلى الله عليه وسلم فصلى عليه ثم قال إن الله أبقى رسوله بين أظهرنا ينزل عليه الوحي من الله يحل به ويحرم ثم قبض الله رسوله فرفع منه ما شاء أن يرفع وأبقى منه ما شاء أن يبقي فتشبثنا ببعض وفاتنا بعض فكان مما كنا نقرأ من القرآن لا ترغبوا عن آبائكم فإنه كفر بكم أن ترغبوا عن آبائكم ونزلت آية الرجم فرجم النبي صلى الله عليه وسلم ورجمنا معه والذي نفس محمد بيده لقد حفظتها وعلمتها وعقلتها لولا أن يقال كتب عمر في المصحف ما ليس فيه لكتبتها بيدي كتابا والرجم على ثلاثة منازل حمل بين أو اعتراف من صاحبه أو شهود عدل كما أمر الله وقد بلغني أن رجالا يقولون في خلافة أبي بكر إنها كانت فلتة ولعمري إن كانت كذلك ولكن الله أعطى خيرها ووقى شرها ; وإياكم هذا الذي تنقطع إليه الأعناق كانقطاعها إلى أبي بكر إنه كان من شأن الناس أن رسول الله صلى الله عليه وسلم توفي فأتينا فقيل لنا إن الأنصار قد اجتمعت في سقيفة بني ساعدة مع سعد بن عبادة يبايعونه فقمت وقام أبو بكر وأبو عبيدة بن الجراح نحوهم فزعين أن يحدثوا في الإسلام فتقا فلقينا رجلان من الأنصار رجل صدق عويم بن ساعدة ومعن بن عدي فقالا أين تريدون فقلنا قومكم لما بلغنا من أمرهم فقالا ارجعوا فإنكم لن تخالفوا ولن يؤت شيء تكرهونه فأبينا إلا أن نمضي وأنا أزور كلاما أريد أن أتكلم به حتى انتهينا إلى القوم <span class="page-no" title="end of page 431 of vol. 7">§</span> وإذا هم عكوف هنالك على سعد بن عبادة وهو على سرير له مريض فلما غشيناهم تكلموا فقالوا يا معشر قريش منا أمير ومنكم أمير فقام الحباب بن المنذر فقال أنا جذيلها المحكك وعذيقها المرجب إن شئتم والله رددناها جذعة فقال أبو بكر على رسلكم فذهبت لأتكلم فقال أنصت يا عمر فحمد الله وأثنى عليه ثم قال يا معشر الأنصار إنا والله ما ننكر فضلكم ولا بلاءكم في الإسلام ولا حقكم الواجب علينا ولكنكم قد عرفتم أن هذا الحي من قريش بمنزلة من العرب ليس بها غيرهم وأن العرب لن تجتمع إلا على رجل منهم فنحن الأمراء وأنتم الوزراء فاتقوا الله ولا تصدعوا الإسلام ولا تكونوا أول من أحدث في الإسلام ألا وقد رضيت لكم أحد هذين الرجلين لي ولأبي عبيدة بن الجراح فأيهما بايعتم فهو لكم ثقة قال فوالله ما بقي شيء كنت أحب أن أقوله إلا وقد قاله يومئذ غير هذه الكلمة فوالله لأن أقتل ثم أحيا ثم أقتل ثم أحيا في غير معصية أحب إلي من أن أكون أميرا على قوم فيهم أبو بكر قال ثم قلت يا معشر الأنصار يا معشر المسلمين إن أولى الناس بأمر رسول الله صلى الله عليه وسلم من بعده ثاني اثنين إذ هما في الغار أبو بكر السباق المبين ثم أخذت بيده وبادرني رجل من الأنصار فضرب على يده قبل أن أضرب على يده ثم ضربت على يده وتتابع الناس وميل على سعد بن عبادة فقال الناس قتل سعد فقلت اقتلوه قتله الله ثم انصرفنا وقد جمع الله أمر المسلمين بأبي بكر فكانت لعمر الله كما قلتم أعطى الله خيرها ووقى شرها فمن دعا إلى مثلها فهو للذي لا بيعة له ولا لمن بايعه. <span class="page-no" title="end of page 432 of vol. 7">§</span> <span class="page-no" title="end of page 174 of vol. 5">§</span>
+  </div>
+</article>
+```
+
+[^comment-SHBMV07P431A-1]
+
+```{=html}
+<article class="sira-report" id="THSHV05P172A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THSHV05P172A">THSHV05P172A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 5 pp. 172-173</div>
+  </header>
+  <div class="witness-text">
+    وما قد حدثنا ابن أبي داود قال حدثنا عياش بن الوليد الرقام قال حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي سعيد الخدري قال أقمت جارية لي بسوق بني قينقاع فمر بي يهودي فقال ما هذه الجارية فقلت جارية لي قال أكنت تصيبها قلت نعم قال فلعل في بطنها منك سخلة قال قلت إني كنت أعزلها قال تلك الموءودة الصغرى فأتيت النبي صلى الله عليه وسلم فقال كذبت يهود كذبت يهود <span class="page-no" title="end of page 172 of vol. 5">§</span> فكان جوابنا له في ذلك بتوفيق الله عز وجل وعونه أنه قد يجوز أن يكون رسول الله صلى الله عليه وسلم قال ما ذكرنا عنه في الفصل الأول من هذا الباب لما كان عليه من اتباع اليهود على شريعتهم ما لم يحدث الله في شريعته ما ينسخ ذلك إذ كانوا أهل كتاب مقتدين بالذي جاءهم بكتابهم وإذ كان الله عز وجل أنزل عليه فيما أنزل <a href="https://quran.com/6/90" class="quran" title="Qurʾān 6.90" target="_blank">أولئك الذين هدى الله</a> يعني من تقدم من أنبيائه <a href="https://quran.com/6/90" class="quran" title="Qurʾān 6.90" target="_blank">فبهداهم اقتده</a> إنما كان يصل إلى ذلك مما كان يجده في التوراة وفيما سواها من كتب الله عز وجل التي كان أنزل على أنبيائه قبله صلوات الله عليه وعليهم فجاز أن يكون لما كشفهم عن ذلك كيف هو في كتابهم ذكروا له أنه الموءودة الصغرى وكذبوه فقال ما قال مما ترويه عنه جدامة ثم أعلمه الله عز وجل بكذبهم وأن الأمر في الحقيقة بخلاف ذلك كما لما سألهم عن حد الزنى في كتابهم ذكروا له أنه الجلد والفضيحة وأنه لا رجم فيه وأتوه بالتوراة فوضع أحدهم يده على آية الرجم حتى أعلمه عبد الله بن سلام أنهم قد كذبوه وأمر ذلك اليهودي رفع يده عن آية الرجم فرفعها فقامت عليهم الحجة بأن الرجم في كتابهم فرجم رسول الله صلى الله عليه وسلم عند ذلك من زنى منهم ممن أتوه به محكمين له فيه فمثل ذلك ما كان منهم في العزل لما بين الله عز وجل لرسول الله صلى الله عليه وسلم <span class="page-no" title="end of page 173 of vol. 5">§</span> كذبهم في ذلك بين لأمته صلى الله عليه وسلم كذبهم فيه وأنزل عليه في كتابه ما أوضح له ما يستعمل الوأد فيه وهو قوله عز وجل <a href="https://quran.com/23/12" class="quran" title="Qurʾān 23.12" target="_blank">ولقد خلقنا الإنسان من سلالة من طين</a> إلى قوله <a href="https://quran.com/23/14" class="quran" title="Qurʾān 23.14" target="_blank">ثم أنشأناه خلقا آخر فتبارك الله أحسن الخالقين</a> فأعلمه الله تعالى بذلك الوقت الذي يكون المخلوق من النطفة فيه الحياة فيجوز أن يوأد حينئذ فيكون ميتا وأما قبل ذلك فليس بحي وإنما هي كسائر الأشياء التي لا حياة فيها فمحال أن يكون ما كان ذلك موءودا وقد كان من علي بن أبي طالب رضي الله عنه خطاب لعمر بن الخطاب رضي الله عنه في هذا المعنى ما قد ذكرنا.
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `SMJXV01P625A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="SMJXV01P625A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SMJXV01P625A">SMJXV01P625A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 1 pp. 625-257</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> حدثنا أبو سلمة يحيى بن خلف قال حدثنا عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة وعن عبد الرحمن بن القاسم عن أبيه عن عائشة قالت لقد نزلت آية الرجم ورضاعة الكبير عشرا ولقد كان في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم وتشاغلنا بموته دخل داجن فأكلها. <span class="page-no" title="end of page 625 of vol. 1">§</span> <span class="page-no" title="end of page 257 of vol. 18">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="ZZBXV18P257A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ZZBXV18P257A">ZZBXV18P257A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 18 p. 257</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> وعن محمد بن إسحاق عن عبد الرحمن بن القاسم عن أبيه عن عائشة رضي الله عنها قالت لقد نزلت آية الرجم والرضاعة فكانتا في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم تشاغلنا لموته فدخل داجن فأكلها.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MYWXV08P063A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MYWXV08P063A">MYWXV08P063A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 8 pp. 63-64</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> حدثنا جعفر حدثنا عبد الأعلى حدثنا محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة <span class="page-no" title="end of page 63 of vol. 8">§</span> وعن عبد الرحمن بن القاسم عن أبيه قال قالت عائشة لما نزلت آية الرجم ورضاعة الكبير عشرا فلقد كانت في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم تشاغلنا بموته فدخل داجن فأكلها. <span class="page-no" title="end of page 64 of vol. 8">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STJXV08P012A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STJXV08P012A">STJXV08P012A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 8 p. 12</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> حدثنا محمود بن محمد ثنا أبو سلمة يحيى بن خلف ثنا عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة وعن عبد الرحمن بن القاسم عن أبيه عن عائشة قالت نزلت آية الرجم ورضاع الكبير عشرا فلقد كان في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم تشاغلنا بموته فدخل داجن فأكلها. <span class="page-no" title="end of page 12 of vol. 8">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DRQSV05P316A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DRQSV05P316A">DRQSV05P316A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQS" class="source-link"><span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span></a>, vol. 5 p. 316</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> نا أبو حامد محمد بن هارون نا محمد بن يحيى القطعي نا عبد الأعلى بن عبد الأعلى نا محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة وعن عبد الرحمن بن القاسم عن أبيه عن عائشة قالت لقد أنزلت آية الرجم ورضاعة الكبير عشرا فلقد كانت في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم اشتغلنا بموته فدخل الداجن فأكلها. <span class="page-no" title="end of page 316 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="IHMAV12P176D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IHMAV12P176D">IHMAV12P176D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMA" class="source-link"><span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span></a>, vol. 12 pp. 176-177</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> قال علي وقد توهم قوم أن سقوط آية الرجم إنما كان لغير هذا ظنوا أنها تلفت بغير نسخ واحتجوا بما ناه أحمد بن محمد بن عبد الله الطلمنكي نا ابن مفرج نا محمد بن أيوب الصموت <span class="page-no" title="end of page 176 of vol. 12">§</span> نا أحمد بن عمر بن عبد الخالق البزار نا يحيى بن خلف نا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر بن محمد بن عمرو بن حزم و عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق قال عبد الله عن عمرة بنت عبد الرحمن وقال عبد الرحمن عن أبيه ثم اتفق القاسم بن محمد وعمرة كلاهما عن عائشة أم المؤمنين قالت لقد نزلت آية الرجم والرضاعة فكانتا في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم تشاغلنا بموته فدخل داجن فأكلها. <span class="page-no" title="end of page 177 of vol. 12">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQMXV11P261A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQMXV11P261A">BQMXV11P261A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQMX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Maʿrifat al-sunan waʾl-āthār</span></a>, vol. 11 p. 261</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> أخبرنا أبو بكر بن الحارث الفقيه أخبرنا علي بن عمر الحافظ حدثنا أبو حامد محمد بن هارون حدثنا يحيى بن يحيى القطعي حدثنا عبد الأعلى بن عبد الأعلى حدثنا محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة وعن عبد الرحمن بن القاسم عن أبيه عن عائشة قالت لقد نزلت آية الرجم ورضاعة الكبير عشرا ولقد كان في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم اشتغلنا بموته فدخل الداجن فأكلها. <span class="page-no" title="end of page 261 of vol. 11">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="JRQXV02P184A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#JRQXV02P184A">JRQXV02P184A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JRQX" class="source-link"><span class='ref-author'>al-Ḥusayn b. Ibrāhīm b. al-Ḥusayn al-Hamdhānī al-Jūraqānī</span>, <span class='ref-title'>Al-Abātīl waʾl-manākīr waʾl-ṣiḥāḥ waʾl-mashāhīr</span></a>, vol. 2 p. 184</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> <span class="variant-id">VAR_HJRTV17P480A</span> أخبرنا حمد بن نصر أخبرنا أبو طالب بن الصباح أخبرنا بن لال قال حدثنا أبو الحسن علي بن إبراهيم بن سلمة القطان قال حدثنا محمد بن يزيد بن ماجه قال حدثنا أبو سلمة يحيى بن خلف قال حدثنا عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة وعن محمد بن إسحاق عن عبد الرحمن بن القاسم عن أبيه عن عائشة قالت لقد نزلت آية الرجم ورضاعة الكبير عشرا ولقد كانت صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم وتشاغلنا بموته فدخل داجن فأكلها. <span class="page-no" title="end of page 184 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJRTV17P480A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJRTV17P480A">HJRTV17P480A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span></a>, vol. 17 pp. 480-481</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV01P625A</span> <span class="variant-id">VAR_ZZBXV18P257A</span> <span class="variant-id">VAR_MYWXV08P063A</span> <span class="variant-id">VAR_STJXV08P012A</span> <span class="variant-id">VAR_DRQSV05P316A</span> <span class="variant-id">VAR_IHMAV12P176D</span> <span class="variant-id">VAR_BQMXV11P261A</span> <span class="variant-id">VAR_JRQXV02P184A</span> حديث قط لقد أنزلت آية الرجم ورضاعة الكبير عشرا قلت وكانت في صحيفة تحت سريري فلما مات رسول الله صلى الله عليه وسلم اشتغلنا بموته فدخل الداجن فأكلها <span class="page-no" title="end of page 480 of vol. 17">§</span> قط في الرضاع ثنا أبو حامد محمد بن هارون الحضرمي ثنا محمد بن يحيى القطعي ثنا عبد الأعلى بن عبد الأعلى ثنا محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة. <span class="page-no" title="end of page 481 of vol. 17">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `SMJXV01P625A`:** [^comment-SMJXV01P625A-1]
+
+
+**Comment on passage `ZZBXV18P257A`:** [^comment-ZZBXV18P257A-1]
+
+```{=html}
+<article class="sira-report" id="SHBMV03P161B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV03P161B">SHBMV03P161B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 3 pp. 161-610</div>
+  </header>
+  <div class="witness-text">
+    أبو بكر قال ثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق قال رأيت القاسم بن محمد بمنى معتمرا متغمطا وكان لا يفيض حتى ينفر في آخر أيام التشريق. <span class="page-no" title="end of page 161 of vol. 3">§</span> <span class="page-no" title="end of page 610 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SHBMV03P161B-1]
+
+```{=html}
+<article class="sira-report" id="HYZXV01P610E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYZXV01P610E">HYZXV01P610E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYZX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr al-Haythamī</span>, <span class='ref-title'>Mawārid al-ẓamʾān ilā zawāʾid Ibn Ḥibbān</span></a>, vol. 1 p. 610</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا عبد الله بن أحمد بن موسى بعسكر مكرم حدثنا محمد بن عثمان العقيلي حدثنا عبد الأعلى عن محمد بن إسحاق عن محمد بن إبراهيم التيمي عن أبي سلمة عن أبي هريرة قال سمعت رسول الله صلى الله عليه وسلم يقول ألا أنبئكم بخياركم قالوا بلى يا رسول الله قال خياركم أطولكم أعمارا وأحسنكم أعمالا.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZZBXV18P256B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZZBXV18P256B">ZZBXV18P256B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 18 p. 256</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يحيى بن ورد بن عبد الله قال حدثنا أبي قال حدثنا عدي بن الفضل عن يحيى بن سعيد عن عمرة بنت عبد الرحمن عن عائشة رضي الله عنها أن رجالا شكوا النساء إلى رسول الله صلى الله عليه وسلم فأذن لهم في ضربهن فطاف تلك الليلة منهن نساء كثير فقالت ما لقي نساء المسلمين فقال رسول الله صلى الله عليه وسلم اضربوهن ولن يضرب أحسبه قال خياركم وهذا الحديث لا نعلمه يروى عن عائشة رضي الله عنها إلا من هذا الوجه بهذا الإسناد حدثنا يحيى بن خلف قال حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة رضي الله عنها <span class="page-no" title="end of page 256 of vol. 18">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HKMXV01P079A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HKMXV01P079A">HKMXV01P079A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HKMX" class="source-link"><span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span></a>, vol. 1 p. 79</div>
+  </header>
+  <div class="witness-text">
+    ثنا عبد الأعلى ثنا محمد بن إسحاق عن داود بن حصين عن عكرمة عن ابن عباس أن النبي صلى الله عليه وسلم سئل أي الإسلام أفضل أو أي الإيمان أفضل قال الحنيفية السمحة. <span class="page-no" title="end of page 79 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQSXV05P375A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQSXV05P375A">BQSXV05P375A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 5 pp. 375-376</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو سعيد بن أبي عمرو ثنا أبو عبد الله محمد بن عبد الله الصفار ثنا أحمد بن محمد البرتي القاضي ثنا محمد بن المنهال ثنا يزيد بن زريع ثنا محمد بن إسحاق ح وأخبرنا أبو الحسن علي بن أحمد بن عبدان أنا أحمد بن عبيد الصفار ثنا محمد بن الفضل بن جابر ثنا أبو سلمة ثنا عبد الأعلى ثنا محمد عن ابن أبي نجيح عن مجاهد عن ابن عباس قال أهدى رسول الله صلى الله عليه وسلم جمل أبي جهل في هديه عام الحديبية وفي رأسه برة من فضة وكان أبو جهل استلب يوم بدر لفظ حديث عبد الأعلى بن عبد الأعلى وفي رواية يزيد بن زريع وفي أنفه برة من ذهب والباقي بمعناه وكذلك رواه أبو داود في كتاب السنن عن محمد بن المنهال ورواه يونس بن بكير عن محمد بن إسحاق وقال في أنفه برة فضة ليغيظ به المشركين واختلف فيه على محمد بن سلمة عن محمد بن إسحاق فقيل برة فضة وقيل من ذهب <span class="page-no" title="end of page 375 of vol. 5">§</span> أخبرنا أبو عبد الله الحافظ أخبرني محمد بن صالح الهاشمي ثنا أبو جعفر المستعيني ثنا عبد الله بن علي المديني حدثني أبي قال كنت أرى أن هذا من صحيح حديث ابن إسحاق فإذا هو قد دلسه حدثنا يعقوب بن إبراهيم بن سعد عن أبيه عن محمد بن إسحاق قال حدثني من لا أتهم عن ابن أبي نجيح عن مجاهد عن ابن عباس قال علي فإذا الحديث مضطرب قال الشيخ وقد روي عن جرير بن حازم عن ابن أبي نجيح. <span class="page-no" title="end of page 376 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="WHNXV01P326A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#WHNXV01P326A">WHNXV01P326A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-WHNX" class="source-link"><span class='ref-author'>ʿAlī b. Aḥmad b. Muḥammad al-Wāḥidī al-Nīsābūrī</span>, <span class='ref-title'>Asbāb nuzūl al-Qurʾān</span></a>, vol. 1 p. 326</div>
+  </header>
+  <div class="witness-text">
+    وبهذا الإسناد عن محمد بن يحيى قال أخبرنا عياش بن الوليد قال أخبرنا عبد الأعلى قال أخبرنا محمد بن إسحاق قال حدثني الزهري عن عمر بن ثابت قال كانت معاذة جارية لعبد الله بن أبي بن سلول وكانت مسلمة وكان يستكرهها على البغاء فأنزل الله تعالى @QURS23A033_BEG ولا تكرهوا فتياتكم على البغاء @QURS24A033_END إلى آخر الآية. <span class="page-no" title="end of page 326 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P361A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P361A">NSSXV01P361A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 361</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن حمشاذ العدل ثنا هشام بن علي ثنا عياش بن الوليد الرقام ثنا عبد الأعلى ثنا محمد بن إسحاق أخبرني سعيد بن أبي سعيد عن أبيه عن أبي هريرة قال صلى بنا رسول الله صلى الله عليه وسلم الظهر فلما سلم نادى رجلا كان في آخر الصفوف فقال يا فلان ألا تتقي الله ألا تنظر كيف تصلي إن أحدكم إذا قام يصلي إنما يقوم يناجي ربه فلينظر كيف يناجيه إنكم ترون أني لا أراكم إني والله لأرى من خلف ظهري كما أرى من بين يدي . <span class="page-no" title="end of page 361 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P600A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P600A">NSSXV01P600A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 600</div>
+  </header>
+  <div class="witness-text">
+    أخبرني يوسف بن يعقوب العدل ثنا أحمد بن محمد بن نصر ثنا أحمد بن محمد بن حنبل ثنا عبد الأعلى بن عبد الأعلى ثنا محمد بن إسحاق عن حكيم بن حكيم بن عباد بن حنيف عن مسعود بن الحكم الزرقي عن أمه أنها حدثته قالت كأني أنظر إلى علي بن أبي طالب رضي الله عنه على بغلة رسول الله صلى الله عليه وسلم البيضاء في شعب الأنصار وهو يقول أيها الناس إن رسول الله صلى الله عليه وسلم قال إنها ليست بأيام أيام صيام إنها أيام أكل وشرب وذكر. <span class="page-no" title="end of page 600 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV06P3568A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV06P3568A">NYMXV06P3568A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 6 p. 3568</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن خلاد قال ثنا الحسن بن علي المعمري ثنا يحيى بن خلف ثنا عبد الأعلى عن محمد بن إسحاق عن حكيم بن حكيم بن عباد بن حنيف عن مسعود بن الحكم عن أمه أنها حدثته قالت كأني أنظر إلى علي بن أبي طالب على بغلة رسول الله صلى الله عليه وسلم البيضاء في شعب الأنصار وهو يقول أيها الناس إن رسول الله صلى الله عليه وسلم قال إنها ليست بأيام صيام إنها أيام أكل وشرب رواه عبدة بن سليمان وإبراهيم بن سعد وسلمة في آخرين عن ابن إسحاق عن عبد الله بن أبي مسلمة عن مسعود عن أمه نحوه. <span class="page-no" title="end of page 3568 of vol. 6">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P619A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P619A">NSSXV01P619A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 619</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو عبد الله محمد بن يعقوب الحافظ ثنا يحيى بن محمد بن يحيى ثنا عبيد الله بن عمر القواريري ثنا عبد الأعلى ثنا محمد بن إسحاق عن نافع عن ابن عمر أن النبي صلى الله عليه وسلم كان يهل ملبيا. <span class="page-no" title="end of page 619 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P639A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P639A">NSSXV01P639A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 639</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو العباس محمد بن يعقوب ثنا أحمد بن عبد الجبار ثنا عياش بن الوليد الرقام ثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق حدثني عبد الله بن أبي نجيح عن مجاهد عن ابن عباس رضي الله عنهما قال أهدى رسول الله صلى الله عليه وسلم عام الحديبية في هداياه جملا لأبي جهل في رأسه برة من فضة ليغيظ المشركين بذلك. <span class="page-no" title="end of page 639 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV31P360A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV31P360A">MZTXV31P360A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 31 p. 360</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن صدقة قال حدثنا محمد بن يحيى القطعي قال حدثنا عبد الأعلى عن محمد بن إسحاق قال حدثني سليمان بن سحيم عن يحيى بن أبي سفيان عن أم حكيم بنت أمية عن أم سلمة إن النبي صلى الله عليه وسلم قال من أهل بعمرة من بيت المقدس غفر له. <span class="page-no" title="end of page 360 of vol. 31">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV23P416A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV23P416A">STBXV23P416A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 23 p. 416</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن صدقة ثنا محمد بن يحيى القطعي ثنا عبد الأعلى عن محمد بن إسحاق قال حدثني سليمان بن سحيم عن يحيى بن أبي سفيان عن أم حكيم بنت أبي أمية عن أم سلمة أن النبي صلى الله عليه وسلم قال من أهل بعمرة من بيت المقدس غفر له. <span class="page-no" title="end of page 416 of vol. 23">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="IHMAV05P060A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#IHMAV05P060A">IHMAV05P060A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMA" class="source-link"><span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span></a>, vol. 5 p. 60</div>
+  </header>
+  <div class="witness-text">
+    ومن طريق أبي بكر بن أبي شيبة نا عبد الأعلى بن عبد الأعلى عن ابن إسحاق عن سليمان بن سحيم عن أم حكيم بنت أمية عن أم سلمة أن رسول الله صلى الله عليه وسلم قال من أهل بعمرة من بيت المقدس غفر له. <span class="page-no" title="end of page 60 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RJFBV01P087A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RJFBV01P087A">RJFBV01P087A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RJFB" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd al-Wāḥid al-Maqdisī</span>, <span class='ref-title'>Fadāʾil Bayt al-Maqdis</span></a>, vol. 1 pp. 87-88</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو جعفر محمد بن أحمد بن نصر الصيدلاني بأصبهان أن فاطمة بنت عبد الله الجوزدانية أخبرتهم قراءة عليها أنبا محمد بن عبد الله بن ريذة أنبا سليمان بن أحمد الطبراني ثنا أبو بكر بن صدقة ثنا محمد بن يحيي القطعي ثنا عبد الأعلى عن <span class="page-no" title="end of page 87 of vol. 1">§</span> محمد بن إسحاق حدثني سليمان بن سحيم عن يحيى بن أبي سفيان عن أم حكيم بنت أبي أمية عن أم سلمة أن النبي صلى الله عليه وسلم قال من أهل بعمرة من بيت المقدس غفر له. <span class="page-no" title="end of page 88 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="JJKXV01P268A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#JJKXV01P268A">JJKXV01P268A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JJKX" class="source-link"><span class='ref-author'>al-Jurjānī</span>, <span class='ref-title'>al-Kāmil fī ḍuʿafāʾ al-rijāl</span></a>, vol. 1 p. 268</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو عروبة حدثنا الفضل بن يعقوب الجزري حدثنا عبد الأعلى عن محمد بن إسحاق حدثني العلاء بن عبد الرحمن عن أبي السائب مولى هشام بن زهرة عن عمران بن أبي أنس عن أبي سلمة عن عائشة قالت قال رسول الله صلى الله عليه وسلم كل مسكر حرام. <span class="page-no" title="end of page 268 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHWV01P063A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHWV01P063A">BKHWV01P063A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHW" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>al-Taʾrīkh al-awsaṭ</span></a>, vol. 1 p. 63</div>
+  </header>
+  <div class="witness-text">
+    حدثني عياش ثنا عبد الأعلى ثنا بن إسحاق حدثني محمد بن يحيى بن حبان قال كان جدي منقذ بن عمرو أصابته آمة في رأسه نازعت عقله فعاش ثلاثين ومائة سنة وكان في زمن عثمان حين أكثر الناس يغبن فيقول إن النبي صلى الله عليه وسلم جعلني بالخيار ثلاثا. <span class="page-no" title="end of page 63 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV01P161A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV01P161A">BKHBV01P161A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 1 pp. 161-162</div>
+  </header>
+  <div class="witness-text">
+    وقال القواريري حدثنا عبد الأعلى قال حدثنا ابن إسحاق قال حدثنا سليمان عن يحيى بن فلان عن أم جعفر بنت أبي أمية عن أم سلمة عن النبي صلى الله عليه وسلم والحسن بن عبد العزيز ثنا عبد الله بن يحيى قال أخبرنا <span class="page-no" title="end of page 161 of vol. 1">§</span> حيوة عن ابن الهاد عن محمد بن عبد الرحمن بن يحنس عن عباد بن الزبير عن عائشة رضي الله تعالى عنها أحب الجهاد إلى الرباط. <span class="page-no" title="end of page 162 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV02P026A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV02P026A">BKHBV02P026A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 2 p. 26</div>
+  </header>
+  <div class="witness-text">
+    وقال لي عياش حدثنا عبد الأعلى حدثنا ابن إسحاق قال حدثني أيوب بن موسى عن عطاء أن ابن عباس قال لا يقطع السارق فيما دون ثمن المحن وثمنه عشرة. <span class="page-no" title="end of page 26 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV04P068A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV04P068A">BKHBV04P068A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 4 pp. 68-69</div>
+  </header>
+  <div class="witness-text">
+    قال لي عياش نا عبد الأعلى نا ابن إسحاق حدثني صالح بن إبراهيم بن عبد الرحمن بن عوف عن محمود بن لبيد عن سلمة بن سلامة بن وقش وكان بدريا قال كان بين أبياتنا من بني عبد الأشهل يهودي فخرج غداة إلى مجلس بني عبد الأشهل وأنا يومئذ غلام من أحدث قومي علي بردان لي مضطجعا في ناحية المجلس إلى فناء أهلي فقام بين ظهراني المجلس وهم أصحاب وثن لا يرون بعثا فذكر البعث والقيامة والجنة والنار والحساب والميزان فذكر ذلك لقوم فقالوا ويحك أتراه <span class="page-no" title="end of page 68 of vol. 4">§</span> كائنا قال نعم والذي نفسي بيده وإنه لكائن ووددت بحظي من النار تنورا عظيما تسجرونه علي ثم غطيتم علي فيه قالوا فما آية ذلك قال نبي يبعث من ناحية هذه البلدة نحو اليمن قالوا متى فرآني وأنا أحدث القوم فقال إن يستنفد هذا الغلام عمره يدركه فوالله ما مات حتى بعث الله محمدا صلى الله عليه وسلم فأجبناه وكفر فقلنا له فقال ليس به حسدا وبغيا. @BKHBV04P068A <span class="page-no" title="end of page 69 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV04P077A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV04P077A">BKHBV04P077A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 4 p. 77</div>
+  </header>
+  <div class="witness-text">
+    حدثني خليفة نا عبد الأعلى عن ابن إسحاق عمن سمع أبا الطفيل عامر بن واثلة عن بلال قال النبي صلى الله عليه وسلم إن لك كنزا في الجنة. <span class="page-no" title="end of page 77 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV04P130A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV04P130A">BKHBV04P130A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 4 p. 130</div>
+  </header>
+  <div class="witness-text">
+    قاله لنا عياش عن عبد الأعلى نا محمد بن إسحاق قال حدثني زياد بن أبي زياد مولى ابن عياش عن سليم وعن ابن إسحاق حدثني عبيد الله بن المغيرة بن معيقيب عن سليمان بن عمرو بن عبد العتواري عن أبي سعيد عن النبي صلى الله عليه وسلم الصراط بين ظهراني جهنم. <span class="page-no" title="end of page 130 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV05P292A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV05P292A">BKHBV05P292A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 5 pp. 292-293</div>
+  </header>
+  <div class="witness-text">
+    قال عياش حدثنا <span class="page-no" title="end of page 292 of vol. 5">§</span> عبد الأعلى سمع ابن إسحاق سمع عبد الرحمن بن الأسود عن عبد الرحمن بن سليم عن يزيد التيمي تيم الرباب سمع ابا ذر رضى الله عنه بالربذة ارخص لنا في خوفنا وحرثنا في العمرة التيمي أراه أخا أشعث بن سليم. <span class="page-no" title="end of page 293 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV05P300A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV05P300A">BKHBV05P300A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 5 p. 300</div>
+  </header>
+  <div class="witness-text">
+    وقال عبد الأعلى عن ابن إسحاق عبد الله بن أبي ذؤيب ولا يصح عبد الله حديثه في أهل المدينة. <span class="page-no" title="end of page 300 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV05P363A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV05P363A">BKHBV05P363A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 5 p. 363</div>
+  </header>
+  <div class="witness-text">
+    وقال عباس عن عبد الأعلى عن ابن إسحاق أن عبد الرحمن بن الأسود حدثنى انه حج وعلقمة وعبد الرحمن ابن يزيد ونهيك فلزمت أنا وعلقمة عمر رضي الله عنه ولزم نهيك وعبد الرحمن عبد الله رضى الله عنه هو كوفي. <span class="page-no" title="end of page 363 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV05P399A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV05P399A">BKHBV05P399A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 5 p. 399</div>
+  </header>
+  <div class="witness-text">
+    قال عباس عن عبد الأعلى حدثنا ابن إسحاق عن عبيد الله بن المغيرة بن معيقيب [BKHB 5:400] وكان يفقهه حدثنى من لا اتهمه من اهل انه رأى معيقيبا مرسلا ناصيته ثنى حسه واسعه بن مالك كذلك يعد في المصريين عن أبي الهيثم ومنقذ روى عنه الليث ونافع بن يزيد ويحيى بن ايوب. <span class="page-no" title="end of page 399 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV08P017A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV08P017A">BKHBV08P017A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 8 pp. 17-18</div>
+  </header>
+  <div class="witness-text">
+    قال عياش بن الوليد نا عبد الأعلى قال نا محمد بن إسحاق قال حدثني محمد بن يحيى بن حبان قال كان جدي منقذ بن عمرو أصابته أمة في رأسه فكسرت لسانه ونازعت عقله وكان لا يدع التجارة ولا يزال يغبن فذكر ذلك لرسول الله صلى الله عليه وسلم فقال إذا بعت فقل لاخلابة وأنت في كل سلعة ابتعتها بالخيار <span class="page-no" title="end of page 17 of vol. 8">§</span> ثلاث ليال وعاش ثلاثين ومائة سنة وكان في زمن عثمان حين كثر الناس يبتاع في السوق فيغبن فيصير إلى أهله فيلومونه فيرده ويقول إن النبي صلى الله عليه وسلم جعلني بالخيار ثلاثا حتى يمر الرجل من أصحاب النبي صلى الله عليه وسلم فيقول صدق. <span class="page-no" title="end of page 18 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NWXXV02P115A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NWXXV02P115A">NWXXV02P115A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NWXX" class="source-link"><span class='ref-author'>al-Nawawī</span>, <span class='ref-title'>Tahdhīb al-asmāʾ waʾl-lughāt</span></a>, vol. 2 pp. 115-116</div>
+  </header>
+  <div class="witness-text">
+    ذكره البخارى فى تاريخه وبسط ترجمته بالنسبة إلى باقى تراجم تاريخه فقال هو صحابى قال البخارى قال ابن عياش بن الوليد حدثنا عبد الأعلى قال ثنا ابن إسحاق قال ثنا محمد بن يحيى بن حبان قال كان جدى منقذ بن عمرو أصابته آمة فى رأسة فكسرت لسانه ونازعت عقله وكان لا يدع التجارة ولا يزال يغبن فذكر ذلك للنبى صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ فقال إذا بعت فقل لا خلابة وأنت فى كل سلعة ابتعتها بالخيار ثلاث ليال وعاش ثلاثين ومائة سنة وكان فى زمن عثمان حين كثر الناس يبتاع فى السوق فيصير إلى أهله فيلومونه فيرده ويقول إن النبى صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ جعلنى <span class="page-no" title="end of page 115 of vol. 2">§</span> بالخيار ثلاثًا وهذا الحديث هو الذى اعتمده أصحابنا فى جواز شرط الخيار ثلاثة أيام وإسناده جيد إلا أنه مرسل لأن محمد بن يحيى لم يدرك منقذًا. <span class="page-no" title="end of page 116 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BRSXV04P1452A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BRSXV04P1452A">BRSXV04P1452A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BRSX" class="source-link"><span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Istīʿāb fī maʿrifat al-aṣḥāb</span></a>, vol. 4 p. 1452</div>
+  </header>
+  <div class="witness-text">
+    وأما ابن إسحاق فروى عن محمد بن يحيى بن حبان عن عمه واسع بن حبان أن جده منقذ بن عمرو أصابته آفة في رأسه فكسرت لسانه ونازعت عقله وكان لا يدع التجارة ولا يزال يغبن فذكر ذلك لرسول الله صلى الله عليه وسلم فقال إذا بعت فقل لا خلابة وأنت في كل سلعة تبيعها بالخيار ثلاث ليال وعاش ثلاثين ومائة سنة وكان في زمن عثمان حين كثر الناس يبتاع في السوق فيغبن فيصير إلى أهله فيلومونه فيرده ويقول إن رسول الله صلى الله عليه وسلم جعل لي الخيار ثلاثا حتى يمر الرجل من أصحاب رسول الله صلى الله عليه وسلم فيقول صدق ذكره البخاري في التاريخ عن عياش بن الوليد عن عبد الأعلى عن ابن إسحاق. <span class="page-no" title="end of page 1452 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV07P022A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV07P022A">THRXV07P022A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 7 p. 22</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو موسى كتابة أخبرنا أبو غالب أحمد بن العباس أخبرنا أبو بكر ح قال أبو موسى أخبرنا أبو علي أخبرنا أبو نعيم قالا حدثنا سليمان بن أحمد أخبرنا حجاج بن عمران السدوسي أخبرنا يحيى بن خلف أخبرنا عبد الأعلى عن محمد بن إسحاق عن سليمان بن سحيم عن أمة ابنة أبي الحكم الغفاري قالت سمعت النبي صلى الله عليه وسلم يقول إن الرجل ليدنو من الجنة حتى ما يكون بينه وبينها إلا ذراع فيتباعد منها أبعد من صنعاء. <span class="page-no" title="end of page 22 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV07P404A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV07P404A">THRXV07P404A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 7 p. 404</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو موسى كتابة أخبرنا أبو علي أخبرنا أبو نعيم حدثنا سليمان بن أحمد أخبرنا حجاج بن عمران السدوسي عن يحيى بن خلف حدثنا عبد الأعلى عن محمد بن إسحاق عن سليمان بن سحيم عن أمه بنت أبي الحكم الغفاري. <span class="page-no" title="end of page 404 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV18P342A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV18P342A">STBXV18P342A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 18 p. 342</div>
+  </header>
+  <div class="witness-text">
+    حدثنا داود بن محمد بن صالح المروزي وعبد الله بن أحمد بن حنبل وإبراهيم بن نائلة الأصبهاني قالوا ثنا جعفر بن مهران السماك ثنا عبد الأعلى عن محمد بن إسحاق عن المطلب بن عبد الله بن قيس بن مخرمة عن أبيه عن جده قال ولد رسول الله صلى الله عليه وسلم عام الفيل وبين الفجار وبين الفيل عشرون سنة قال سموا الفجار لأنهم فجروا وأحلوا أشياء كانوا يحرمونها وكان بين الفجار وبين بناء الكعبة خمس عشرة سنة وبين بناء الكعبة وبين مبعث النبي صلى الله عليه وسلم خمس سنين فبعث نبينا صلى الله عليه وسلم وهو ابن أربعين. <span class="page-no" title="end of page 342 of vol. 18">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV08P256A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV08P256A">BKHBV08P256A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 8 p. 256</div>
+  </header>
+  <div class="witness-text">
+    قال عياش بن الوليد نا عبد الأعلى قال نا محمد بن إسحاق قال حدثني عبيد الله بن عبد الله بن الحصين الأنصاري قال حدثني عبد الملك بن عمرو بن قيس رجل من قومي قال حدثني هرمي بن عبد الله قال تذاكرنا شأن النساء في مجلس بني واقف فقال خزيمة بن ثابت سمعت النبي صلى الله عليه وسلم يقول ان الله لا يستحيى من الحق لا تأتوا النساء في أعجازهن. <span class="page-no" title="end of page 256 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RZJXV08P193A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RZJXV08P193A">RZJXV08P193A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RZJX" class="source-link"><span class='ref-author'>Ibn Abī Ḥātim al-Rāzī</span>, <span class='ref-title'>al-Jarḥ waʾl-taʿdīl</span></a>, vol. 8 pp. 193-194</div>
+  </header>
+  <div class="witness-text">
+    قال أبو محمد يعني ما رواه عبد الاعلى السامى عن محمد بن اسحاق عن ابى سفيان عن مسلم عن عمرو بن حريش الزبيدى قال قلت لعبد الله بن عمرو انا بارض ليس بها ذهب ولافضة نبيع البقرة بالبقرتين والبعير بالبعيرين والشاة بالشاتين فقال امرني رسول الله صلى الله عليه وسلم ان اجهز جيشا فنفدت الابل فقلت لرسول الله صلى الله عليه وسلم نفدت الابل فقال: خذ في قلاص الصدقة قال فجعلت <span class="page-no" title="end of page 193 of vol. 8">§</span> آخذ البعير بالبعيرين إلى ابل الصدقة. <span class="page-no" title="end of page 194 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="QNMXV02P349A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#QNMXV02P349A">QNMXV02P349A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-QNMX" class="source-link"><span class='ref-author'>Ibn Qāniʿ</span>, <span class='ref-title'>Muʿjam al-ṣaḥābah</span></a>, vol. 2 p. 349</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الله بن أحمد بن حنبل نا جعفر بن مهران السباك نا عبد الأعلى عن محمد بن إسحاق عن المطلب بن عبد الله بن قيس بن مخرمة عن أبيه عن جده قال ولد رسول الله صلى الله عليه وسلم عام الفيل وبين الفيل وبين الفجار عشرون سنة قال وسمي الفجار لأنهم فجروا وأحلوا أشياء كانوا يحرمونها وكان وبين الفجار وبين بناء الكعبة خمس عشرة سنة وبين بناء الكعبة ومبعث النبي صلى الله عليه وسلم خمس سنين قال فبعث وبعث نبينا عليه الصلاة والسلام وهو ابن أربعين سنة. <span class="page-no" title="end of page 349 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV03P073A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV03P073A">TDSHV03P073A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 3 p. 73</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو غالب بن البنا أنبأنا أبو الحسين بن الآبنوسي أنبأنا أبو القاسم عبيد الله بن عثمان بن يحيى الدقاق أنبأنا أبو محمد إسماعيل بن علي بن إسماعيل الخطبي أنبأنا عبد الله يعني أحمد بن حنبل حدثني جعفر بن مهران أبو النضر بالبصرة نا عبد الأعلى بن عبد الأعلى حدثني محمد بن إسحاق عن المطلب بن عبد الله بن قيس بن مخرمة عن أبيه عن جده قيس بن مخرمة قال ولد رسول الله صلى الله عليه وسلم عام الفيل وبين الفجار وبين الفيل عشرون سنة قال سموا فجار لأنهم فجروا وأحلوا أشياء كانوا يحرمونها وكان بين الفجار وبين بناء الكعبة خمس عشرة سنة وبين بناء الكعبة وبين مبعث النبي صلى الله عليه وسلم خمس سنين قال فبعث نبينا عليه الصلاة والسلام وهو ابن أربعين سنة كذا جاءت هذه التواريخ مدرجة في الحديث وأراها من قول ابن إسحاق. <span class="page-no" title="end of page 73 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="JJKXV03P214A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#JJKXV03P214A">JJKXV03P214A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JJKX" class="source-link"><span class='ref-author'>al-Jurjānī</span>, <span class='ref-title'>al-Kāmil fī ḍuʿafāʾ al-rijāl</span></a>, vol. 3 pp. 214-215</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو يعلى حدثنا جعفر بن مهران السباك حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق وحدثني حسين بن عبد الله عن عكرمة عن ابن عباس قال لما أرادوا أن يحفروا لرسول الله صلى الله عليه وسلم وكان أبو عبيدة بن الجراح يضرح كحفر أهل مكة وكان أبو طلحة زيد بن سهل هو الذي يحفر لأهل المدينة وكان يلحد فدعا العباس برجلين فقال لأحدهما اذهب إلى أبي عبيدة وللآخر اذهب إلى أبي طلحة اللهم خر لرسولك قال فوجد صاحب أبي طلحة أبا طلحة فجاء به فلحد لرسول الله صلى الله عليه وسلم <span class="page-no" title="end of page 214 of vol. 3">§</span> فلما فرغ من جهاز رسول الله صلى الله عليه وسلم يوم الثلاثاء وضع على سريره في بيته وقد كان المسلمون اختلفوا في دفنه فقال قائل ندفنه في مسجده وقال قائل يدفن مع أصحابه فقال أبو بكر رضي الله عنه سمعت رسول الله صلى الله عليه وسلم يقول ما قبض نبي إلا دفن حيث قبض فرفع فراش رسول الله صلى الله عليه وسلم الذي توفي عليه فحفر له تحته ثم دعا الناس إلى رسول الله صلى الله عليه وسلم يصلون عليه أرسالا الرجال حتى إذا فرغ منه أدخل النساء حتى إذا فرغ من النساء دخل صبيان ولم يؤم الناس على رسول الله صلى الله عليه وسلم أحد ثم دفن رسول الله صلى الله عليه وسلم من أوسط الليل ليلة الأربعاء. <span class="page-no" title="end of page 215 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SRKHV01P057A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SRKHV01P057A">SRKHV01P057A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SRKH" class="source-link"><span class='ref-author'>al-Sīrāfī</span>, <span class='ref-title'>Akhbār al-naḥwīyīn al-Baṣrīyīn</span></a>, vol. 1 p. 57</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن السراج قال حدثنا أبو العباس محمد بن يزيد قال حدثنا أبو عمر الجرمي عن عبد الأعلى بن عبد الأعلى السامي عن محمد بن إسحاق عن يونس عن الزهري في قول الله عز وجل وما علمناه الشعر وما ينبغي له قال معناه ما الذي علمناه شعراً وما ينبغي له أن يبلغ عنا شعراً قال الزهري وكان رسول الله صلى الله عليه لا يقول من الشعر إلا ما قد قيل قبله. <span class="page-no" title="end of page 57 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV02P582A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV02P582A">NYMXV02P582A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 2 pp. 582-584</div>
+  </header>
+  <div class="witness-text">
+    وحدثنا سليمان بن أحمد ثنا عبد الله بن أحمد بن حنبل ثنا جعفر بن مهران السباك ثنا عبد الأعلى السامي ثنا محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله بن جندب عن جندب بن مكيث قال بعث رسول الله صلى الله عليه وسلم غالب بن عبد الله الليثي ثم أحد بني كعب بن ليث بن عوف في سرية فكنت فيهم فأمرهم أن يشنوا الغارة على بني الملوح بالكديد وهم من بني ليث فخرجنا حتى إذا كنا بالكديد لقينا الحارث بن البرصاء وهو من بني ليث فأخذناه فقال لنا جئت أريد الإسلام وإنما خرجت إلى رسول الله صلى الله عليه وسلم قلنا إن تكن مسلما فلن يضرك رباطنا يدك يوما وليلة وإن تكن على غير ذلك نستوثق منك فشددناه وثاقا وخلفنا عليه رويجلا منا أسود فقلنا إن عاذك بشيء فاحتز رأسه فسرنا حتى أتينا الكديد عند غروب الشمس فمكثنا في ناحية الوادي فبعثني <span class="page-no" title="end of page 582 of vol. 2">§</span> أصحابي ربيئة لهم فخرجت حتى آتي تلا مشرفا على الحاضر مطلعي عليهم فلما أسندت فيه علوت على رأسه ثم اضطجعت عليه فإني لأنظر إذ خرج رجل منهم من خبائه فقال لامرأته إني أرى على هذا الجبل سوادا ما رأيته أول من يومي هذا فانظري إلى أوعيتك ألا تكون الكلاب جرت منها شيئا فنظرت فقالت والله ما أفقد من أوعيتي شيئا قال فناوليني قوسي ونبلي فناولته قوسه وسهمين معها فأرسل سهما والله ما أخطأ بين عيني فانتزعته وثبت قال ثم أرسل سهما آخر فوضعه في منكبي فانتزعته وثبت فقال لأمته والله لو كانت زائلة لقد تحركت بعد لقد خالطها سهماي فانظريهما لا أبا لك إذا أصبحت لا يمضغها الكلاب قال ودخل قال وراحت الماشية من إبلهم وأغنامهم قال فلما احتلبوا وعطنوا واطمأنوا فناموا شننا واستقنا النعم وخرج صريخ القوم في قومهم فجاء ما لا قبل لنا به خرجنا بهذا نحذرها حتى مررنا بابن البرصاء فاحتملناه واحتملنا صاحبنا فأدركنا القوم حتى نظروا إلينا ما بيننا وبينهم إلا الوادي ونحن موجهون في ناحية الوادي إذ جاء الله بالوادي من حيث شاء يملأ جنبتيه ماء والله ما رأينا يومئذ سحابا ولا مطرا فجاء ما لا يستطيع أحد أن يجيزه قال فلقد رأيتهم وقوفا ينظرون إلينا وقد استدناها في المسيل نحدرهم وفتناهم فوتا لا يقدرون على طلبنا قال فما أنسى قول راجز من المسلمين وهو يقول أبى أبو القاسم أن تعز بي في خضل نباته مغلولب صفر أعاليه كلون المذهب <span class="page-no" title="end of page 583 of vol. 2">§</span> قال وحدثني بهذا الحرف رجل عن محمد بن إسحاق أن رجلا من أسلم حدثه أنه كان شعارهم يومئذ أمت أمت. <span class="page-no" title="end of page 584 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV03P1193A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV03P1193A">NYMXV03P1193A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 3 p. 1193</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر الطلحي ثنا عبيد بن غنام ثنا أبو بكر بن أبي شيبة ثنا عبد الأعلى عن محمد بن إسحاق عن الزهري عن عروة عن زيد بن خالد الجهني عن النبي صلى الله عليه وسلم قال من مس فرجه فليتوضأ. <span class="page-no" title="end of page 1193 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HJRSV08P044A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJRSV08P044A">HJRSV08P044A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRS" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span></a>, vol. 8 p. 44</div>
+  </header>
+  <div class="witness-text">
+    ساق الحديث من رواية الطبراني عن حجاج بن عمران السدومي عن يحيى بن خلف عن عبد الأعلى عن محمد بن إسحاق عن سليمان بن سحيم عن أمه بنت أبي الحكم الغفارية سمعت رسول اللَّه صلّى اللَّه عليه وسلّم يقول إنّ الرّجل ليدنو من الجنّة حتّى ما يكون بينه وبينها إلّا ذراع فيتباعد عنها أبعد من صنعاء قال ابن حجر قلت وهذا الحديث هو الّذي أشار إليه أبو عمر أنه في القدر ولكن تبين من كلام أبي موسى أن أبا عمر حرّف لفظ أمّه فقرأه أمة بفتحتين مخففا يظنّه اسما وإنما هو صفة وهو بضم أوله وتشديد الميم قال سليمان قال حدثتني أمّي ثم نسبها إلى أبيها ولم يسمّها وسيأتي عن الواقدي أنها أم علي واقتضى كلام أبي موسى أنّ بنت أبي الحكم وبنت أبي الصلت واحدة وقد ظهر من رواية غير عبد الأعلى أنّ في قوله سمعت رسول اللَّه صلّى اللَّه عليه وسلّم وهما وأنه سقطت من السند الصحابية بعد بنت أبي الحكم وقد تيقّظ أبو موسى لذلك فذكر أنّ أبا داود أخرج من طريق ابن إسحاق عن سليمان بن سحيم عن أمة بنت أبي الصلت عن امرأة من غفار حديثا آخر وهذه المرأة الغفارية ذكر السّهيليّ أنّ اسمها ليلى وأنها امرأة أبي ذرّ الغفاريّ وسيأتي في حرف اللام أنّ أبا عمر ترجم لليلى الغفارية وذكر السّهيليّ أيضا عن أبي الوليد أنّ اسم أبي الصلت الحكم وكأنّ بعض الرواة قلب فقال بنت أبي الحكم وهو الصلت قلت فعلى هذا النسب للرواية عن ليلى الغفارية لها صحبة سواء كان اسمها أمة أو أمية أو أمامة أو آمنة وسواء كان أبوها الحكم أو الصلت أو أبا الحكم أو أبا الصلت فكأن بعض الرواة وهم في إسقاط الصحابية فصار سمعت رسول اللَّه صلّى اللَّه عليه وسلّم منسوبا للتابعية غلطا وإنما قلت ذلك لأنّ مخرج الحديث واحدة وقد ذكرت أميمة بنت قيس بن أبي الصلت وحديثها في قصة أخرى وإن كان في سنده سليمان بن سحيم وذكرت أيضا أمية بنت أبي قيس وحديثها في قصة أخرى وليس في السند مع ذلك سليمان بن سحيم فاحتمال التعدّد في هاتين قريب بخلاف من تقدم ذكرها والعلم عند اللَّه تعالى.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV04P159A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV04P159A">TDSHV04P159A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 4 pp. 159-160</div>
+  </header>
+  <div class="witness-text">
+    وأنا أبو يعلى نا جعفر بن مهران نا عبد الأعلى نا محمد بن إسحاق حدثني محمد بن جعفر بن الزبير عن عروة عن عائشة قالت <span class="page-no" title="end of page 159 of vol. 4">§</span> كنت إذا أردت أن أفرق رسول الله صلى الله عليه وسلم صدعت الفرق من يافوخه وأرسلت ناصيته بين عينيه. <span class="page-no" title="end of page 160 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DWNXV04P082A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DWNXV04P082A">DWNXV04P082A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DWNX" class="source-link"><span class='ref-author'>Abū Dāwūd Sulaymān b. al-Ashʿath</span>, <span class='ref-title'>Sunan Abī Dāwūd</span></a>, vol. 4 p. 82</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يحيى بن خلف حدثنا عبد الأعلى عن محمد يعني ابن إسحاق قال حدثني محمد بن جعفر بن الزبير عن عروة عن عائشة رضي الله عنها قالت كنت إذا أردت أن أفرق رأس رسول الله صلى الله عليه وسلم صدعت الفرق من يافوخه وأرسل ناصيته بين عينيه. <span class="page-no" title="end of page 82 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MYWXV08P055A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MYWXV08P055A">MYWXV08P055A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 8 p. 55</div>
+  </header>
+  <div class="witness-text">
+    حدثنا جعفر بن مهران حدثنا عبد الأعلى حدثنا محمد بن إسحاق حدثني محمد بن جعفر بن الزبير عن عروة عن عائشة قالت كنت إذا أردت أن أفرق رسول الله صلى الله عليه وسلم صدعت الفرق من يافوخه وأرسلت ناصيته بين كتفيه. <span class="page-no" title="end of page 55 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="GHHXV02P345A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#GHHXV02P345A">GHHXV02P345A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-GHHX" class="source-link"><span class='ref-author'>Abū Isḥāq Ibrāhīm b. Isḥāq al-Ḥarbī</span>, <span class='ref-title'>Gharīb al-ḥadīth</span></a>, vol. 2 p. 345</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن سعيد مردويه حدثنا عبد الأعلى عن محمد بن إسحاق عن محمد بن جعفر عن عروة عن عائشة قالت كنت إذا أردت أن أفرق رسول الله صلى الله عليه صدعت الفرق على يافوخه وأرسلت ناصيته بين عينيه. <span class="page-no" title="end of page 345 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV55P267A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV55P267A">TDSHV55P267A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 55 pp. 267-268</div>
+  </header>
+  <div class="witness-text">
+    ويقال ثبت سعد بن عبادة ومحمد بن مسلمة فيجعلونهما مكان أسيد بن خضير وسعد بن معاذ أخبرنا أبو المظفر بن القشيري أنبأنا بو سعد الجنزرودي أنبأنا أبو عمرو بن حمدان أنبأنا أبو يعلى ثنا جعفر بن مهران ثنا عبد الأعلى عن محمد بن إسحاق عن عبد الله بن سهل بن أبي ليلى عن جابر بن عبد الله قال خرج مرحب بن الحارث اليهودي وهو يقول <span class='poetry-line'><span class='hemistich1'>قد علمت خيبر أني مرحب</span> <span class='hemistich2'>شاك السلاح بطل مجرب </span></span> <span class='poetry-line'><span class='hemistich1'>اطعن أحيانا وحينا أضرب</span> <span class='hemistich2'>إذا الليوث اقبلت تلهب <span class="page-no" title="end of page 267 of vol. 55">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>وأحجمت عن صولة المجرب</span> <span class='hemistich2'>كان حماي الحمى لا يقرب </span></span> هل من مبارز فقال رسول الله صلى الله عليه وسلم من لهذا قال محمد بن مسلمة أنا يا رسول الله أنا والله الموتور الثائر قتلوا أخي بالأمس فقال قم إليه اللهم أعنه فلما دنا أحدهما من صاحبه عرضت بينهما شجرة فطفق أحدهما يلوذ بها من صاحبه فكلما لاذ بها منه اقتطع بسيفه ما دونه حتى رأيتها وأنها كالرجل القائم حتى خلص كل واحد منهما إلى صاحبه فشد عليه مرحب فضربه فاتقاه بالدرقة فوقع سيفه فيها فمست وعضت له الدرقة فأمسكته فضربه محمد بن مسلمة فقتله. <span class="page-no" title="end of page 268 of vol. 55">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV59P202A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV59P202A">TDSHV59P202A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 59 pp. 202-203</div>
+  </header>
+  <div class="witness-text">
+    وأنا أبو عروبة نا محمد بن يحيى القطعي وأبو الخطاب الحساني والفضل بن يعقوب الجزري قالوا نا عبد الأعلى عن محمد بن إسحاق حدثني علي بن يحيى بن خلاد عن أبيه قال <span class="page-no" title="end of page 202 of vol. 59">§</span> سمعت أبا هريرة وهو يحدث خلاد بن رافع عن صلاة رسول الله صلى الله عليه وسلم فوصفها له يكبر إذا سجد وإذا رفع رأسه كصلاة الهاشميين قال له خلاد فمن أول من ترك ذلك. <span class="page-no" title="end of page 203 of vol. 59">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV62P215A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV62P215A">TDSHV62P215A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 62 pp. 215-216</div>
+  </header>
+  <div class="witness-text">
+    اخبرنا أبو بكر وجيه بن طاهر لفظا أخبرنا أبو محمد أحمد بن الحسن بن محمد أنا أبو سعيد محمد بن عبد الله بن حمدون نا أبو حامد أحمد بن محمد بن الحسن نا محمد بن يحيى نا الحسن بن الربيع نا عبد الأعلى عن محمد بن إسحاق عن الزهري عن سعيد بن المسيب <span class="page-no" title="end of page 215 of vol. 62">§</span> ان عمر بن الخطاب جلد أبا بكرة أو نافع بن الحارث وشبل بن معبد قال فاستتاب نافعا وشبل بن معبد فتابا فقبل شهادتهما واستتاب أبا بكرة فأبى وأقام فلم يقبل شهادته وكان أفضل القوم. <span class="page-no" title="end of page 216 of vol. 62">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="LFGHV01P287A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#LFGHV01P287A">LFGHV01P287A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-LFGH" class="source-link"><span class='ref-author'>Khalaf b. ʿAbd al-Mālik b. Bashkuwāl</span>, <span class='ref-title'>Kitāb Ghawāmiḍ al-asmāʾ al-mubhamah al-wāqiʿah fī mutūn al-aḥādīth al-musnadah</span></a>, vol. 1 pp. 287-288</div>
+  </header>
+  <div class="witness-text">
+    قال ثنا أبي قال ثنا أبو عثمان سعيد بن سلمة قال ثنا محمد بن أحمد بن مفرج قال ثنا أبو هريرة أحمد بن عبد الله العدوي قال ثنا أبو مسلم إبراهيم ابن عبد الله قال ثنا علي بن عبد الله المديني قال ثنا عبد الأعلى قال ثنا محمد وهو ابن إسحاق قال حدثني عبيد الله وهو ابن المغيرة عن سليمان ابن عمرو العثواري عن أبي سعيد الخدري قال صلى بنا رسول الله صلى الله عليه وسلم الظهر فاستأخر عن قبلته وأعرض بوجهه وتعوذ بالله ثم دنا من قبلته حتى رأيناه يتناول بيده فلما سلم قلنا يا رسول الله لقد صنعت اليوم في صلاتك شيئا ما كنت تصنعه قال أجل عرضت علي في مقامي هذا الجنة والنار فرأيت في النار مالا يعلمه إلا الله ورأيت فيها الحميرية صاحبة الهر التي ربطته فلم تطعمه ولم تسقه ولم ترسله يأكل من خشاش الأرض حتى مات في رباطه ورأيت عمرو بن فلان يجر قصبه في النار وهو الذي سيب السوائب وبحر البحيرة ونصب الأوثان وغير دين إسماعيل ورأيت فيها عمران الغفاري معه المحجن الذي كان يسرق الحاج قال وقد سمى في الرابع قال وقد رأيت الجنة فلم أر مثل ما فيها فتناولت منها قطفا لأريكموه فحيل بيني وبينه فقال رجل من القوم مثل ما قال كأعظم دلو فرت أمك قط قال فسألت عن الرابع بعض علمائنا فقال هو صاحب بدنتي رسول الله صلى الله عليه وسلم الذي سرقهما <span class="page-no" title="end of page 287 of vol. 1">§</span> وذكر ابن دريد في كتاب الوشاح له قال ذو المحجن اسمه كليب بن حزام كان له محجن يسرق به متاع الحاج في الجاهلية ويقول اللهم إني ما آخذه وإنما يأخذه محجني. <span class="page-no" title="end of page 288 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV01P211A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV01P211A">THRXV01P211A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 1 p. 211</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا المنصور بن أبي الحسن بن أبي عبد الله الفقيه بإسناده إلى أبي يعلى الموصلي قال حدثنا جعفر بن مهران السباك أخبرنا عبد الأعلى أخبرنا محمد بن إسحاق عن حرام بن عثمان عن محمود بن عبد الرحمن بن عمرو بن الجموح عن جابر بن عبد الله قال ابتعنا بقرة في عهد رسول الله صلى الله عليه وسلم لنشترك عليها فانفلتت منا وامتنعت علينا فعرض لها مولى لنا يقال له ذكوان بسيف في يده وهي تجول فضربها بالسيف في أصل عنقها فخرقها بالسيف فوقعت فلم ندرك ذكاتها فخرجت أنا وعبد الله بن ثابت بن الجذع فلقينا رسول الله صلى الله عليه وسلم فذكرنا له شأنها فقال كلوا إذا فاتكم من هذه البهائم فاحبسوه بما تحبسون به الوحش. <span class="page-no" title="end of page 211 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV21P252A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV21P252A">MZTXV21P252A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 21 p. 252</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا به أبو الحسن بن البخاري قال أنبأنا أسعد بن أبي طاهر الثقفي قال أخبرنا جعفر بن عبد الواحد الثقفي قال أخبرنا أبو طاهر بن عبد الرحيم الكاتب قال حدثنا أبو محمد بن حيان قال حدثني أحمد بن مكرم البرتي قال حدثنا علي بن المديني قال حدثنا عبد الاعلى عن محمد بن إسحاق أنه حدثهم قال حدثني عمارة بن عبد الله بن طعمة عن سعيد بن المسيب عن زيد بن خالد الجهني قال قسم رسول الله صلى الله عليه وسلم بين أصحابه غنما فأعطاني عتودا جذعا فرجعت إليه فأخبرته فقال ضح به. <span class="page-no" title="end of page 252 of vol. 21">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV24P503A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV24P503A">MZTXV24P503A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 24 p. 503</div>
+  </header>
+  <div class="witness-text">
+    ورواه ابن ماجه عن يحيى بن خلف عن عبد الاعلى جميعا عن ابن إسحاق حدثني محمد بن أبي أمامة ابن سهل بن حنيف عن أبيه قال حدثني عبد الرحمن بن كعب بن مالك قال كنت قائد أبي حين كف بصره فإذا خرجت إلى الجمعة فسمع الأذان بها استغفر لأبي أمامة أسعد بن زرارة فمكثت حينا أسمع ذلك منه فقلت إن عجزا أن لا أسأله عن هذا فخرجت به كما كنت أخرج فلما سمع الأذان بالجمعة استغفر له فقلت يا أبتاه أرأيت استغفارك لأسعد بن زرارة كلما سمعت الأذان بالجمعة فقال أي بني كان أسعد أول من جمع بنا بالمدينة قبل مقدم رسول الله صلى الله عليه وسلم في هزم من حرة بني بياضة في بقيع الخضمات قلت وكم أنتم يومئذ قال أربعون رجلا. <span class="page-no" title="end of page 503 of vol. 24">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV24P1473B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV24P1473B">STBXV24P1473B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 24 pp. 1473-147</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمود بن محمد الواسطي ثنا يحيى بن خلف ثنا عبد الأعلى عن محمد بن إسحاق قال حدثني عبد الله بن أبي بكر عن أم عيسى الجزار قالت أخبرتني أم عون بنت محمد بن جعفر عن جدتها أسماء بنت عميس أنها قالت لما كان اليوم الذي أصيب فيه جعفر أتاني رسول الله صلى الله عليه وسلم فذكر مثل حديث إبراهيم بن سعد. <span class="page-no" title="end of page 147 of vol. 24">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV35P374A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV35P374A">MZTXV35P374A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 35 pp. 374-40</div>
+  </header>
+  <div class="witness-text">
+    وأخبرنا أبو إسحاق ابن الدرجي قال أنبأنا أبو جعفر الصيدلاني في جماعة قالوا أخبرتنا فاطمة بنت عبد الله قالت أخبرنا أبو بكر بن ريذة قالت أخبرنا أبو القاسم الطبراني قال حدثنا محمود بن محمد الواسطي قال حدثنا يحيى بن خلف قال حدثنا عبد الاعلى عن محمد بن إسحاق قال حدثني عبد الله بن أبي بكر عن أم عيسى الجزار قالت أخبرتني أم عون بنت محمد بن جعفر عن جدتها أسماء بنت عميس أنها قالت لما كان اليوم الذي أصيب فيه جعفر وأصحابه أتاني رسول الله صلى الله عليه وسلم فذكر الحديث وبه قال حدثنا علي بن عبد العزيز قال حدثنا أحمد بن محمد بن أيوب صاحب المغازي قال حدثنا إبراهيم بن سعدعن محمد بن إسحاق قال حدثني عبد الله بن أبي بكر عن أم عيسى عن أم جعفر بنت محمد بن جعفر بن أبي طالب <span class="page-no" title="end of page 374 of vol. 35">§</span> عن جدتها أسماء بنت عميس نحوه. <span class="page-no" title="end of page 375 of vol. 35">§</span> <span class="page-no" title="end of page 40 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-MZTXV35P374A-1]
+
+```{=html}
+<article class="sira-report" id="SMJXV01P040A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SMJXV01P040A">SMJXV01P040A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 1 p. 40</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو سلمة يحيى بن خلف قال حدثنا عبد الأعلى عن محمد بن إسحاق عن مكحول عن غضيف بن الحارث عن أبي ذر قال سمعت رسول الله صلى الله عليه وسلم يقول إن الله وضع الحق على لسان عمر يقول به.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTKXV02P925A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTKXV02P925A">ZTKXV02P925A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 2 p. 925</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو الوليد عياش بن الوليد بن الرقام قال حدثنا عبد الأعلى قال حدثنا محمد بن إسحاق قال حدثني يحيى بن عروة عن أبيه عروة عن عبد الله بن عمرو بن العاصي قال قلت حدثني عن أشد ما رأيت قريشا بلغت من رسول الله إذ كان بمكة قال أما والله إني بذلك لعالم بينا أشراف قريش في الحجر وأنا معهم إذ تذكروا أمر رسول الله صلى الله عليه وسلم فقالوا ما رأينا مثل ما لقينا من هذا الرجل. @ZTKXV02P925A_BEG_WABAB <span class="page-no" title="end of page 925 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFMXV01P243A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFMXV01P243A">SFMXV01P243A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFMX" class="source-link"><span class='ref-author'>Yaʿqūb b. Sufyān al-Fārisī</span>, <span class='ref-title'>al-Maʿrifah waʾl-tārīkh</span></a>, vol. 1 p. 243</div>
+  </header>
+  <div class="witness-text">
+    حدثني عياش بن الوليد حدثنا عبد الأعلى حدثنا محمد بن إسحاق عن الزهري قال حدثني عبد الملك بن أبي بكر بن عبد الرحمن بن الحارث بن هشام عن أبيه عن عبد الله بن زمعة قال لما استعز برسول الله وأنا عنده في نفر من المسلمين قال دعاه بلال إلى الصلاة فقال مروا من يصلي بالناس فخرجت فإذا عمر في الناس وكان أبو بكر غائبا فقلت قم يا عمر فصل بالناس فلما كبر عمر سمع رسول الله صلى الله عليه وسلم صوته وكان عمر رجلا جهيرا فقال رسول الله صلى الله عليه وسلم أين أبو بكر يأبى الله ذلك والمسلمون <span class="page-no" title="end of page 243 of vol. 1">§</span> قال فبعث إلى أبي بكر فجاء بعد أن صلى عمر تلك الصلاة فصلى بالناس قال عبد الله بن زمعة قال لي عمر ويحك ما صنعت بي يا ابن زمعة والله ما ظننت حين أمرتني إلا أن رسول الله صلى الله عليه وسلم أمرك بذلك ولولا ذلك ما صليت بالناس قال قلت والله ما أمرني رسول الله صلى الله عليه وسلم بذلك ولكني حين لم أر أبا بكر حضر رأيتك أحق من حضر بالصلاة للناس. <span class="page-no" title="end of page 243 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFMXV01P453A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFMXV01P453A">SFMXV01P453A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFMX" class="source-link"><span class='ref-author'>Yaʿqūb b. Sufyān al-Fārisī</span>, <span class='ref-title'>al-Maʿrifah waʾl-tārīkh</span></a>, vol. 1 pp. 453-454</div>
+  </header>
+  <div class="witness-text">
+    حدثني عباس بن الوليد حدثنا عبد الأعلى حدثنا محمد بن إسحاق عن الزهري قال حدثني عبد الملك بن أبي بكر بن عبد الرحمن بن الحارث ابن هشام عن أبيه عن عبد الله بن زمعة قال لما استعز برسول الله صلى الله عليه وسلم وأنا عنده في نفر من المسلمين قال ودعاه بلال إلى الصلاة فقال مروا من يصلي بالناس فقال فخرجت فإذا عمر في الناس وكان أبو بكر غائبا فقلت قم يا عمر فصل بالناس فلما كبر عمر سمع رسول الله صلى الله عليه وسلم وكان عمر رجلا جهيرا قال فقال رسول الله صلى الله عليه وسلم أين أبو بكر يأبى الله ذلك والمسلمون يأبى <span class="page-no" title="end of page 453 of vol. 1">§</span> الله ذلك والمسلمون قال فبعث إلى أبي بكر فجاء بعد أن صلى عمر. <span class="page-no" title="end of page 454 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFMXV03P275A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFMXV03P275A">SFMXV03P275A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFMX" class="source-link"><span class='ref-author'>Yaʿqūb b. Sufyān al-Fārisī</span>, <span class='ref-title'>al-Maʿrifah waʾl-tārīkh</span></a>, vol. 3 pp. 275-276</div>
+  </header>
+  <div class="witness-text">
+    وقال يعقوب بن سفيان حدثنا فيض البجلي حدثنا سلام بن مسكين عن مقاتل بن حيان قال أوحى الله عز وجل الى عيسى بن مريم جد في أمري واسمع وأطع يا ابن الطاهرة البكر البتول أنا خلقتك من غير فحل فجعلتك آية للعالمين فإياي فاعبد فبين لأهل سوران بالسريانية بلغ من بين يديك أني أنا الحق القائم الذي لا أزول صدقوا بالنبي الأمي العربي صاحب الجمل والمدرعة والعمامة والنعلين والهراوة وهي القضيب الجعد الرأس الصلت الجبين المقرون الحاجبين الأنجل العينين الأهدب الأشفار الأدعج العينين الأقنى الأنف الواضح الخدين الكث اللحية عرقه في وجهه كاللؤلؤ ريح المسك ينضح منه كأن عنقه إبريق فضة وكأن الذهب يجري في تراقيه له شعرات من لبته الى سرته تجري كالقضيب ليس في بطنه شعر غيره شثن الكف والقدم إذا جاء مع الناس غمرهم وإذا مشى كأنما ينقلع من الصخر ويتحدر من صبب ذو النسل القليل وكأنه أراد الذكور من صلبه هكذا رواه البيهقي في دلائل النبوة من طريق يعقوب بن سفيان أخبرنا أبو محمد بن إسماعيل المكي قراءة عليه وأنا أسمع قال أنا أبو عبد الله بن أبي المعاملي بن محمد بن الحسين نزيل الاسكندرية سماعا <span class="page-no" title="end of page 275 of vol. 3">§</span> قال أنا أحمد بن محمد الشافعي قراءة عليه وأنا أسمع قال أنا أحمد بن علي بن الحسين قال أنا الحسن بن أحمد قال أنا عبد الله بن جعفر قال أنا يعقوب بن سفيان ثنا يوسف بن حماد المعنى ثنا عبد الأعلى عن محمد بن إسحاق. <span class="page-no" title="end of page 276 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KTHBV05P116A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTHBV05P116A">KTHBV05P116A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHB" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span></a>, vol. 5 pp. 116-117</div>
+  </header>
+  <div class="witness-text">
+    قال البيهقي أنبأنا الحاكم أنبأنا الأصم أنبأنا يحيى ثنا عبيد الله بن عمر القواريري ثنا عبد الأعلى ثنا محمد بن إسحاق عن نافع عن ابن عمر أن رسول الله صلى الله عليه وسلم لبد رأسه بالعسل وهذا اسناد جيد <span class="page-no" title="end of page 116 of vol. 5">§</span> ثم أنه عليه السلام أشعر الهدي وقلده وكان معه بذي الحليفة قال الليث عن عقيل عن الزهري عن سالم عن أبيه تمتع رسول الله صلى الله عليه وسلم في حجة الوداع بالعمرة إلى الحج وأهدى فساق معه الهدي من ذي الحليفة. <span class="page-no" title="end of page 117 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KTHBV05P266A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTHBV05P266A">KTHBV05P266A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHB" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span></a>, vol. 5 pp. 266-267</div>
+  </header>
+  <div class="witness-text">
+    وقال أبو يعلى حدثنا جعفر بن مهران ثنا عبد الأعلى عن محمد بن إسحاق حدثني حسين بن عبد الله عن عكرمة عن ابن عباس قال لما أرادوا أن يحفروا للنبي صلى الله عليه وسلم وكان أبو عبيدة الجراح يضرح كحفر أهل مكة وكان أبو طلحة زيد بن سهل <span class="page-no" title="end of page 266 of vol. 5">§</span> هو الذي كان يحفر لأهل المدينة وكان يلحد فدعا العباس رجلين فقال لأحدهما اذهب الى أبى عبيدة وقال للآخر أذهب الى أبى طلحة اللهم خره لرسولك قال فوجد صاحب أبي طلحة أبا طلحة فجاء به فلحد لرسول الله صلى الله عليه وسلم فلما فرغ من جهاز رسول الله صلى الله عليه وسلم يوم الثلاثاء وضع على سريره في بيته وقد كان المسلمون اختلفوا في دفنه فقال قائل ندفنه في مسجده وقال قائل ندفنه مع أصحابه فقال أبو بكر إني سمعت رسول الله صلى الله عليه وسلم يقول ما قبض نبي إلا دفن حيث قبض فرفع فراش رسول الله صلى الله عليه وسلم الذي توفي فيه فحفروا له تحته ثم أدخل الناس على رسول الله صلى الله عليه وسلم يصلون عليه أرسالا الرجال حتى إذا فرغ منهم أدخل النساء حتى إذا فرغ النساء أدخل الصبيان ولم يؤم الناس على رسول الله صلى الله عليه وسلم أحد فدفن رسول الله صلى الله عليه وسلم من أوسط الليل ليلة الأربعاء. <span class="page-no" title="end of page 267 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DRQMV04P2159A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DRQMV04P2159A">DRQMV04P2159A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQM" class="source-link"><span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>al-Muʾtalif waʾl-mukhtalif</span></a>, vol. 4 pp. 2159-2160</div>
+  </header>
+  <div class="witness-text">
+    قال البخاري قال عياش بن الوليد حدثنا عبد الأعلى حدثنا محمد بن إسحاق حدثني محمد بن يحيى بن حبان قال كان جدي منقذ بن عمرو أصابته آمة في رأسه فكسرت لسانه ونازعت عقله وكان لا يدع التجارة ولا يزال يغبن فذكر ذلك لرسول الله صلى الله عليه وسلم فقال إذا بعت فقل لا خلابة وأنت في كل سلعة ابتعتها بالخيار ثلاث ليال وعاش ثلاثين ومئة سنة وكان في زمان عثمان حين كثر الناس يبتاع في السوق فيغبن فيصير إلى أهله فيلومونه فيرده ويقول إن النبي صلى الله عليه وسلم جعلني بالخيار ثلاث ليال حتى يمر الرجل من أصحاب النبي صلى الله عليه وسلم فيقول صدق قال ذلك البخاري فيما أخبرنا علي بن إبراهيم عن ابن فارس عنه <span class="page-no" title="end of page 2159 of vol. 4">§</span> وحدثنا به الحسين بن إسماعيل القاضي حدثنا محمد بن عمرو بن العباس الباهلي حدثنا عبد الأعلى بن عبد الأعلى عن ابن إسحاق بهذا نحوه. <span class="page-no" title="end of page 2160 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="IAZUV01P182A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#IAZUV01P182A">IAZUV01P182A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> IAZU, vol. 1 pp. 182-184</div>
+  </header>
+  <div class="witness-text">
+    حدثني إسحاق عن أحمد بن خالد عن ابن وضاح عن ابن أبي شيبة قال حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق قال حدثني عبيد الله بن المغيرة عن سليمان بن عمرو بن عبد عن أبي سعيد الخدري قال سمعت رسول الله صلى الله عليه وسلم قال يوضع الصراط بين ظهراني جهنم على حسك كحسك السعدان ثم يستجيز الناس فناج مسلم ومخدوج به ثم ناج ومحتبس ومنكوس فيها فإذا فرغ الله من القضاء بين العباد يفقد المؤمنون رجالا كانوا في الدنيا يصلون صلاتهم ويزكون زكاتهم ويصومون صيامهم ويحجون حجهم ويغزون غزوهم فيقولون أي ربنا عباد من عبادك كانوا معنا في الدنيا يصلون صلاتنا ويزكون زكاتنا ويصومون صيامنا ويغزون غزونا لا نراهم قال فيقول اذهبوا إلى النار فمن وجدتم فيها فأخرجوه قال فيجدونهم قد أخذتهم النار على قدر أعمالهم فمنهم من أخذته إلى قدميه ومنهم من أخذته إلى أنصاف ساقيه ومنهم من أخذته إلى ركبتيه ومنهم من أخذته إلى أزرته ومنهم من أخذته إلى عنقه ولم تغش <span class="page-no" title="end of page 182 of vol. 1">§</span> الوجه قال فيخرجونهم منها فيطرحونهم في ماء الحياة قيل يا نبي الله وما ماء الحياة قال غسل أهل الجنة فينبتون كما تنبت الزرعة غثاء السيل ثم يشفع الأنبياء في كل من كان يشهد أن لا إله إلا الله مخلصا فيخرجونهم منها قال ثم يتحنن الله برحمته على من فيها فما يترك فيها عبدا في قلبه مثقال حبة من إيمان إلا أخرجه منها <span class="page-no" title="end of page 183 of vol. 1">§</span> باب. <span class="page-no" title="end of page 184 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MWNXV05P008A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MWNXV05P008A">MWNXV05P008A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MWNX" class="source-link"><span class='ref-author'>Yaʿqūb b. Isḥāq Abū ʻAwānah</span>, <span class='ref-title'>Mustakhraj Abī ʿAwānah</span></a>, vol. 5 p. 8</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو العباس بن الفضل الأسفاطي قال ثنا عباس بن الوليد الرقام قثنا عبد الأعلى عن محمد بن إسحاق عن سفيان الثوري عن أبيه عن عباية بن رفاعة عن رافع بن خديج قال قلنا يا رسول الله إنا نرجو أن نلقى عدونا ولا تكون معنا مدى فنأكل بذبحة القصبة قال نعم كل ما أنهر الدم ذكاة إلا السن والظفر وذلك أن الظفر مدي الحبشة فاجتنبوهما وقال إن لهذه الإبل أوابد كأوابد الوحش فما ند لكم منها فافعلوا به ما تفعلون بالوحش. <span class="page-no" title="end of page 8 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV04P269A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P269A">STBXV04P269A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 269</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبدان بن أحمد ثنا أزهر بن مروان الرقاشي ثنا عبد الأعلى ثنا محمد بن إسحاق عن سفيان بن سعيد عن أبيه عن عباية بن رفاعة بن رافع بن خديج عن رافع بن خديج قال قلنا يا رسول الله إنا نرجو أن نلقى عدونا فعسى أن لا يكون معنا بعض العدة مما يصلحنا أفنأكل كل ذبيحة القصبة قال نعم كل ما أنهر الدم ذكاة إلا السن والظفر. <span class="page-no" title="end of page 269 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBMV01P090A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV01P090A">SHBMV01P090A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 1 p. 90</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن فاطمة بنت المنذر عن أسماء بنت أبي بكر قالت كنا في حجرها مع بنات ابنتها فكانت إحدانا تطهر ثم تصلي ثم تنكس بالصفرة اليسيرة فتسألها فتقول اعتزلن الصلاة ما رأيتن ذلك حتى لا ترين إلا البياض خالصا. <span class="page-no" title="end of page 90 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NHXXV01P193A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NHXXV01P193A">NHXXV01P193A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NHXX" class="source-link"><span class='ref-author'>ʿAbd Allāh b. Yūsuf b. Muḥammad al-Zaylaʿī</span>, <span class='ref-title'>Nasb al-rāyah li-aḥādīth al-hidāyah</span></a>, vol. 1 p. 193</div>
+  </header>
+  <div class="witness-text">
+    روى ابن شيبة في مصنفه حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن فاطمة بنت المنذر عن أسماء بنت أبي بكر قالت كنا في حجرها مع بنات ابنها فكانت إحدانا تطهر ثم تصلي ثم تنكسر بالصفرة اليسيرة فتسألها فتقول اعتزلن الصلاة ما رأيتن ذلك حتى لا ترين إلا البياض خالصا انتهى. <span class="page-no" title="end of page 193 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MGHSV01P881A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MGHSV01P881A">MGHSV01P881A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MGHS" class="source-link"><span class='ref-author'>Mughalṭāy b. Qalīj</span>, <span class='ref-title'>Sharḥ sunan Ibn Mājah</span></a>, vol. 1 p. 881</div>
+  </header>
+  <div class="witness-text">
+    وحدثنا أبو سلمة يحيى بن خلف ثنا عبد الأعلى عن محمد بن إسحاق وثنا أبو بكر بن أبي شيبة ثنا جرير عن منصور عن إبراهيم عن الأسود عن عائشة قالت كانت إحدانا إذا حاضت أمرها النبي صلى الله عليه وسلم أن تأتزر بإزار ثم يباشرها. <span class="page-no" title="end of page 881 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STJXV07P369A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STJXV07P369A">STJXV07P369A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 7 pp. 369-108</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن يعقوب نا زياد بن يحيى نا عبد الأعلى عن محمد بن إسحاق عن عمران بن أبي أنس عن سليمان بن يسار وأبي سلمة بن عبد الرحمن أنهما حدثاه عن عائشة قالت حاضت صفية بنت حيي وهي مع رسول الله صلى الله عليه وسلم كانت أفاضت قبل ذلك فلما صدر رسول الله صلى الله عليه وسلم عن منى قيل له إن صفية قد حاضت قال فعسى أن تحبسنا قالوا يا رسول الله إنها قد أفاضت قال فلتنفر. <span class="page-no" title="end of page 369 of vol. 7">§</span> <span class="page-no" title="end of page 108 of vol. 7">§</span>
+  </div>
+</article>
+```
+
+[^comment-STJXV07P369A-1]
+
+```{=html}
+<article class="sira-report" id="HJRTV07P107A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJRTV07P107A">HJRTV07P107A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span></a>, vol. 7 p. 107</div>
+  </header>
+  <div class="witness-text">
+    حديث مي خز جا عه حب قط ش حم بينا رجل واقف مع رسول الله صلى الله عليه وسلم بعرفة إذ وقع عن راحلته <span class="page-no" title="end of page 107 of vol. 7">§</span> فأقعصته الحديث مي في الحج أنا سليمان بن حرب ثنا حماد بن زيد عن أيوب عن سعيد بن جبير به خز فيه ثنا أحمد بن عبدة ثنا حماد به وعن يعقوب بن إبراهيم وأحمد بن منيع قالا ثنا هشيم أنا أيوب عن سعيد نحوه وعن محمد بن عبد الأعلى الصنعاني عن المعتمر بن سليمان سمعت أيوب نحوه وعن الزعفراني عن عبيدة عن منصور عن الحكم بن عتيبة. وعن سلم بن جنادة عن وكيع عن سفيان وعن الفضل بن يعقوب عن عبد الأعلى عن محمد بن إسحاق عن أبان بن صالح كلاهما عن عمرو بن دينار.
+  </div>
+</article>
+```
+
+### <span lang="ar" dir="rtl">ثم دخلت سنة ست وخمسين</span>
+
+
+
+#### <span lang="ar" dir="rtl">غزوة رودس</span>
+
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `THSHV08P320A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="THSHV08P320A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#THSHV08P320A">THSHV08P320A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 8 pp. 320-28</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SHBMV03P028G</span> وما قد حدثنا عمران بن موسى الطائي قال حدثنا عياش بن الوليد الرقام قال حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن ثمامة بن شفي قال خرجنا في غزاة في زمن معاوية وعلينا فضالة بن عبيد الأنصاري فتوفي ابن عم لي يقال له نافع بن عبيد فقام معنا على حفرته فلما دفناه قال خففوا عن حفرته فإن رسول الله صلى الله عليه وسلم كان يأمر بتسوية القبور. <span class="page-no" title="end of page 320 of vol. 8">§</span> <span class="page-no" title="end of page 28 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="SHBMV03P028G" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SHBMV03P028G">SHBMV03P028G</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 3 p. 28</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV08P320A</span> حدثنا عبد الأعلى عن محمد بن إسحاق عن ثمامة بن شفي قال خرجنا غزاة في زمان معاوية إلى هذا الدرب وعلينا فضالة بن عبيد قال فتوفي ابن عم لي يقال له نافع فقام معنا فضالة على حفرته فلما دفناه قال خففوا عن حفرته فإن رسول الله صلى الله عليه وسلم كان يأمر بتسوية القبور.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `THSHV08P320A`:** [^comment-THSHV08P320A-1]
+
+
+##### <span lang="ar" dir="rtl">التشهد في الصلاة</span>
+
+
+```{=html}
+<article class="sira-report" id="TBTDV01P323B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBTDV01P323B">TBTDV01P323B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBTD" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Tahdhīb al-athār</span></a>, vol. 1 pp. 323-349</div>
+  </header>
+  <div class="witness-text">
+    حدثني محمد بن يحيى القطعي قال حدثنا عبد الأعلى بن عبد الأعلى قال حدثنا محمد بن إسحاق عن عبد الرحمن بن الأسود عن أبيه قال حدثنا عبد الله بن مسعود أن رسول الله صلى الله عليه وسلم علمه التشهد في الصلاة قال كنا نحفظه عن عبد الله بن مسعود كما نحفظ حروف القرآن قال جلس على وركه اليسرى قال التحيات لله والصلوات والطيبات السلام عليك أيها النبي ورحمة الله وبركاته السلام علينا وعلى عباد الله الصالحين أشهد ألا إله إلا الله وأشهد أن محمدا عبده <span class="page-no" title="end of page 323 of vol. 1">§</span> ورسوله ثم يدعو لنفسه ثم يسلم وينصرف. <span class="page-no" title="end of page 324 of vol. 1">§</span> <span class="page-no" title="end of page 349 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-TBTDV01P323B-1]
+
+```{=html}
+<article class="sira-report" id="KHZXV01P349A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KHZXV01P349A">KHZXV01P349A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHZX" class="source-link"><span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span></a>, vol. 1 p. 349</div>
+  </header>
+  <div class="witness-text">
+    نا القطعي محمد بن يحيى نا عبد الأعلى نا محمد بن إسحاق عن عبد الرحمن بن الأسود عن أبيه أنا عبد الله بن مسعود أن رسول الله صلى الله عليه وسلم علمه التشهد في الصلاة قال كنا نحفظه عن عبد الله بن مسعود كما نحفظ حروف القرآن الواو والألف فإذا جلس على وركه اليسرى قال التحيات لله والصلوات والطيبات السلام عليك أيها النبي ورحمة الله وبركاته السلام علينا وعلى عباد الله الصالحين أشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله ثم يدعو لنفسه ثم يسلم وينصرف.
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-KHZXV03P036D-1]: This refers to an event apparently late in Muḥammad&#x27;s life when it became difficult for him to complete the recitation of the prayer. It is not found in the redaction of Ibn Hishām, nor is the phrase &quot;Umm al-Qur&#x27;an.&quot; This represents one of Ibn Isḥāq&#x27;s most frequently reused passages. Placement is based on content dealing with prayer. The passage is also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P409A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 409), <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P413A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 413), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099C</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BYTX" class="source-ref">BYTXV01P131D</a> (<span class='ref-author'>Aḥmad b. Muḥammad b. Ibrāhīm al-Thaʿlabī</span>, <span class='ref-title'>Al-Kashf waʾl-bayān ʿan tafsīr al-Qurʾān</span>, vol. 1 p. 131), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P234C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 234), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-KTHR" class="source-ref">KTHRV04P580A</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 4 p. 580), and <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WASKA.html" class="witness-link">WASKA</a> (ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī): <a href="../references.html#ref-TMSX" class="source-ref">TMSXV02P116B</a> (<span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>Sunan al-Tirmidhī</span>, vol. 2 p. 116), <a href="../references.html#ref-TMBX" class="source-ref">TMBXV01P406B</a> (<span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>Sunan al-Tirmidhī</span>, vol. 1 p. 406), <a href="../references.html#ref-HKSX" class="source-ref">HKSXV03P194A</a> (<span class='ref-author'>al-Haytham</span>, <span class='ref-title'>Musnad</span>, vol. 3 p. 194), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HMMX" class="source-ref">HMMXV02P264A</a> (<span class='ref-author'>Al-Ḥusayn b. Masʿūd b. Muḥammad al-Baghawī al-Shāfiʿī</span>, <span class='ref-title'>Maʿālim al-tanzīl fī tafsīr al-Qurʾān</span>, vol. 2 p. 264), <a href="../references.html#ref-HMBS" class="source-ref">HMBSV03P082A</a> (<span class='ref-author'>al-Ḥusayn b. Masʿūd b. Muḥammad al-Baghawī al-Shāfiʿī</span>, <span class='ref-title'>Sharḥ al-sunnah</span>, vol. 3 p. 82), <a href="../references.html#ref-HKMX" class="source-ref">HKMXV02P200D</a> (<span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span>, vol. 2 p. 200), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222); <a href="WYSAU.html" class="witness-link">WYSAU</a> (Yaḥyā b. Saʿīd b. Abān al-Qurashī al-Umawī al-Kūfī): <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36); <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P343A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 343), <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P410A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 410), <a href="../references.html#ref-DWNX" class="source-ref">DWNXV01P217B</a> (<span class='ref-author'>Abū Dāwūd Sulaymān b. al-Ashʿath</span>, <span class='ref-title'>Sunan Abī Dāwūd</span>, vol. 1 p. 217), <a href="../references.html#ref-KHMS" class="source-ref">KHMSV01P205C</a> (<span class='ref-author'>al-Khattābī</span>, <span class='ref-title'>Maʿālim al-sunan huwa sharḥ Sunan Abī Dāwūd</span>, vol. 1 p. 205), <a href="../references.html#ref-BQMX" class="source-ref">BQMXV03P080B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Maʿrifat al-sunan waʾl-āthār</span>, vol. 3 p. 80), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HKMX" class="source-ref">HKMXV02P200C</a> (<span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span>, vol. 2 p. 200), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-ASHD" class="source-ref">ASHDV03P495A</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>Sharḥ Sunan Abī Dāwūd</span>, vol. 3 p. 495), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah): <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P086B</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 86), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P097A</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 97), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī): <a href="../references.html#ref-JNSM" class="source-ref">JNSMV01P088G</a> (<span class='ref-author'>Ibn al-Jārūd</span>, <span class='ref-title'>al-Muntaqā min al-sunan al-musnadah</span>, vol. 1 p. 88), <a href="../references.html#ref-BQRX" class="source-ref">BQRXV01P207A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Sunan al-ṣaghīr</span>, vol. 1 p. 207), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P234A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 234), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P218A</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 218), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P368A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 368), <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36), <a href="../references.html#ref-HAMA" class="source-ref">HAMAV02P197B</a> (<span class='ref-author'>Al-Ḥasan b. ʿAlī b. Naṣr al-Ṭūsī</span>, <span class='ref-title'>Mukhtaṣar al-aḥkām</span>, vol. 2 p. 197), <a href="../references.html#ref-DHRS" class="source-ref">DHRSV03P107A</a> (<span class='ref-author'>Ibn al-Mundhir</span>, <span class='ref-title'>al-Awsaṭ fī al-sunan waʾl-ijmāʿ waʾl-ikhtilāf</span>, vol. 3 p. 107), <a href="../references.html#ref-THSM" class="source-ref">THSMV01P215C</a> (<span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ maʿānī al-āthār</span>, vol. 1 p. 215), <a href="../references.html#ref-HKSX" class="source-ref">HKSXV03P190A</a> (<span class='ref-author'>al-Haytham</span>, <span class='ref-title'>Musnad</span>, vol. 3 p. 190), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P095A</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 95), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099B</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BYTX" class="source-ref">BYTXV01P131D</a> (<span class='ref-author'>Aḥmad b. Muḥammad b. Ibrāhīm al-Thaʿlabī</span>, <span class='ref-title'>Al-Kashf waʾl-bayān ʿan tafsīr al-Qurʾān</span>, vol. 1 p. 131), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-KTHR" class="source-ref">KTHRV04P579B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 4 p. 579), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WMAAI.html" class="witness-link">WMAAI</a> (Muḥammad b. Abī ʿAdī (Ibrāhīm) al-Baṣrī): <a href="../references.html#ref-BKHJ" class="source-ref">BKHJV01P061C</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Juzʾ al-qiraʾah khalfa al-imām</span>, vol. 1 p. 61) and <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56); <a href="WAANH.html" class="witness-link">WAANH</a> (ʿAbd Allāh b. Numayr al-Hamdānī al-Khāraqī al-Kūfī): <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044C</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P095A</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 95), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WUMHA.html" class="witness-link">WUMHA</a> (ʿUmar b. Ḥabīb): <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099A</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah): <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WYAHA.html" class="witness-link">WYAHA</a> (Yazīd b. Abī Ḥabīb (Suwayd) al-Azdī al-Miṣrī): <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56); <a href="WHSDB.html" class="witness-link">WHSDB</a> (Ḥammād b. Salamah b. Dīnār al-Baṣrī): <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56); and without a witness: <a href="../references.html#ref-IHMA" class="source-ref">IHMAV02P271A</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 2 p. 271) and <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P064B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 64).
+[^comment-MZMFV01P083B-1]: This passage is a part of a genre of traditions that focus on camels, in this instance, weak camels. Place in ādāb section. Also see <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) <a href="../references.html#ref-ZZBX" class="source-ref">ZZBXV15P041B</a> (<span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span>, vol. 15 p. 41), <a href="WSYSL.html" class="witness-link">WSYSL</a> (Saʿdān Saʿīd b. Yaḥyā b. Ṣāliḥ al-Lakhmī al-Kūfī) <a href="../references.html#ref-TDSH" class="source-ref">TDSHV52P346C</a> (<span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span>, vol. 52 p. 346), and <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī) <a href="../references.html#ref-BKAM" class="source-ref">BKAMV01P277G</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>al-Adab al-mufrad</span>, vol. 1 p. 277), <a href="../references.html#ref-THQX" class="source-ref">THQXV02P306C</a> (<span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Aḥkām al-Qurʾān al-karīm</span>, vol. 2 p. 306), <a href="../references.html#ref-THSM" class="source-ref">THSMV02P160E</a> (<span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ maʿānī al-āthār</span>, vol. 2 p. 160), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV15P622A</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 15 p. 622) for similar fragments.
+[^comment-ZZBXV15P123B-1]: <a href="../references.html#ref-ZZBX" class="source-ref">ZZBXV15P123B</a> (<span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span>, vol. 15 p. 123) also states, &quot;وهذا الحديث لا نعلم رواه عن سعيد عن أبيه عن أبي هريرة إلا محمد بن إسحاق.&quot;
+[^comment-MNMQV01P160B-1]: References to the Isrāʾ are also found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī).
+[^comment-SMJXV01P274A-1]: Passage not found in HSNX. Passage deals with prayer and the recitation of the Qurʾān. Varriations on the passage are also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WYZAA.html" class="witness-link">WYZAA</a> (Yazīd b. Zurayʿ al-ʿAyshī al-Baṣrī), and <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī).
+[^comment-MYWXV08P061A-1]: Passage found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P654B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 654). Similar passages are also found in <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī).
+[^comment-SHBMV07P431A-1]: Passage not found in HSNX. The verse regarding stoning is discussed in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P564A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 564) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P566A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 566) and <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P658A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 658), the latter in reference to the events following the prophet&#x27;s death. A shorter version of the passage is also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī). Context suggests placment approximately near <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P658A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 658).
+[^comment-SMJXV01P625A-1]: Passage not found in the redaction of Ibn Hishām. The verse regarding stoning is discussed in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P564A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 564) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P566A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 566) and <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P658A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 658), the latter in reference to the events following the prophet&#x27;s death. Similar passages are found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) on <a href="../references.html#ref-HBHX" class="source-ref">HBHXV43P342B</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 43 p. 342), <a href="../references.html#ref-BMMX" class="source-ref">BMMXV01P057A</a> (<span class='ref-author'>Abū ʿAbd Allāh al-Baghdādī</span>, <span class='ref-title'>Amālī al-maḥāmilī</span>, vol. 1 p. 57), <a href="../references.html#ref-IMAQ" class="source-ref">IMAQV01P006A</a> (<span class='ref-author'>Ibn al-Maḥāmilī</span>, <span class='ref-title'>Amālī</span>, vol. 1 p. 6), and <a href="../references.html#ref-JWMQ" class="source-ref">JWMQV01P167B</a> (<span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>Mawāsikh al-Qurʾān</span>, vol. 1 p. 167). <a href="../references.html#ref-HBHX" class="source-ref">HBHXV43P342B</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 43 p. 342) seems more naturally to be placed following <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P564A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 564).
+[^comment-ZZBXV18P257A-1]: The isnād for this passage is: حدثنا يحيى بن خلف قال حدثنا عبد الأعلى بن عبد الأعلى عن محمد بن إسحاق عن عبد الله بن أبي بكر عن عمرة عن عائشة رضي الله عنها.
+[^comment-SHBMV03P161B-1]: This passage is not located in HSNX. This is an identity passage, here to establish that Ibn Isḥāq had met al-Qāsim b. Muḥammad. al-Qāsim b. Muḥammad b. Abī Bakr al-Ṣiddīq, was the grandson of the first caliph. His daughter, Farwah, was married to Muḥammad b. ʿAlī b. Ḥusayn, b. ʿAlī b. Abī Ṭālib. He was known as a critic of the Qadarīyah movement and a collector of traditions, which he arranged alphabetically. He died in 108, at the age of 70 or 72 (<a href="../references.html#ref-TKXX" class="source-ref">TKXXV05P142C</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 5 p. 142) to <a href="../references.html#ref-TKXX" class="source-ref">TKXXV05P148F</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 5 p. 148)). Ibn Isḥāq is quoted in unwitnesses passages speaking about the qualities of al-Qāsim b. Muḥammad, giving the impression that he knew him fairly well (<a href="../references.html#ref-JWSS" class="source-ref">JWSSV01P351I</a> (<span class='ref-author'>al-Ibn Jawzī</span>, <span class='ref-title'>Ṣifat al-ṣafwah</span>, vol. 1 p. 351), as well as <a href="../references.html#ref-JWZX" class="source-ref">JWZXV07P123C</a> (<span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>al-Muntaẓam fī Tārīkh al-mulūk waʾl-umam</span>, vol. 7 p. 123)), similar fragments are also found in <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), <a href="WAZID.html" class="witness-link">WAZID</a> (ʿAbd al-ʿAzīz b. Muḥammad b. ʿUbayd b. Abī ʿUbayd al-Darāwardī), and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī). He is mentioned as a link in six different chains of transmission in HSNX, but in none of these is he mentioned as a direct source. Ibn Isḥāq does transmit directly from his son, ʿAbd al-Raḥmān b. al-Qāsim b. Muḥammad, in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P381B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 381) (also see <a href="WSHAK.html" class="witness-link">WSHAK</a> (Sulaymān b. Ḥayyān al-Azdī al-Aḥmar al-Kūfī al-Jaʿfarī)). al-Qāsim b. Muḥammad is also mentioned in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) in several places. In addition, he is cited in traditions related via <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah), <a href="WMHAL.html" class="witness-link">WMHAL</a> (Muḥammad b. al-Ḥajjāj al-Lakhmī), <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī). <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) includes a story in which al-Qāsim b. Muḥammad is a character as well as traditions in which he is a transmitter.
+[^comment-MZTXV35P374A-1]: Passage not found in HSNX. Similar passages are found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī). Seems to come before <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P380B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 380) as a missing preramble to the account that follows that announces the beginning of the account of Asmā bint ʿUmays. An extensive account of Muʾtah is found, in addition to <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī), in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī).
+[^comment-STJXV07P369A-1]: <a href="../references.html#ref-STJX" class="source-ref">STJXV07P369A</a> (<span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span>, vol. 7 p. 369) states: قال فصدر بها رسول الله صلى الله عليه وسلم وهي في دمها لم يرو هذا الحديث عن سليمان بن يسار إلا عمران بن أبي أنس ولا عن عمران إلا محمد بن إسحاق تفرد به عبد الأعلى.
+[^comment-THSHV08P320A-1]: Aḥmad b. Muḥammad al-Ṭaḥāwī goes on to say, &quot;فعقلنا بهذين الحديثين أن ثمامة المذكور في أحدهما هو أبو علي المذكور في الآخر منهما وأن أبا علي المذكور في أحدهما هو ثمامة المذكور في الآخر منهما والله نسأله التوفيق.&quot; This passage is not found in the redaction of Ibn Hishām. Variations of this fragment are located in <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī): <a href="../references.html#ref-SHBM" class="source-ref">SHBMV03P024L</a> (<span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span>, vol. 3 p. 24); <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī): <a href="../references.html#ref-STBX" class="source-ref">STBXV18P313C</a> (<span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span>, vol. 18 p. 313) and <a href="../references.html#ref-BQSX" class="source-ref">BQSXV03P576E</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 3 p. 576); <a href="WABAB.html" class="witness-link">WABAB</a> (ʿAbd al-Aʿlā b. ʿAbd al-Aʿlā al-Shāmī al-Baṣrī): <a href="../references.html#ref-THSH" class="source-ref">THSHV08P320A</a> (<span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span>, vol. 8 p. 320) and <a href="../references.html#ref-SHBM" class="source-ref">SHBMV03P028G</a> (<span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span>, vol. 3 p. 28); <a href="WMUTK.html" class="witness-link">WMUTK</a> (Muḥammad b. ʿUbayd b. Abī Umayyah ʿAbd al-Raḥmān al-Īyādī al-Ṭanāfisī al-Kūfī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV39P359B</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 39 p. 359); and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV39P362A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 39 p. 362) and <a href="../references.html#ref-KTHR" class="source-ref">KTHRV07P018B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 7 p. 18). It is a part of a series of traditions that originate from Faḍālah b. ʿUbayd, related to Ibn Isḥāq through Thumāmah b. Shufayy. According to <a href="../references.html#ref-BKHB" class="source-ref">BKHBV02P177D</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span>, vol. 2 p. 177), Abū ʿAlī Thumāmah b. Shufayy al-Hamdānī only related from a few people, including Faḍālah, ʿUqbah b. ʿĀmir, and Qubayṣah b. Dhuʾayb. He appears to have been regarded as one of the people of Egypt. <a href="../references.html#ref-RZJX" class="source-ref">RZJXV02P466C</a> (<span class='ref-author'>Ibn Abī Ḥātim al-Rāzī</span>, <span class='ref-title'>al-Jarḥ waʾl-taʿdīl</span>, vol. 2 p. 466) states that Thumāmah related material to Ibn Isḥāq as well as Yazīd b. Abī Ḥabīb, the source of the only clarification tradition in the group found on in the <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī) witness; all other the other traditions come to Ibn Isḥāq directly through Thumāmah. ʿAbd al-Raḥmān b. Aḥmad b. Yūnus al-Ṣadafī, in his history of Egypt, refers to him as Thumāmah b. Shufayy al-Hamdānī, as well as al-Uḥrūjī al-Miṣrī, although what “Uḥrūj” refers to in not known. al-Ṣadafī claims that Thumāmah participated in the raid on Rhodes (Rūdas) with Faḍālah b. ʿUbayd and that he died before 120/737 during the caliphate of Hishām b. ʿAbd al-Mālik (reign c. 724-743) (see <a href="../references.html#ref-TYNX" class="source-ref">TYNXV01P080A</a> (<span class='ref-author'>Abū Saʿīd ʿAbd al-Raḥmān b. Aḥmad b. Yūnus al-Ṣadafī</span>, <span class='ref-title'>Taʾrīkh Ibn Yūnus al-Miṣrī</span>, vol. 1 p. 80)). al-Mizzī states that Thumāmah settled in Alexandria (<a href="../references.html#ref-MZTX" class="source-ref">MZTXV04P404A</a> (<span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span>, vol. 4 p. 404)). The tradition witnessed by <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī) and <a href="WMUTK.html" class="witness-link">WMUTK</a> (Muḥammad b. ʿUbayd b. Abī Umayyah ʿAbd al-Raḥmān al-Īyādī al-Ṭanāfisī al-Kūfī) (who were brothers and likely heard the story at the same time), state that the event took place in the time of Muʿāwiyah during the invasion of “Rūm” (see <a href="../references.html#ref-SHBM" class="source-ref">SHBMV03P024L</a> (<span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span>, vol. 3 p. 24) and <a href="../references.html#ref-HBHX" class="source-ref">HBHXV39P359B</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 39 p. 359) respectively). <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) also states in one of the traditions he witnessed that it occurred during the invasion of “Rūm” but does not place it in a time period (see <a href="../references.html#ref-HBHX" class="source-ref">HBHXV39P362A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 39 p. 362)). According to Khalīfah b. Khayyāṭ, the invasion of Rhodes occurred in 59/678-679, the last year of Muʿāwīyah’s reign, under the leadership of Junādah b. Abī Umayyah (see <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P227B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 227)). There is, however, some dispute about the year that Faḍālah b. ʿUbayd died, some placing his death in 53, others in 67. Ibn Kathīr, quoting Ibn al-Jawzī, states that Faḍālah died in 55, apparently just before the capture of Rhodes, which he covers in the following section (see <a href="../references.html#ref-KTHB" class="source-ref">KTHBV08P078B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 8 p. 78)). If this is accurate, the tradition may have had a foreshadowing element since it talks about death and burial just before Faḍālah’s own death. Placement should be in the year 55 or 56 under the heading of the Invasion of Rhodes.
+[^comment-TBTDV01P323B-1]: This passage is not found in the redaction of Ibn Hishām. Note that the <em>isnād</em> found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) on <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P204A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 204) begins with ʿĀʾishah but similar fragments that also examine the <em>tashahhud</em> prayer, with a different formula, is eye-witnessed by ʿAbd Allāh b. Masʿūd and provided to Ibn Isḥāq by ʿAbd al-Raḥmān b. al-Aswad in <a href="WABAB.html" class="witness-link">WABAB</a> (ʿAbd al-Aʿlā b. ʿAbd al-Aʿlā al-Shāmī al-Baṣrī) on <a href="../references.html#ref-TBTD" class="source-ref">TBTDV01P323B</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Tahdhīb al-athār</span>, vol. 1 p. 323) and <a href="../references.html#ref-KHZX" class="source-ref">KHZXV01P349A</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 1 p. 349). <a href="../references.html#ref-ASHD" class="source-ref">ASHDV04P271C</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>Sharḥ Sunan Abī Dāwūd</span>, vol. 4 p. 271) states that Ibn Isḥāq also related a tradition sourced from ʿAbd Allāh b. Masʿūd via <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), but he does not provide a quotation. <a href="../references.html#ref-HJII" class="source-ref">HJIIV04P129C</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Iṭrāf al-musnid al-maʿtalī bi-Iṭrāf al-musnad al-Ḥanbalī</span>, vol. 4 p. 129) lists a fragment via <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) eye-witnessed by ʿAbd Allāh b. Masʿūd, and provided to Ibn Isḥāq by ʿAbd al-Raḥmān b. al-Aswad, but does not mention other traditions, such as that sourced by Ibn Isḥāq from ʿĀʾishah. An unwitnessed fragment is also found on <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P203A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 203).

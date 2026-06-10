@@ -1,0 +1,32 @@
+---
+title: "ʿAbd al-ʿAzīz b. Muḥammad b. ʿUbayd b. Abī ʿUbayd al-Darāwardī"
+lang: "en"
+witness-code: "WAZID"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد العزيز بن محمد بن عبيد بن ابي عبيد الدراوردي</span>
+
+**Witness code:** `WAZID`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAZID">
+```
+
+```{=html}
+<article class="sira-report" id="ZTTHV02P153H" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTTHV02P153H">ZTTHV02P153H</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTTH" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr al-safar al-thālith</span></a>, vol. 2 p. 153</div>
+  </header>
+  <div class="witness-text">
+    حدثنا ابن الأصبهاني قال حدثنا ابن الدراوردي عن محمد بن إسحاق قال صلى القاسم بن محمد الصبح في المسجد صبيحة عرسه وعليه معصفرة. <span class="page-no" title="end of page 153 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

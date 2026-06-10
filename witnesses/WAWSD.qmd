@@ -1,0 +1,270 @@
+---
+title: "ʿAbd al-Wārith b. Saʿīd b. Dhakhwān al-Tamīmī al-Tanūrī al-Baṣrī, sometimes as ʿAbd al-Wārith b. al-Ṣamd"
+lang: "en"
+witness-code: "WAWSD"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الوارث بن سعيد بن ذخوان التميمي التنوري البصري او عبد الوارث بم عبد الصمد</span>
+
+**Witness code:** `WAWSD`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAWSD">
+```
+
+```{=html}
+<article class="sira-report" id="AAIBV02P124D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#AAIBV02P124D">AAIBV02P124D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAIB" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Itḥāf al-khiyrah al-maharah bi-Zawāʾid al-masānid al-ʿashrah</span></a>, vol. 2 pp. 124-125</div>
+  </header>
+  <div class="witness-text">
+    وقال مسدد ثنا عبد الوارث عن محمد بن إسحاق عن أبي إسحاق عن الحارث عن علي قال نهاني رسول الله صلى الله عليه وسلم عن أربع وسألته عن أربع نهاني أن أصلي وأنا عاقص شعري وأن أقلب الحصى في الصلاة وأن أختص يوم الجمعة بصوم وأن أحتجم وأنا صائم وسألته عن أدبار النجوم وأدبار السجود فقال أدبار السجود الركعتين بعد المغرب وإدبار النجوم الركعتين قبل الغداة وسألته عن الحج الأكبر قال هو يوم النحر وسألته عن الصلاة الوسطى قال هي العصر التي فرط فيها هذا إسناد ضعيف لضعف الحارث بن عبد الله الهمداني الأعور وتدليس محمد بن إسحاق <span class="page-no" title="end of page 124 of vol. 2">§</span> روى الترمذي في الجامع منه الحج الأكبر يوم النحر عن عبد الوارث ابن عبد الصمد بن عبد الوارث عن أبيه عن محمد بن إسحاق به. <span class="page-no" title="end of page 125 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ASHDV05P135D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ASHDV05P135D">ASHDV05P135D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ASHD" class="source-link"><span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>Sharḥ Sunan Abī Dāwūd</span></a>, vol. 5 pp. 135-136</div>
+  </header>
+  <div class="witness-text">
+    نا عبد الله بن عمرو أبو معمر نا عبد الوارث نا محمد ابن إسحاق عن محمد بن جعفر عن ابن عبد الله بن أنيس عن أبيه قال بعثني رسول الله صلى الله عليه وسلم إلى خالد بن سفيان الهذلي وكان نحو عرنة وعرفات قال اذهب فاقتله قال فرأيته وحضرت صلاة العصر فقلت إنه لأخاف أن يكون بيني وبينه ما أن أؤخر الصلاة فانطلقت أمشي وأنا أصلي أومئ إيماء نحوه فلما دنوت منه قال لي من أنت قلت رجل من العرب بلغني أنك تجمع لهذا الرجل فجئتك في ذاك <span class="page-no" title="end of page 135 of vol. 5">§</span> قال إني لفي ذاك فمشيت معه ساعة حتى إذا أمكنني علوته بسيفي حتى برد ش عبد الوارث بن سعيد ومحمد بن جعفر بن الزبير بن العوام وابن عبد الله بن أنيس هذا هو عبد الله بن عبد الله بن أنيس جاء ذلك مبينا في رواية محمد بن سلمة الحراري عن محمد بن إسحاق <span class="page-no" title="end of page 136 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYHXV01P072A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYHXV01P072A">NYHXV01P072A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYHX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Ḥilyat al-awlīyāʾ wa-ṭabaqāt al-aṣfīyāʾ</span></a>, vol. 1 pp. 72-73</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن أحمد بن محمد بن الحارث ثنا الفضل بن الحباب الجمحي ثنا مسدد ثنا عبد الوارث بن سعيد عن محمد بن إسحاق عن النعمان بن سعد قال كنت بالكوفة في دار الإمارة دار علي بن أبي طالب إذ دخل علينا نوف بن عبد الله فقال يا أمير المؤمنين بالباب أربعون رجلا من اليهود فقال علي علي بهم فلما وقفوا بين يديه قالوا له يا علي صف لنا ربك هذا الذي في السماء كيف هو وكيف كان ومتى كان وعلى أي شيء هو فاستوى علي جالسا وقال معشر اليهود اسمعوا مني ولا تبالوا أن لا تسألوا أحدا غيري إن ربي عز وجل هو الأول لم يبد مما ولا ممازج معما ولا حال وهما ولا شبح يتقصى ولا محجوب فيحوى ولا كان بعد أن لم يكن فيقال حادث بل جل أن يكيف المكيف للأشياء كيف كان بل لم يزل ولا يزول لاختلاف الأزمان ولا لتقلب شان بعد شان وكيف يوصف <span class="page-no" title="end of page 72 of vol. 1">§</span> بالأشباح وكيف ينعت بالألسن الفصاح من لم يكن في الأشياء فيقال بائن ولم يبن عنها فيقال كائن بل هو بلا كيفية وهو أقرب من حبل الوريد وأبعد في الشبه من كل بعيد لا يخفى عليه من عباده شخوص لحظة ولا كرور لفظة ولا ازدلاف ربوة ولا انبساط خطوة في غسق ليل داج ولا إدلاج لا يتغشى عليه القمر المنير ولا انبساط الشمس ذات النور بضوئها في الكرور ولا إقبال ليل مقبل ولا إدبار نهار مدبر إلا وهو محيط بما يريد من تكوينه فهو العالم بكل مكان وكل حين وأوان وكل نهاية ومدة والأمد إلى الخلق مضروب والحد إلى غيره منسوب لم يخلق الأشياء من أصول أولية ولا بأوائل كانت قبله بدية بل خلق ما خلق فأقام خلقه وصور ما صور فأحسن صورته توحد في علوه فليس لشيء منه امتناع ولا له بطاعة شيء من خلقه انتفاع إجابته للداعين سريعة والملائكة في السموات والأرضين له مطيعة علمه بالأموات البائدين كعلمه بالأحياء المتقلبين وعلمه بما في السموات العلى كعلمه بما في الأرض السفلى وعلمه بكل شيء لا تحيره الأصوات ولا تشغله اللغات سميع للأصوات المختلفة بلا جوارح له مؤتلفة مدبر بصير عالم بالأمور حي قيوم سبحانه كلم موسى تكليما بلا جوارح ولا أدوات ولا شفة ولا لهوات سبحانه وتعالى عن تكييف الصفات من زعم أن إلهنا محدود فقد جهل الخالق المعبود ومن ذكر أن الأماكن به تحيط لزمته الحيرة والتخليط بل هو المحيط بكل مكان فإن كنت صادقا أيها المتكلف لوصف الرحمن بخلاف التنزيل والبرهان فصف لي جبريل وميكائيل وإسرافيل هيهات أتعجز عن صفة مخلوق مثلك وتصف الخالق المعبود وأنت تدرك صفة رب الهيئة والأدوات فكيف من لم تأخذه سنة ولا نوم له ما في الأرضين والسموات وما بينهما وهو رب العرش العظيم. <span class="page-no" title="end of page 73 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="QDISV01P151B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#QDISV01P151B">QDISV01P151B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-QDIS" class="source-link"><span class='ref-author'>Ibn Qudāmah</span>, <span class='ref-title'>Ithbāt ṣifat al-ʿuluw</span></a>, vol. 1 p. 151</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا محمد أنبأ حمد أنبأ أبو نعيم أنبأ أبو بكر أحمد بن محمد بن الحارث ثنا الفضل بن الحباب الجمحي ثنا مسدد ثنا عبد الوارث بن سعيد عن محمد بن إسحاق عن النعمان بن سعد قال كنت بالكوفة في دار الإمارة دار علي بن أبي طالب رضي الله عنه إذ دخل علينا نوف بن عبد الله فقال يا أمير المؤمنين بالباب أربعون رجلا من اليهود فقال علي علي بهم فلما وقفوا بين يديه قالوا له يا علي صف لنا ربك هذا الذي هو في السماء كيف هو وكيف كان ومتى كان وعلى أي شيء هو فاستوى علي جالسا فقال يا معشر اليهود اسمعوا مني ولا تبالوا أن لا تسألوا أحدا غيري إن ربي عز وجل هو الأول لم يبد مما ولا ممازج مع ما ولا حال وهما ولا شيخ ينقضي. <span class="page-no" title="end of page 151 of vol. 1">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `BQSXV03P364A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="BQSXV03P364A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQSXV03P364A">BQSXV03P364A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 3 pp. 364-43</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQWXV04P042A</span> <span class="variant-id">VAR_DHSLV02P012B</span> <span class="variant-id">VAR_KTHRV05P018B</span> <span class="variant-id">VAR_KTHBV04P160B</span> <span class="variant-id">VAR_KTHSV03P267B</span> أخبرنا أبو نصر عمر بن عبد العزيز بن عمر بن قتادة أنبأ أبو محمد عبد الله بن أحمد بن سعد الحافظ ثنا أبو عبد الله محمد بن إبراهيم العبدي ثنا النفيلي ثنا محمد بن سلمة عن محمد بن إسحاق حدثني محمد بن جعفر بن الزبير عن عبيد الله يعني ابن عبد الله بن أنيس عن أبيه عبد الله بن أنيس أنه قال دعاني رسول الله صلى الله عليه وسلم فقال إنه بلغني أن ابن نبيح الهذلي يجمع الناس ليغزوني وهو بنخلة أو بعرنة فأته فاقتله قلت يا رسول الله انعته لي حتى أعرفه قال آية ما بينك وبينه أنك إذا رأيته وجدت له قشعريرة قال فخرجت متوشحا بسيفي حتى دفعت إليه في ظعن يرتاد بهن منزلا حتى كان وقت العصر فلما رأيته وجدت له ما وصف لي رسول الله صلى الله عليه وسلم من القشعريرة فأقبلت نحوه وخشيت أن يكون بيني وبينه مجادلة تشغلني عن الصلاة فصليت وأنا أمشي نحوه أومئ برأسي إيماء فلما انتهيت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاء لذلك قال أجل نحن في ذلك قال فمشيت معه شيئا حتى إذا أمكنني حملت عليه بالسيف فقتلته ثم خرجت وتركت ظعاينه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم قال أفلح الوجه قلت قد قتلته يا رسول الله قال صدقت ثم قام بي رسول الله صلى الله عليه وسلم فدخل بيته فأعطاني عصا فقال امسك هذه عندك يا عبد الله بن أنيس فخرجت بها على الناس فقالوا ما هذه العصا معك يا عبد الله بن أنيس قلت أعطانيها رسول الله صلى الله عليه وسلم وأمرني أن أمسكها عندي قالوا أفلا ترجع إليه فتسأله عن ذلك قال فرجعت إليه فقلت يا رسول الله لم أعطيتني هذه العصا قال آية ما بيني وبينك يوم القيامة وإن أقل الناس المتخصرون يومئذ قال فقرنها عبد الله بن أنيس بسيفه فلم يزل معه حتى إذا مات أمر بها فضمت معه في كفنه فدفنا جميعا وكذلك رواه إبراهيم بن سعد وعبد الوارث بن سعيد عن محمد بن إسحاق بن يسار. <span class="page-no" title="end of page 364 of vol. 3">§</span> <span class="page-no" title="end of page 43 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQWXV04P042A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQWXV04P042A">BQWXV04P042A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQWX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Dalāʾil al-nubūwah wa maʿarifah aḥwāl ṣāḥib al-sharīʿah</span></a>, vol. 4 p. 42</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQSXV03P364A</span> <span class="variant-id">VAR_DHSLV02P012B</span> <span class="variant-id">VAR_KTHRV05P018B</span> <span class="variant-id">VAR_KTHBV04P160B</span> <span class="variant-id">VAR_KTHSV03P267B</span> قال حدثنا ابن إبراهيم العبدي قال حدثنا النفيلي قال حدثنا محمد بن سلمة عن محمد بن إسحاق قال حدثنا محمد بن جعفر بن الزبير عن عبد الله يعني ابن عبد الله بن أنيس عن أبيه عبد الله بن أنيس قال دعاني رسول الله صلى الله عليه وسلم فقال إنه بلغني أن ابن نبيح الهذلي يجمع الناس ليغزوني وهو بنخله أو بعرنة فأتيه فاقتله قلت يا رسول الله انعته لي حتى أعرفه قال آية ما بينك وبينه أنك إذا رأيته وجدت له قشعريرة قال فخرجت متوشحا بسيفي حتى دفعت إليه في ظعن يرتاد بهن منزلا حين كان وقت العصر فلما رأيته وجدت له ما وصف لي رسول الله صلى الله عليه وسلم من القشعريرة فأقبلت نحوه وخشيت أن تكون بيني وبينه محاولة تشغلني عن الصلاة فصليت وأنا أمشي نحوه أومئ برأسي إيماء فلما انتهيت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاء لذلك قال أجل نحن في ذلك قال فمشيت معه شيئا حتى إذا أمكنني حملت عليه بالسيف فقتلته ثم خرجت وتركت ظعائنه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم قال أفلح الوجه قلت قد قتلته يا رسول الله قال صدقت ثم قام بي رسول الله صلى الله عليه وسلم فدخل بي بيته فأعطاني عصا فقال أمسك هذه عندك يا عبد الله بن أنيس فخرجت بها على الناس فقالوا ما هذه العصا معك يا عبد الله بن أنيس قلت أعطانيها رسول الله صلى الله عليه وسلم وأمرني أن أمسكها عندي قالوا أفلا ترجع إليه فتسأله عن ذلك قال فرجعت إليه فقلت يا رسول الله لم أعطيتني هذه <span class="page-no" title="end of page 42 of vol. 4">§</span> العصا قال آية بيني وبينك يوم القيامة إن أقل الناس المتخصرون يومئذ قال فقرنها عبد الله بسيفه فلم تزل معه حتى إذا مات أمر بها فضمت معه في كفنه فدفنا جميعا رواه عبد الوارث بن سعيد عن محمد بن إسحاق بن يسار وقال إلى خالد بن سفيان الهذلي. 458
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DHSLV02P012B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DHSLV02P012B">DHSLV02P012B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHSL" class="source-link"><span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Siyar aʿlām al-nubalāʾ</span></a>, vol. 2 p. 12</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQSXV03P364A</span> <span class="variant-id">VAR_BQWXV04P042A</span> <span class="variant-id">VAR_KTHRV05P018B</span> <span class="variant-id">VAR_KTHBV04P160B</span> <span class="variant-id">VAR_KTHSV03P267B</span> وقال محمد بن سلمة عن ابن إسحاق حدثني محمد بن جعفر بن الزبير عن عبد الله بن عبد الله بن أنيس عن أبيه قال دعاني رسول الله صلى الله عليه وسلم فقال إنه بلغني أن ابن نبيح الهذلي يجمع الناس ليغزوني وهو بنخلة أو بعرنة فأته فاقتله قلت يا رسول الله انعته لي حتى أعرفه قال آية ما بينك وبينه أنك إذا رأيته وجدت له قشعريرة فخرجت متوشحا سيفي حتى دفعت إليه في ظعن يرتاد لهن منزلا وقت العصر فلما رأيته وجدت له ما وصف لي رسول الله صلى الله عليه وسلم من القشعريرة فأقبلت نحوه وخشيت أن يكون بيني وبينه مجاولة تشغلني عن الصلاة فصليت وأنا أمشي نحوه أومئ برأسي إيماء فلما انتهت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاء لذلك قال أجل نحن في ذلك فمشيت معه حتى إذا أمكنني حملت عليه بالسيف فقتلته ثم خرجت وتركت ظعائنه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم قال أفلح الوجه قلت قد قتلته يا رسول الله قال صدقت ثم قام بي فدخل بي بيته فأعطاني عصا فقال أمسك هذه عندك فخرجت بها على الناس فقالوا ما هذه العصا فقلت أعطانيها رسول الله صلى الله عليه وسلم وأمرني أن أمسكها عندي قالوا أفلا ترجع فتسأله فرجعت فسألته لم أعطيتنيها يا رسول الله قال آية بيني وبينك يوم القيامة إن أقل الناس المتخصرن يومئذ قال فقرنها عبد الله بسيفه فلم تزل معه حتى إذا مات أمر بها فضمت معه في كفنه فدفنا جميعا رواه عبد الوارث بن سعيد عن ابن إسحاق فقال إلى خالد بن سفيان الهذلي. <span class="page-no" title="end of page 12 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHRV05P018B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHRV05P018B">KTHRV05P018B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHR" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span></a>, vol. 5 pp. 18-19</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQSXV03P364A</span> <span class="variant-id">VAR_BQWXV04P042A</span> <span class="variant-id">VAR_DHSLV02P012B</span> <span class="variant-id">VAR_KTHBV04P160B</span> <span class="variant-id">VAR_KTHSV03P267B</span> حدثنا يعقوب حدثنا أبى قال عن ابن إسحاق قال حدثنى محمد بن جعفر بن الزبير عن ابن عبد الله بن أنيس عن أبيه قال دعانى رسول الله صلى الله عليه وسلم فقال إنه قد بلغنى أن خالد ابن سفيان بن نبيج يجمع لى الناس ليغزونى وهو بعرنة فائته فاقتله قال قلت يا رسول الله انعته لى حتى أعرفه قال إذا رأيته وجدت له قشعريرة قال فخرجت متوشحا بسيفى حتى وقعت عليه وهو بعرنة مع ظعن يرتاد لهن منزلا وحين كان وقت العصر فلما رأيته وجدت ما وصف له رسول الله صلى الله عليه وسلم من الاقشعريرة فأقبلت نحوه وخشيت أن يكون بينى وبينه محاولة تشغلنى عن الصلاة فصليت وأنا أمشى نحوه وأومى برأسى الركوع والسجود فلما انتهيت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاءك لهذا قال أجل أنا فى ذلك قال فمشيت معه شيئا حتى إذا أمكننى حملت عليه بالسيف حتى قتلته ثم خرجت وتركت ظعائنه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم فرآنى فقال أفلح الوجه قال قلت قتلته يا رسول الله قال صدقت قال ثم قام معى رسول الله صلى الله عليه وسلم فدخل فى بيته فأعطانى عصا فقال أمسك هذه عندك يا عبد الله بن أنيس قال فخرجت <span class="page-no" title="end of page 18 of vol. 5">§</span> بها على الناس فقالوا ما هذه العصا قال قلت أعطانيها رسول الله صلى الله عليه وسلم وأمرنى أن أمسكها قالوا أولا ترجع إلى رسول الله صلى الله عليه وسلم فتسأله عن ذلك قال فرجعت إلى رسول الله صلى الله عليه وسلم فقلت يارسول الله لم أعطيتنى هذه العصا قال آية بينى وبينك يوم القيامة إن أقل الناس المتخصرون يومئذ يوم القيامة فقرنها عبد الله بسيفه فلم تزل معه حتى إذا مات أمر بها فصبت معه فى كفنه ثم دفنا جميعا ورواه أبو داود عن أبى معمر عن عبد الوارث عن محمد بن إسحاق به نحوه أو مثله. <span class="page-no" title="end of page 19 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHBV04P160B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHBV04P160B">KTHBV04P160B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHB" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span></a>, vol. 4 pp. 160-161</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQSXV03P364A</span> <span class="variant-id">VAR_BQWXV04P042A</span> <span class="variant-id">VAR_DHSLV02P012B</span> <span class="variant-id">VAR_KTHRV05P018B</span> <span class="variant-id">VAR_KTHSV03P267B</span> قال الإمام أحمد حدثنا يعقوب حدثنا أبي عن ابن إسحاق حدثني محمد بن جعفر بن الزبير عن ابن عبد الله بن أنيس عن أبيه قال دعاني رسول الله صلى الله عليه وسلم فقال إنه قد بلغني أن خالد بن سفيان بن نبيح الهذلي يجمع لي الناس ليغزوني وهو بعرنة فائته فاقتله قال قلت يا رسول الله انعته لي حتى أعرفه قال إذا رأيته وجدت له قشعريرة قال فخرجت متوشحا سيفي حتى وقعت عليه وهو بعرنة مع ظعن يرتاد لهن منزلا وحين كان وقت العصر فلما رأيته وجدت ما وصف لي رسول الله صلى الله عليه وسلم من القشعريرة فأقبلت نحوه وخشيت أن يكون بيني وبينه مجاولة تشغلني عن الصلاة فصليت وأنا أمشي نحوه أومئ برأسي للركوع والسجود فلما انتهيت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاءك لذلك قال أجل إنا في ذلك قال فمشيت معه شيئا حتى إذا أمكنني حملت عليه السيف حتى قتلته ثم خرجت وتركت ظعائنه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم فرآني قال أفلح الوجه قال قلت قتلته يا رسول الله قال صدقت قال ثم قام معي رسول الله صلى الله عليه وسلم فدخل في بيته فأعطاني عصا فقال أمسك هذه عندك يا عبد الله بن أنيس قال فخرجت بها على الناس فقالوا ما هذه العصا قال قلت أعطانيها رسول الله صلى الله عليه وسلم وأمرني أن أمسكها قالوا أو لا ترجع إلى رسول الله صلى الله عليه وسلم فتسأله عن ذلك قال فرجعت إلى رسول الله صلى الله عليه وسلم فقلت يا رسول الله لم أعطيتني هذه العصا قال آية بيني وبينك يوم القيامة إن أقل الناس المتخصرون يومئذ قال فقرنها عبد الله بسيفه فلم تزل معه حتى إذا مات أمر بها فضمت في كفنه ثم دفنا جميعا ثم رواه الإمام أحمد عن يحيى بن آدم عن عبد الله بن إدريس عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن بعض <span class="page-no" title="end of page 160 of vol. 4">§</span> ولد عبد الله بن أنيس أو قال عن عبد الله بن عبد الله بن أنيس عن عبد الله بن أنيس فذكر نحوه وهكذا رواه أبو داود عن أبي معمر عن عبد الوارث عن محمد بن إسحاق عن محمد بن جعفر عن عبد الله بن أنيس عن أبيه فذكر نحوه ورواه الحافظ البيهقي من طريق محمد بن سلمة عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن عبد الله بن عبد الله بن أنيس عن أبيه فذكره. <span class="page-no" title="end of page 161 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHSV03P267B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHSV03P267B">KTHSV03P267B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHS" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span></a>, vol. 3 pp. 267-268</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BQSXV03P364A</span> <span class="variant-id">VAR_BQWXV04P042A</span> <span class="variant-id">VAR_DHSLV02P012B</span> <span class="variant-id">VAR_KTHRV05P018B</span> <span class="variant-id">VAR_KTHBV04P160B</span> قال الإمام أحمد حدثنا يعقوب حدثنا أبي عن ابن إسحاق حدثني محمد بن جعفر بن الزبير عن ابن عبد الله بن أنيس عن أبيه قال دعاني رسول الله صلى الله عليه وسلم فقال إنه قد بلغني أن خالد بن سفيان بن نبيح الهذلي يجمع لي الناس ليغزوني وهو بعرنة فائته فاقتله قال قلت يا رسول الله انعته لي حتى أعرفه قال إذا رأيته وجدت له قشعريرة قال فخرجت متوشحا سيفي حتى وقعت عليه وهو بعرنة مع ظعن يرتاد لهن منزلا وحين كان وقت العصر فلما رأيته وجدت ما وصف لي رسول الله صلى الله عليه وسلم من القشعريرة فأقبلت نحوه وخشيت أن يكون بيني وبينه مجاولة تشغلني عن الصلاة فصليت وأنا أمشي نحوه أومئ برأسي للركوع والسجود فلما انتهيت إليه قال من الرجل قلت رجل من العرب سمع بك وبجمعك لهذا الرجل فجاءك لذلك قال أجل إنا في ذلك قال فمشيت معه شيئا حتى إذا أمكنني حملت عليه السيف حتى قتلته ثم خرجث وتركت ظعائنه مكبات عليه فلما قدمت على رسول الله صلى الله عليه وسلم فرآني قال أفلح الوجه قال قلت قتلته يا رسول الله قال صدقت قال ثم قام معي رسول الله صلى الله عليه وسلم فدخل في بيته فأعطاني عصا فقال أمسك هذه عندك يا عبد الله بن أنيس قال فخرجت بها على الناس فقالوا ما هذه العصا قال قلت أعطانيها رسول الله صلى الله عليه وسلم وأمرني أن أمسكها قالوا أو لا ترجع إلى رسول الله صلى الله عليه وسلم فتسأله عن ذلك قال فرجعت إلى رسول الله صلى الله عليه وسلم فقلت يا رسول الله لم أعطيتني <span class="page-no" title="end of page 267 of vol. 3">§</span> هذه العصا قال آية بيني وبينك يوم القيامة إن أقل الناس المتخصرون يومئذ قال فقرنها عبد الله بسيفه فلم تزل معه حتى إذا مات أمر بها فضمت في كفنه ثم دفنا جميعا ثم رواه الإمام أحمد عن يحيى بن آدم عن عبد الله بن إدريس عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن بعض ولد عبد الله بن أنيس أو قال عن عبد الله بن عبد الله بن أنيس عن عبد الله بن أنيس فذكر نحوه وهكذا رواه أبو داود عن أبي معمر عن عبد الوارث عن محمد بن إسحاق عن محمد بن جعفر عن عبد الله بن أنيس عن أبيه فذكر نحوه ورواه الحافظ البيهقي من طريق محمد بن سلمة عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن عبد الله ابن عبد الله بن أنيس عن أبيه فذكره. <span class="page-no" title="end of page 268 of vol. 3">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `BQSXV03P364A`:** [^comment-BQSXV03P364A-1]
+
+```{=html}
+<article class="sira-report" id="DHTIV02P347B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DHTIV02P347B">DHTIV02P347B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHTI" class="source-link"><span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Taʾrīkh al-Islām</span></a>, vol. 2 pp. 347-178</div>
+  </header>
+  <div class="witness-text">
+    رواه عبد الوارث بن سعيد، عن ابن إسحاق فقال: إلى خالد بن سفيان الهذلي. وقال موسى بن عقبة: بعثه رسول الله صلى الله عليه وسلم إلى سفيان بن عبد الله بن أبي نبيح الهذلي. <span class="page-no" title="end of page 347 of vol. 2">§</span> <span class="page-no" title="end of page 178 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-DHTIV02P347B-1]
+
+```{=html}
+<article class="sira-report" id="STBXV02P178A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV02P178A">STBXV02P178A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 2 p. 178</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن عبد العزيز ثنا أبو معمر المقعد ثنا عبد الوارث بن سعيد عن محمد بن إسحاق ح وحدثنا أبو شعيب الحراني ثنا أبو جعفر النفيلي ثنا محمد بن سلمة عن محمد بن إسحاق حدثني يعقوب بن عتبة عن مسلم بن عبد الله الجهني عن جندب بن عبد الله الجهني ح وحدثنا عبد الله بن أحمد بن حنبل ثنا جعفر بن مهران السباك ثنا عبد الأعلى السامي حدثنا محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله عن جندب بن عبد الله الجهني قال بعث رسول الله صلى الله عليه وسلم غالب بن عبد الله الكلبي كلب عوف بن ليث في سرية كنت فيهم فأمره أن يشن الغارة على بني الملوح بالكديد قال فخرجنا حتى إذا كنا بقديد لقينا الحارث بن برصاء الليثي فأخذناه قال إنما جئت لأسلم إنما خرجت أريد رسول الله صلى الله عليه وسلم قال قلنا إن تكن مسلما فلن يضرك رباط ليلة وإن تكن غير ذلك فسنوثق منك فأوثقناه رباطا ثم خلفنا عليه رويجلا لنا أسود كان معنا فقلنا له إن نازعك فاحتز رأسه ثم أتينا الكديد مع مغرب الشمس وكنا في ناحية من الوادي وبعثني أصحابي ربيئة لهم إلى تل مشرف على الحاضر قال فأسندت فيه حتى إذا كنت على ظهره ونظرت إلى القوم انبطحت فوالله إني لعليه أنظر إذ خرج رجل من خبائه فقال لامرأته والله إني لأرى سوادا ما رأيته في أول النهار فانظري في أوعيتك لا يكون الكلاب اجترت بعضها فنظرت قالت فوالله ما أفقد من أوعيتي شيئا قال أعطيني قوسي فأعطته قوسا وسهمين معها قال فرمى بسهم فوالله ما أخطأ جنبي قال فانتزعته وثبت قال ثم رمى بالآخر فوضعه في منكبي فانتزعته وثبت فقال لامرأته لو كانت زائلة لقد تحرك بعد لقد خالطه سهماي فإذا أنت أصبحت فابتغيهما فخذيهما لا تضيعهما الكلاب قال ثم دخل حتى إذا راحت رائحة الناس من إبلهم وغنمهم قد احتلبوا وغبطوا واطمأنوا شننا عليهم الغارة فقتلنا واستقنا الغنم ثم وجهناها وخرج صريخ القوم في قومهم فجاءهم الدهم فجاءوا في طلبنا حتى مررنا بابن البرصاء فانطلقنا به معنا وبصاحبنا الذي خلفناه قال فأدركنا القوم حتى نظرنا إليهم ما بيننا وبينهم إلا الوادي على ناحيته موجهين ومن ناحية الأخرى في طلبنا إذ جاء الله به من حيث شاء ما رأينا قبل ذلك مطرا ما يقدر أحد على أن يجيزه لقد رأيتهم وقوفا ينظرون إلينا ونحن نحدوها ما يقدر رجل منهم أن يصل إلينا حتى إذا عرجناها ما أنسى قول راجز من المسلمين وهو يحدوها في أعقابها البحر الرجز <span class='poetry-line'><span class='hemistich1'>أبى أبو القاسم أن تعزبي</span> <span class='hemistich2'>في خطل نباته مغلولب</span></span> صفر أعاليه كلون المذهب.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV05P140D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV05P140D">MZTXV05P140D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 5 pp. 140-141</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا به أبو إسحاق إبراهيم بن إسماعيل ابن الدرجي قال أنبأنا أبو جعفر الصيدلاني في جماعة قالوا أخبرتنا فاطمة بنت عبد الله قالت أخبرنا أبو بكر بن ريذة قال أخبرنا أبو القاسم الطبراني قال حدثنا علي بن عبد العزيز قال حدثنا أبو معمر المقعد قال حدثنا عبد الوارث بن سعيد عن محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله بن خبيب الجهني عن جندب بن مكيث الجهني قال بعث <span class="page-no" title="end of page 140 of vol. 5">§</span> رسول الله صلى الله عليه وسلم غالب بن عبد الله الكلبي كلب عوف بن ليث في سرية كنت فيهم فأمره أن يشن الغارة على بني الملوح بالكديدالحديث بطوله. <span class="page-no" title="end of page 141 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TKXXV02P094D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TKXXV02P094D">TKXXV02P094D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TKXX" class="source-link"><span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span></a>, vol. 2 pp. 94-95</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا عبد الله بن عمرو أبو معمر أخبرنا عبد الوارث بن سعيد أخبرنا محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله الجهني عن جندب بن مكيث الجهني قال بعث رسول الله صلى الله عليه وسلم غالب بن عبد الله الليثي ثم أحد بني كلب بن عوف في سرية فكتب فيهم وأمرهم أن يشنوا الغارة على بني الملوح بالكديد وهم من بني ليث قال فخرجنا حتى إذا كنا بقديد لقينا الحارث بن البرصاء الليثي فأخذناه فقال إنما جئت أريد الإسلام وإنما خرجت إلى رسول الله صلى الله عليه وسلم <span class="page-no" title="end of page 94 of vol. 2">§</span> قلنا إن تكن مسلما لم يضررك رباطنا يوما وليلة وإن تكن على غير ذلك نستوثق منك قال فشددناه وثاقا وخلفنا عليه رويجلا منا أسود فقلنا إن نازعك فاحتز رأسه فسرنا حتى أتينا الكديد عند غروب الشمس فكمنا في ناحية الوادي وبعثني أصحابي ربيئة لهم فخرجت حتى أتيت تلا مشرفا على الحاضر يطلعني عليهم حتى إذا أسندت عليهم فيه علوت على رأسه ثم اضطجعت عليه قال فإني لأنظر إذ خرج رجل منهم من خباء له فقال لامرأته إني أرى على هذا الجبل سوادا ما رأيته أول من يومي هذا فانظري إلى أوعيتك لا تكون الكلاب جرت منها شيئا قال فنظرت فقالت والله ما أفقد من أوعيتي شيئا قال فناوليني قوسي ونبلي فناولته قوسه وسهمين معها فأرسل سهما فو الله ما أخطأ بين عيني قال فانتزعته وثبت مكاني ثم أرسل آخر فوضعه في منكبي فانتزعته فوضعته وثبت مكاني فقال لامرأته والله لو كانت ربيئة لقد تحركت بعد والله لقد خالطها سهماي لا أبا لك فإذا أصبحت فانظريهما لا تمضغهما الكلاب قال ثم دخل وراحت الماشية من إبلهم وأغنامهم فلما احتلبوا وعطنوا واطمأنوا فناموا شننا عليهم الغارة واستقنا النعم قال فخرج صريخ القوم في قومهم فجاء ما لا قبل لنا به فخرجنا بها نحدرها حتى مررنا بابن البرصاء فاحتملناه واحتملنا صاحبنا فأدركنا القوم حتى نظروا إلينا ما بيننا وبينهم إلا الوادي ونحن موجهون في ناحية الوادي إذ جاء الله بالوادي من حيث شاء يملأ جنبتيه ماء والله ما رأينا يومئذ سحابا ولا مطرا فجاء بما لا يستطيع أحد أن يجوزه فلقد رأيتهم وقوفا ينظرون إلينا وقد أسندناها في المسيل هكذا قال وأما في رواية محمد بن عمر قال أسندناها في المشلل نحدرها وفتناهم فوتا لا يقدرون فيه على طلبنا قال فما أنسى قول راجز من المسلمين وهو يقول <span class='poetry-line'><span class='hemistich1'>أبى أبو القاسم أن تعز بي</span> <span class='hemistich2'>في خضل نباته مغلولب</span></span> صفر أعاليه كلون المذهب وزاد محمد بن عمر في روايته وذاك قول صادق لم يكذب قال فكانوا بضعة عشر رجلا قال عبد الوارث وحدثني هذا الحرف رجل عن محمد بن إسحاق أنه حدثه رجل من أسلم أنه كان شعارهم يومئذ أمت أمت. <span class="page-no" title="end of page 95 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZSHV02P447A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZSHV02P447A">MZSHV02P447A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZSH" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tuḥfat al-ashrāf bi-maʿrifat al-aṭrāf</span></a>, vol. 2 p. 447</div>
+  </header>
+  <div class="witness-text">
+    حديث بعث النبي صلى الله عليه وسلم عبد الله بن غالب الليثي في سرية وكنت فيهم وأمرهم أن يشنوا الغارة الحديث د في الجهاد عن أبي معمر عبد الله بن عمرو عن عبد الوارث بن سعيد عن محمد بن إسحاق عن يعقوب بن عتبة عن مسلم بن عبد الله عنه به كذا فيه عبد الله بن غالب والصواب غالب بن عبد الله. <span class="page-no" title="end of page 447 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="YNQXV10P083B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#YNQXV10P083B">YNQXV10P083B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-YNQX" class="source-link"><span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>ʿUmdat al-qārī sharḥ Ṣaḥīḥ al-Bukhārī</span></a>, vol. 10 p. 83</div>
+  </header>
+  <div class="witness-text">
+    وقال الترمذي باب ما جاء في الحج الأكبر حدثنا عبد الوارث بن عبد الصمد حدثنا أبي عن أبيه عن محمد بن إسحاق عن الحارث عن علي رضي الله تعالى عنه قال سألت رسول الله صلى الله عليه وسلم عن يوم الحج الأكبر فقال يوم النحر. <span class="page-no" title="end of page 83 of vol. 10">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTKXV01P122A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTKXV01P122A">ZTKXV01P122A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 1 p. 122</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن عمر القصبي قال حدثنا عبد الوارث قال حدثنا محمد بن إسحاق قال حدثني يعقوب بن عتبة عن مسلم بن عبد الله بن خبيب عن جندب بن مكيث قال بعث رسول الله صلى الله عليه وسلم غالب الليثي ثم أخا بني كلب بن عوف في سرية كنت فيها وأمره أن يشن الغارة على بني الملوح. <span class="page-no" title="end of page 122 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQWXV04P043B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQWXV04P043B">BQWXV04P043B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQWX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Dalāʾil al-nubūwah wa maʿarifah aḥwāl ṣāḥib al-sharīʿah</span></a>, vol. 4 p. 43</div>
+  </header>
+  <div class="witness-text">
+    رواه عبد الوارث بن سعيد عن محمد بن إسحاق بن يسار وقال إلى خالد بن سفيان الهذلي. <span class="page-no" title="end of page 43 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DHTIV02P347D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DHTIV02P347D">DHTIV02P347D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHTI" class="source-link"><span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Taʾrīkh al-Islām</span></a>, vol. 2 p. 347</div>
+  </header>
+  <div class="witness-text">
+    رواه عبد الوارث بن سعيد عن ابن إسحاق فقال إلى خالد بن سفيان الهذلي وقال موسى بن عقبة بعثه رسول الله صلى الله عليه وسلم إلى سفيان بن عبد الله بن أبي نبيح الهذلي. <span class="page-no" title="end of page 347 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-BQSXV03P364A-1]: This passage is similar to that found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P619G</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 619) concerning ʿAbd Allāh b. Unays’ raid on Khālid b. Sufyān b. Nubayḥ. Similar passages are also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) <a href="../references.html#ref-HBHX" class="source-ref">HBHXV25P440A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 25 p. 440), <a href="../references.html#ref-MYWX" class="source-ref">MYWXV02P201B</a> (<span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span>, vol. 2 p. 201), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV16P114C</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 16 p. 114), <a href="../references.html#ref-NYDX" class="source-ref">NYDXV01P517B</a> (<span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Dalāʾil al-nubūwah</span>, vol. 1 p. 517), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV03P364A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 3 p. 364), <a href="../references.html#ref-KTHR" class="source-ref">KTHRV05P018B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 5 p. 18), <a href="../references.html#ref-KTHB" class="source-ref">KTHBV04P160B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 4 p. 160), <a href="../references.html#ref-KTHS" class="source-ref">KTHSV03P267B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span>, vol. 3 p. 267), and VAR_<a href="../references.html#ref-HYZX" class="source-ref">HYZXV01P155C</a> (<span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr al-Haythamī</span>, <span class='ref-title'>Mawārid al-ẓamʾān ilā zawāʾid Ibn Ḥibbān</span>, vol. 1 p. 155); also see <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) on <a href="../references.html#ref-BQSX" class="source-ref">BQSXV03P364A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 3 p. 364), <a href="../references.html#ref-BQWX" class="source-ref">BQWXV04P042A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Dalāʾil al-nubūwah wa maʿarifah aḥwāl ṣāḥib al-sharīʿah</span>, vol. 4 p. 42), <a href="../references.html#ref-DHSL" class="source-ref">DHSLV02P012B</a> (<span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Siyar aʿlām al-nubalāʾ</span>, vol. 2 p. 12), <a href="../references.html#ref-DHTI" class="source-ref">DHTIV02P346B</a> (<span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Taʾrīkh al-Islām</span>, vol. 2 p. 346), <a href="../references.html#ref-KTHB" class="source-ref">KTHBV04P160B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 4 p. 160), and <a href="../references.html#ref-KTHS" class="source-ref">KTHSV03P267B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span>, vol. 3 p. 267); <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī) on <a href="../references.html#ref-HBHX" class="source-ref">HBHXV25P433A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 25 p. 433), <a href="../references.html#ref-RJXX" class="source-ref">RJXXV09P028A</a> (<span class='ref-author'>Muḥammad b. ʿAbd al-Wāḥid al-Maqdisī</span>, <span class='ref-title'>al-Aḥādīth al-mukhtārah</span>, vol. 9 p. 28), <a href="../references.html#ref-KTHS" class="source-ref">KTHSV03P267B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span>, vol. 3 p. 267), and <a href="../references.html#ref-KTHB" class="source-ref">KTHBV04P160B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 4 p. 160); and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) on <a href="../references.html#ref-TBRB" class="source-ref">TBRBV03P156B</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span>, vol. 3 p. 156). Many of these are not cited as independent traditions but as additional examples of transmission that are appended to the end of fragments.
+[^comment-DHTIV02P347B-1]: This goes with the story above, probably just before it.

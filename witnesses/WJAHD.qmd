@@ -1,0 +1,56 @@
+---
+title: "Jarīr b. ʿAbd al-Ḥamīd al-Ḍabbī"
+lang: "en"
+witness-code: "WJAHD"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية جرير بن عبد الحميد الضبي</span>
+
+**Witness code:** `WJAHD`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WJAHD">
+```
+
+```{=html}
+<article class="sira-report" id="NSSXV01P733A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P733A">NSSXV01P733A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 733</div>
+  </header>
+  <div class="witness-text">
+    حدثني أبو بكر محمد بن أحمد بن بالويه ثنا عبد الله بن أحمد بن حنبل ثنا عبيد الله بن عمر ثنا جرير بن عبد الحميد عن محمد بن إسحاق عن عمرو بن شعيب عن أبيه عن جده عن عبد الله وهو ابن عمرو رضي الله عنهما قال سمعت رسول الله صلى الله عليه وسلم يأمر بكلمات من الفزع أعوذ بكلمات الله التامات من غضبه ومن عقابه ومن شر عباده ومن همزات الشياطين وأن يحضرون قال كان عبد الله بن عمر ومن بلغ من ولد علمهن إياه فقالهن عند قومه ومن لم يبلغ منهم كتبها فعلقها في عنقه. <span class="page-no" title="end of page 733 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV13P228A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV13P228A">MZTXV13P228A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 13 p. 228</div>
+  </header>
+  <div class="witness-text">
+    ورواه الترمذي عن محمد بن حميد عن جرير بن عبد الحميد كلاهما عن محمد بن إسحاق عن الصلت بن عبد الله بن نوفل قال: رأيت ابن عباس يلبس خاتمه في كفه اليمنى ولا إخاله إلا قال وقد رأيت النبي صلى الله عليه وسلم يلبسه في كفه اليمني. <span class="page-no" title="end of page 228 of vol. 13">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV04P130A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV04P130A">BKHBV04P130A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 4 p. 130</div>
+  </header>
+  <div class="witness-text">
+    وقال لي يوسف بن راشد نا جرير عن ابن إسحاق عن زياد عن سليمان أبي منصور عن عبد الله بن المغيرة عن سليمان بن عمرو بن عبد الله عن أبي سعيد عن النبي صلى الله على وسلم الصراط بين ظهراني جهنم. <span class="page-no" title="end of page 130 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

@@ -1,0 +1,166 @@
+---
+title: "Ibn al-Mubārak, Abū ʿAbd al-Raḥmān ʿAbd Allāh b. Mubārak"
+lang: "en"
+witness-code: "WIBMK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية ابن المبارك ابو عيد الرحمن عبد الله بن مبارك</span>
+
+**Witness code:** `WIBMK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WIBMK">
+```
+
+```{=html}
+<article class="sira-report" id="TBJBV04P138B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBJBV04P138B">TBJBV04P138B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBJB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span></a>, vol. 4 pp. 138-530</div>
+  </header>
+  <div class="witness-text">
+    حدثني المثنى قال حدثنا سويد قال أخبرنا ابن المبارك عن محمد بن إسحاق عن نافع عن ابن عمر قال الفسوق ما أصيب من معاصي الله به صيد أو غيره. <span class="page-no" title="end of page 138 of vol. 4">§</span> <span class="page-no" title="end of page 530 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-TBJBV04P138B-1]
+
+```{=html}
+<article class="sira-report" id="HKMXV02P530A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HKMXV02P530A">HKMXV02P530A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HKMX" class="source-link"><span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span></a>, vol. 2 p. 530</div>
+  </header>
+  <div class="witness-text">
+    الترمذي حدثنا أبو كريب ثنا عبد الله بن المبارك ويونس بن بكير عن محمد بن إسحاق عن يزيد بن أبي حبيب عن مرثد بن عبد الله اليزني قال كان مالك بن هبيرة إذا صلى على جنازة فتقال الناس عليها جزأهم ثلاثة أجزاء ثم قال قال رسول الله صلى الله عليه وسلم من صلى عليه ثلاثة صفوف فقد أوجب قال أبو عيسى حديث ابن هبيرة حديث حسن هكذا روى غير واحد عن محمد بن إسحاق وروى إبراهيم بن سعد عن محمد بن إسحاق هذا الحديث
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MBJXV010P149A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MBJXV010P149A">MBJXV010P149A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MBJX" class="source-link"><span class='ref-author'>Ibn Mubārak</span>, <span class='ref-title'>al-Jihād</span></a>, vol. 10 pp. 149-150</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا إبراهيم حدثنا محمد حدثنا سعيد قال سمعت ابن المبارك عن محمد بن إسحاق بن يسار قال حدثني صدقة بن يسار عن عقيل بن جابر عن جابر قال رجنا مع رسول الله صلى الله عليه وسلم في غزوة ذات الرقاع فأصاب رجل من المسلمين امرأة رجل من المشركين فلما أن رأى رسول الله صلى الله عليه وسلم قافلا وجاء زوجها وكان غائبا فحلف أن لا ينتهي حتى يهريق دما من أصحاب محمد صلى الله عليه وسلم فخرج يتبع أثر النبي صلى الله عليه وسلم فنزل النبي صلى الله عليه وسلم منزلا فقال من رجل يكلؤنا ليلتنا هذه فانتدب رجل من المهاجرين ورجل من الأنصار فقالا نحن يا رسول الله قال فكونا بفم الشعب قال فكانوا نزلوا إلى شعب من الوادي فلما خرج الرجلان إلى فم <span class="page-no" title="end of page 149 of vol. 1">§</span> الشعب قال الأنصاري للمهاجري أي الليل أحب إليك أن أكفيكه أوله أو آخره قال اكفني أوله قال فاضطجع المهاجري فنام وقام الأنصاري يصلي قال وأتى الرجل فلما رأى شخص الرجل عرف أنه ربيئة القوم فرماه بسهم فوضعه فيه فانتزعه فوضعه وثبت قائما ثم رماه بسهم آخر فوضعه فيه فنزعه فوضعه وثبت قائما ثم عاد له بثالث فوضعه فيه فانتزعه فوضعه ثم ركع وسجد ثم أهب صاحبه فقال اجلس فقد أثبت فوثب فلما رآهما الرجل عرف أنه قد نذروا به فهرب فلما رأى المهاجري ما بالأنصاري من الدماء قال سبحان الله ألا أنبهتني أول ما رماك قال كنت في سورة أقرؤها فلم أحب أن أقطعها حتى أنفذها فلما تابع علي الرمي ركعت فأذنتك وايم الله لولا أني خشيت أن أضيع ثغرا أمرني رسول الله صلى الله عليه وسلم بحفظه لقطع نفسي قبل أن أقطعها أو أنفذها <span class="page-no" title="end of page 150 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="LFGHV01P438A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#LFGHV01P438A">LFGHV01P438A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-LFGH" class="source-link"><span class='ref-author'>Khalaf b. ʿAbd al-Mālik b. Bashkuwāl</span>, <span class='ref-title'>Kitāb Ghawāmiḍ al-asmāʾ al-mubhamah al-wāqiʿah fī mutūn al-aḥādīth al-musnadah</span></a>, vol. 1 p. 438</div>
+  </header>
+  <div class="witness-text">
+    عبد الرحمن بن مروان ثنا أحمد بن عون الله ثنا أبو داود ثنا توبة الربيع بن نافع قال ثنا ابن المبارك عن محمد بن إسحاق قال حدثني صدقة بن يسار عن عقيل بن جابر عن جابر قال خرجنا مع رسول الله صلى الله عليه وسلم في غزوة ذات الرقاع فأصاب رجل امرأة رجل من المشركين فلما انصرف رسول الله صلى الله عليه وسلم قافلا أتى زوجها وكان غائبا <span class="page-no" title="end of page 438 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MBJXV010P080A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MBJXV010P080A">MBJXV010P080A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MBJX" class="source-link"><span class='ref-author'>Ibn Mubārak</span>, <span class='ref-title'>al-Jihād</span></a>, vol. 10 p. 80</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد قال حدثنا ابن رحمة قال سمعت ابن المبارك عن محمد بن إسحاق قال حدثني يحيى بن عباد عن أبيه عن جده عن الزبير قال سمعت رسول الله صلى الله عليه وسلم يقول يومئذ أوجب طلحة <span class="page-no" title="end of page 80 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTKXV02P703A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTKXV02P703A">ZTKXV02P703A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 2 p. 703</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أحمد بن الحاج أبو العباس المروزي قال حدثنا ابن المبارك قال حدثنا محمد بن إسحاق قال حدثني يحيى بن عباد عن أبيه عن جده عبد الله بن الزبير عن الزبيرقال سمعت النبي صلى الله عليه وسلم يقول يوم أحد أوجب طلحة <span class="page-no" title="end of page 703 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV21P157A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV21P157A">TDSHV21P157A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 21 p. 157</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو غالب بن البنا أنا أبو محمد الجوهري أنا أبو عمر بن حيوية نا يحيى بن محمد بن صاعد نا الحسين بن الحسن أنا عبد الله بن المبارك عن محمد بن إسحاق حدثني بعض أصحابنا قال كان عمر بن الخطاب استعمل سعيد بن عامر بن حذيم على بعض الشام فكانت تصيبه غشية وهو بين ظهراني القوم فذكر ذلك لعمر فقيل له إن الرجل مصاب فسأله عمر في قدمة قدمها عليه فقال يا سعيد ما هذا الذي يصيبك قال والله يا أمير المؤمنين ما بي من بأس ولكني كنت فيمن حضر خبيب بن عدي حين قتل وسمعت دعوته فوالله ما خطرت على قلبي وأنا في مجلس قط إلا غشي علي قال فزادته تلك عند عمر خيرا <span class="page-no" title="end of page 157 of vol. 21">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMHV01P042B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMHV01P042B">NYMHV01P042B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMH" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Musnad al-Imām Abī Ḥanīfah</span></a>, vol. 1 pp. 42-342</div>
+  </header>
+  <div class="witness-text">
+    وأما حديث ابن المبارك فحدثناه محمد بن أحمد بن حمدان ثنا الحسن بن سفيان ثنا حبان بن موسى ثنا ابن المبارك عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع عن النبي صلى الله عليه وسلم مثله قال رسول الله صلى الله عليه وسلم أسفروا بالفجر فإنه أعظم للأجر <span class="page-no" title="end of page 42 of vol. 1">§</span> <span class="page-no" title="end of page 342 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-NYMHV01P042B-1]
+
+```{=html}
+<article class="sira-report" id="TMKXV01P342A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TMKXV01P342A">TMKXV01P342A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TMKX" class="source-link"><span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>ʿIlal al-Tirmidhī al-kabīr</span></a>, vol. 1 p. 342</div>
+  </header>
+  <div class="witness-text">
+    حدثنا هناد حدثنا ابن المبارك عن محمد بن إسحاق عن يزيد بن أبي حبيب عن مرثد بن عبد الله عن أبي بصرة الغفاري قال قال رسول الله صلى الله عليه وسلم إني راكب غدا إلى اليهود فلا تبدءوهم بالسلام فإذا سلموا عليكم فقولوا وعليكم
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MBJXV010P075A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MBJXV010P075A">MBJXV010P075A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MBJX" class="source-link"><span class='ref-author'>Ibn Mubārak</span>, <span class='ref-title'>al-Jihād</span></a>, vol. 10 p. 75</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد قال حدثنا ابن رحمة قال سمعت ابن المبارك عن محمد بن إسحاق قال حدثني الحصين بن عبد الرحمن بن عمرو بن سعد بن معاذ عن محمود بن عمرو عن يزيد بن السكن أن رسول الله صلى الله عليه وسلم لما لحمه القتال يومئذ يعني يوم أحد وخلص إليه وكان رسول الله صلى الله عليه وسلم قد ثقل وظاهر بين درعين يومئذ ودنا منه العدو فذب عنه المصعب بن عمير حتى قتل وأبو دجانة سماك بن خرشة حتى كثرت فيه الجراحة وأصيب وجه رسول الله صلى الله عليه وسلم وثلمت رباعيته وكلمت شفته وأصيبت وجنته فقال عند ذلك من رجل يبيع لنا نفسه فوثب فتية من الأنصار خمسة فيهم زياد بن السكن فقتلوا حتى كان آخرهم زياد بن السكن فقاتل حتى أثبت ثم ثاب إليه ناس من المسلمين فقاتلوا عنه حتى أجهضوا عنه العدو فقال رسول الله صلى الله عليه وسلم أدن مني وقد أثبتته الجراحة فوسده رسول الله صلى الله عليه وسلم قدمه حتى مات عليها وهو زياد بن السكن <span class="page-no" title="end of page 75 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MBJXV010P060A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MBJXV010P060A">MBJXV010P060A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MBJX" class="source-link"><span class='ref-author'>Ibn Mubārak</span>, <span class='ref-title'>al-Jihād</span></a>, vol. 10 p. 60</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد قال حدثنا ابن رحمة قال سمعت ابن المبارك عن محمد بن إسحاق قال حدثني إسماعيل بن أمية عن أبي الزبير المكي وغيره عن ابن عباس قال قال رسول الله صلى الله عليه وسلم لما أصيب إخوانكم بأحد جعل الله أرواحهم في أجواف طير خضر ترد أنهار الجنة وتأكل من ثمارها وتأوي إلى قناديل من ذهب في ظل العرش فلما وجدوا طيب مطعمهم ورأوا حسن منقلبهم قالوا ياليت إخواننا يعلمون ما أكرمنا الله به وما نحن فيه لئلا يزهدوا في الجهاد ولا ينكلوا عند الحرب فقال الله أنا أبلغهم عنكم فأنزل الله تبارك وتعالى <a href="https://quran.com/3/169" class="quran" title="Qurʾān 3.169" target="_blank">ولا تحسبن الذين قتلوا في سبيل الله</a> . <span class="page-no" title="end of page 60 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-MBJXV010P060A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-TBJBV04P138B-1]: This passage is stated in reference to Qurʾān 2:197.
+[^comment-NYMHV01P042B-1]: the “مثله” is added by the editor. The matn following the isnad is attributed to the isnad by Abu Naʿaym.
+[^comment-MBJXV010P060A-1]: A version of this passage is found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P119B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 119) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P120A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 120). It is also located in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī) (that is the most widely repeated), <a href="WIASA.html" class="witness-link">WIASA</a> (Ismāʿīl b. ʿAyyāsh b. Sulaym al-ʿAnsī al-Ḥumṣī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WMFGH.html" class="witness-link">WMFGH</a> (Muḥammad b. Fuḍayl b. Ghazwān b. Jarīr al-Ḍabbī al-Kūfī), and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī). Also note that both YISI and AMIB witnessed variations of this tradition from <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).

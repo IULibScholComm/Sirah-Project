@@ -1,0 +1,50 @@
+---
+title: "ʿAlī b. Mushir al-Kūfī al-Qurashī"
+lang: "en"
+witness-code: "WAMAQ"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية علي بن مسهر الكوفي القرشي</span>
+
+**Witness code:** `WAMAQ`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAMAQ">
+```
+
+```{=html}
+<article class="sira-report" id="NYMXV03P1553A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV03P1553A">NYMXV03P1553A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 3 p. 1553</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن أحمد ثنا محمد بن عثمان بن أبي شيبة ثنا منجاب ثنا علي بن مسهر ح وحدثنا محمد قال ثنا محمد بن عثمان ثنا عمي أبو بكر ثنا عبد الرحيم بن سليمان كلهم عن محمد بن إسحاق عن محمد بن طلحة عن أبيه طلحة عن معاوية بن جاهمة السلمي قال أتيت رسول الله صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد معك في سبيل الله أبتغي بذلك وجه الله والدار الآخرة قال أحية أمك قال قلت نعم قال الزمها قلت ما أرى رسول الله صلى الله عليه وسلم فهم عني قال ثم جئته من ناحية <span class="page-no" title="end of page 1553 of vol. 3">§</span> أخرى فقلت له مثل ذلك فقال أحية أمك قال قلت نعم قال الزمها قال قلت ما أرى رسول الله صلى الله عليه وسلم فهم عني قال ثم جئته من ناحية أخرى فقلت له مثل ذلك فقال أحية أمك فقلت نعم قال فالزم رجلها فثم الجنة. <span class="page-no" title="end of page 1553 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV24P061A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV24P061A">STBXV24P061A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 24 p. 61</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن عبد الله الحضرمي ثنا منجاب بن الحارث أنا علي بن مسهر عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن عروة بن الزبير عن عائشة قالت وقعت جويرية بنت الحارث بن المصطلق في سهم ثابت بن قيس بن شماس أو لابن عم له فكاتبت على نفسها فأتت رسول الله صلى الله عليه وسلم تستعينه في كتابتها فوالله ما هي إلا أن وقعت على باب الحجرة فكرهتها وكانت امرأة حسنة لا يراها أحد إلا أخذت بنفسه فقالت يا رسول الله أنا جويرية بنت الحارث بن أبي ضرار سيد قومه وقد أصابني من البلاء ما قد رأيت وإني قد وقعت في السهم لثابت بن قيس أو لابن عم له وكاتبته على نفسي فأتيت رسول الله صلى الله عليه وسلم أستعينه على كتابته فذكر الحديث بطوله. <span class="page-no" title="end of page 61 of vol. 24">§</span>
+  </div>
+</article>
+```
+
+[^comment-STBXV24P061A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-STBXV24P061A-1]: <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) includes a similar story in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV2P294D</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 294) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV2P295A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 295) in the story of the Raid on the Banū al-Muṣṭaliq and the Prophet&#x27;s marriage to Jūwayrīyah bint al-Ḥārith in a narrative structure much like that found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), <a href="WSSAA.html" class="witness-link">WSSAA</a> (Ṣadaqah b. Sābiq al-Muqʿad), <a href="WAMAQ.html" class="witness-link">WAMAQ</a> (ʿAlī b. Mushir al-Kūfī al-Qurashī), and <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī). <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) also witnessed an account completely unlike his other version and unlike other versions. The story related by <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) is narratively different and more similar to that found in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī). <a href="WZAZA.html" class="witness-link">WZAZA</a> (Zakarīyā b. Abī Zāʾidah) also relates the story with yet another narrative structure. <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī) produced a truncated version. <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī) witnessed a tradition that lists Jūwayrīyah bint al-Ḥārith as an eyewitness not found in other witnesses.

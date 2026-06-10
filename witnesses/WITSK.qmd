@@ -1,0 +1,32 @@
+---
+title: "Ibrāhīm b. Ṭahmān b. Shuʿbah al-Khurāsānī"
+lang: "en"
+witness-code: "WITSK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية ابراهيم بن طهمان بن شعبة</span>
+
+**Witness code:** `WITSK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WITSK">
+```
+
+```{=html}
+<article class="sira-report" id="BYTXV07P094C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BYTXV07P094C">BYTXV07P094C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BYTX" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad b. Ibrāhīm al-Thaʿlabī</span>, <span class='ref-title'>Al-Kashf waʾl-bayān ʿan tafsīr al-Qurʾān</span></a>, vol. 7 p. 94</div>
+  </header>
+  <div class="witness-text">
+    وأخبرني الحسين قال حدّثنا طفران بن الحسين قال حدّثنا أبو بكر بن أبي داود السجستاني قال حدّثنا أحمد بن يوسف بن سالم الازدي السلمي قال حدّثنا حفص بن عبد الله عن إبراهيم بن طهمان عن محمد بن إسحاق عن محمد بن إبراهيم عن إسحاق بن سهل بن أبي حنتمة عن أبيه عن عائشة رضي الله عنها أنها قالت كانت عندي جارية من الأنصار في حجري فزوّجتها فدخل النبي صلى الله عليه وسلّم فلم يسمع غناء فقال يا عائشة ألا تغنّون عليها فانّ هذا الحىّ من الأنصار يحبّون الغناء. <span class="page-no" title="end of page 94 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

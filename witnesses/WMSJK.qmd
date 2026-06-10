@@ -1,0 +1,186 @@
+---
+title: "Masʿūd b. Saʿd al-Juʿfī"
+lang: "en"
+witness-code: "WMSJK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية مسعود بن سعد الجعفي</span>
+
+**Witness code:** `WMSJK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMSJK">
+```
+
+
+#### <span lang="ar" dir="rtl">شكا عليا جنده إلى الرسول لانتزاعه عنهم حللا من بز اليمن SEE_HSNXV02P603A</span>
+
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `TKXXV01P514A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="TKXXV01P514A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TKXXV01P514A">TKXXV01P514A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TKXX" class="source-link"><span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span></a>, vol. 1 pp. 514-307</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> أخبرنا مالك بن إسماعيل أبو غسان النهدي قال حدثنا مسعود بن <span class="page-no" title="end of page 514 of vol. 1">§</span> سعد قال حدثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قا: قال لي رسول الله صلى الله عليه وسلم قد آذيتني قال قلت يا رسول الله ما أحب أن أوذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 515 of vol. 1">§</span> <span class="page-no" title="end of page 307 of vol. 6">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BKHBV06P306A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BKHBV06P306A">BKHBV06P306A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 6 p. 306</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> قال عبد العزيز بن الخطاب حدثنا مسعود بن سعد عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل عن عبد الله بن نيار عن <span class="page-no" title="end of page 306 of vol. 6">§</span> عمرو بن شاس رضى الله عنه قال لي النبي صلى الله عليه وسلم آذيتنى قلت ما احب ان اوذيك قال من آذى عليا فقد آذاني.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="SAMMV01P048A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SAMMV01P048A">SAMMV01P048A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SAMM" class="source-link"><span class='ref-author'>Abū Bishr Ismāʿīl b. ʿAbd Allāh al-ʿAbdī Sammawayhi</span>, <span class='ref-title'>Fawāʾid</span></a>, vol. 1 p. 48</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> ثنا مسعود بن سعيد الجعفي وثنا إسماعيل بن أبان الوراق ثنا مسعود بن سعد الجعفي ثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي رسول الله صلى الله عليه وسلم قد آذيتني يا عمرو قلت يا رسول الله ما أحب أن أؤذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 48 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="ZTKXV01P375C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ZTKXV01P375C">ZTKXV01P375C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 1 p. 375</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> حدثنا مالك بن إسماعيل قال حدثنا مسعود بن سعد قال حدثنا محمد بن إسحاق عن الفضل بن مغفل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي رسول الله صلى الله عليه وسلم قد آذيتني فقلت ما أحب أن أؤذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 375 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MSBKV01P059A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MSBKV01P059A">MSBKV01P059A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MSBK" class="source-link"><span class='ref-author'>Muḥammad b. Sulaymān al-Bāghandī al-Kabīr</span>, <span class='ref-title'>Amālī</span></a>, vol. 1 p. 59</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> حدثنا أبو غسان ثنا مسعود بن سعد الجعفي ثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي النبي صلى الله عليه وسلم إنك آذيتني قال قلت ما أحب أن أوذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 59 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MHRXV02P450A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MHRXV02P450A">MHRXV02P450A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MHRX" class="source-link"><span class='ref-author'>Muḥammad b. Hārūn al-Ruyāni</span>, <span class='ref-title'>Musnad al-Ruyānī</span></a>, vol. 2 pp. 450-451</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> نا عمرو بن علي نا عبد العزيز بن الخطاب نا مسعود بن سعد عن محمد بن إسحاق عن أبان بن صالح عن الفضل عن عبد الله بن نيار <span class="page-no" title="end of page 450 of vol. 2">§</span> الأسلمي عن عمرو بن شاس قال قال رسول الله صلى الله عليه وسلم إنك قد آذيتني قلت ما أحب أن أوذيك يا رسول الله قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 451 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BNHXV15P365A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BNHXV15P365A">BNHXV15P365A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BNHX" class="source-link"><span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span></a>, vol. 15 p. 365</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> أخبرنا الحسن بن سفيان حدثنا أبو بكر حدثنا مالك بن إسماعيل حدثنا مسعود بن سعد حدثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي رسول الله صلى الله عليه وسلم قد آذيتني قلت يا رسول الله ما أحب أن أوذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 365 of vol. 15">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NYMXV04P1996A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NYMXV04P1996A">NYMXV04P1996A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 4 p. 1996</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> حدثنا عبد الله بن جعفر ثنا إسماعيل بن عبد الله ثنا مالك بن إسماعيل وإسماعيل بن أبان قالا ثنا مسعود بن سعد الجعفي ثنا محمد بن إسحاق ح وحدثنا أبو أحمد محمد بن أحمد بن إسحاق الأنماطي ثنا عبدان بن أحمد ثنا زيد بن الحريش ثنا محمد بن الصلت ثنا مندل بن علي عن محمد بن إسحاق ح وحدثنا القاضي أبو أحمد محمد بن أحمد بن إبراهيم ثنا الحسين بن علي بن الحسن السلولي ثنا محمد بن الحسن السلولي ثنا صالح بن أبي الأسود عن محمد بن إسحاق ح وحدثنا أبو بكر بن مالك ثنا عبد الله بن أحمد بن حنبل حدثني يعقوب بن إبراهيم بن سعد حدثني أبي عن محمد بن إسحاق واللفظ لإبراهيم بن سعد عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن نمار الأسلمي عن عمرو بن شأس الأسلمي وكان من أصحاب الحديبية قال خرجت مع علي رضي الله عنه إلى اليمن فجفاني في سفري ذلك حتى وجدت في نفسي عليه فلما قدمت أظهرت شكايته في المسجد حتى بلغ ذلك رسول الله صلى الله عليه وسلم فدخلت المسجد ذات غداة ورسول الله صلى الله عليه وسلم في ناس من أصحابه فلما رأى أبدى عينه يقول حدد إلي النظر حتى إذا جلست قال يا عمرو والله لقد آذيتني قلت أعوذ بالله أن أوذيك يا رسول الله قال بلى من آذى عليا فقد آذاني ورواه المحاربي ويونس بن بكير وأبو زهير عن محمد بن إسحاق نحوه. <span class="page-no" title="end of page 1996 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KHKTV01P305D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KHKTV01P305D">KHKTV01P305D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHKT" class="source-link"><span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Kitāb Talkhīṣ al-mutashābih fī al-rasm wa-ḥimāyat mā ashkala minhu ʻan bawādir al-taṣḥīf wa-al-wahm</span></a>, vol. 1 p. 305</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> أخبرنا الحسن بن أبي بكر أنا عبد الله بن إسحاق بن إبراهيم البغوي نا أحمد بن زهير نا أبو غسان <span class="page-no" title="end of page 305 of vol. 1">§</span> قال عبد الله ونا ابن إسحاق بن صالح نا عبد العزيز بن الخطاب قالا نا مسعود بن سعد الجعفي عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال رسول الله صلى الله عليه وسلم قد آذيتني فقلت ما أحب أن أوذيك يا رسول الله قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 305 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TDSHV42P203A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TDSHV42P203A">TDSHV42P203A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 42 p. 203</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_HYZXV01P543B</span> <span class="variant-id">VAR_HJRTV12P478A</span> أخبرنا أبو سهل محمد بن إبراهيم أنا أبو الفضل الرازي أنا جعفر بن عبد الله نا محمد بن هارون نا عمرو بن علي نا عبد العزيز بن الخطاب نا مسعود بن سعد عن محمد بن إسحاق عن أبان بن صالح عن الفضل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال رسول الله صلى الله عليه وسلم إنك قد اذيتني قلت ما أحب أن أؤذيك يا رسول الله قال من اذى عليا فقد اذاني. <span class="page-no" title="end of page 203 of vol. 42">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HYZXV01P543B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HYZXV01P543B">HYZXV01P543B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYZX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr al-Haythamī</span>, <span class='ref-title'>Mawārid al-ẓamʾān ilā zawāʾid Ibn Ḥibbān</span></a>, vol. 1 p. 543</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HJRTV12P478A</span> أخبرنا الحسن بن سفيان حدثنا أبو بكر حدثنا مالك بن إسماعيل حدثنا مسعود بن سعد حدثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي رسول الله صلى الله عليه وسلم قد آذيتني قلت يا رسول الله ما أحب أن أؤذيك قال من آذى عليا فقد آذاني. <span class="page-no" title="end of page 543 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJRTV12P478A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJRTV12P478A">HJRTV12P478A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span></a>, vol. 12 p. 478</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TKXXV01P514A</span> <span class="variant-id">VAR_BKHBV06P306A</span> <span class="variant-id">VAR_SAMMV01P048A</span> <span class="variant-id">VAR_ZTKXV01P375C</span> <span class="variant-id">VAR_MSBKV01P059A</span> <span class="variant-id">VAR_MHRXV02P450A</span> <span class="variant-id">VAR_BNHXV15P365A</span> <span class="variant-id">VAR_NYMXV04P1996A</span> <span class="variant-id">VAR_KHKTV01P305D</span> <span class="variant-id">VAR_TDSHV42P203A</span> <span class="variant-id">VAR_HYZXV01P543B</span> حديث حب كم حم من آذى عليا فقد آذاني حب في الثامن من الثالث أنا الحسن بن سفيان ثنا أبو بكر بن أبي شيبة ثنا مالك بن إسماعيل ثنا مسعود بن سعد ثنا محمد بن إسحاق عن الفضل بن معقل عن عبد الله بن نيار الأسلمي عن عمرو بن شاس قال قال لي رسول الله صلى الله عليه وسلم قد آذيتني قلت يا رسول الله ما أحب أن أوذيك فذكره. <span class="page-no" title="end of page 478 of vol. 12">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `TKXXV01P514A`:** [^comment-TKXXV01P514A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-TKXXV01P514A-1]: Placement based on reference to ʿAlī’s expedition to Yemen and the criticism he received for his management of the affair. Als found in <a href="WAHJK.html" class="witness-link">WAHJK</a> (ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī), <a href="WSAAS.html" class="witness-link">WSAAS</a> (Ṣāliḥ b. Abī al-Aswad), <a href="WMAAK.html" class="witness-link">WMAAK</a> (Mandal (ʿAmr) b. ʿAlī al-ʿAnzī al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WMKHW.html" class="witness-link">WMKHW</a> (Muḥammad b. Khālid al-Wahbī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WABRM.html" class="witness-link">WABRM</a> (ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).

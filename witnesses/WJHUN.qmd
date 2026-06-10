@@ -1,0 +1,50 @@
+---
+title: "Jaʿfar b. al-Ḥārith b. ʿUmārah al-Nikhaʿī"
+lang: "en"
+witness-code: "WJHUN"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية جعفر بن الحارث بن عمارة النخعي</span>
+
+**Witness code:** `WJHUN`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WJHUN">
+```
+
+```{=html}
+<article class="sira-report" id="KTMXV02P399A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV02P399A">KTMXV02P399A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 2 pp. 399-116</div>
+  </header>
+  <div class="witness-text">
+    حدثنا سعيد بن منصور البرقي قال حدثنا إسماعيل بن عياش عن جعفر بن الحارث عن محمد بن إسحاق عن معمر بن عبد الله بن حنظلة بن أبي عامر عن يوسف بن عبد الله بن سلام قال حدثتني خولة بنت مالك من فيها قالت كنت عند أوس بن الصامت وكان شيخا كبيرا فكلمني يوما بشيء فراجعته فقال أنت علي كظهر أمي ثم خرج فجلس في نادي القوم ثم أقبل فأرادني على نفسي فأبيت فغلبت لما يغلب به المرأة الضعيفة الرجل الضعيف وقلت ما أنت لتخلص إلى نفسي حتى ينتهي أمري وأمرك إلى رسول الله صلى الله عليه وسلم فيحكم في وفيك حكمه فدخلت على جارة لي فاستعرت منها أثوابا ثم خرجت إلى النبي صلى الله عليه وسلم أشكو إليه ما لقيت فطفق يقول ابن عمك وزوجك اتقي الله فيه فما برحت حتى أنزل الله فيه وفي قرآنا {قد سمع الله قول التي <span class="page-no" title="end of page 399 of vol. 2">§</span> تجادلك في زوجها} [المجادلة: 1] ثم نزل الفرض بتحرير رقبة فمن لم يجد فصيام شهرين متتابعين فمن لم يستطع فإطعام ستين مسكينا فقال لي رسول الله صلى الله عليه وسلم مريه فليعتق رقبة قلت ما عنده ما يعتق قال فليصم شهرين متتابعين قلت إنه شيخ كبير وما به صيام قال فليتصدق قلت ما عنده قال سأعينه بفرق من تمر فقلت وأنا أعينه بفرق آخر قال أصبت والفرق يأخذ الشطر والشطر ثلاثون صائما فأطعمت عنه ستين مسكينا لكل مسكين صاع من تم <span class="page-no" title="end of page 400 of vol. 2">§</span> <span class="page-no" title="end of page 116 of vol. 9">§</span>
+  </div>
+</article>
+```
+
+[^comment-KTMXV02P399A-1]
+
+```{=html}
+<article class="sira-report" id="STJXV09P116A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STJXV09P116A">STJXV09P116A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 9 p. 116</div>
+  </header>
+  <div class="witness-text">
+    حدثنا هاشم بن مرثد ثنا محمد بن إسماعيل بن عياش الحمصي ثنا أبي، ثنا أبو الأشعث جعفر بن الحارث النخعي الكوفي عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج أن النبي صلى الله عليه وسلم قال أسفروا بالفجر؛ فإنه أعظم للأجر.
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-KTMXV02P399A-1]: <a href="../references.html#ref-KTMX" class="source-ref">KTMXV02P399A</a> (<span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span>, vol. 2 p. 399) provides the context for Q58:01. Similar passages are found under the witnesses of <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī), <a href="WZAZA.html" class="witness-link">WZAZA</a> (Zakarīyā b. Abī Zāʾidah), <a href="WMMAH.html" class="witness-link">WMMAH</a> (Muḥammad b. Maslamah al-Makhzūmī al-Madīnī), <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī).

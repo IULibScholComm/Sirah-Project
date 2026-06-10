@@ -1,0 +1,44 @@
+---
+title: "Muḥammad b. Ismāʿīl b. Muslim b. Abī Fadayk"
+lang: "en"
+witness-code: "WUISL"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية محمد بن اسماعيل بن مسلم بن ابي فديك</span>
+
+**Witness code:** `WUISL`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WUISL">
+```
+
+```{=html}
+<article class="sira-report" id="MZTXV13P227A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV13P227A">MZTXV13P227A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 13 p. 227</div>
+  </header>
+  <div class="witness-text">
+    وقال الترمذي قال محمد بن إسماعيل حديث ابن إسحاق عن الصلت بن عبد الله بن نوفل قال رأيت ابن عباس يلبس خاتمه في كفه اليمنى ولا إخاله إلا قال وقد رأيت النبي صلى الله عليه وسلم يلبسه في كفه اليمني. <span class="page-no" title="end of page 227 of vol. 13">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TMKXV01P134A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TMKXV01P134A">TMKXV01P134A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TMKX" class="source-link"><span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>ʿIlal al-Tirmidhī al-kabīr</span></a>, vol. 1 p. 134</div>
+  </header>
+  <div class="witness-text">
+    قال أبو عيسى سألت محمد بن إسماعيل عن حديث محمد بن إسحاق قال سأل أبي عكرمة وأنا أسمع عن الإهلال متى يقطع فقال أهل النبي صلى الله عليه وسلم حتى رمى الجمرة وأبو بكر وعمر وعثمان الحديث فقال هو حديث محفوظ. <span class="page-no" title="end of page 134 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

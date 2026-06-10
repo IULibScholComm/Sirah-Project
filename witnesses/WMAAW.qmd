@@ -1,0 +1,56 @@
+---
+title: "Muḥammad b. ʿAmr b. ʿAwwan al-Wāsiṭī"
+lang: "en"
+witness-code: "WMAAW"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية محمد بن عمرو بن عون</span>
+
+**Witness code:** `WMAAW`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMAAW">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `TBRBV11P624D`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="TBRBV11P624D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TBRBV11P624D">TBRBV11P624D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 11 p. 624</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TBMDV01P115B</span> وابنه ابى الحكم الغفارية روت عن رسول الله ص حدثنى محمد بشار ومحمد بن المثنى قال حدثنا محمد بن ابى عون عن محمد بن إسحاق عن سليمان بن سحيم عن أمه ابنه ابى الحكم الغفارية قالت سمعت رسول الله صلى الله عليه وسلم يقول ان الرجل ليدنو من الجنه حتى ما يكون بينه وبينها قبة ذراع فيتكلم بالكلمة فيتباعد منها ابعد من صنعاء. <span class="page-no" title="end of page 624 of vol. 11">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TBMDV01P115B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TBMDV01P115B">TBMDV01P115B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBMD" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>al-Muntakhab min Kitāb dhayl al-mudhīl</span></a>, vol. 1 p. 115</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TBRBV11P624D</span> حدثنى محمد بن بشار ومحمد بن المثنى قال حدثنا محمد بن أبى عون عن محمد ابن إسحاق عن سليمان بن سحيم عن أمه ابنة أبى الحكم الغفارية قالت سمعت رسول الله صلى الله عليه وسلم يقول إن الرجل ليدنو من الجنة حتى ما يكون بينه وبينها قبة ذراع فيتكلم بالكلمة فيتبا عدمنها أبعد من صنعاء. <span class="page-no" title="end of page 115 of vol. 1">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+</div>
+```

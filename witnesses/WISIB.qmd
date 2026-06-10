@@ -1,0 +1,334 @@
+---
+title: "Ismāʿīl b. Ibrāhīm b. Muḥammad b. Ṭalḥah al-Ḥijāzī"
+lang: "en"
+witness-code: "WISIB"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية اسماعيل بن ابراهيم بن محمد</span>
+
+**Witness code:** `WISIB`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WISIB">
+```
+
+```{=html}
+<article class="sira-report" id="HBHXV17P044A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HBHXV17P044A">HBHXV17P044A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBHX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span></a>, vol. 17 pp. 44-45</div>
+  </header>
+  <div class="witness-text">
+    حدثنا إسماعيل بن إبراهيم أخبرنا محمد بن إسحاق عن محمد بن عمرو بن عطاء عن عطاء بن يسار <span class="page-no" title="end of page 44 of vol. 17">§</span> عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه وسلم إن المؤمن لا يصيبه وصب ولا نصب ولا حزن ولا سقم ولا أذى حتى الهم يهمه إلا يكفر الله عنه من سيئاته. <span class="page-no" title="end of page 45 of vol. 17">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `HBHXV02P059A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="HBHXV02P059A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HBHXV02P059A">HBHXV02P059A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBHX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span></a>, vol. 2 pp. 59-111</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_RJXXV02P230A</span> <span class="variant-id">VAR_HJIIV04P439A</span> حدثنا إسماعيل حدثنا محمد بن إسحاق حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي علي بيتي فدعا بوضوء فجئنا بقعب يأخذ المد أو قريبه حتى وضع بين يديه وقد بال فقال يا ابن عباس ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قلت بلى فداك أبي وأمي قال فوضع له إناء فغسل يديه ثم مضمض واستنشق واستنثر ثم أخذ بيديه فصك بهما وجهه وألقم إبهامه ما أقبل من أذنيه قال ثم عاد في مثل ذلك ثلاثا ثم أخذ كفا من ماء بيده اليمنى فأفرغها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى. <span class="page-no" title="end of page 59 of vol. 2">§</span> <span class="page-no" title="end of page 111 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="ZZBXV02P110A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ZZBXV02P110A">ZZBXV02P110A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 2 p. 110</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_RJXXV02P230A</span> <span class="variant-id">VAR_HJIIV04P439A</span> حدثنا محمد بن إسماعيل بن سمرة الأحمسي قال نا عبد الرحمن بن محمد المحاربي عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس <span class="page-no" title="end of page 110 of vol. 2">§</span> وحدثناه مؤمل بن هشام قال نا إسماعيل بن إبراهيم قال نا محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي بن أبي طالب رضي الله عنه وقد أهراق الماء فدعا بوضوء فأتيناه بإناء فأخذ قدر المد فلما وضع بين يديه قال يا ابن عباس ألا أتوضأ كما رأيت رسول الله صلى الله عليه وسلم يتوضأ قال قلت بلى قال فأصغى الإناء على يده فغسلها ثلاثا ثم مضمض واستنشق واستنثر وأخذ حفنة من ماء بيديه جميعا فضرب بها وجهه ثم الثانية مثل ذلك ثم الثالثة مثل ذلك ثم ألقم إبهاميه ما أقبل من أذنيه ثم أخذ كفا من ماء بيده اليمنى فصبها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى إلى المرفقين واليسرى مثل ذلك ثم مسح رأسه وظهور أذنيه ثم أخذ بيديه حفنة من ماء فصك بها على قدميه ثم الثانية مثل ذلك ثم الثالثة مثل ذلك.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MYWXV01P448A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MYWXV01P448A">MYWXV01P448A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 1 p. 448</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_RJXXV02P230A</span> <span class="variant-id">VAR_HJIIV04P439A</span> حدثنا زهير حدثنا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخلت على علي بيته وقد بال فدعا بوضوء فجئناه بعس يملأ المد أو قريبه حتى وضع بين يديه فقال ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قلت بلى فداك أبي وأمي قال فوضع له الإناء فغسل يديه ثم مضمض واستنشق ثم أخذ بيديه فصك بهما في وجهه والتقم إبهاماه ما أقبل من أذنيه ثم أعاد بمثل ذلك ثلاثا ثم أخذ كفا من ماء بيده اليمنى فأفرغها على ناصيته ثم أرسلها تستن على وجهه ثم غسل يده اليمنى إلى المرفق ثلاثا ثم يده الأخرى مثل ذلك ثم مسح برأسه وأذنيه من ظهورهما ثم أخذ بكفيه من الماء فصك بهما على قدميه وفيهما النعل ثم قلبها ثم على الأخرى مثل ذلك قلت في النعلين قال في النعلين ثلاثا. <span class="page-no" title="end of page 448 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQSXV01P120A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQSXV01P120A">BQSXV01P120A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 1 p. 120</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_RJXXV02P230A</span> <span class="variant-id">VAR_HJIIV04P439A</span> أخبرنا أبو سعيد بن أبي عمرو ثنا أبو العباس محمد بن يعقوب ثنا أبو عبد الرحمن عبد الله بن أحمد بن حنبل قال حدثني أبي أنا إسماعيل بن إبراهيم ثنا محمد بن إسحاق قال حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي علي بيتي فدعا بوضوء فجئنا بقعب يأخذ المد أو قريبه حتى وضع بين يديه وقد بال فقال يا ابن عباس ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قلت بلى فداك أبي وأمي قال فوضع له إناء فغسل يديه ثم مضمض واستنشق واستنثر ثم أخذ بيديه حفنة من ماء جميعا فصك بهما وجهه وألقم إبهاميه ما أقبل من أذنيه قال ثم عاد بمثل ذلك ثلاثا ثم أخذ كفا من ماء بيده اليمنى فأفرغها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى إلى المرفق ثلاثا ثم يده الأخرى مثل ذلك ثم مسح رأسه وأذنيه من ظهورهما ثم أخذ بكفيه من الماء فصك بهما على قدمه وفيها النعل فبلها به ثم على الرجل الأخرى مثل ذلك قال قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين. <span class="page-no" title="end of page 120 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="JWIMV01P351B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#JWIMV01P351B">JWIMV01P351B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JWIM" class="source-link"><span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>Al-ʿIlal al-mutanāhīyah fī al-aḥādīth al-wāhīyah</span></a>, vol. 1 pp. 351-352</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_RJXXV02P230A</span> <span class="variant-id">VAR_HJIIV04P439A</span> أنا ابن الحصين قال أنا المذهب قال أنا أحمد بن حعفر قال نا عبد الله بن أحمد قال حدثني أبي قال نا إسماعيل بن إبراهيم قال نا محمد بن إسحاق قال حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي علي بيتي فدعا بوضوء فجئنا بقعب يأخذ المد أو قريبه حتى وضع بين يديه وقد بال فقال يا ابن عباس ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قلت بلى فداك أبي وأمي قال فوضع له ناء فغسل يديه ثم تمضمض واستنشق واستنثر ثم أخذ بيده فصك بها وجهه وألقم إبهامه ما أقبل من أذنيه قال ثم عاد في مثل ذلك ثلاثا ثم أخذ كفا من ماء بيده اليمنى فأفرغها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى إلى المرفق ثلاثا ثم يده الأخرى مثل ذلك ثم مسح برأسه وأذنيه من ظهورهما ثم أخذ بكفيه من الماء فصك بهما على قدميه وفيهما النعل ثم قلبها <span class="page-no" title="end of page 351 of vol. 1">§</span> بها ثم على الرجل الأخرى مثل ذلك قال قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين. <span class="page-no" title="end of page 352 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="RJXXV02P230A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#RJXXV02P230A">RJXXV02P230A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RJXX" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd al-Wāḥid al-Maqdisī</span>, <span class='ref-title'>al-Aḥādīth al-mukhtārah</span></a>, vol. 2 p. 230</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_HJIIV04P439A</span> أخبرهم قراءة عليه أنا الحسن بن علي أنا أحمد بن جعفر ثنا عبد الله بن أحمد حدثني أبي ثنا إسماعيل ثنا محمد بن إسحاق حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي على بيتي فدعا بوضوء فجئنا بقعب يأخذ المد أو قريبه حتى وضع بين يديه فقال يا ابن عباس ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قلت بلى فداك أبي وأمي قال فوضع له إناء فغسل يديه ثم مضمض واستنشق واستنثر ثم أخذ بيديه فصك بهما وجهه وألقم إبهامه ما أقبل من أذنيه قال ثم دعا في مثل ذلك ثلاثا ثم أخذ كفا من ماء بيده اليمنى فأفرغها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى إلى المرفق ثلاثا ثم يده الأخرى مثل ذلك ثم مسح برأسه وأذنيه من ظهورهما ثم أخذ بكفيه من الماء فصك بهما على قدميه وفيهما النعل ثم فتلها بها ثم على الرجل الأخرى مثل ذلك قال قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين قلت وفي النعلين قال وفي النعلين. <span class="page-no" title="end of page 230 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJIIV04P439A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJIIV04P439A">HJIIV04P439A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJII" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Iṭrāf al-musnid al-maʿtalī bi-Iṭrāf al-musnad al-Ḥanbalī</span></a>, vol. 4 p. 439</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBHXV02P059A</span> <span class="variant-id">VAR_ZZBXV02P110A</span> <span class="variant-id">VAR_MYWXV01P448A</span> <span class="variant-id">VAR_BQSXV01P120A</span> <span class="variant-id">VAR_JWIMV01P351B</span> <span class="variant-id">VAR_RJXXV02P230A</span> حديث دخل علي علي بيتي فدعا بوضوء فجئته بقعب يأخذ المد أو قريبه حتى وضع بين يديه وقد بال فقال يا ابن عباس ألا أتوضأ لك وضوء رسول الله صلى الله عليه وسلم قال قلت بلى الحديث حدثنا إسماعيل ثنا محمد بن إسحاق حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عنه به. <span class="page-no" title="end of page 439 of vol. 4">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `HBHXV02P059A`:** [^comment-HBHXV02P059A-1]
+
+```{=html}
+<article class="sira-report" id="AAMZV02P125B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#AAMZV02P125B">AAMZV02P125B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAMZ" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Miṣbāḥ al-zujājah fī zawāʾid Ibn Mājah</span></a>, vol. 2 p. 125</div>
+  </header>
+  <div class="witness-text">
+    قال مسدد ثنا إسماعيل أبنا محمد بن إسحاق أبنا أبو الرجال محمد بن عبد الرحمن عن أمه عمرة قالت قالت عائشة لا تصلي المرأة في أقل من ثلاثة أثواب لمن قدر. <span class="page-no" title="end of page 125 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P368A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P368A">NSSXV01P368A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 368</div>
+  </header>
+  <div class="witness-text">
+    فأخبرناه أحمد بن جعفر القطيعي ثنا عبد الله بن أحمد بن حنبل حدثني أبي ثنا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني علي بن يحيى بن خلاد بن رافع الأنصاري عن أبيه عن عمه رفاعة بن رافع قال بينما نحن عند رسول الله صلى الله عليه وسلم في المسجد إذ أقبل رجل من الأنصار بعد أن فرغ رسول الله صلى الله عليه وسلم من الصلاة فصلى ثم أقبل حتى قام على رسول الله صلى الله عليه وسلم فسلم عليه فقال وعليك ارجع فصل فإنك لم تصل فذكر الحديث. <span class="page-no" title="end of page 368 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P385A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P385A">NSSXV01P385A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 385</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أحمد بن جعفر القطيعي ثنا عبد الله بن أحمد بن حنبل حدثني أبي ثنا إسماعيل وهو ابن إبراهيم ثنا محمد بن إسحاق حدثني عبد الواحد بن حمزة بن عبد الله بن الزبير عن عباد بن عبد الله بن الزبير عن عائشة قالت سمعت رسول الله صلى الله عليه وسلم يقول في بعض صلاته اللهم حاسبني حسابا يسيرا فلما انصرف قلت يا رسول الله ما الحساب اليسير قال ينظر في كتابه ويتجاوز له عنه إنه من نوقش الحساب يومئذ يا عائشة هلك فكل ما يصيب المؤمن يكفر الله عنه حتى الشوكة تشوكه . <span class="page-no" title="end of page 385 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TKXXV02P255A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TKXXV02P255A">TKXXV02P255A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TKXX" class="source-link"><span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span></a>, vol. 2 p. 255</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا إسماعيل بن إبراهيم بن علية الأسدي ويزيد بن هارون ويعلى بن عبيد قالوا أخبرنا محمد بن إسحاق عن مكحول عن غضيف بن الحارث سمع أبا ذر قال سمعت رسول الله صلى الله عليه وسلم يقول إن الله جعل الحق على لسان عمر يقول به. <span class="page-no" title="end of page 255 of vol. 2">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `KHZXV03P130A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="KHZXV03P130A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KHZXV03P130A">KHZXV03P130A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHZX" class="source-link"><span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span></a>, vol. 3 p. 130</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> ثنا يعقوب بن إبراهيم الدورقي نا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي هريرة وأبي سعيد قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من الطيب إن كان عنده ولبس من أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كانت كفارة لما بينها وبين الجمعة التي كانت قبلها يقول أبو هريرة وثلاثة أيام زيادة إن الله جعل الحسنة بعشر أمثالها. <span class="page-no" title="end of page 130 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DHRSV04P049A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DHRSV04P049A">DHRSV04P049A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHRS" class="source-link"><span class='ref-author'>Ibn al-Mundhir</span>, <span class='ref-title'>al-Awsaṭ fī al-sunan waʾl-ijmāʿ waʾl-ikhtilāf</span></a>, vol. 4 pp. 49-50</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> حدثنا محمد بن علي قال ثنا سعيد بن منصور قال أنبأ إسماعيل بن إبراهيم قال ثنا محمد بن إسحاق قال حدثني محمد بن إبراهيم التيمي عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي سعيد الخدري وأبي هريرة قالا قال رسول الله صلى الله عليه وسلم من اغتسل يوم الجمعة <span class="page-no" title="end of page 49 of vol. 4">§</span> واستاك ومس من طيب إن كان عنده ولبس من أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كان كفارة لما بينها وبين الجمعة التي كانت قبلها قال يقول أبو هريرة وزيادة ثلاثة أيام. <span class="page-no" title="end of page 50 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BNHXV07P016A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BNHXV07P016A">BNHXV07P016A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BNHX" class="source-link"><span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span></a>, vol. 7 pp. 16-17</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> أخبرنا بن خزيمة حدثنا الدورقي حدثنا إسماعيل بن <span class="page-no" title="end of page 16 of vol. 7">§</span> إبراهيم عن محمد بن إسحاق حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل بن حنيف عن أبي هريرة وأبي سعيد الخدري قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس من أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كانت كفارة ما بينها وبين الجمعة التي كانت قبلها. <span class="page-no" title="end of page 17 of vol. 7">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NSSXV01P419A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NSSXV01P419A">NSSXV01P419A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 419</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> أخبرنا أحمد بن جعفر القطيعي ثنا عبد الله بن أحمد بن حنبل حدثني أبي ثنا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي هريرة وأبي سعيد قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كانت له كفارة لما بينها وبين الجمعة التي كانت قبلها يقول أبو هريرة وثلاثة أيام زيادة إن الله قد جعل الحسنة بعشر أمثالها إسماعيل ابن علية من الثقات الذي أجمعا على إخراجه. <span class="page-no" title="end of page 419 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQRXV01P235A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQRXV01P235A">BQRXV01P235A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQRX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Sunan al-ṣaghīr</span></a>, vol. 1 pp. 235-236</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> أخبرنا أبو عبد الله الحافظ أنا أحمد بن جعفر القطيعي نا عبد الله بن أحمد بن حنبل حدثني أبي نا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي هريرة وأبي سعيد قالا سمعنا رسول الله صلى الله عليه وسلم <span class="page-no" title="end of page 235 of vol. 1">§</span> يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كان كفارة لما بينها وبين الجمعة التي كانت قبلها يقول أبو هريرة وثلاثة أيام زيادة إن الله قال الحسنة بعشر أمثالها. <span class="page-no" title="end of page 236 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQSXV03P345A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQSXV03P345A">BQSXV03P345A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 3 p. 345</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> <span class="variant-id">VAR_HYZXV01P148A</span> أخبرنا محمد بن عبد الله الحافظ أنبأ أحمد بن جعفر القطيعي ثنا عبد الله بن أحمد بن حنبل حدثني أبي ثنا إسماعيل بن إبراهيم عن محمد بن إسحاق قال حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي هريرة وأبي سعيد رضي الله عنهما قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كانت كفارة لما بينها وبين الجمعة التي كانت قبلها يقول أبو هريرة ثلاثة أيام زيادة إن الله قد جعل الحسنة بعشر أمثالها. <span class="page-no" title="end of page 345 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQJXV04P406A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQJXV04P406A">BQJXV04P406A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQJX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Jāmiʿ li-shuʿab al-īmān</span></a>, vol. 4 p. 406</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_HYZXV01P148A</span> أخبرنا أبو عبد الله الحافظ حدثنا أحمد بن جعفر القطيعي حدثنا عبد الله بن أحمد بن حنبل حدثني أبي حدثنا إسماعيل بن إبراهيم عن محمد بن إسحاق قال حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل عن أبي هريرة وأبي سعيد قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج الإمام حتى يصلي كانت كفارة لما بينها وبين الجمعة التي كانت قبلها يقول أبو هريرة وزاد ثلاثة أيام إن الله قد جعل الحسنة بعشر أمثالها. <span class="page-no" title="end of page 406 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HYZXV01P148A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HYZXV01P148A">HYZXV01P148A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYZX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr al-Haythamī</span>, <span class='ref-title'>Mawārid al-ẓamʾān ilā zawāʾid Ibn Ḥibbān</span></a>, vol. 1 p. 148</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHZXV03P130A</span> <span class="variant-id">VAR_DHRSV04P049A</span> <span class="variant-id">VAR_BNHXV07P016A</span> <span class="variant-id">VAR_NSSXV01P419A</span> <span class="variant-id">VAR_BQRXV01P235A</span> <span class="variant-id">VAR_BQSXV03P345A</span> <span class="variant-id">VAR_BQJXV04P406A</span> أخبرنا ابن خزيمة حدثنا الدورقي حدثنا إسماعيل بن إبراهيم عن محمد بن إسحاق حدثني محمد بن إبراهيم عن أبي سلمة بن عبد الرحمن وأبي أمامة بن سهل بن حنيف عن أبي هريرة وأبي سعيد قالا سمعنا رسول الله صلى الله عليه وسلم يقول من اغتسل يوم الجمعة واستن ومس من طيب إن كان عنده ولبس من أحسن ثيابه ثم جاء إلى المسجد ولم يتخط رقاب الناس ثم ركع ما شاء الله أن يركع ثم أنصت إذا خرج إمامه حتى يصلي كانت كفارة لما بينها وبين الجمعة التي قبلها. <span class="page-no" title="end of page 148 of vol. 1">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="MYWXV12P427A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MYWXV12P427A">MYWXV12P427A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 12 p. 427</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو خيثمة حدثنا إسماعيل بن إبراهيم عن محمد بن إسحاق عن عبد الله بن رافع عن أم سلمة قالت قال رسول الله صلى الله عليه وسلم إذا حضر العشاء وحضرت الصلاة فابدءوا بالعشاء. <span class="page-no" title="end of page 427 of vol. 12">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KTMXV01P328A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV01P328A">KTMXV01P328A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 1 pp. 328-336</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن أبي هاشم قال حدثنا إسماعيل بن إبراهيم عن محمد بن إسحاق قال حدثني الزهري عن علقمة بن وقاص وعن سعيد بن المسيب وعن عروة بن الزبير وعن عبيد الله بن عبد الله فكل حدثني هذا الحديث وبعض القوم أوعى له من بعض وقد جمعت لك كل الذي حدثني القوم قال محمد بن إسحاق وحدثني يحيى بن عباد بن عبد الله بن الزبير عن أبيه عن عائشة رضي الله عنها وعبد الله بن أبي بكر بن محمد بن حزم الأنصاري عن عمرة عن عائشة رضي الله عنها فكل قد اجتمع حديثه في قصة خبر عائشة رضي الله عنها عن نفسها حين قال لها أهل الإفك ما قالوا قالت كان رسول الله صلى الله عليه وسلم إذا أراد سفرا أقرع بين نسائه فأيتهن خرج سهمها خرج بها معه فلما كانت غزوة بني المصطلق أقرع بين نسائه كما كان <span class="page-no" title="end of page 328 of vol. 1">§</span> يصنع فخرج سهمي عليهن فخرج بي معه قالت وكان النساء إذ ذاك إنما يأكلن العلق فلم يهجهن اللحم فيثقلن وكنت إذا رحل لي بعيري جلست في هودجي ثم يأتيني القوم ويحملونني فيأخذون بأسفل الهودج فيرفعونه فيضعونه على ظهر البعير فيشدونه بحباله ثم يأخذون برأس البعير فينطلقون به فلما فرغ رسول الله صلى الله عليه وسلم من سفره ذلك وجه قافلا حتى إذا كان قريبا من المدينة نزل منزلا فبات به بعض الليل ثم أذن في الناس بالرحيل فارتحل الناس وخرجت لبعض حاجتي وفي عنقي عقد فيه جزع ظفار فلما فرغت انسل من عنقي ولا أدري فلما رجعت إلى الرحل ذهبت ألتمس ما في عنقي فلم أجده وقد أخذ الناس في الرحيل فرجعت إلى مكاني فالتمسته حتى وجدته وجاء القوم خلافي الذين كانوا يرحلون بي البعير وقد فرغوا من رحلته فأخذوا الهودج وهم يظنون أني فيه كما كنت أصنع فاحتملوه فشدوه على البعير ولم يشكوا أني فيه ثم أخذوا برأس البعير فساروا به فرجعت إلى العسكر وما فيه من داع ولا مجيب فانطلق الناس قالت فتلففت بجلبابي ثم اضطجعت في مكاني وعرفت أني لو افتقدت قد يرجع <span class="page-no" title="end of page 329 of vol. 1">§</span> إلي فوالله إني لمضطجعة إذ مر بي صفوان بن المعطل السلمي قد كان تخلف عن العسكر لبعض حاجته فلم يبت مع الناس فرأى سوادي فأقبل حتى وقف علي وقد كان يراني قبل أن يضرب علينا الحجاب فلما رآني قال إنا لله وإنا إليه راجعون ظعينة رسول الله صلى الله عليه وسلم وأنا متلففة في ثيابي فقال ما خلفك يرحمك الله قالت فما كلمته قالت ثم قرب البعير فقال اركبي واستأخر عني فركبت فأخذ برأس البعير وانطلق سريعا يطلب الناس فوالله ما أدركنا الناس وما افتقدت حتى أصبحت ونزل الناس فلما اطمأنوا طلع الرجل يقود بي فقال أهل الإفك ما قالوا فارتجف العسكر ووالله ما أعلم بشيء من ذلك ثم قدمنا المدينة فلم أمكث أن اشتكيت شكوى شديدة ولا يبلغني من ذلك شيء وقد انتهى الحديث إلى رسول الله صلى الله عليه وسلم وإلى أبوي ولا يذكرون لي منه قليلا ولا كثيرا إلا أني قد أنكرت من رسول الله صلى الله عليه وسلم بعض لطفه بي كنت إذا اشتكيت رحمني ولطف بي فلم يفعل ذلك بي في شكواي تلك فقد أنكرت ذلك منه وكان إذا دخل وعندي أمي تمرضني قال كيف تيكم لا يزيد على ذلك حتى وجدت في نفسي فقلت يا رسول الله حين رأيت ما رأيت من جفائه لي لو أذنت لي فانتقلت إلى أمي فمرضتني <span class="page-no" title="end of page 330 of vol. 1">§</span> فقال لا عليك قالت فانتقلت إلى أمي ولا أعلم بشيء مما كان حتى نقهت من وجعي بعد بضع وعشرين ليلة وكنا قوما لا نتخذ الكنف في بيوتنا التي يتخذها الأعاجم نعافها ونكرهها إنا كنا نذهب في فسح المدينة وإنما كانت النساء يخرجن كل ليلة في حوائجهن فخرجت ليلة لبعض حاجتي ومعي أم مسطح بنت أبي رهم بن عبد المطلب بن عبد مناف وكانت أمها بنت صخر بن عامر بن كعب بن سعد بن تيم خالة أبي بكر الصديق رضي الله عنه قالت فوالله إنها لتمشي معي إذ عثرت في مرطها فقالت تعس مسطح قالت فقلت بئس لعمر الله ما قلت لرجل من المهاجرين قد شهد بدرا قالت أوما بلغك الخبر يا بنت أبي بكر قالت قلت وما الخبر فأخبرتني بالذي كان من قول أهل الإفك قلت أوقد كان هذا قالت نعم والله لقد كان قالت فوالله ما قدرت على أن أقضي حاجة ورجعت فوالله ما زلت أبكي حتى ظننت أن البكاء سيصدع كبدي وقلت لأمي يغفر الله لك تحدث الناس بما تحدثوا به ولا تذكرين لي شيئا من ذلك قالت أي بنية خفضي عليك الشأن فوالله لقلما كانت امرأة حسناء عند رجل يحبها لها ضرائر إلا أكثرن وأكثر الناس عليها قالت وقد <span class="page-no" title="end of page 331 of vol. 1">§</span> قام رسول الله صلى الله عليه وسلم في الناس خطيبا ولا أعلم بذلك فحمد الله وأثنى عليه ثم قال يا أيها الناس ما بال رجال يؤذونني في أهلي ويقولون عليهم غير الحق فوالله ما علمت منهم إلا خيرا ويقولون ذلك لرجل والله ما علمت منه إلا خيرا ولا دخل بيتا من بيوتي إلا وهو معي قالت وكان كبر ذلك عند عبد الله بن أبي ابن سلول في رجال من الخزرج مع الذي قال مسطح وحمنة بنت جحش وذلك أن أختها زينب بنت جحش كانت عند رسول الله صلى الله عليه وسلم ولم تكن من نسائه امرأة كانت تناصيني في المنزلة عنده غيرها فأما زينب فعصمها الله بدينها فلم تقل إلا خيرا وأما أختها حمنة فأشاعت من ذلك ما أشاعت تضادني لأختها فشقيت بذلك فلما أن قال رسول الله صلى الله عليه وسلم تلك المقالة قال أسيد بن حضير أحد بني عبد الأشهل يا رسول الله إن يكونوا من الأوس نكفيكهم وإن يكونوا من إخواننا من الخزرج فمرنا بأمرك فوالله إنهم لأهل أن تضرب أعناقهم فتكلم سعد بن عبادة وكان قبل ذلك يرى رجلا صالحا فقال كذبت لعمر الله لا تضرب أعناقهم أم والله ما قلت هذه المقالة إلا أنك تعرف أنهم من الخزرج ولو كانوا من قومك ما قلت هذا فقال أسيد بن حضير كذبت لعمر الله ولكنك منافق تجادل عن <span class="page-no" title="end of page 332 of vol. 1">§</span> المنافقين قالت وتساور الناس حتى كاد يكون بين هذين الحيين من الأوس والخزرج شر ونزل رسول الله صلى الله عليه وسلم فدخل علي فدعا علي بن أبي طالب وأسامة بن زيد فاستشارهما فأما أسامة فأثنى خيرا وقاله ثم قال يا رسول الله أهلك ولا نعلم منهم إلا خيرا وهذا الكذب الباطل وأما علي فإنه قال يا رسول الله إن النساء كثير وإنك لقادر على أن تستخلف وسل الجارية فإنها ستصدقك فدعا رسول الله صلى الله عليه وسلم بريرة ليسألها فقام إليها علي فضربها ضربا شديدا وقال اصدقي رسول الله صلى الله عليه وسلم فتقول والله ما أعلم إلا خيرا وما كنت أعيب على عائشة شيئا إلا أني كنت أعجن عجيني فآمرها أن تحفظه فتنام عنه فتأتي الشاة فتأكله قالت ثم دخل علي رسول الله صلى الله عليه وسلم وعندي أبواي وعندي امرأة من الأنصار وأنا أبكي وهي تبكي معي فجلس فحمد الله وأثنى عليه ثم قال يا عائشة إنه قد كان ما بلغك من قول الناس فاتقي الله فإن كنت قارفت سوءا مما يقول الناس فتوبي إلى الله فإن الله يقبل التوبة على عباده قالت فوالله إن هو إلا أن قال لي ذلك فقلص دمعي حتى ما أحس منه شيئا وانتظرت أبوي أن يجيبا عني رسول الله صلى الله عليه وسلم فلم <span class="page-no" title="end of page 333 of vol. 1">§</span> يتكلما قالت وايم الله لأنا كنت أحقر في نفسي وأصغر شأنا من أن ينزل الله في قرآنا يقرأ به في المساجد ويصلى به ولكني كنت أرجو أن يرى رسول الله صلى الله عليه وسلم في نومه شيئا يكذب الله به عني لما يعلم من براءتي أو يخبر خبرا فأما قرآن ينزل في فوالله لنفسي كانت أحقر عندي من ذلك قالت فلما لم أر أبوي يتكلمان قلت لهما ألا تجيبان رسول الله صلى الله عليه وسلم فقالا والله ما ندري بماذا نجيبه قالت وايم الله لا أعلم أهل بيت دخل عليهم ما دخل على آل أبي بكر في تلك الأيام قالت فلما استعجما علي استعبرت فبكيت ثم قلت والله لا أتوب إلى الله مما ذكرت أبدا والله يعلم أني منه بريئة لا أقولن ما لم يكن ولئن أنا أنكرت ما يقولون لا تصدقونني قالت ثم التمست اسم يعقوب فما أذكره قلت ولكني سأقول كما قال أبو يوسف <a href="https://quran.com/12/18" class="quran" title="Qurʾān 12.18" target="_blank">فصبر جميل والله المستعان على ما تصفون</a> قالت فوالله ما برح رسول الله صلى الله عليه وسلم من مجلسه حتى تغشاه من الله ما كان يتغشاه فسجي بثوبه ووضعت له وسادة من أدم تحت رأسه فأما أنا حين رأيت من ذلك ما رأيت ما فزعت كثيرا ولا باليت قد عرفت أني بريئة وأن الله غير ظالمي وأما أبواي فوالذي نفس عائشة بيده ما سري عن رسول الله صلى الله عليه وسلم حتى ظننت أن أنفسهما ستخرج فرقا من أن يأتي من الله تحقيق ما قال الناس قالت ثم سري عن رسول الله صلى الله عليه وسلم <span class="page-no" title="end of page 334 of vol. 1">§</span> فجلس وإنه ليتحدر منه مثل الجمان في يوم شات فجعل يمسح العرق عن جبينه ويقول أبشري يا عائشة فقد أنزل الله براءتك قالت فقلت بحمد الله دونكم ثم خرج إلى الناس فخطبهم وتلا عليهم ما أنزل الله في القرآن في ثم أمر بمسطح بن أثاثة وحسان بن ثابت وحمنة بنت جحش وكانوا ممن أفصح بالفاحشة فضربوا حدهم. <span class="page-no" title="end of page 335 of vol. 1">§</span> <span class="page-no" title="end of page 336 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-KTMXV01P328A-1]
+
+```{=html}
+<article class="sira-report" id="KTMXV01P335A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV01P335A">KTMXV01P335A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 1 p. 335</div>
+  </header>
+  <div class="witness-text">
+    قال محمد بن إسحاق حدثني ابن إسحاق بن يسار عن بعض رجال بني النجار أن أبا أيوب خالد بن زيد قالت له امرأته أم أيوب يا أبا أيوب ألا تسمع ما يقول الناس في عائشة قال بلى وذلك الكذب أكنت يا أم أيوب فاعلة ذلك قالت لا والله ما كنت أفعله قال فعائشة خير منك قالت فلما أنزل الله القرآن ذكر الله من قال من أهل الفاحشة ما قال ومن أهل الإفك فقال <a href="https://quran.com/24/11" class="quran" title="Qurʾān 24.11" target="_blank">إن الذين جاءوا بالإفك عصبة منكم لا تحسبوه شرا لكم بل هو خير لكم لكل امرئ منهم ما اكتسب من الإثم والذي تولى كبره منهم له عذاب عظيم</a> وذلك حسان بن ثابت وأصحابه الذين قالوا ما قالوا ثم قال <a href="https://quran.com/24/12" class="quran" title="Qurʾān 24.12" target="_blank">لولا إذ سمعتموه ظن المؤمنون والمؤمنات بأنفسهم خيرا</a> أي فقالوا كما قال أبو أيوب وصاحبته ثم قال <a href="https://quran.com/24/15" class="quran" title="Qurʾān 24.15" target="_blank">إذ تلقونه بألسنتكم وتقولون بأفواهكم ما ليس لكم به <span class="page-no" title="end of page 335 of vol. 1">§</span> علم وتحسبونه هينا وهو عند الله عظيم</a> فلما نزل هذا في عائشة رضي الله عنها وفي من قال لها ما قال قال أبو بكر رضي الله عنه وكان ينفق على مسطح لقرابته وحاجته والله لا أنفق على مسطح شيئا أبدا ولا أنفعه بنافعة أبدا بعد إذ قال لعائشة وأدخل عليها ما أدخل فأنزل الله في ذلك <a href="https://quran.com/24/22" class="quran" title="Qurʾān 24.22" target="_blank">ولا يأتل أولو الفضل منكم والسعة أن يؤتوا أولي القربى والمساكين والمهاجرين في سبيل الله وليعفوا وليصفحوا ألا تحبون أن يغفر الله لكم</a> قال أبو بكر بلى والله والله إني لأحب أن يغفر الله لي فرجع إلى مسطح نفقته التي كان ينفق عليه وقال والله لا أنزعها أبدا.
+  </div>
+</article>
+```
+
+[^comment-KTMXV01P335A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-HBHXV02P059A-1]: This fragment is not found in HSNX. There are a complex of traditions that revolve around ʿAlī b. Abī Ṭālib and his performance of wuḍūʿ. Although they most likely deal with the same event since ʿAbd Allāh b. ʿAbbās is the witness for each, they are sufficiently different to treat as distinct traditions. The fragment referred to here is the “entering” tradition, where ʿAlī enters the home of ʿAbd Allāh b. ʿAbbās and asks for water for wuḍūʿ. While it refers to “wiping” it is placed in a specific context and will be categorized here as the “entering” tradition. This tradition is found in <a href="WYWAT.html" class="witness-link">WYWAT</a> (Yaḥyā b. Wāḍiḥ al-Anṣārī Abū Tumaylah), <a href="WASKA.html" class="witness-link">WASKA</a> (ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah), and <a href="WISIB.html" class="witness-link">WISIB</a> (Ismāʿīl b. Ibrāhīm b. Muḥammad b. Ṭalḥah al-Ḥijāzī), <a href="WARMZ.html" class="witness-link">WARMZ</a> (ʿAbd al-Raḥmān b. Muḥammad b. Ziyād al-Muḥāribī al-Kūfī).
+[^comment-KTMXV01P328A-1]: The author states that this is a collection of traditions that he weaves into a single narrative. It is not known how much of this is Ibn Isḥāq. Passage found in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P297B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 297) in the raid on al-Muṣṭaliq. Also see <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WSABZ.html" class="witness-link">WSABZ</a> (Saʿīd b. Bazīʿ), <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī), and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).
+[^comment-KTMXV01P335A-1]: <a href="../references.html#ref-KTMX" class="source-ref">KTMXV01P335A</a> (<span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span>, vol. 1 p. 335) appears to be a continuation of the previous traditions related in <a href="../references.html#ref-KTMX" class="source-ref">KTMXV01P328A</a> (<span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span>, vol. 1 p. 328).

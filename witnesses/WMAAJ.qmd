@@ -1,0 +1,158 @@
+---
+title: "Muḥammad b. ʿAbd Allāh al-Jawharī"
+lang: "en"
+witness-code: "WMAAJ"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية محمد بن عبد الله الجوهري</span>
+
+**Witness code:** `WMAAJ`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMAAJ">
+```
+
+```{=html}
+<article class="sira-report" id="NSSXV01P049A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P049A">NSSXV01P049A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 49</div>
+  </header>
+  <div class="witness-text">
+    أخبرني أبو الحسن محمد بن عبد الله الجوهري حدثنا محمد بن إسحاق حدثنا أحمد بن يوسف حدثنا النضر بن محمد حدثنا عكرمة بن عمار حدثنا إياس بن سلمة حدثني أبي أنه كان مع رسول الله صلى الله عليه وسلم إذ جاءه رجل بفرس له يقودها عقوق ومعها مهرة لها يتبعها فقال من أنت فقال أنا نبي قال ما نبي قال رسول الله قال متى تقوم الساعة فقال رسول الله صلى الله عليه وسلم غيب ولا يعلم الغيب إلا الله قال أرني سيفك فأعطاه النبي صلى الله عليه وسلم سيفه فهزه الرجل ثم رده عليه فقال رسول الله صلى الله عليه وسلم أما إنك لم تكن تستطيع الذي أردت. <span class="page-no" title="end of page 49 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P092A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P092A">NSSXV01P092A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 92</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا الحاكم أبو عبد الله محمد بن عبد الله الحافظ إملاء في شهر ربيع الآخر سنة ثلاث وتسعين وثلاث مائة أنبأ أبو أحمد بكر بن محمد الصيرفي بمرو ثنا أبو إسماعيل محمد بن إسماعيل ثنا أبو النعمان محمد بن الفضل ثنا عبد الواحد بن زياد وأخبرني محمد بن عبد الله الجوهري واللفظ له حدثنا محمد بن إسحاق أنبأ محمد بن معمر بن ربعي القيسي حدثنا أبو هشام المغيرة بن سلمة المخزومي حدثنا عبد الواحد بن زياد ثنا عبد الله بن عبد الله بن الأصم ثنا يزيد بن الأصم عن أبي هريرة قال جاء رجل إلى النبي صلى الله عليه وسلم فقال يا محمد أرأيت جنة عرضها السماوات والأرض فأين النار قال أرأيت الليل الذي قد ألبس كل شيء فأين جعل النهار قال الله أعلم قال كذلك يفعل الله ما يشاء هذا حديث صحيح على شرط الشيخين ولا أعلم له علة ولم يخرجاه. <span class="page-no" title="end of page 92 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P162A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P162A">NSSXV01P162A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 162</div>
+  </header>
+  <div class="witness-text">
+    وأخبرني أبو الحسن محمد بن عبد الله الجوهري ثنا محمد بن إسحاق عن الزهري عن محمد بن جبير بن مطعم عن أبيه قال قام رسول الله صلى الله عليه وسلم بالخيف من منى فقال نضر الله عبدا سمع مقالتي فوعاها ثم أداها إلى من لم يسمعها فرب حامل فقه لا فقه له ورب حامل فقه إلى من هوأفقه منه ثلاث لا يغل عليهن قلب مؤمن إخلاص العمل لله والنصيحة لأولي الأمر ولزوم الجماعة فإن دعوتهم تكون من ورائهم قد اتفق هؤلاء الثقات على رواية هذا الحديث عن محمد بن إسحاق عن الزهري وخالفهم عبد الله بن نمير وحده فقال عن محمد بن إسحاق عن عبد السلام وهو ابن أبي الجنوب عن الزهري وابن نمير ثقة والله أعلم ثم نظرناه فوجدنا للزهري فيه متابعا عن محمد بن جبير. <span class="page-no" title="end of page 162 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV01P169A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV01P169A">NSSXV01P169A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 1 p. 169</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن حمشاذ العدل في مسند أنس ثنا يحيى بن منصور الهروي ثنا أحمد بن نصر المقرئ النيسابوري وأخبرني أبو الحسن محمد بن عبد الله الجوهري ثنا محمد بن إسحاق الإمام حدثني أحمد بن نصر ثنا سريج بن النعمان ثنا أبو عوانة عن قتادة عن أنس قال قال رسول الله صلى الله عليه وسلم منهومان لا يشبعان منهوم في علم لا يشبع ومنهوم في دنيا لا يشبع هذا حديث صحيح على شرط الشيخين ولم يخرجاه ولم أجد له علة. <span class="page-no" title="end of page 169 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV03P096A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV03P096A">NSSXV03P096A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 3 p. 96</div>
+  </header>
+  <div class="witness-text">
+    أخبرني محمد بن عبد الله الجوهري ثنا محمد بن إسحاق ثنا بشر بن معاذ العقدي ثنا عبد الله بن داود الواسطي ثنا عبد الرحمن ابن أخي محمد بن المنكدر عن عمه محمد بن المنكدر عن جابر رضي الله عنه قال قال عمر بن الخطاب ذات يوم لأبي بكر الصديق رضي الله عنهما يا خير الناس بعد رسول الله صلى الله عليه وسلم فقال أبو بكر أما إنك إن قلت ذاك فلقد سمعت رسول الله صلى الله عليه وسلم يقول ما طلعت الشمس على رجل خير من عمر هذا حديث صحيح الإسناد ولم يخرجاه. <span class="page-no" title="end of page 96 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSSXV03P483A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV03P483A">NSSXV03P483A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 3 p. 483</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا محمد بن عبد الله الجوهري أنا محمد بن إسحاق الإمام ثنا أبو هاشم زياد بن أيوب ثنا عباد بن العوام ثنا الشيباني عن الشعبي قال يؤخذ العلم عن ستة من أصحاب رسول الله صلى الله عليه وسلم فكان عمر وعبد الله وزيد يشبه علمهم بعضه بعضا فكان يقتبس بعضهم من بعض قال فقلت للشعبي وكان الأشعري إلى هؤلاء قال كان أحد الفقهاء. <span class="page-no" title="end of page 483 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQSXV04P396A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQSXV04P396A">BQSXV04P396A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 4 pp. 396-397</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو عبد الله الحافظ أخبرني أبو الحسن محمد بن عبد الله الجوهري ثنا محمد بن إسحاق ثنا محمد بن يحيى وزكريا بن يحيى بن أبي أبان قالا ثنا ابن أبي مريم ثنا محمد بن جعفر بن أبي كثير حدثني زيد بن أسلم عن عياض بن عبد الله عن أبي سعيد الخدري قال خرج رسول الله صلى الله عليه وسلم في أضحى أو فطر <span class="page-no" title="end of page 396 of vol. 4">§</span> إلى المصلى ثم انصرف فقام فوعظ الناس وأمر الناس بالصدقة فقال أيها الناس تصدقوا ثم انصرف فمر على النساء فقال يا معشر النساء تصدقن فإني أريتكن أكثر أهل النار فقلن وبم ذلك يا رسول الله قال تكثرن اللعن وتكفرن العشير وما رأيت من ناقصات عقل ودين أذهب بلب الرجل الحازم من إحداكن يا معشر النساء فقلن له ما نقصان ديننا وعقلنا يا رسول الله قال أليس شهادة المرأة مثل نصف شهادة الرجل قلن بلى قال فذلك من نقصان عقلها أو ليس إذا حاضت المرأة لم تصل ولم تصم فذلك من نقصان دينها رواه البخاري في الصحيح عن ابن أبي مريم ورواه مسلم عن الحلواني والصغاني عن ابن أبي مريم. <span class="page-no" title="end of page 397 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQSXV10P327A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQSXV10P327A">BQSXV10P327A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 10 p. 327</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو عبد الله الحافظ أخبرني أبو الحسن محمد بن عبد الله الجوهري ثنا محمد بن إسحاق ثنا محمد بن بشار ومحمد بن المثنى قالا ثنا ابن أبي عدي عن سعيد عن قتادة أخبرني غير واحد ممن لقي الوفد وذكر أبا نضرة عن أبي سعيد أن فذكر قصة وفد عبد القيس قالوا يا رسول الله وذكر الحديث قال ولقي أتي نبي الله صلى الله عليه وسلم أشج بأشج عبد القيس فقال إن فيك خصلتين يحبهما الله ورسوله الحلم والأناة. <span class="page-no" title="end of page 327 of vol. 10">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQSXV10P394A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQSXV10P394A">BQSXV10P394A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 10 p. 394</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو عبد الله أخبرني أبو الحسن محمد بن عبد الله الجوهري ثنا أبو بكر محمد بن إسحاق ثنا أبو بشر الواسطي ثنا خالد عن خالد عن أبي عثمان أن رسول الله صلى الله عليه وسلم بعث عمرو بن العاص على جيش ذات السلاسل قال فأتيته فقلت أي الناس أحب إليك وفي حديث يحيى فقلت يا رسول الله من أحب الناس إليك قال عائشة قلت من الرجال قال أبوها قلت ثم من قال ثم عمر فعد رجالا. <span class="page-no" title="end of page 394 of vol. 10">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQDXV01P329A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQDXV01P329A">BQDXV01P329A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQDX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Quḍāʾ waʾl-qadr</span></a>, vol. 1 pp. 329-330</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو عبد الله الحافظ قال أخبرني أبو الحسن محمد بن عبد الله الجوهري قال سمعت أبا بكر محمد بن إسحاق يقول سمعت أبا عبد الله محمد بن يحيى يقول السنة عندنا أن الإيمان قول وعمل يزيد وينقص وهو قول أئمتنا مالك بن أنس وعبد الرحمن بن عمرو الأوزاعي وسفيان بن سعيد الثوري وسفيان بن عيينة الهلالي وأن الأعمال والفرائض وأعمال الجوارح في طاعة الله أجمع من الإيمان وأن القدر خيره وشره من الله عز وجل وقد جف القلم بما هو كائن إلى أن تقوم الساعة علم الله من العباد ما هم عاملون وإلى ما هم صائرون وأمرهم ونهاهم فمن لزم أمر الله عز وجل وآثر طاعته فبتوفيق الله ومن ترك أمر الله وركب معاصيه فبخذلان الله إياه ومن زعم أن الاستطاعة قبل العمل بالجوارح إليه إن شاء عمل وإن شاء لم يعمل فقد كذب بالقدر ورد كتاب الله نصا وزعم أنه مستطيع لما لم يرده الله ونحن نبرأ إلى الله عز وجل من هذا القول ولكن نقول الاستطاعة في العبد مع الفعل فإذا عمل عملا بالجوارح من بر أو فجور علمنا أنه كان مستطيعا للفعل الذي فعل فأما قبل أن يفعله فإنا لا ندري لعله يريد أمرا فيحال بينه وبين ذلك والله تبارك وتعالى مريد لتكوين أعمال الخلق ومن ادعى خلاف ما ذكرنا فقد وصف الله بالعجز وهلك في الدارين وأن القرآن كلام الله غير مخلوق به خلق الخلق وكون الأشياء قال الله في محكم كتابه <span class="page-no" title="end of page 329 of vol. 1">§</span> <a href="https://quran.com/7/54" class="quran" title="Qurʾān 7.54" target="_blank">ألا له الخلق والأمر</a> ففصل الأمر من الخلق فبأمره خلق الخلق قال كن فكان وكلامه من أمره ليس بمخلوق وأن الله يرى في الآخرة بالأبصار يراه أهل الجنة بهذا ندين الله بصدق نية عليه نحيا ونموت إن شاء الله وأن خير الناس بعد رسول الله صلى الله عليه وسلم المقدم في التفضيل أبو بكر ثم عمر ثم عثمان ثم علي. <span class="page-no" title="end of page 330 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BQWXV04P207A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQWXV04P207A">BQWXV04P207A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQWX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Dalāʾil al-nubūwah wa maʿarifah aḥwāl ṣāḥib al-sharīʿah</span></a>, vol. 4 pp. 207-209</div>
+  </header>
+  <div class="witness-text">
+    وأخبرنا أبو عبد الله الحافظ قال أخبرنا أبو الحسن محمد بن عبد الله الجوهري وأبو عمرو محمد بن أحمد قالا حدثنا محمد بن إسحاق قال حدثنا أبو موسى محمد بن المثنى قال حدثنا عبد الملك بن عمرو قال حدثنا عكرمة بن عمار اليمامي عن إياس بن سلمة عن أبيه فذكر حديثا طويلا وذكر فيه رجوعهم من غزوة بني فزارة قال فلم نمكث إلا ثلاثا حتى خرجنا إلى خيبر وخرج عامر فجعل يقول <span class='poetry-line'><span class='hemistich1'>تالله لولا الله ما اهتدينا</span> <span class='hemistich2'>ولا تصدقنا ولا صلينا</span></span> <span class='poetry-line'><span class='hemistich1'>ونحن من فضلك ما استغنينا</span> <span class='hemistich2'>فأنزلن سكينة علينا</span></span> وثبت الأقدام إن لاقينا قال فقال رسول الله صلى الله عليه وسلم من هذا القائل فقالوا عامر فقال غفر لك ربك قال وما خص رسول الله صلى الله عليه وسلم قط أحدا به إلا استشهد فقال عمر بن الخطاب وهو على جمل له لولا متعتنا بعامر قال فقدمنا خيبر فخرج مرحبا وهو يخطر بسيفه ويقول <span class="page-no" title="end of page 207 of vol. 4">§</span> <span class='poetry-line'><span class='hemistich1'>قد علمت خيبر أني مرحب</span> <span class='hemistich2'>شاكي السلاح بطل مجرب</span></span> إذا الحروب أقبلت تلهب فبرز له عامر وهو يقول <span class='poetry-line'><span class='hemistich1'>قد علمت خيبر أني عامر</span> <span class='hemistich2'>شاكي السلاح بطل مغامر </span></span> قال فاختلفا ضربتين فوقع سيف مرحب في ترس عامر فذهب عامر يسفل له فرجع بسيفه على نفسه فقطع أكحله وكانت فيها نفسه قال سلمة فخرجت فإذا أنفر من أصحاب رسول الله صلى الله عليه وسلم بطل عمل عامر قتل نفسه قال فأتيت رسول الله صلى الله عليه وسلم وأنا أبكي فقال مالك فقلت قالوا إن عامرا بطل عمله فقال من قال ذلك فقلت نفر من أصحابك فقال كذب من قال ذلك بل له من الأجر مرتين قال فأرسل رسول الله صلى الله عليه وسلم إلى علي يدعوه وهو أرمد فقال لأعطين الراية اليوم رجلا يحب الله ورسوله ويحبه الله ورسوله قال فجئت به أقوده قال فبصق رسول الله صلى الله عليه وسلم في عينيه فبرأ فأعطاه الراية قال فبرز مرحب وهو يقول <span class='poetry-line'><span class='hemistich1'>قد علمت خيبر أني مرحب</span> <span class='hemistich2'>شاكي السلاح بطل مجرب</span></span> إذا الحروب أقبلت تلهب <span class="page-no" title="end of page 208 of vol. 4">§</span> قال فبرز له علي وهو يقول <span class='poetry-line'><span class='hemistich1'>أنا الذي سمتني أمي حيدره</span> <span class='hemistich2'>كليث غابات كريه المنظره</span></span> أوفيهم بالصاع كيل السندره فضرب مرحبا فغلق رأسه فقتله. <span class="page-no" title="end of page 209 of vol. 4">§</span>
+  </div>
+</article>
+```
+
+[^comment-BQWXV04P207A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-BQWXV04P207A-1]: This passage may not be from Muḥammad b. Isḥāq. Need to varify idenity.

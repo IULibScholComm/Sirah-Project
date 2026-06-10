@@ -1,0 +1,32 @@
+---
+title: "ʿAbd al-Mālik b. ʿAbd al-ʿAzīz b. Jurayj al-Qurashī al-Umawī"
+lang: "en"
+witness-code: "WAWAA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الملك بن عبد العزيز بن جريج القرشي الاموي</span>
+
+**Witness code:** `WAWAA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAWAA">
+```
+
+```{=html}
+<article class="sira-report" id="BQSXV08P374A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQSXV08P374A">BQSXV08P374A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 8 pp. 374-375</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو الحسين بن الفضل القطان ببغداد أنبأ عبد الله بن جعفر ثنا يعقوب بن سفيان ثنا سعيد بن أبي مريم ح وأنبأ أبو عبد الله الحافظ ثنا أبو العباس محمد بن يعقوب ثنا محمد بن إسحاق الصغاني ثنا سعيد بن أبي مريم أنبأ ابن لهيعة عن عبد الملك بن عبد العزيز بن مليك أن أباه أخبره أنه سمع عبد الله بن الحارث بن جزء الزبيدي يذكر أن اليهود أتوا رسول الله صلى الله عليه وسلم بيهودي ويهودية زنيا وقد أحصنا فأمر بهما رسول الله صلى الله عليه وسلم فرجما قال عبد الله بن الحارث فكنت أنا فيمن رجمهما <span class="page-no" title="end of page 374 of vol. 8">§</span> وروي هذا اللفظ في حديث محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن إسماعيل بن إبراهيم الشيباني عن ابن عباس قال أتي رسول الله صلى الله عليه وسلم بيهودي ويهودية وقد أحصنا فسألوه أن يحكم فيما بينهم فحكم فيهما بالرجم وهذا فيما أنبأنيه أبو عبد الله إجازة أنبأ أبو الوليد ثنا محمد بن إسحاق <span class="page-no" title="end of page 374 of vol. 8">§</span> ثنا يوسف بن موسى أنبأ جرير عن محمد بن إسحاق فذكره وفي حديث الزهري سمع رجلا من مزينة يحدث ابن المسيب أن أبا هريرة حدثهم أن أحبار يهود اجتمعوا في بيت المدراس حين قدم رسول الله صلى الله عليه وسلم المدينة وقد زنى منهم رجل بعد إحصانه بامرأة من اليهود قد أحصنت. <span class="page-no" title="end of page 375 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

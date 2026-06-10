@@ -1,0 +1,80 @@
+---
+title: "Lūṭ b. Yaḥyā b. Saʿīd b. Mikhnaf al-Azdī Abū Mikhnaf"
+lang: "en"
+witness-code: "WLYSN"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية ابو مخنف لوط بن يحيى بن سعيد بن مخنف</span>
+
+**Witness code:** `WLYSN`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WLYSN">
+```
+
+
+### <span lang="ar" dir="rtl">ثم دخلت سنة سبع وثلاثين</span>
+
+
+
+#### <span lang="ar" dir="rtl">خبر هاشم بن عتبة المرقال وذكر ليلة الهرير</span>
+
+
+```{=html}
+<article class="sira-report" id="TBRBV05P046B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV05P046B">TBRBV05P046B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 5 pp. 46-47</div>
+  </header>
+  <div class="witness-text">
+    قال أبو مخنف حدثني محمد بن إسحاق مولى بني المطلب ان عبد الرحمن ابن حنبل الجمحي هو الذي أشار على علي بهذا الرأي يوم صفين قال هشام حدثني عوانة قال جعل ابن حنبل يقول يومئذ إن تقتلوني فأنا ابن حنبل أنا الذي قد قلت فيكم نعثل <span class="page-no" title="end of page 46 of vol. 5">§</span> رجع الحديث إلى حديث أبي مخنف قال أبو مخنف فاقتتل الناس تلك الليلة كلها حتى الصباح وهي ليلة الهرير حتى تقصفت الرماح ونفد النبل وصار الناس إلى السيوف وأخذ علي يسير فيما بين الميمنة والميسرة ويأمر كل كتيبة من القراء أن تقدم على التي تليها فلم يزل يفعل ذلك بالناس ويقوم بهم حتى أصبح والمعركة كلها خلف ظهره والأشتر في ميمنة الناس وابن عباس في الميسرة وعلي في القلب والناس يقتتلون من كل جانب وذلك يوم الجمعة وأخذ الأشتر يزحف بالميمنة ويقاتل فيها وكان قد تولاها عشية الخميس وليلة الجمعة إلى ارتفاع الضحى وأخذ يقول لأصحابه ازحفوا قيد هذا الرمح وهو يزحف بهم نحو أهل الشام فإذا فعلوا قال ازحفوا قاد هذا القوس فإذا فعلوا سألهم مثل ذلك حتى مل أكثر الناس الإقدام فلما رأى ذلك الأشتر قال أعيذكم بالله أن ترضعوا الغنم سائر اليوم ثم دعا بفرسه وترك رايته مع حيان بن هوذة النخعي وخرج يسير في الكتائب ويقول من يشتري نفسه من الله عز وجل ويقاتل مع الأشتر حتى يظهر أو يلحق بالله فلا يزال رجل من الناس قد خرج إليه وحيان بن هوذة. <span class="page-no" title="end of page 47 of vol. 5">§</span>
+  </div>
+</article>
+```
+
+#### <span lang="ar" dir="rtl">اجتماع الحكمين بدومة الجندل</span>
+
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `TBRBV05P069A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="TBRBV05P069A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TBRBV05P069A">TBRBV05P069A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 5 pp. 69-70</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KTHBV07P282C</span> قال أبو مخنف حدثني محمد بن إسحاق عن نافع مولى ابن عمر قال قال عمرو بن العاص إن هذا الأمر لا يصلحه إلا رجل له ضرس يأكل ويطعم وكانت في ابن عمر غفلة فقال له عبد الله بن الزبير افطن فانتبه فقال عبد الله بن عمر لا والله لا ارشو عليها شيئا ابدا وقال يا بن العاص إن العرب أسندت إليك أمرها بعد ما تقارعت بالسيوف وتناجزت بالرماح فلا تردنهم في فتنة. <span class="page-no" title="end of page 69 of vol. 5">§</span> <span class="page-no" title="end of page 70 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHBV07P282C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHBV07P282C">KTHBV07P282C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHB" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span></a>, vol. 7 pp. 282-283</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TBRBV05P069A</span> قال أبو مخنف فحدثني محمد بن إسحاق عن نافع عن ابن عمر قال قال عمرو بن العاص إن هذا <span class="page-no" title="end of page 282 of vol. 7">§</span> الأمر لا يصلحه إلا رجل له ضرس يأكل ويطعم وكان ابن عمر فيه غفلة فقال له ابن الزبير افطن وانتبه فقال ابن عمر لا والله لا أرشو عليها شيئا أبدا ثم قال يا ابن العاص إن العرب قد أسندت إليك أمرها بعد ما تقارعت بالسيوف وتشاكت بالرماح فلا تردنهم في فتنة مثلها أو أشد منها ثم إن عمرو بن العاص حاول أبا موسى على أن يقر معاوية وحده على الناس فأبى عليه ثم حاوله ليكون ابنه عبد الله بن عمرو هو الخليفة فأبى أيضا وطلب أبو موسى من عمرو أن يوليا عبد الله بن عمر فامتنع عمرو أيضا ثم اصطلحا على أن يخلعا معاوية وعليا ويتركا الأمر شورى بين الناس ليتفقوا على من يختاروه لأنفسهم ثم جاءا إلى المجمع الذي فيه الناس وكان عمرو لا يتقدم بين يدي أبي موسى بل يقدمه في كل الأمور أدبا وإجلالا فقال له يا أبا موسى قم فأعلم الناس بما اتفقنا عليه فخطب أبو موسى الناس فحمد الله وأثنى عليه ثم صلى على رسول الله صلى الله عليه وسلم ثم قال أيها الناس إنا قد نظرنا في أمر هذه الأمة فلم نر أمرا أصلح لها ولا ألم لشعثها من رأى اتفقت أنا وعمرو عليه وهو أنا نخلع عليا ومعاوية ونترك الأمر شورى وتستقبل الأمة هذا الأمر فيولوا عليهم من أحبوه وإني قد خلعت عليا ومعاوية ثم تنحى وجاء عمرو فقام مقامه فحمد الله وأثنى عليه ثم قال إن هذا قد قال ما سمعتم وإنه قد خلع صاحبه وإني قد خلعته كما خلعه وأثبت صاحبي معاوية فإنه ولي عثمان بن عفان والطالب بدمه وهو أحق الناس بمقامه وكان عمرو بن العاص رأى أن ترك الناس بلا إمام والحالة هذه يؤدى إلى مفسدة طويلة عريضة أربى مما الناس فيه من الاختلاف فأقر معاوية لما رأى ذلك من المصلحة والاجتهاد يخطئ ويصيب ويقال إن أبا موسى تكلم معه بكلام فيه غلظة ورد عليه عمرو بن العاص مثله. <span class="page-no" title="end of page 283 of vol. 7">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+</div>
+```

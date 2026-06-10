@@ -1,0 +1,350 @@
+---
+title: "ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī"
+lang: "en"
+witness-code: "WASMR"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الرحيم بن سليمان المروزي الرازي</span>
+
+**Witness code:** `WASMR`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WASMR">
+```
+
+```{=html}
+<article class="sira-report" id="SHBMV06P484A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV06P484A">SHBMV06P484A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 6 pp. 484-492</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن الزهري ومحمد بن علي عن يزيد بن هرمز قال كتب نجدة إلى ابن عباس يسأله عن قتل الولدان ويقول في كتابه إن العالم صاحب موسى قد قتل الوليد قال فقال يزيد أنا كتبت كتاب ابن عباس بيدي إلى نجدة إنك كتبت تسأل عن قتل الولدان وتقول في كتابك إن العالم صاحب موسى قد قتل الوليد ولو كنت تعلم من الولدان ما علم ذلك العالم من ذلك الوليد قتلته ولكنك لا تعلم قد نهى رسول الله صلى الله عليه وسلم عن قتلهم فاعتزلهم. <span class="page-no" title="end of page 484 of vol. 6">§</span> <span class="page-no" title="end of page 492 of vol. 6">§</span>
+  </div>
+</article>
+```
+
+[^comment-SHBMV06P484A-1]
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `SHBMV06P492A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="SHBMV06P492A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SHBMV06P492A">SHBMV06P492A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 6 p. 492</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SHBMV06P537A</span> حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن الزهري ومحمد بن علي عن يزيد بن هرمز قال كتب نجدة إلى ابن عباس يسأله عن النساء هل كن يحضرن الحرب مع رسول الله صلى الله عليه وسلم وهل يضرب لهن بسهم قال فقال يزيد أنا كتبت كتاب ابن عباس بيدي إلى نجدة كتبت تسألني عن النساء هل كن يحضرن مع رسول الله صلى الله عليه وسلم الحرب وهل كان يضرب لهن بسهم وقد كن يحضرن مع رسول الله صلى الله عليه وسلم فأما أن يضرب لهن بسهم فلا وقد كان يرضخ لهن.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="SHBMV06P537A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SHBMV06P537A">SHBMV06P537A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 6 p. 537</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SHBMV06P492A</span> حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن الزهري ومحمد بن علي عن يزيد بن هرمز قال كتب نجدة إلى ابن عباس يسأله عن النساء هل كن يحضرن مع رسول الله صلى الله عليه وسلم الحرب وهل كان يضرب لهن بسهم قال يزيد كتبت كتاب ابن عباس إلى نجدة قد كن يحضرن مع رسول الله صلى الله عليه وسلم فأما أن يضرب لهن بسهم فلا وقد كان يرضخ لهن. <span class="page-no" title="end of page 537 of vol. 6">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `SHBMV06P492A`:** [^comment-SHBMV06P492A-1]
+
+```{=html}
+<article class="sira-report" id="SHBMV06P516A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV06P516A">SHBMV06P516A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 6 pp. 516-291</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن الزهري ومحمد بن علي عن يزيد بن هرمز أن نجدة كتب إلى ابن عباس يسأله عن سهم ذوي القربى لمن هو فكتب كتبت تسألني عن سهم ذوي القربى لمن هو فهو لنا قال إن عمر بن الخطاب دعانا إلى أن ننكح منه أيمنا ونخدم منه عائلنا ونقضي منه عن غارمنا فأبينا ذلك إلا أن يسلمه لنا جميعا فأبى أن يفعل فتركناه عليه. <span class="page-no" title="end of page 516 of vol. 6">§</span> <span class="page-no" title="end of page 291 of vol. 11">§</span>
+  </div>
+</article>
+```
+
+[^comment-SHBMV06P516A-1]
+
+```{=html}
+<article class="sira-report" id="IHMAV11P291A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#IHMAV11P291A">IHMAV11P291A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMA" class="source-link"><span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span></a>, vol. 11 p. 291</div>
+  </header>
+  <div class="witness-text">
+    وروينا من طريق أبي بكر بن أبي شيبة نا عبد الرحمن بن سليمان عن محمد بن إسحاق عن أبي جعفر محمد بن علي بن الحسين أن علي بن أبي طالب كان إذا وجد القتيل بين قريتين قاس ما بينهما.
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `THSHV02P126A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="THSHV02P126A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#THSHV02P126A">THSHV02P126A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 2 pp. 126-263</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZYMXV01P262A</span> <span class="variant-id">VAR_DRQSV05P065A</span> <span class="variant-id">VAR_BQSXV07P585A</span> حدثنا إسحاق بن إبراهيم بن يونس البغدادي أبو يعقوب حدثنا الوليد بن شجاع أبو همام حدثنا عبد الرحيم بن سليمان حدثنا محمد بن إسحاق عن ثور بن يزيد عن محمد بن عبيد قال بعثني عدي بن عدي الكندي إلى صفية بنت شيبة أسألها عن أشياء كانت ترويها عن عائشة فقالت حدثتني عائشة أنها سمعت رسول الله صلى الله عليه وسلم يقول لا عتاق ولا طلاق في إغلاق <span class="page-no" title="end of page 126 of vol. 2">§</span> وذكر البخاري هذا الحديث عن أحمد بن حنبل عن سعد بن <span class="page-no" title="end of page 127 of vol. 2">§</span> إبراهيم بن سعد عن أبيه عن ابن إسحاق عن ثور بن يزيد الكلاعي عن محمد بن عبيد بن أبي صالح المكي. <span class="page-no" title="end of page 128 of vol. 2">§</span> <span class="page-no" title="end of page 263 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="ZYMXV01P262A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ZYMXV01P262A">ZYMXV01P262A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZYMX" class="source-link"><span class='ref-author'>Ibn al-Aʿrābī</span>, <span class='ref-title'>Muʿjam</span></a>, vol. 1 p. 262</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV02P126A</span> <span class="variant-id">VAR_DRQSV05P065A</span> <span class="variant-id">VAR_BQSXV07P585A</span> نا محمد بن الحجاج نا عبد الرحيم بن سليمان الرازي عن محمد بن إسحاق عن ثور بن يزيد عن محمد بن عبيد قال <span class="page-no" title="end of page 262 of vol. 1">§</span> بعثني عدي بن عدي الكندي إلى صفية بنت شيبة أسألها عن أشياء كانت ترويها عن عائشة أم المؤمنين قالت حدثتني عائشة أنها سمعت رسول الله صلى الله عليه وسلم يقول لا عتاق ولا طلاق في إغلاق.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DRQSV05P065A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DRQSV05P065A">DRQSV05P065A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQS" class="source-link"><span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span></a>, vol. 5 p. 65</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV02P126A</span> <span class="variant-id">VAR_ZYMXV01P262A</span> <span class="variant-id">VAR_BQSXV07P585A</span> نا إسماعيل بن العباس وآخرون قالوا نا محمد بن الحجاج الضبي نا عبد الرحيم بن سليمان عن محمد بن إسحاق عن ثور بن يزيد عن محمد بن عبيد قال بعثني عدي بن عدي الكندي إلى صفية بنت شيبة أسألها أشياء كانت ترويها عن عائشة أم المؤمنين فقالت حدثتني عائشة أنها سمعت رسول الله صلى الله عليه وسلم يقول لا عتاق ولا طلاق في إغلاق. <span class="page-no" title="end of page 65 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BQSXV07P585A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BQSXV07P585A">BQSXV07P585A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQSX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span></a>, vol. 7 p. 585</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV02P126A</span> <span class="variant-id">VAR_ZYMXV01P262A</span> <span class="variant-id">VAR_DRQSV05P065A</span> أخبرنا أبو طاهر الفقيه أنا أبو بكر محمد بن الحسين القطان نا أبو الأزهر نا وهب بن جرير نا أبي قال سمعت محمد بن إسحاق يحدث قال كتب إلي ثور بن يزيد أن محمد بن عبيد حدثه عن عدي بن عدي أنه أمره أن يأتي صفية بنت شيبة فيسألها عن حديث بلغه أنها تحدثه عن عائشة رضي الله عنها فأتيتها فحدثتني أن عائشة رضي الله عنها حدثتها أن رسول الله صلى الله عليه وسلم قال لا طلاق ولا عتاق في إغلاق ورواه إبراهيم بن سعد وعبد الله بن نمير وعبد الرحيم بن سليمان عن محمد بن إسحاق. @BQSXV07P585A_BEG_WASMR <span class="page-no" title="end of page 585 of vol. 7">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `THSHV02P126A`:** [^comment-THSHV02P126A-1]
+
+```{=html}
+<article class="sira-report" id="DWNXV03P132A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DWNXV03P132A">DWNXV03P132A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DWNX" class="source-link"><span class='ref-author'>Abū Dāwūd Sulaymān b. al-Ashʿath</span>, <span class='ref-title'>Sunan Abī Dāwūd</span></a>, vol. 3 p. 132</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن إبراهيم الأسباطي حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال سمعت رسول الله صلى الله عليه وسلم يقول العامل على الصدقة بالحق كالغازي في سبيل الله حتى يرجع إلى بيته. <span class="page-no" title="end of page 132 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DRQSV05P082A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DRQSV05P082A">DRQSV05P082A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQS" class="source-link"><span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span></a>, vol. 5 p. 82</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو صالح الأصبهاني عبد الرحمن بن سعيد وعثمان بن جعفر اللبان قالا نا محمد بن الحجاج بن نذير نا عبد الرحيم بن سليمان عن محمد بن إسحاق عن نافع عن ابن عمر قال من طلق امرأته وهي حائض ثلاثا فقد بانت منه وعصى ربه وخالف السنة. <span class="page-no" title="end of page 82 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBNV01P068A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBNV01P068A">SHBNV01P068A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBN" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Musnad</span></a>, vol. 1 p. 68</div>
+  </header>
+  <div class="witness-text">
+    نا عبد الرحيم بن سليمان عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال سمعت رسول الله صلى الله عليه وسلم يقول العامل على الصدقة بالحق كالغازي في سبيل الله حتى يرجع إلى بيته. <span class="page-no" title="end of page 68 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBMV02P430A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV02P430A">SHBMV02P430A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 2 p. 430</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر قال ثنا عبد الرحيم عن محمد بن إسحاق عن عاصم بن عمر عن محمود بن لبيد عن رافع بن خديج قال سمعت رسول الله صلى الله عليه وسلم يقول العامل على الصدقة بالحق كالغازي في سبيل الله حتى يرجع إلى بيته. <span class="page-no" title="end of page 430 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV04P252D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P252D">STBXV04P252D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 252</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبيد بن غنام ثنا أبو بكر بن أبي شيبة ثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال سمعت رسول الله صلى الله عليه وسلم يقول العامل على الصدقة كالغازي حتى يرجع إلى بيته. <span class="page-no" title="end of page 252 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BGHXV01P508A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BGHXV01P508A">BGHXV01P508A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BGHX" class="source-link"><span class='ref-author'>al-Baghawī</span>, <span class='ref-title'>Muʿjam al-ṣaḥābah</span></a>, vol. 1 pp. 508-510</div>
+  </header>
+  <div class="witness-text">
+    حدثنا شجاع بن مخلد وأبو همام الوليد بن شجاع وهارون بن عبد الله قالوا نا حجاج بن محمد قال قال ابن جريج أخبرني محمد بن طلحة بن عبد الرحمن عن <span class="page-no" title="end of page 508 of vol. 1">§</span> أبيه عن معاوية بن جاهمة أن جاهمة جاء إلى النبي صلى الله عليه وسلم فقال يارسول الله أردت أن أغزو وجئتك أستشيرك قال فهل لك من أم قال نعم قال فالزمها فإن الجنة عند رجليها ثم الثانية ثم الثالثة في مقاعد شتى على هذا القول <span class="page-no" title="end of page 509 of vol. 1">§</span> قال أبو القاسم روى هذا الحديث عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة وخالف رواية ابن جريج في الإسناد خاصة حدثنا الوليد بن شجاع نا عبد الرحيم بن سليمان نا محمد بن إسحاق عن محمد بن طلحة عن هرنة بن جامهة السلمي عن أبيه قال جئت رسول الله صلى الله عليه وسلم فقلت يارسول الله إني أريد الجهاد فذكر معنى حديث ابن جريج. <span class="page-no" title="end of page 510 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RZZIV03P362A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RZZIV03P362A">RZZIV03P362A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RZZI" class="source-link"><span class='ref-author'>Ibn Abī Ḥātim al-Rāzī</span>, <span class='ref-title'>al-ʿIlal</span></a>, vol. 3 pp. 362-363</div>
+  </header>
+  <div class="witness-text">
+    وسئل أبو زرعة عن حديث رواه عبدة بن سليمان عن محمد بن إسحاق عن الزهري عن ابن طلحة بن عبيدالله عن معاوية رجل من بني سليم قال جئت رسول الله صلى الله عليه وسلم فقلت يا رسول الله أردت الجهاد والغزو معك قال النبي صلى الله عليه وسلم أحية أمك قلت نعم قال الزم رجليها <span class="page-no" title="end of page 362 of vol. 3">§</span> الحديث أيضا عبد الرحيم بن سليمان فقال عن ابن إسحاق عن محمد بن طلحة عن أبيه طلحة ابن معاوية السلمي قال أتيت النبي صلى الله عليه وسلم. <span class="page-no" title="end of page 363 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SBIFV01P056A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SBIFV01P056A">SBIFV01P056A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SBIF" class="source-link"><span class='ref-author'>Abū al-Shaykh al-Iṣbahānī</span>, <span class='ref-title'>al-Fawāʾid</span></a>, vol. 1 p. 56</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أحمد بن عمرو بن أبي عاصم حدثنا أبو بكر بن أبي شيبة حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة بن معاوية بن جاهمة السلمي عن أبيه قال أتيت رسول الله صلى الله عليه وسلم قلت إني أريد الجهاد قال أمك حية قلت نعم قال الزم رجليها فثم الجنة. <span class="page-no" title="end of page 56 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="YSJTV02P167A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#YSJTV02P167A">YSJTV02P167A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-YSJT" class="source-link"><span class='ref-author'>Yaḥyā b. al-Ḥusayn al-Shajarī al-Jurjānī</span>, <span class='ref-title'>Tartīb al-amālī al-khamīsīyah</span></a>, vol. 2 p. 167</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو بكر محمد بن عبد الله بن أحمد بن ريذة قراءة عليه بأصفهان قال أخبرنا أبو القاسم سليمان بن أحمد بن أيوب الطبراني قال حدثنا عبيد بن غنام قال حدثنا أبو بكر بن أبي شيبة قال حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة عن معاوية السلمي عن أبيه قال أتيت النبي صلى الله عليه وآله وسلم فقلت يا رسول الله إني أريد الجهاد في سبيل الله قال أمك حية فقلت نعم فقال النبي صلى الله عليه وآله وسلم الزم رجلها فثم الجنة. <span class="page-no" title="end of page 167 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBMV06P518A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV06P518A">SHBMV06P518A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 6 p. 518</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة عن أبيه طلحة بن معاوية السلمي قال جئت رسول الله صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد معك في سبيل الله أبتغي بذلك وجه الله قال حية أمك قلت نعم قال الزمها قلت ما أرى فيهم رسول الله صلى الله عليه وسلم غنى فأعدت عليه مرارا فقال الزم رجليها فثم الجنة. <span class="page-no" title="end of page 518 of vol. 6">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV08P311A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV08P311A">STBXV08P311A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 8 p. 311</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبيد بن غنام ثنا أبو بكر بن أبي شيبة ثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة بن معاوية السلمي عن أبيه قال أتيت النبي صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد في سبيل الله قال أمك حية فقلت نعم فقال النبي صلى الله عليه وسلم الزم رجلها فثم الجنة. <span class="page-no" title="end of page 311 of vol. 8">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBMV05P219A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBMV05P219A">SHBMV05P219A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBM" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Kitāb al-muṣannaf fī al-aḥāddīth waʾl-āthār</span></a>, vol. 5 p. 219</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة بن معاوية بن جابر السلمي عن أبيه قال أتيت رسول الله صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد معك في سبيل الله قال فقال أمك حية قلت نعم يا رسول الله قال الزم رجليها فثم الجنة. <span class="page-no" title="end of page 219 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TBJXV02P702A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBJXV02P702A">TBJXV02P702A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBJX" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span></a>, vol. 2 p. 702</div>
+  </header>
+  <div class="witness-text">
+    دثنا أبو كريب قال ثنا عبد الرحيم بن سليمان وعبدة بن سليمان عن محمد بن إسحاق عن الحارث بن فضيل عن محمود بن لبيد عن ابن عباس قال قال رسول الله صلى الله عليه وسلم الشهداء على بارق نهر بباب الجنة في قبة خضراء وقال عبدة في روضة خضراء يخرج عليهم رزقهم من الجنة بكرة وعشيا. <span class="page-no" title="end of page 702 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBNV02P058A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBNV02P058A">SHBNV02P058A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBN" class="source-link"><span class='ref-author'>Ibn Abī Shaybah</span>, <span class='ref-title'>al-Musnad</span></a>, vol. 2 p. 58</div>
+  </header>
+  <div class="witness-text">
+    نا عبد الرحيم بن سليمان عن محمد بن إسحاق عن محمد بن طلحة عن أبيه طلحة بن معاوية بن جاهمة السلمي قال جئت النبي صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد معك في سبيل الله أبتغي بذلك وجه الله والدار الآخرة قال حية أمك قلت نعم قال فالزمها قال قلت ما أرى رسول الله فهم عني قال ثم جئته من ناحية أخرى فقلت له مثل ذلك فقال حية أمك قلت نعم يا رسول الله قال فالزمها قال قلت ما أرى رسول الله فهم عني فأتيته من بين يديه فقلت له مثل ذلك فقال حية أمك فقلت نعم قال فالزم رجلها فثم الجنة. <span class="page-no" title="end of page 58 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV03P1553A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV03P1553A">NYMXV03P1553A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 3 pp. 1553-1554</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن أحمد ثنا محمد بن عثمان بن أبي شيبة ثنا منجاب ثنا علي بن مسهر ح وحدثنا محمد قال ثنا محمد بن عثمان ثنا عمي أبو بكر ثنا عبد الرحيم بن سليمان كلهم عن محمد بن إسحاق عن محمد بن طلحة عن أبيه طلحة عن معاوية بن جاهمة السلمي قال أتيت رسول الله صلى الله عليه وسلم فقلت يا رسول الله إني أريد الجهاد معك في سبيل الله أبتغي بذلك وجه الله والدار الآخرة قال أحية أمك قال قلت نعم قال الزمها قلت ما أرى رسول الله صلى الله عليه وسلم فهم عني قال ثم جئته من ناحية <span class="page-no" title="end of page 1553 of vol. 3">§</span> أخرى فقلت له مثل ذلك فقال أحية أمك قال قلت نعم قال الزمها قال قلت ما أرى رسول الله صلى الله عليه وسلم فهم عني قال ثم جئته من ناحية أخرى فقلت له مثل ذلك فقال أحية أمك فقلت نعم قال فالزم رجلها فثم الجنة. <span class="page-no" title="end of page 1554 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-SHBMV06P484A-1]: The passage is not found in HSNX. This is representative of a complex of traditions related by Yazīd b. Hurmuz about correspondence between Najdah al-Ḥarūrī and Ibn ʿAbbās in which Yazīd b. Hurmuz serves as Ibn ʿAbbās’ scribe. This fragment deals with the killing of children. Also see <a href="WASMR.html" class="witness-link">WASMR</a> (ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), and <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī).
+[^comment-SHBMV06P492A-1]: Passage not found in HSNX. The fragment deals with the role of women in battle during the raids of the prophet. For a similar fragment see <a href="WASMR.html" class="witness-link">WASMR</a> (ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī), <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), and <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī).
+[^comment-SHBMV06P516A-1]: This passage is not found in HNSX. A similar passage is found in <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī) and <a href="WASMR.html" class="witness-link">WASMR</a> (ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī). The fragment describes how Najdah al-Ḥarūrī wrote Ibn ʿAbbās about inheritance rules.
+[^comment-THSHV02P126A-1]: Passage not found in HSNX. The tradition is set during the ḥajj when ʿAdī b. ʿAdī al-Kindī advised Muḥammad b. ʿUbayd b. Abī Ṣāliḥ al-Makkī to go collect a tradition from Ṣafīyah bint Shaybah b. ʿUthmān b. Abī Ṭalḥah. Muḥammad b. ʿUbayd b. Abī Ṣāliḥ and ʿAdī b. ʿAdī al-Kindī are not mentioned in HSNX. Ṣafīyah bint Shaybah b. ʿUthmān is mentioned in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P411C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 411) regarding the Conquest of Mecca (also see via <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) <a href="../references.html#ref-NYMX" class="source-ref">NYMXV06P3378A</a> (<span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span>, vol. 6 p. 3378)). Thawr b. Yazīd al-Kalāʿī, Abū Khālid, is mentioned three times by <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (<a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P166A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 166), <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P308A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 308), and <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P634C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 634)). According to Muḥammad b. Saʿd, he was from the people of Ḥimṣ and died in Jerusalem in 153/770 at the age of 60. His grandfather fought for Muʿāwiyah at Ṣiffīn against ʿAlī (<a href="../references.html#ref-TKXX" class="source-ref">TKXXV07P324A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 7 p. 324)). Muḥammad b. ʿUbayd b. Abī Ṣāliḥ al-Makkī is mentioned in <a href="../references.html#ref-BKHB" class="source-ref">BKHBV01P171C</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span>, vol. 1 p. 171), <a href="../references.html#ref-HJKX" class="source-ref">HJKXV01P583A</a> (<span class='ref-author'>Muslim b. al-Ḥajjāj</span>, <span class='ref-title'>al-Kunan waʾl-asmāʾ</span>, vol. 1 p. 583), <a href="../references.html#ref-BNTH" class="source-ref">BNTHV07P371C</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Thiqāt</span>, vol. 7 p. 371), and <a href="../references.html#ref-MZTX" class="source-ref">MZTXV19P215A</a> (<span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span>, vol. 19 p. 215) only in relation to this tradition, although the latter source states that he also related from Mujāhid b. Jabr al-Makkī and in addition to Thawr b. Yazīd al-Ḥimṣī, he also related to Mujāhid b. Jabr al-Makkī. According to <a href="../references.html#ref-HJRB" class="source-ref">HJRBV09P330A</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Tahdhīb al-Tahdhīb</span>, vol. 9 p. 330) he lived in Jerusalem. No date of death is mentioned. ʿAdī b. ʿAdī b. ʿUmayrah al-Kindī al-Shaybānī, Abū Farwah al-Jazīrī, was a member of the al-Ḥārith b. Muʿāwiyah b. Thawr tribe. Described as pious by al-Ṭabarī, he commanded troops under Muḥammad b. Marwān against Khārijī rebels in 76/ 695 (<a href="../references.html#ref-TBRB" class="source-ref">TBRBV06P243A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span>, vol. 6 p. 243)). He is described as a partisan of the Umayyads and was appointed as commander of Mūsil, the Jazīrah, and then Armīnīyah by ʿUmar b. ʿAbd al-ʿAzīz (<a href="../references.html#ref-TDSH" class="source-ref">TDSHV40P137A</a> (<span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span>, vol. 40 p. 137), although <a href="../references.html#ref-MZTX" class="source-ref">MZTXV19P5354B</a> (<span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span>, vol. 19 p. 5354) states this was done by Sulaymān b. ʿAbd al-Mālik). He was included among the 3rd generation of successors in the Jazīrah and to have been trustworthy (ibid., 138). He died in 120/738 according to al-Dhahabī and others (<a href="../references.html#ref-DHBR" class="source-ref">DHBRV01P116D</a> (<span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>al-ʿIbar fī khabar man ghabar</span>, vol. 1 p. 116)). Ṣafīyah bint Shaybah b. ʿUthmān b. Abī Ṭalḥah was a Meccan companion and related from many of the Prophet&#x27;s wives and related to many in the first generation of successors. No date of death is mentioned (see, <a href="../references.html#ref-MZTX" class="source-ref">MZTXV35P212B</a> (<span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span>, vol. 35 p. 212)). One of the most comonly quoted traditions in the Ibn Isḥāq corpus. Passage also found in <a href="WAANH.html" class="witness-link">WAANH</a> (ʿAbd Allāh b. Numayr al-Hamdānī al-Khāraqī al-Kūfī), <a href="WZAZA.html" class="witness-link">WZAZA</a> (Zakarīyā b. Abī Zāʾidah), and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī). Unable to place the date of the event in which the tradition was collected in Mecca. Most likely to be placed in the opinions of Muḥammad in fiqh section.

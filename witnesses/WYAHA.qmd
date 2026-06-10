@@ -1,0 +1,170 @@
+---
+title: "Yazīd b. Abī Ḥabīb"
+lang: "en"
+witness-code: "WYAHA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية يزيد ابن أبي حبيب</span>
+
+**Witness code:** `WYAHA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WYAHA">
+```
+
+```{=html}
+<article class="sira-report" id="BQQXV01P056C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQQXV01P056C">BQQXV01P056C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQQX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span></a>, vol. 1 pp. 56-4</div>
+  </header>
+  <div class="witness-text">
+    وأخبرنا أبو عبد الله الحافظ ثنا أبو الفضل محمد بن إبراهيم المزكي نا إبراهيم بن أبي طالب ثنا المؤمل بن هشام اليشكري ثنا إسماعيل بن علية عن محمد بن إسحاق ح <span class="page-no" title="end of page 56 of vol. 1">§</span> وأخبرنا أبو بكر أحمد بن محمد بن الحارث الفقيه أنا عبد الله بن محمد بن جعفر الأصبهاني نا عبدان نا أبو بكر بن أبي شيبة ثنا ابن نمير نا محمد بن إسحاق ح وأخبرنا محمد بن عبد الله الحافظ أنبأ أبو علي الحسين بن علي الحافظ ثنا أبو يعلى ثنا محمد بن عبد الله بن نمير ثنا أبي ويزيد بن هارون ح قال أبو علي وحدثنا عبد الله بن محمد بن عبد الرحمن الأزدي ثنا إسحاق بن إبراهيم الحنظلي أنبأ عبدة بن سليمان قالوا ثنا محمد بن إسحاق ح وأخبرنا أبو علي الروزباري أنا أبو بكر بن داسة ثنا أبو داود ثنا النفيلي محمد بن سلمة عن محمد بن إسحاق فذكروا هذا الحديث بالإسناد الأول ومعناه وفي الباب عن يزيد بن أبي حبيب وحماد بن سلمة ومحمد بن أبي عدي وعبد الأعلى بن عبد الأعلى وعمر بن حبيب عن محمد بن إسحاق بن يسار وأخبرنا أبو عبد الله الحافظ أنبأ أبو علي الحسين بن علي الحافظ ثنا أبو أيوب سليمان بن الحسن العطار بالبصرة ثنا عبد الله بن سعد بن إبراهيم الزهري نا أبي وعمي ثنا أبي عن ابن إسحاق حدثني مكحول عن محمود عن عبادة بن الصامت قال صلى بنا رسول الله صلى الله عليه وسلم الصبح فثقلت عليه القراءة أقبل علينا بوجهه فقال إني لأراكم تقرأون خلف إمامكم إذا جهر قال قلنا أجل والله يا رسول الله قال فلا تفعلوا إلا بأم القرآن فإنه لا صلاة لمن لم يقرأ بها <span class="page-no" title="end of page 57 of vol. 1">§</span> وأخبرنا أبو بكر بن الحارث الفقيه أنبأ علي بن عمر الحافظ ثنا ابن صاعد ثنا عبيد الله بن سعد ثنا عمي ثنا أبي عن ابن إسحاق قال حدثني مكحول بهذا وهذا إسناد صحيح ذكر فيه سماع محمد بن إسحاق من مكحول وأخرج محمد بن إسماعيل البخاري رحمه الله هذا الحديث في كتاب وجوب القراءة خلف الإمام عن أحمد بن خالد الوهبي عن محمد بن إسحاق. <span class="page-no" title="end of page 58 of vol. 1">§</span> <span class="page-no" title="end of page 4 of vol. 58">§</span>
+  </div>
+</article>
+```
+
+[^comment-BQQXV01P056C-1]
+
+```{=html}
+<article class="sira-report" id="TDSHV58P004B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV58P004B">TDSHV58P004B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 58 p. 4</div>
+  </header>
+  <div class="witness-text">
+    أخبرناه أبو محمد السيدي أنا أبو سعد الجنزرودي أنا أبو أحمد الحاكم أنا أبو بكر محمد بن مروان وهو ابن خريم نا هشام بن عمار نا سعيد بن يحيى نا محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن أمه عائشة بنت مسعود بن الأسود عن أبيها مسعود بن الأسود قال لما سرقت المرأة تلك القطيفة من بيت رسول الله صلى الله عليه وسلم وكانت من قريش فقلنا يا رسول الله نحن نفديها بأربعين أوقية فلما رأى رسول الله صلى الله عليه وسلم جد الناس في ذلك قام فينا خطيبا فقال يا أيها الناس ما إكثاركم في حد من حدود الله وقع على أمة من إماء الله والذي نفس محمد بيده لو أن فاطمة بنت محمد نزلت بالذي نزلت به هذه المرأة لقطع محمد يدها فآيس الناس وقطع رسول الله صلى الله عليه وسلم يدها رواه محمد بن سلمة وزهير عن محمد بن إسحاق عن محمد بن طلحة بن يزيد عن عمته عائشة بنت مسعود ورواه يزيد بن أبي حبيب عن ابن إسحاق عن محمد عن خالته بنت مسعود ولم يسمها 571
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV58P004C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV58P004C">TDSHV58P004C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 58 pp. 4-5</div>
+  </header>
+  <div class="witness-text">
+    وقال مسعود بن العجماء أخبرناه أبو القاسم يحيى بن بطريق بن بشرى وأبو محمد طاهر بن سهل بن بشر قالا أنا أبو الحسين بن مكي أنا أبو القاسم الميمون بن حمزة بن الحسين الحسيني ح وأخبرنا أبو عبد الله الحسين بن عبد الملك وأبو القاسم غانم بن خالد بن عبد الواحد قالا أنا عبد الرزاق بن عمر بن موسى بن شمة قالا أنا أبو بكر بن المقرئ <span class="page-no" title="end of page 4 of vol. 58">§</span> الا أنا أحمد بن عبد الوارث بن جرير نا عيسى بن حماد زغبة نا الليث عن يزيد ابن أبي حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد أن خالته بنت مسعود بن العجماء حدثته أن أباها قال لرسول الله (صلى الله عليه وسلم) وفي حديث ابن المقرئ يا رسول الله في المخزومية التي سرقت قطيفة نفديها بأربعين أوقية وفي حديث الميمون وقية فقال رسول الله (صلى الله عليه وسلم) لأن تطهر خير لها فأمر بها فقطعت يدها وهي من بني عبد الأسد <span class="page-no" title="end of page 5 of vol. 58">§</span> 571
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV06P502A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV06P502A">BKHBV06P502A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 6 p. 502</div>
+  </header>
+  <div class="witness-text">
+    قال عبد الله بن صالح حدثني الليث قال حدثني يزيد بن أبي حبيب عن محمد ابن إسحاق عن عمارة بن عبد الله سمع سعيد بن المسيب عن عمر بن الخطاب رضى الله عنه اربع معقلات النذر والطلاق والعتق والنكاح قال عمارة سمعت سعيد بن المسيب نذرت امرأة أن لا تكلم ابنها ثم ندمت فاستفتت مروان وزيد بن ثابت وعبد الله بن عمر رضي الله عنهم فقالوا لا تكلمه. <span class="page-no" title="end of page 502 of vol. 6">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="RRZIV03P623A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RRZIV03P623A">RRZIV03P623A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> RRZI, vol. 3 pp. 623-625</div>
+  </header>
+  <div class="witness-text">
+    وسألت أبي عن حديث رواه يزيد بن أبي حبيب عن عطاء عن جابر عن النبي صلى الله عليه وسلم قال إن الله عز وجل حرم بيع الخنازير والميتة والأصنام فقال رجل فما ترى في شحوم الميتة يدهن بها فقال لعن الله اليهود الحديث قلت ورواه أيضا حاتم بن إسماعيل عن عبد الحميد بن جعفر عن يزيد بن أبي حبيب عن عمرو بن الوليد بن عبدة <span class="page-no" title="end of page 624 of vol. 3">§</span> عن عبد الله بن عمرو عن النبي صلى الله عليه وسلم مثله قلت فأيهما أصح قال أبي حديث يزيد بن أبي حبيب عن عطاء هو من حديث محمد بن إسحاق عن عطاء عن جابر عن النبي صلى الله عليه وسلم. <span class="page-no" title="end of page 625 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BRKXV07P571B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BRKXV07P571B">BRKXV07P571B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BRKX" class="source-link"><span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Istidhkār</span></a>, vol. 7 p. 571</div>
+  </header>
+  <div class="witness-text">
+    وقد حدثني عبد الوارث قال حدثني قاسم قال حدثني مطلب قراءة عليه قال حدثني عبد الله بن صالح قال حدثني الليث قال حدثني يزيد بن أبي حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة أن خالته ابنة مسعود بن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم في المخزومية التي سرقت قطيفة <span class="page-no" title="end of page 571 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HBHXV38P462A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HBHXV38P462A">HBHXV38P462A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBHX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span></a>, vol. 38 p. 462</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يونس حدثنا ليث عن يزيد يعني ابن أبي حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة أن خالته أخت مسعود ابن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم في المخزومية التي سرقت قطيفة نفديها ـ يعني بأربعين أوقية ـ فقال رسول الله صلى الله عليه وسلم لأن تطهر خير لها فأمر بها فقطعت يدها وهي من بني عبد الأسد. <span class="page-no" title="end of page 462 of vol. 38">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HBHXV44P375A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HBHXV44P375A">HBHXV44P375A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBHX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span></a>, vol. 44 p. 375</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يونس قال حدثنا ليث عن يزيد يعني ابن أبي حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة أن خالته أخت مسعود ابن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم في المخزومية التي سرقت قطيفة نفديها بأربعين أوقية فقال رسول الله صلى الله عليه وسلم لأن تطهر خير لها فأمر بها فقطعت يدها وهي من بني عبد الأشهل أو من بني عبد الأسد. <span class="page-no" title="end of page 375 of vol. 44">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV20P333A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV20P333A">STBXV20P333A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 20 p. 333</div>
+  </header>
+  <div class="witness-text">
+    حدثنا مطلب بن شعيب الأزدي ثنا عبد الله بن صالح حدثني الليث ح وحدثنا موسى بن هارون ثنا كامل بن طلحة الجحدري ثنا ليث بن سعد حدثني يزيد بن أبي حبيب حدثني محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة أن خالته بنت مسعود ابن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم في المخزومية التي سرقت قطيفة نفديها بأربعين أوقية فقال رسول الله صلى الله عليه وسلم تطهر خير لها وأمر بها فقطعت يدها. <span class="page-no" title="end of page 333 of vol. 20">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DRQLV14P040A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DRQLV14P040A">DRQLV14P040A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQL" class="source-link"><span class='ref-author'>al-Dāraqutnī</span>, <span class='ref-title'>al-ʿIlal al-wārdah fī al-aḥādīth al-nabuwīyah</span></a>, vol. 14 pp. 40-41</div>
+  </header>
+  <div class="witness-text">
+    وسئل عن حديث مسعود بن العجماء أخي مطيع بن العجماء عن النبي صلى الله عليه وسلم حين سرقت المرأة قطيفة فكلم رسول الله صلى الله عليه وسلم في تركه قطع يدها فقال لو أن فاطمة فعلت ما فعلت هذه لقطعت يدها <span class="page-no" title="end of page 40 of vol. 14">§</span> قال يرويه محمد بن إسحاق واختلف عنه فرواه عباد بن العوام وجرير بن حازم وسعيد بن يحيى اللخمي وأحمد بن خالد الوهبي عن ابن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن أمه عائشة بنت مسعود عن أبيها وخالفهم محمد بن سلمة فقال فيه عن أمه عائشة بنت مسعود عن أبيها وقال يزيد بن أبي حبيب عن ابن إسحاق عن محمد بن طلحة أن خالته بنت مسعود بن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم فأرسله. <span class="page-no" title="end of page 41 of vol. 14">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HYGHV02P278A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYGHV02P278A">HYGHV02P278A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYGH" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>Ghāyat al-muqṣad fī zawāʾid al-musnad</span></a>, vol. 2 p. 278</div>
+  </header>
+  <div class="witness-text">
+    حدثنا يونس حدثنا ليث عن يحيى بن سعيد عن يزيد يعنى ابن حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة أن خالته أخت مسعود ابن العجماء حدثته أن أباها قال لرسول الله صلى الله عليه وسلم فى المخزومية التى سرقت قطيفة نفديها بأربعين أوقية فقال رسول الله صلى الله عليه وسلم لأن تطهر خير لها فأمر بها فقطعت يدها وهى من بنى عبد الأشهل أو من بنى عبد الأسد. <span class="page-no" title="end of page 278 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HJRTV18P368A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJRTV18P368A">HJRTV18P368A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span></a>, vol. 18 pp. 368-370</div>
+  </header>
+  <div class="witness-text">
+    حديث أن أباها قال لرسول الله صلى الله عليه وسلم في المخزومية التي سرقت قطيفة نفديها بأربعين أوقية فقال رسول الله صلى الله عليه وسلم أن تطهر خير لها الحديث أحمد ثنا يونس ثنا ليث عن يحيى بن سعيد عن يزيد يعني ابن أبي <span class="page-no" title="end of page 368 of vol. 18">§</span> حبيب عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن خالته بنت مسعود به <span class="page-no" title="end of page 369 of vol. 18">§</span> أزواج النبي صلى الله عليه وسلم. <span class="page-no" title="end of page 370 of vol. 18">§</span> 852
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-BQQXV01P056C-1]: This refers to an event apparently late in Muḥammad&#x27;s life when it became difficult for him to complete the recitation of the prayer. It is not found in the redaction of Ibn Hishām, nor is the phrase &quot;Umm al-Qur&#x27;an.&quot; This represents one of Ibn Isḥāq&#x27;s most frequently reused passages. Placement is based on content dealing with prayer. The passage is also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P409A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 409), <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P413A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 413), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099C</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BYTX" class="source-ref">BYTXV01P131D</a> (<span class='ref-author'>Aḥmad b. Muḥammad b. Ibrāhīm al-Thaʿlabī</span>, <span class='ref-title'>Al-Kashf waʾl-bayān ʿan tafsīr al-Qurʾān</span>, vol. 1 p. 131), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P234C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 234), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-KTHR" class="source-ref">KTHRV04P580A</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 4 p. 580), and <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WASKA.html" class="witness-link">WASKA</a> (ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī): <a href="../references.html#ref-TMSX" class="source-ref">TMSXV02P116B</a> (<span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>Sunan al-Tirmidhī</span>, vol. 2 p. 116), <a href="../references.html#ref-TMBX" class="source-ref">TMBXV01P406B</a> (<span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>Sunan al-Tirmidhī</span>, vol. 1 p. 406), <a href="../references.html#ref-HKSX" class="source-ref">HKSXV03P194A</a> (<span class='ref-author'>al-Haytham</span>, <span class='ref-title'>Musnad</span>, vol. 3 p. 194), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HMMX" class="source-ref">HMMXV02P264A</a> (<span class='ref-author'>Al-Ḥusayn b. Masʿūd b. Muḥammad al-Baghawī al-Shāfiʿī</span>, <span class='ref-title'>Maʿālim al-tanzīl fī tafsīr al-Qurʾān</span>, vol. 2 p. 264), <a href="../references.html#ref-HMBS" class="source-ref">HMBSV03P082A</a> (<span class='ref-author'>al-Ḥusayn b. Masʿūd b. Muḥammad al-Baghawī al-Shāfiʿī</span>, <span class='ref-title'>Sharḥ al-sunnah</span>, vol. 3 p. 82), <a href="../references.html#ref-HKMX" class="source-ref">HKMXV02P200D</a> (<span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span>, vol. 2 p. 200), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222); <a href="WYSAU.html" class="witness-link">WYSAU</a> (Yaḥyā b. Saʿīd b. Abān al-Qurashī al-Umawī al-Kūfī): <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36); <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P343A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 343), <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P410A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 410), <a href="../references.html#ref-DWNX" class="source-ref">DWNXV01P217B</a> (<span class='ref-author'>Abū Dāwūd Sulaymān b. al-Ashʿath</span>, <span class='ref-title'>Sunan Abī Dāwūd</span>, vol. 1 p. 217), <a href="../references.html#ref-KHMS" class="source-ref">KHMSV01P205C</a> (<span class='ref-author'>al-Khattābī</span>, <span class='ref-title'>Maʿālim al-sunan huwa sharḥ Sunan Abī Dāwūd</span>, vol. 1 p. 205), <a href="../references.html#ref-BQMX" class="source-ref">BQMXV03P080B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Maʿrifat al-sunan waʾl-āthār</span>, vol. 3 p. 80), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HKMX" class="source-ref">HKMXV02P200C</a> (<span class='ref-author'>Ibn Kharrāṭ</span>, <span class='ref-title'>al-Ahkām al-sharʿīyah al-kubrā</span>, vol. 2 p. 200), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-ASHD" class="source-ref">ASHDV03P495A</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>Sharḥ Sunan Abī Dāwūd</span>, vol. 3 p. 495), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WABAB.html" class="witness-link">WABAB</a> (ʿAbd al-Aʿlā b. ʿAbd al-Aʿlā al-Shāmī al-Baṣrī): <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P156C</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 156), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222); <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah): <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P086B</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 86), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P097A</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 97), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī): <a href="../references.html#ref-JNSM" class="source-ref">JNSMV01P088G</a> (<span class='ref-author'>Ibn al-Jārūd</span>, <span class='ref-title'>al-Muntaqā min al-sunan al-musnadah</span>, vol. 1 p. 88), <a href="../references.html#ref-BQRX" class="source-ref">BQRXV01P207A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Sunan al-ṣaghīr</span>, vol. 1 p. 207), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV02P234A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 2 p. 234), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P218A</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 218), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV37P368A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 37 p. 368), <a href="../references.html#ref-KHZX" class="source-ref">KHZXV03P036D</a> (<span class='ref-author'>Ibn Khuzaymah</span>, <span class='ref-title'>Saḥīḥ</span>, vol. 3 p. 36), <a href="../references.html#ref-HAMA" class="source-ref">HAMAV02P197B</a> (<span class='ref-author'>Al-Ḥasan b. ʿAlī b. Naṣr al-Ṭūsī</span>, <span class='ref-title'>Mukhtaṣar al-aḥkām</span>, vol. 2 p. 197), <a href="../references.html#ref-DHRS" class="source-ref">DHRSV03P107A</a> (<span class='ref-author'>Ibn al-Mundhir</span>, <span class='ref-title'>al-Awsaṭ fī al-sunan waʾl-ijmāʿ waʾl-ikhtilāf</span>, vol. 3 p. 107), <a href="../references.html#ref-THSM" class="source-ref">THSMV01P215C</a> (<span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ maʿānī al-āthār</span>, vol. 1 p. 215), <a href="../references.html#ref-HKSX" class="source-ref">HKSXV03P190A</a> (<span class='ref-author'>al-Haytham</span>, <span class='ref-title'>Musnad</span>, vol. 3 p. 190), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P095A</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 95), <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099B</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BYTX" class="source-ref">BYTXV01P131D</a> (<span class='ref-author'>Aḥmad b. Muḥammad b. Ibrāhīm al-Thaʿlabī</span>, <span class='ref-title'>Al-Kashf waʾl-bayān ʿan tafsīr al-Qurʾān</span>, vol. 1 p. 131), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-KTHR" class="source-ref">KTHRV04P579B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Jāmiʿ al-masānīd waʾl-sunan</span>, vol. 4 p. 579), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WMAAI.html" class="witness-link">WMAAI</a> (Muḥammad b. Abī ʿAdī (Ibrāhīm) al-Baṣrī): <a href="../references.html#ref-BKHJ" class="source-ref">BKHJV01P061C</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Juzʾ al-qiraʾah khalfa al-imām</span>, vol. 1 p. 61) and <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56); <a href="WAANH.html" class="witness-link">WAANH</a> (ʿAbd Allāh b. Numayr al-Hamdānī al-Khāraqī al-Kūfī): <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044C</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-BNHX" class="source-ref">BNHXV05P095A</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Iḥsān fī taqrīb Ṣaḥīḥ Ibn Ḥibbān</span>, vol. 5 p. 95), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-BRWX" class="source-ref">BRWXV11P044A</a> (<span class='ref-author'>Ibn ʿAbd al-Barr</span>, <span class='ref-title'>al-Tamhīd li-mā fī al-Muwaṭṭāʾ min al-maʿānī waʾl-asānīd</span>, vol. 11 p. 44), <a href="../references.html#ref-TTXX" class="source-ref">TTXXV02P222C</a> (<span class='ref-author'>Shams al-Dīn Muḥammad b. Aḥmad b. ʿAbd al-Hādī al-Ḥanbalī</span>, <span class='ref-title'>Tanqīḥ al-taḥqīq</span>, vol. 2 p. 222), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WUMHA.html" class="witness-link">WUMHA</a> (ʿUmar b. Ḥabīb): <a href="../references.html#ref-DRQS" class="source-ref">DRQSV02P099A</a> (<span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Sunan al-Dāraquṭnī</span>, vol. 2 p. 99), <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56), <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WISUL.html" class="witness-link">WISUL</a> (Ismāʿīl b. ʿUlayah): <a href="../references.html#ref-HJRT" class="source-ref">HJRTV06P424B</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Itḥāf al-maharah bi-al-fawāʾid al-mubtakarah min aṭrāf al-ʿasharah</span>, vol. 6 p. 424); <a href="WHSDB.html" class="witness-link">WHSDB</a> (Ḥammād b. Salamah b. Dīnār al-Baṣrī): <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P056C</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 56); and without a witness: <a href="../references.html#ref-IHMA" class="source-ref">IHMAV02P271A</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 2 p. 271) and <a href="../references.html#ref-BQQX" class="source-ref">BQQXV01P064B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Kitāb al-qurāʾ khalaf al-imām</span>, vol. 1 p. 64).

@@ -1,0 +1,202 @@
+---
+title: "Hushaym b. Bashīr b. al-Qāsim b. Dīnār al-Salamī"
+lang: "en"
+witness-code: "WHBQD"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية هشيم بن بشير بن القاسم بن دينار السلمي</span>
+
+**Witness code:** `WHBQD`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHBQD">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `HBRXV02P272A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="HBRXV02P272A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HBRXV02P272A">HBRXV02P272A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBRX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>al-ʿIlal wa-maʿrifat al-rijāl</span></a>, vol. 2 p. 272</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_YNQXV06P275B</span> ذكرت لأبي حديثا حدثنا أبو الربيع الزهراني قال حدثنا هشيم عن عبيد الله بن أبي بكر عن أنس أن النبي صلى الله عليه وسلم كان يفطر على تمرات فأنكر من حديث هشيم عن عبيد الله وقال أبي إنما كان هشيم يحدث به عن محمد بن إسحاق عن حفص بن عبيد الله بن أنس عن أنس قال أبي وإنما حدثناه علي بن عاصم عن عبيد الله بن أبي بكر. <span class="page-no" title="end of page 272 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="YNQXV06P275B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#YNQXV06P275B">YNQXV06P275B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-YNQX" class="source-link"><span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>ʿUmdat al-qārī sharḥ Ṣaḥīḥ al-Bukhārī</span></a>, vol. 6 p. 275</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_HBRXV02P272A</span> عن أنس بن مالك قال كان النبي صلى الله عليه وسلم لا يخرج يوم الفطر حتى يطعم تمرات ورواه عن هشيم قتيبة عند الترمذي وأحمد بن منيع عند ابن خزيمة وأبو بكر بن أبي شيبة عند ابن حبان وعمرو بن عون عند الحاكم فقالوا كلهم عن هشيم عن محمد بن إسحاق عن حفص بن عبيد الله ابن أنس. <span class="page-no" title="end of page 275 of vol. 6">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="KTMXV02P728A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV02P728A">KTMXV02P728A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 2 p. 728</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن حاتم قال وحدثنا هشيم عن ابن إسحاق المدني عن عكرمة أن عمر رضي الله عنه أعتق أمهات الأولاد وأمهات الأسقاط. <span class="page-no" title="end of page 728 of vol. 2">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `MYWXV11P238A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="MYWXV11P238A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MYWXV11P238A">MYWXV11P238A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 11 pp. 238-105</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> حدثنا إبراهيم بن زياد سبلان حدثنا أبو معاوية حدثنا محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب الله له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب الله له أجر المعتمر إلى يوم القيامة ومن خرج غازيا في سبيل الله فمات كتب الله له أجر الغازي إلى يوم القيامة. <span class="page-no" title="end of page 238 of vol. 11">§</span> <span class="page-no" title="end of page 105 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MYJXV01P105A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MYJXV01P105A">MYJXV01P105A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYJX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>al-Muʿjam</span></a>, vol. 1 p. 105</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> حدثنا إبراهيم بن زياد سبلان قال حدثنا أبو معاوية قال حدثنا محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن خرج غازيا في سبيل الله فمات كتب له أجر الغازي إلى يوم القيامة.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STJXV05P282A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STJXV05P282A">STJXV05P282A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 5 pp. 282-110</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> حدثنا محمد بن السري قال نا إبراهيم بن زياد سبلان قال نا أبو معاوية قال نا محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن خرج غازيا فمات كتب له أجر الغازي إلى يوم القيامة. <span class="page-no" title="end of page 282 of vol. 5">§</span> <span class="page-no" title="end of page 110 of vol. 11">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DRQLV11P110A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DRQLV11P110A">DRQLV11P110A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQL" class="source-link"><span class='ref-author'>al-Dāraqutnī</span>, <span class='ref-title'>al-ʿIlal al-wārdah fī al-aḥādīth al-nabuwīyah</span></a>, vol. 11 p. 110</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> وسئل عن حديث عطاء بن يزيد الليثي عن أبي هريرة قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج ومن خرج معتمرا أو غازيا كتب له أجر ذلك فقال يرويه أبو معاوية الضرير واختلف عنه فرواه عمرو بن علي عن أبي معاوية الضرير عن هلال بن ميمون الفلسطيني عن عطاء بن يزيد الليثي عن أبي هريرة ووهم فيه على أبي معاوية وغيره يرويه عن أبي معاوية عن محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد عن أبي هريرة وهو الصواب.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHQV02P393A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHQV02P393A">KTHQV02P393A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHQ" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Tafsīr al-Qurʾān al-ʿAẓīm</span></a>, vol. 2 pp. 393-411</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> قال الحافظ أبو يعلى حدثنا إبراهيم بن زياد سبلان حدثنا أبو معاوية حدثنا محمد بن إسحاق عن حميد بن أبي حميد عن عطاء بن يزيد الليثي عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن خرج غازيا في سبيل الله فمات كتب له أجر الغازي إلى يوم القيامة. <span class="page-no" title="end of page 393 of vol. 2">§</span> <span class="page-no" title="end of page 411 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HYMXV02P411B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HYMXV02P411B">HYMXV02P411B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYMX" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>al-Maqṣid al-ʿalī fī zawāʾid Abī Yaʿlā al-Mawṣilī</span></a>, vol. 2 p. 411</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> حدثنا إبراهيم بن زياد بن سبلان حدثنا أبو معاوية حدثنا محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن جرح غازيا في سبيل الله كتب له أجر الغازي إلى يوم القيامة.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="AAIBV05P093B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#AAIBV05P093B">AAIBV05P093B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAIB" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Itḥāf al-khiyrah al-maharah bi-Zawāʾid al-masānid al-ʿashrah</span></a>, vol. 5 p. 93</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_HJMAV06P344A</span> <span class="variant-id">VAR_HJMAV09P283A</span> قال أبو يعلى الموصلي وثنا إبراهيم بن زياد سبلان ثنا أبو معاوية ثنا محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي عن أبي هريرة رضي الله عنه قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن خرج غازيا في سبيل الله فمات كتب له أجر الغازي إلى يوم القيامة. <span class="page-no" title="end of page 93 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJMAV06P344A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJMAV06P344A">HJMAV06P344A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJMA" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Muṭālib al-ʿĀliyah bi-zawāʾid al-musānīd al-thamānīyah</span></a>, vol. 6 p. 344</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV09P283A</span> قال أبو يعلى أيضا حدثنا إبراهيم بن زياد سبلان ثنا أبو معاوية عن محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد الليثي عن أبي هريرة رضي الله عنه قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة ومن خرج غازيا في سبيل الله فمات كتب له أجر الغازي إلى يوم القيامة. <span class="page-no" title="end of page 344 of vol. 6">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJMAV09P283A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJMAV09P283A">HJMAV09P283A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJMA" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Muṭālib al-ʿĀliyah bi-zawāʾid al-musānīd al-thamānīyah</span></a>, vol. 9 p. 283</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_MYWXV11P238A</span> <span class="variant-id">VAR_MYJXV01P105A</span> <span class="variant-id">VAR_STJXV05P282A</span> <span class="variant-id">VAR_DRQLV11P110A</span> <span class="variant-id">VAR_KTHQV02P393A</span> <span class="variant-id">VAR_HYMXV02P411B</span> <span class="variant-id">VAR_AAIBV05P093B</span> <span class="variant-id">VAR_HJMAV06P344A</span> حدثنا إبراهيم بن زياد سبلان ثنا أبو معاوية عن محمد بن إسحاق عن جميل بن أبي ميمونة عن عطاء بن يزيد عن أبي هريرة رضي الله عنه قال قال رسول الله صلى الله عليه وسلم من خرج حاجا فمات كتب له أجر الحاج إلى يوم القيامة ومن خرج غازيا في سبيل الله تعالى فمات كتب له أجر ومن خرج معتمرا فمات كتب له أجر المعتمر إلى يوم القيامة. <span class="page-no" title="end of page 283 of vol. 9">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `MYWXV11P238A`:** [^comment-MYWXV11P238A-1]
+
+
+**Comment on passage `STJXV05P282A`:** [^comment-STJXV05P282A-1]
+
+
+**Comment on passage `KTHQV02P393A`:** [^comment-KTHQV02P393A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-MYWXV11P238A-1]: ʿAṭāʾ b. Yazīd al-Khazāʿī, sometimes listed as al-Laythī, is not listed in HSNX in any isnād. HE is mentioned in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) as relating from ʿUbayd Allāh b. ʿAdī b. al-Khiyār, who is only mentioned by <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (<a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P070B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 70) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P071C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 71)) in the story of how Waḥshī killed Ḥamzah. Also see <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī), <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī), and <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī) who provide traditions from Abū Ayyūb al-Anṣārī and to al-Zuhrī.
+[^comment-STJXV05P282A-1]: In addition, al-Ṭabarānī states: “لم يرو هذا الحديث عن عطاء بن يزيد الليثي إلا جميل بن أبي ميمونة ولا عن جميل إلا عن محمد بن إسحاق تفرد به أبو معاوية.”
+[^comment-KTHQV02P393A-1]: This fragment is listd in reference to Q4:101.

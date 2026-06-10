@@ -1,0 +1,32 @@
+---
+title: "Ghayyāth b. Ibrāhīm Dāwūd al-Awdī al-Baṣrī"
+lang: "en"
+witness-code: "WGHID"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية غينث بن ابراهيم داود الاودي البصري</span>
+
+**Witness code:** `WGHID`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WGHID">
+```
+
+```{=html}
+<article class="sira-report" id="TBRBV04P293B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV04P293B">TBRBV04P293B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 4 p. 293</div>
+  </header>
+  <div class="witness-text">
+    فقال علي بن محمد أخبرنا غياث بن إبراهيم عن ابن إسحاق قال هرب يزدجرد من كرمان في جماعة يسيرة إلى مرو فسأل مرزبانها مالا فمنعه فخافوا على أنفسهم فأرسلوا إلى الترك يستنصرونهم عليه فأتوه فبيتوه فقتلوا أصحابه وهرب يزدجرد حتى أتى منزل رجل ينقر الأرحاء على شط المرغاب فأوى إليه ليلا فلما نام قتله. <span class="page-no" title="end of page 293 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

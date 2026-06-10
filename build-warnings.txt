@@ -1,0 +1,128 @@
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAAAY.qmd (7 passages, 7 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAANH.qmd (36 passages, 20 parallel passage groups, 6 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAAWH.qmd (1 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABAB.qmd (114 passages, 95 parallel passage groups, 14 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABAI.qmd (2 passages, 2 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABAM.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABAW.qmd (26 passages, 24 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABBS.qmd (2 passages, 2 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WABRM.qmd (12 passages, 11 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAFMA.qmd (3 passages, 3 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAHJK.qmd (4 passages, 4 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAHWA.qmd (2 passages, 1 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAIYA.qmd (293 passages, 226 parallel passage groups, 26 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAKMW.qmd (92 passages, 58 parallel passage groups, 21 footnotes).
+WARNING: IZHAV03P1188B: duplicate variant IDs: IZHAV02P829B.
+WARNING: TTXXV02P218A: duplicate variant IDs: BQQXV01P056A, BQQXV01P056C, BQRXV01P207A, BQSXV02P234A, JNSMV01P088G.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WALMU.qmd (2 passages, 2 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WALTH.qmd (2 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAMAQ.qmd (2 passages, 2 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAMRR.qmd (20 passages, 17 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WARBN.qmd (2 passages, 2 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WARMZ.qmd (18 passages, 18 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WASKA.qmd (61 passages, 33 parallel passage groups, 13 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WASMR.qmd (24 passages, 20 parallel passage groups, 4 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAUAA.qmd (2 passages, 2 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAWAA.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAWSD.qmd (19 passages, 14 parallel passage groups, 2 footnotes).
+WARNING: BQWXV04P042A: passage start witness suffix WMSAH does not match witness-version code WAWSD.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAYSS.qmd (3 passages, 3 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WAZID.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WBRKA.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+WARNING: WBRKA: missing #META# Tag Name; using filename as witness code.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WBSAB.qmd (48 passages, 43 parallel passage groups, 24 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WFGHK.qmd (1 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WGHID.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHACI.qmd (46 passages, 31 parallel passage groups, 11 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHARA.qmd (3 passages, 3 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHASH.qmd (1 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHAYA.qmd (138 passages, 105 parallel passage groups, 21 footnotes).
+WARNING: KTHRV04P579B: duplicate variant IDs: BNHXV05P095A, BQQXV01P056A, BQQXV01P056C, BRWXV11P044A, BYTXV01P131D, DHRSV03P107A, DRQSV02P099B, HAMAV02P197B, HBHXV37P368A, HKSXV03P190A, KHZXV03P036D, THSMV01P215C, TTXXV02P222C.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHBQD.qmd (12 passages, 3 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHGTM.qmd (3 passages, 3 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHSDB.qmd (71 passages, 52 parallel passage groups, 8 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHSSH.qmd (2 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WHZSQ.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIASA.qmd (12 passages, 10 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIBMA.qmd (28 passages, 27 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIBMK.qmd (11 passages, 11 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIJAK.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIMRZ.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIMTR.qmd (46 passages, 20 parallel passage groups, 9 footnotes).
+WARNING: NYMXV03P1300D: duplicate variant IDs: NYMXV04P2217D.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WISAU.qmd (3 passages, 3 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WISIB.qmd (23 passages, 10 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WISUL.qmd (43 passages, 26 parallel passage groups, 7 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WITSK.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WIYAS.qmd (11 passages, 5 parallel passage groups, 3 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WJAHD.qmd (3 passages, 3 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WJHUN.qmd (2 passages, 2 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WJHZA.qmd (156 passages, 105 parallel passage groups, 45 footnotes).
+WARNING: SFTXV01P080A: passage start witness suffix WBSAB does not match witness-version code WJHZA.
+WARNING: STBXV23P010C: duplicate variant IDs: HBFXV02P855B, HJRTV06P554B, NSSXV03P203E.
+WARNING: NSSXV03P203E: duplicate variant IDs: HBFXV02P855B, HJRTV06P554B, STBXV23P010C.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WKMIY.qmd (2 passages, 1 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WLYSN.qmd (3 passages, 2 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMAAI.qmd (18 passages, 13 parallel passage groups, 5 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMAAJ.qmd (11 passages, 11 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMAAK.qmd (16 passages, 3 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMAAW.qmd (2 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMFGH.qmd (12 passages, 7 parallel passage groups, 4 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMGHS.qmd (9 passages, 3 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMHAL.qmd (4 passages, 2 parallel passage groups, 0 footnotes).
+WARNING: HYKUV03P061A: duplicate variant IDs: ZZBXV13P043A.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMHHA.qmd (1 passages, 1 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMSAH.qmd (266 passages, 198 parallel passage groups, 52 footnotes).
+WARNING: NYMXV06P3310A: passage start witness suffix WZAZA does not match witness-version code WMSAH.
+WARNING: HJRTV16P934A: passage start witness suffix WSACD does not match witness-version code WMSAH.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMSJK.qmd (12 passages, 1 parallel passage groups, 1 footnotes).
+WARNING: NYMXV04P1996A: duplicate variant IDs: ZTKXV01P375C.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WMUTK.qmd (44 passages, 35 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WSABZ.qmd (11 passages, 8 parallel passage groups, 5 footnotes).
+WARNING: TDSHV03P072B: passage start witness suffix WYBWS does not match witness-version code WSABZ.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WSACD.qmd (1641 passages, 829 parallel passage groups, 929 footnotes).
+WARNING: ZTKXV01P402D: passage start witness suffix WASCD does not match witness-version code WSACD.
+WARNING: Found passage-like text that is not wrapped in a standard # @..._BEG_... tag.
+WARNING: Found passage-like text that is not wrapped in a standard # @..._BEG_... tag.
+WARNING: HBHXV02P272A: duplicate variant IDs: SJRMV01P078A, ZZBXV02P121B.
+WARNING: JWLXV02P274C: passage start witness suffix WZAZA does not match witness-version code WSACD.
+WARNING: NYMXV06P3310A: passage start witness suffix WZAZA does not match witness-version code WSACD.
+WARNING: KTHBV04P326C: passage start witness suffix WYBWS does not match witness-version code WSACD.
+WARNING: ZTKXV02P669A: duplicate variant IDs: MZTXV25P423A.
+WARNING: NSKXV07P427A: duplicate variant IDs: MZTXV25P423A.
+WARNING: NSKXV01P072C: duplicate variant IDs: MZTXV25P423A.
+WARNING: BMMXV01P156A: duplicate variant IDs: MZTXV25P423A.
+WARNING: DRQKV01P013A: duplicate variant IDs: MZTXV25P423A.
+WARNING: TDSHV42P159C: duplicate variant IDs: MZTXV25P423A.
+WARNING: HBHXV39P310A: duplicate variant IDs: KTHQV02P383A.
+WARNING: HBHXV25P320A: duplicate variant IDs: TDSHV42P202A.
+WARNING: NSSXV03P131A: duplicate variant IDs: TDSHV42P202A.
+WARNING: THRXV04P227A: duplicate variant IDs: TDSHV42P202A.
+WARNING: KTHRV06P536A: duplicate variant IDs: TDSHV42P202A.
+WARNING: HYGHV03P367A: duplicate variant IDs: TDSHV42P202A.
+WARNING: NYMXV04P1996A: duplicate variant IDs: TDSHV42P202A.
+WARNING: HBHXV03P064A: duplicate variant IDs: HBHXV03P064A, KTHRV03P383B, RJXXV03P242B.
+WARNING: THSAV01P256B: duplicate variant IDs: AMKAV01P104B, HBHXV44P183A, HYGHV03P378F, IAUBV02P907B, NYMXV01P121A, TDSHV35P285A, TDSHV35P285B, TKXXV03P098B.
+WARNING: TDSHV35P285B: duplicate variant IDs: AMKAV01P104B, HBHXV44P183A, HYGHV03P378F, IAUBV02P907B, NSSXV03P251A, NYMXV01P121A, TDSHV35P285A, TDSHV35P285B, THSAV01P256B, TKXXV03P098B.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WSASN.qmd (10 passages, 9 parallel passage groups, 5 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WSFAB.qmd (900 passages, 742 parallel passage groups, 72 footnotes).
+WARNING: BQWXV02P161B: passage start witness suffix WYBWS does not match witness-version code WSFAB.
+WARNING: BQSXV03P375A: passage start witness suffix WYBWS does not match witness-version code WSFAB.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WUISL.qmd (2 passages, 2 parallel passage groups, 0 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WUMHA.qmd (5 passages, 3 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WUMNJ.qmd (2 passages, 2 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WYAHA.qmd (12 passages, 12 parallel passage groups, 1 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WYIAY.qmd (4 passages, 4 parallel passage groups, 2 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WYUAU.qmd (37 passages, 25 parallel passage groups, 5 footnotes).
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\WZATB.qmd (1806 passages, 1722 parallel passage groups, 362 footnotes).
+WARNING: Found passage-like text that is not wrapped in a standard # @..._BEG_... tag.
+WARNING: ZTKXV01P067A: passage start witness suffix WSACD does not match witness-version code WZATB.
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\witnesses\index.qmd
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\references.qmd
+Wrote C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\references.bib
+Updated C:\Users\amazel\Desktop\iubl_publishing\practice_versions\iulp_sira_work\Sirah-Project\_quarto.yml with 78 generated witness chapter(s).
+
+Built 78 witness pages.
+Loaded 109 witness metadata records.
+Loaded 630 bibliography metadata records.
+Completed with 41 warning(s). Review them before publication.

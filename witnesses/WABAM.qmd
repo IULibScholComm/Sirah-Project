@@ -1,0 +1,32 @@
+---
+title: "ʿAbd Allāh b. ʿĀmir"
+lang: "en"
+witness-code: "WABAM"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الله بن عامر</span>
+
+**Witness code:** `WABAM`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WABAM">
+```
+
+```{=html}
+<article class="sira-report" id="KTMXV01P024A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTMXV01P024A">KTMXV01P024A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTMX" class="source-link"><span class='ref-author'>ʿUmar b. Shabbah</span>, <span class='ref-title'>Kitāb taʾrīkh al-Madīnah al-munawwarah</span></a>, vol. 1 p. 24</div>
+  </header>
+  <div class="witness-text">
+    حدثنا إسحاق بن إدريس قال حدثنا عبد الأعلى بن عبد الأعلى قال حدثنا محمد بن إسحاق قال حدثني عبد الله بن محمد بن عامر بن سعد عن أبيه قال سمعت النبي صلى الله عليه وسلم يقول إذا تنخم أحدكم في المسجد فليغيب نخامته أن تصيب جلد مؤمن أو ثوبه فيؤذيه حدثنا ابن أبي شيبة قال حدثنا عبد الله بن عامر عن محمد بن إسحاق عن عبد الله بن محمد بإسناده مثله <span class="page-no" title="end of page 24 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

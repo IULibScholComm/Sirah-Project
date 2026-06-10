@@ -1,0 +1,45 @@
+name: Build Quarto site
+
+on:
+  push:
+    branches:
+      - quarto-iulp-pilot
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-quarto:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate Quarto source files
+        run: |
+          python scripts/build_quarto.py
+
+      - name: Render Quarto site
+        run: |
+          quarto render
+
+      - name: Commit rendered site
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --cached --quiet || git commit -m "Build Quarto site"
+
+      - name: Push changes
+        run: |
+          git push

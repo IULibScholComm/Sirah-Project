@@ -1,0 +1,54 @@
+---
+title: "ʿAbbād b. Salamah"
+lang: "en"
+witness-code: "WABBS"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عباد بن سلمة</span>
+
+**Witness code:** `WABBS`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WABBS">
+```
+
+
+## <span lang="ar" dir="rtl">ما ذكر من نزول جرهم مع أم إسماعيل في الحرم</span>
+
+
+```{=html}
+<article class="sira-report" id="KHMKV01P057A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KHMKV01P057A">KHMKV01P057A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHMK" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd Allāh al-Azraqī</span>, <span class='ref-title'>Akhbār Makkah wa-mā jāʾa fīhā min al-āthār</span></a>, vol. 1 pp. 57-58</div>
+  </header>
+  <div class="witness-text">
+    فلما بلغ أنكحوه جارية منهم قال وهي في كتاب المبتدأ عن عباد بن سلمة عن محمد بن إسحاق اسم امرأة إسماعيل عمارة بنت سعيد بن أسامة يقول ابن عباس فأقبل إبراهيم من الشام يقول حتى أطالع تركتي فأقبل إبراهيم عليه السلام حتى قدم مكة فوجد امرأة إسماعيل فسألها عنه فقالت هو غائب ولم تلن له في القول فقال لها إبراهيم قولي لإسماعيل قد جاء بعدك شيخ كذا وكذا وهو يقرأ عليك السلام <span class="page-no" title="end of page 57 of vol. 1">§</span> ويقول لك غير عتبة بيتك فإني لم أرضها يقول ابن عباس وكان إسماعيل عليه السلام كلما جاء سأل أهله هل جاءكم أحد بعدي فلما رجع سأل أهله فقالت امرأته قد جاء بعدك شيخ فنعتته له فقال له إسماعيل قلت له شيئا قالت لا قال فهل قال لك من شيء قالت نعم اقرئي عليه السلام وقولي له غير عتبة بيتك فإني لم أرضها لك قال إسماعيل أنت عتبة بيتي فارجعي إلى أهلك فردها إسماعيل إلى أهلها فانكحوه امرأة أخرى يقول ابن عباس ثم لبث إبراهيم ما شاء الله أن يلبث ثم رجع إبراهيم فوجد إسماعيل غايبا ووجد امرأته الأخرى فوقف فسلم فردت عليه السلام واستنزلته وعرضت عليه الطعام والشراب فقال ما طعامكم وشرابكم قالت اللحم والماء قال هل من حب أو غيره من الطعام قالت لا قال بارك الله لكم في اللحم والماء قال ابن عباس يقول رسول الله صلى الله عليه وسلم لو وجد عندها يومئذ حبا لدعا لهم بالبركة فيه فكانت أرضا ذات زرع ثم ولى إبراهيم عليه السلام وقال قولي له قد جاء بعدك شيخ فقال إني وجدت عتبة بيتك صالحة فاقررها فرجع إسماعيل عليه السلام إلى أهله فقال هل جاءكم بعد أي أحد فقالت نعم قد جاء بعدك شيخ كذا وكذا قال فهل عهد إليكم من شيء قالت نعم يقول إني وجدت عتبة بيتك صالحة فاقررها <span class="page-no" title="end of page 58 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SHBHV02P009A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SHBHV02P009A">SHBHV02P009A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SHBH" class="source-link"><span class='ref-author'>Muḥammad b. Aḥmad b. ʿAlī al-Fāsī</span>, <span class='ref-title'>Shifāʼ al-gharām bi-akhbār al-Balad al-ḥarām</span></a>, vol. 2 p. 9</div>
+  </header>
+  <div class="witness-text">
+    قال وفي كتاب المبتدأعن عباد بن سلمة عن محمد بن إسحاق أن اسم امرأة إسماعيل عمارة بنت سعيد بن أسامة ... انتهى <span class="page-no" title="end of page 9 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-SHBHV02P009A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-SHBHV02P009A-1]: Cabbad b. Salamah most likely refers to Hammad b. Salamah and the mistake was due to scribal error. The passages above will also be placed in the Hammad b. Salamah witness file.

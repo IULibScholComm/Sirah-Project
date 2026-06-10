@@ -1,0 +1,398 @@
+---
+title: "Isḥāq b. Bashr b. Muḥammad b. ʿAbd Allāh b. Sālim, Abū Ḥudhayfah al-Bukhārī"
+lang: "en"
+witness-code: "WIBMA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية اسحاق بن بشر بن محمد بن عيد الله</span>
+
+**Witness code:** `WIBMA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WIBMA">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `DTSHV09P282B`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="DTSHV09P282B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DTSHV09P282B">DTSHV09P282B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> DTSH, vol. 9 pp. 282-284</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KTHBV02P224B</span> خبرنا أبو تراب حيدرة بن أحمد حدثنا أبو بكر الخطيب أخبرني أبو الحسن بن رزقوية حدثنا أحمد بن السندي حدثنا الحسن بن علي حدثنا إسماعيل بن عيسى أنا إسحاق بن بشر القرشي عن محمد بن إسحاق عن الزهري عن سعيد بن المسيب وعثمان بن عبد الرحمن عن الزهري عن سعيد بن المسيب قال قدمت الفارعة أخت أمية بن أبي الصلت على رسول الله صلى الله عليه وسلم بعد فتح مكة وكانت ذات لب وعقل وجمال وكان رسول الله صلى الله عليه وسلم بها معجبا فقال لها رسول الله صلى الله عليه وسلم ذات يوم يفارعة هل تحفظين من شعر أخيك شيئا فقالت نعم وأعجب منه ما قد رأيت قالت كان أخي في سفر فلما انصرف بدأ بي فدخل علي فرقد على السرير وأنا أحلق أديما في يدي إذ أقبل طائران أبيضان أو كالطيرين أبيضين فوقع على الكوة أحدهما ودخل الآخر فوقع عليه فشق الواقع عليه ما بين قصه إلى عانته ثم أدخل يده في جوفه فأخرج قلبه فوضعه في كفه ثم شمه فقال له الطائر الأعلى أوعى قال وعا قال أزكا قال أبى ثم رد القلب إلى مكانه فالتأم الجرح أسرع من طرفة عين ثم ذهبا فلما رأيت ذلك دنوت منه فحركته فقلت هل تجد شيئا قال لا إلا توصيبا في جسدي وقد كنت ارتعت مما رأيت فقال لي ما لي أراك مرتاعة قالت فأخبرته الخبر فقال خيرا أريد بي ثم أصرف عني فأنشأ يقول <span class='poetry-line'><span class='hemistich1'>بانت همومي تسري طوارقها</span> <span class='hemistich2'>ألف عيني والدمع سابقها </span></span> <span class='poetry-line'><span class='hemistich1'>مما أتاني من اليقين ولم </span> <span class='hemistich2'>أوت براة بعض ناطقها <span class="page-no" title="end of page 282 of vol. 9">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>أم من تلظى عليه واقدة</span> <span class='hemistich2'>النار محيط بهم سرادقها</span></span> <span class='poetry-line'><span class='hemistich1'>أم اسكن الجنة التي وعد</span> <span class='hemistich2'>الأبرار مصفوفة نمارقها</span></span> <span class='poetry-line'><span class='hemistich1'>لا يستوي المنزلان ولا</span> <span class='hemistich2'>الأعمال لا تستوي طرائقها</span></span> <span class='poetry-line'><span class='hemistich1'>هما فريقان فرقة تدخل الجنة</span> <span class='hemistich2'>حفت بهم حدائقها</span></span> <span class='poetry-line'><span class='hemistich1'>وفرقة منهم قد أدخلت النار</span> <span class='hemistich2'>فساءتهم مرافقها</span></span> <span class='poetry-line'><span class='hemistich1'>تعاهدت هذه القلوب إذا</span> <span class='hemistich2'>همت بخير عاقب عواقبها </span></span> <span class='poetry-line'><span class='hemistich1'>إن لم يمت عبطة تمت هرما</span> <span class='hemistich2'>للموت كأس والمرء ذائقها </span></span> <span class='poetry-line'><span class='hemistich1'>وصدها للشقاء عن طلب</span> <span class='hemistich2'>الجنة دنيا الله ماحقها</span></span> <span class='poetry-line'><span class='hemistich1'>عبد دعا نفسه فعاتبها</span> <span class='hemistich2'>يعلم أن الصبر رامقها</span></span> <span class='poetry-line'><span class='hemistich1'>يوشك من فر من منيته</span> <span class='hemistich2'>يوما على غرة يوافقها</span></span> قالت ثم انصرف إلى رحله فلم يلبث إلا يسيرا حتى طعن في جنازته فأتاني الخبر فانطلقت إليه فوجدته منعوشا قد سجي عليه فدنوت منه فشهق شهقة وشق بصره ونظر نحو السقف ورفع صوته وقال لبيكما ها أنذا لديكما لا ذو مال فيفديني وذو أهل تحميني ثم أغمي عليه إذ شهق شهقة قلت قد هلك الرجل فشق بصره نحو السقف ورفع صوته فقال لبيكما لبيكما ها أنذا لديكما لا ذو براءة فأعتذر ولا ذو عشيرة فأنتصر ثم أغمي عليه إذ شهق شهقة ونظر نحو السقف فقال لبيكما لبيكما ها أنذا ديكما <span class='poetry-line'><span class='hemistich1'>إن تغفر اللهم تغفر جما</span> <span class='hemistich2'>وأي عبد لك لا ألما</span></span> ثم أغمي عليه وشهق شهقة فقال لبيكما لبيكما ها أنذا لديكما <span class='poetry-line'><span class='hemistich1'>كل عيش وإن تطاول دهرا</span> <span class='hemistich2'>صائر مرة إلى أن يزولا </span></span> <span class='poetry-line'><span class='hemistich1'>ليتني كنت قبل ما قد بدا لي</span> <span class='hemistich2'>في قلال الجبال أرعى الوعولا <span class="page-no" title="end of page 283 of vol. 9">§</span></span></span> ثم مات فقال النبي صلى الله عليه وسلم يا فارعة فإن مثل أخيك كمثل الذي أتاه الله آياته فانسلخ منها إلى آخر الآية أخبرنا أبو عبد الله الفراوي أنا أبو الحسين الفارسي أنا أبو سليمان الخطابي قال في حديث النبي صلى الله عليه وسلم إن فارعة بنت أبي الصلت الثقفي جاءته فسألها عن قصة أخيها أمية فقالت قدم أخي من سفر فأتاني فوثب على سريري فأقبل طائران فسقط أحدهما على صدره فشق ما بين صدره إلى ثيبته فأيقظته فقلت يا أخي هل تجد شيئا قال لا والله إلا توصيب. <span class="page-no" title="end of page 284 of vol. 9">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHBV02P224B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHBV02P224B">KTHBV02P224B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHB" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span></a>, vol. 2 pp. 224-226</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_DTSHV09P282B</span> وقال عبد الرازق أخبرنا معمر عن الكلبي قال بينا أمية راقد ومعه ابنتان له إذ فزعت إحداهما فصاحت عليه فقال لها ما شأنك قالت رأيت نسرين كشطا سقف البيت فنزل أحدهما إليك فشق بطنك والآخر واقف على ظهر البيت فناداه فقال أوعى قال نعم قال ازكى قال لا فقال ذاك خير أريد بأبيكما فلم يفعله وقد روي من وجه آخر بسياق آخر فقال إسحاق بن بشر عن محمد بن إسحاق عن الزهري عن سعيد بن المسيب وعثمان بن عبد الرحمن عن الزهري عن سعيد بن المسيب قال قدمت الفارعة أخت أمية بن أبي الصلت على رسول الله صلى الله عليه وسلم بعد فتح مكة وكانت ذات لب وعقل وجمال وكان رسول الله صلى الله عليه وسلم بها معجبا فقال لها ذات يوم يا فارعة هل تحفظين من شعر أخيك شيئا فقالت نعم واعجب من ذلك ما قد رأيت قالت كان أخي في سفر فلما انصرف بدأنى فدخل علي فرقد على سريري وأنا أحلق أديما في يدي إذ أقبل طائران أبيضان أو كالطيرين أبيضين فوقع على الكوة أحدهما ودخل الآخر فوقع عليه فشق الواقع عليه ما بين قصه إلى عانته ثم أدخل يده في جوفه فأخرج قلبه فوضعه في كفه ثم شمه فقال له الطائر الآخر أوعى قال وعى قال ازكى قال أبى ثم رد القلب إلى مكانه فالتأم الجرح أسرع من طرفة عين ثم ذهبا فلما رأيت ذلك <span class="page-no" title="end of page 224 of vol. 2">§</span> دنوت منه فحركته فقلت هل تجد شيئا قال لا إلا توهينا في جسدي وقد كنت ارتعبت مما رأيت فقال ما لي أراك مرتاعة قالت فأخبرته الخبر فقال خير أريد بي ثم صرف عني ثم أنشأ يقول <span class='poetry-line'><span class='hemistich1'>باتت همومي تسري طوارقها</span> <span class='hemistich2'>أكف عيني والدمع سابقها</span></span> <span class='poetry-line'><span class='hemistich1'>مما أتاني من اليقين ولم</span> <span class='hemistich2'>أوت براة يقص ناطقها</span></span> <span class='poetry-line'><span class='hemistich1'>أم من تلظى عليه واقدة النار</span> <span class='hemistich2'>محيط بهم سرادقها</span></span> <span class='poetry-line'><span class='hemistich1'>أم أسكن الجنة التي وعد</span> <span class='hemistich2'>الأبرار مصفوفة نمارقها</span></span> <span class='poetry-line'><span class='hemistich1'>لا يستوي المنزلان ثم ولا</span> <span class='hemistich2'>الأعمال لا تستوي طرائقها</span></span> <span class='poetry-line'><span class='hemistich1'>هما فريقان فرقة تدخل الجنة</span> <span class='hemistich2'>حفت بهم حدائقها</span></span> <span class='poetry-line'><span class='hemistich1'>وفرقة منهم قد أدخلت النار</span> <span class='hemistich2'>فساءتهم مرافقها</span></span> <span class='poetry-line'><span class='hemistich1'>تعاهدت هذه القلوب إذا</span> <span class='hemistich2'>همت بخير عاقت عوائقها</span></span> <span class='poetry-line'><span class='hemistich1'>وصدها للشقاء عن طلب</span> <span class='hemistich2'>الجنة دنيا الله ماحقها</span></span> <span class='poetry-line'><span class='hemistich1'>عبد دعا نفسه فعاتبها</span> <span class='hemistich2'>يعلم أن البصير رامقها</span></span> <span class='poetry-line'><span class='hemistich1'>ما رغب النفس في الحياة وإن</span> <span class='hemistich2'>تحيا قليلا فالموت لاحقها</span></span> <span class='poetry-line'><span class='hemistich1'>يوشك من فر من منيته</span> <span class='hemistich2'>يوما على غرة يوافقها</span></span> <span class='poetry-line'><span class='hemistich1'>ان لم تمت غبطة تمت هرما</span> <span class='hemistich2'>للموت كأس والمرء ذائقها</span></span> قال ثم انصرف إلى رحله فلم يلبث إلا يسيرا حتى طعن في حيارته فأتاني الخبر فانصرفت إليه فوجدته منعوشا قد سجي عليه فدنوت منه فشهق شهقة وشق بصره ونظر نحو السقف ورفع صوته وقال لبيكما لبيكما ها أنا ذا لديكما لا ذو مال فيفديني ولا ذو أهل فتحميني ثم أغمي عليه إذ شهق شهقة فقلت قد هلك الرجل فشق بصره نحو السقف فرفع صوته فقال لبيكما لبيكما ها أنا ذا لديكما لا ذو براءة فأعتذر ولا ذو عشيرة فأنتصر ثم أغمي عليه إذ شهق شهقة وشق بصره ونظر نحو السقف فقال لبيكما لبيكما ها أنا ذا لديكما بالنعم محفود وبالذنب محصود ثم أغمي عليه إذ شهق شهقة فقال لبيكما لبيكما ها أنا ذا لديكما <span class='poetry-line'><span class='hemistich1'>إن تغفر اللهم تغفر جما</span> <span class='hemistich2'>وأي عبد لك لا ألما</span></span> ثم أغمي عليه إذ شهق شهقة فقال <span class='poetry-line'><span class='hemistich1'>كل عيش وإن تطاول دهرا</span> <span class='hemistich2'>صائر مرة إلى أن يزولا</span></span> <span class='poetry-line'><span class='hemistich1'>ليتني كنت قبل ما قد بدا لي</span> <span class='hemistich2'>في قلال الجبال أرعى الوعولا <span class="page-no" title="end of page 225 of vol. 2">§</span></span></span> قالت ثم مات فقال رسول الله صلى الله عليه وسلم يا فارعة إن مثل أخيك كمثل الذي آتاه الله آياته فانسلخ منها الآية <span class="page-no" title="end of page 226 of vol. 2">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="KHTBV01P053A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KHTBV01P053A">KHTBV01P053A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHTB" class="source-link"><span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Taʾrīkh Baghdād wa dhuyūlahi</span></a>, vol. 1 pp. 53-54</div>
+  </header>
+  <div class="witness-text">
+    فأخبرنا محمد بن أحمد بن رزق البزار قال أنبأنا محمد بن أحمد بن الحسن الصواف قال نبأنا الحسن بن على القطان قال نبأنا إسماعيل بن عيسى العطار قال أنبأنا إسحاق بن بشر أبو حذيفة قال قال ابن إسحاق وحدثني عبيد الله أن أهل الحيرة قالوا للمثنى ألا ندلك على قرية تأتيها تجار مدائن كسرى وتجار السواد ويجتمع بها في كل سنة من أموال الناس مثل خراج العراق وهذه أيام سوقهم التي يجتمعون فيها فإن أنت قدرت على أن تعبر إليهم وهم لا يشعرون أصبت بها مالا يكون فيه عز للمسلمين وقوة على عدوهم وبينها وبين مدائن كسرى عامة يوم فقال لهم فكيف لي بها فقالوا له إن أردتها فخذ طريق البر حتى تنتهي إلى الأنبار ثم تأخذ رءوس الدهاقين فيبعثون معك الأدلاء فتسير سواد ليلة من الأنبار حتى تأتيهم ضحى قال فخرج من النخيلة ومعه أدلاء أهل الحيرة حتى دخل الأنبار فنزل بصاحبها فتحصن منه فأرسل إليه ما يمنعك من النزول فأرسل إليه إني أخاف فأرسل إليه انزل فإنك آمن على دمك وقريتك وترجع سالما إلى حصنك فتوثق عليه ثم نزل فقال إني أريد أن تبعث معي دليلا يدلني على بغداد فإني أريد أن أعبر منها إلى المدائن قال أنا أجيء معك قال المثنى لا أريد أن تجيء معي ولكن ابعث معي من يعرف الطريق ففعل وأمر لهم بعلف وطعام وزاد وبعث معهم دليلا فأقبل حتى إذا بلغ المنصف قال له المثنى كم بيننا وبين هذه القرية قال أربعة فراسخ أو خمسة وقد بقي عليك ليل فقال لأصحابه انزلوا فاقضموا واطعموا وابعثوا الطلائع فلا يلقون أحدا إلا حبسوه ثم سار بهم فصحبهم في أسواقهم فوضع فيهم السيف فقتل وأخذ الأموال وقال لأصحابه لا تأخذوا إلا الذهب والفضة ومن المتاع ما يقدر الرجل منكم على حمله على دابته وهرب الناس وتركوا أمتعتهم وأموالهم وملأ المسلمون أيديهم من الصفراء والبيضاء ثم رجع راجعا حتى نزل بنهر السيلحين فقال للمسلمين احمدوا الله الذي سلمكم وغنمكم انزلوا فأعلفوا خيلكم من هذا القضب وعلقوا عليها وأصيبوا من أزوادكم ثم سار وسمع القوم يهمس بعضهم إلى بعض أن القوم سراع الآن في طلبنا فقال قبح الله ما تتناجون به <span class="page-no" title="end of page 53 of vol. 1">§</span> أيسر بعضكم إلى بعض أتحسبونهم الآن في طلبكم فو الله لو كان الصريخ قد بلغهم الآن إنه لكثير ولو كان الصريخ عندهم لدخلهم من رعب غارتنا عليهم إلى جنب مدائنهم ما يشغلهم عن طلبنا ثم جهدوا جهدهم ما أدركونا نحن على الجياد العراب وهم على المقاريف البطاء ولو أنهم طلبونا فأدركونا لم نكن نقاتلهم إلا التماس الثواب ورجاء النصر وعمركم الله لقد نصرتم عليهم وهم أكثر منكم وأعز فأقبلوا ومعهم دليلهم حتى انتهى إلى الأنبار واستقبلهم صاحبها بالكرامة فوعده المثنى الإحسان إليه لو قد استقام أمرهم فرجع المثنى إلى عسكره. <span class="page-no" title="end of page 54 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV01P217C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV01P217C">TDSHV01P217C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 1 p. 217</div>
+  </header>
+  <div class="witness-text">
+    وأبو بكر أحمد بن سندي بن الحسن الحداد قالا نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا أبو حذيفة إسحاق بن بشر قال قال محمد بن إسحاق عن من يخبره أن سعيد بن المسيب كان يقول في قول الله عز وجل إرم ذات العماد التي لم يخلق مثلها في البلاد يعني دمشق. <span class="page-no" title="end of page 217 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV02P061A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P061A">TDSHV02P061A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 pp. 61-62</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن أحمد بن المسلمة أنا أبو الحسن علي بن أحمد بن عمر بن حفص الحمامي أنا أبو علي محمد بن أحمد بن الحسن بن الصواف نا أبو محمد الحسن بن علي القطان نا إسماعيل بن عيسى العطار حدثني أبو حذيفة إسحاق بن بشر القرشي نا محمد بن إسحاق قال إن أبا بكر لما حدث نفسه بأن يغزو الروم فلم يطلع عليه أحدا إذ جاءه شرحبيل بن حسنة فجلس إليه فقال يا خليفة رسول الله أتحدث نفسك أنك تبعث إلى الشام جندا فقال نعم قد حدثت نفسي بذلك وما أطلعت عليه أحدا وما سألتني عنه إلا لشئ قال أجل إني رأيت يا خليفة رسول الله فيما يرى النائم كأنك تمشي في الناس فوق خرشفة من الجبل ثم أقبلت تمشي حتى صعدت قنة من القنان العالية فأشرفت على الناس ومعك أصحابك ثم إنك هبطت من تلك القنان إلى أرض سهلة دمثة فيها الزرع والقرى والحصون فقلت للمسلمين شنوا الغارة على أعداء الله وأنا ضامن لكم بالفتح والغنيمة فشد المسلمون وأنا فيهم معي راية <span class="page-no" title="end of page 61 of vol. 2">§</span> فتوجهت بها إلى أهل قرية فسألوني الأمان فأمنتهم ثم جئت فأجدك قد انتهيت إلى حصن عظيم ففتح الله لك وألقوا إليك السلم ووضع الله لك مجلسا فجلست عليه ثم قيل لك يفتح الله عليك وتنصر فاشكر ربك واعمل بطاعته ثم قرأ إذا جاء نصر الله والفتح ورأيت الناس يدخلون في دين الله أفواجا فسبح بحمد ربك واستغفره إنه كان توابا ثم انتبهت فقال له أبو بكر نامت عيناك خيرا رأيت وخيرا يكون إن شاء الله ثم قال بشرت بالفتح ونعيت إلي نفسي ثم دمعت عينا أبي بكر ثم قال أما الحرشفة التي رأيتنا نمشي عليها حتى صعدنا إلى القنة العالية فأشرفنا على الناس فإنا نكابد من أمر هذا الجند والعدو مشقة ويكابدونه ثم نعلو بعد ويعلو أمرنا وأما نزولنا من القنة العالية إلى الأرض السهلة الدمثة والزرع والعيون والقرى والحصون فإنا ننزل إلى أمر أسهل مما كنا فيه من الخصب والمعاش وأما قولي للمسلمين شنوا على أعداء الله الغارة فإني ضامن لكم الفتح والغنيمة فإن ذلك دنو المسلمين إلى بلاد المشركين وترغيبي إياهم على الجهاد والأجر والغنيمة التي تقسم لهم وقبولهم وأما الراية التي كانت معك فتوجهت بها إلى قرية من قراهم ودخلتها واستأمنوا فأمنتهم فإنك تكون أحد أمراء المسلمين ويفتح الله على يديك وأما الحصن الذي فتح الله لي فهو ذلك الوجه الذي يفتح الله لي وأما العرش الذي رأيتني عليه جالسا فإن الله يرفعني ويضع المشركين وقال الله تبارك وتعالى ليوسف ورفع أبويه على العرش وأما الذي أمرني بطاعة الله وقرأ علي السورة فإنه نعا إلي نفسي وذلك أن النبي صلى الله عليه وسلم نعى الله إليه نفسه حين نزلت هذه السورة وعلم أن نفسه قد نعيت إليه ثم سالتا عيناه فقال لآمرن بالمعروف ولأنهين عن المنكر ولأجهدن فيمن نزل أمر الله ولأجهزن الجنود إلى العادلين بالله في مشارق الأرض ومغاربها حتى يقولوا الله أحد أحد لا شريك له أو يؤدوا الجزية عن يد وهم صاغرون هذا أمر الله وسنة رسول الله صلى الله عليه وسلم فإذا توفاني الله عز وجل لا يجدني الله عاجزا ولا وانيا ولا في ثواب المجاهدين زاهدا فعند ذلك أمر الأمراء وبعث إلى الشام البعوث. <span class="page-no" title="end of page 62 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV46P381B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV46P381B">TDSHV46P381B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 46 pp. 381-382</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم إسماعيل بن أحمد أنا محمد بن محمد بن أحمد بن المسلمة أنا علي بن أحمد بن عمر نا محمد بن أحمد بن الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر قال قال ابن إسحاق فلما فتح الله للمسلمين يوم القادسية على عدوهم وأصابوا عسكرهم وما فيه أقبل سعد على الناس يقسم بينهم الأموال ويعطيهم على قدر ما قرءوا من القرآن فأراد التقصير ببشر بن ربيعة الخثعمي ويزيد بن جحفة التميمي وكانوا أشد أهل العسكر ولم يكونوا بلغوا في القرآن فأبوا أن يأخذوا قسمته إلا أن يفضلهم على الناس فقال عمرو بن معدي كرب <span class='poetry-line'><span class='hemistich1'>أمن ليلى تسرى يعد هدء</span> <span class='hemistich2'>خيال هاج للقلب ادكارا</span></span> <span class='poetry-line'><span class='hemistich1'>يذكرني الشباب وأم عمرو</span> <span class='hemistich2'>وشاماتا المربع والديارا</span></span> <span class='poetry-line'><span class='hemistich1'>وحيا من بني صعب بن سعد</span> <span class='hemistich2'>سقوا الأرصاد والديم الغزارا</span></span> <span class='poetry-line'><span class='hemistich1'>ألا أبلغ أمير المؤمنين سعدا</span> <span class='hemistich2'>فقد كذبت أليته وجارا <span class="page-no" title="end of page 381 of vol. 46">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>وحرق نابه ظلما وجهلا</span> <span class='hemistich2'>علي فقد أتى ذما وعارا</span></span> <span class='poetry-line'><span class='hemistich1'>هبلت لقد نسيت جلاد عمرو</span> <span class='hemistich2'>وأنت كخامع تلج الوجارا</span></span> <span class='poetry-line'><span class='hemistich1'>أطاعن دونك الأعداء شزرا</span> <span class='hemistich2'>وأغشى البيض والأسل الحرارا</span></span> <span class='poetry-line'><span class='hemistich1'>بباب القادسية مستميتا</span> <span class='hemistich2'>كليث أريكة يأبي الفرارا </span></span> <span class='poetry-line'><span class='hemistich1'>أكر عليهم مهري وأحمي</span> <span class='hemistich2'>إذا كرهوا الحقائق والذمارا</span></span> <span class='poetry-line'><span class='hemistich1'>جزاك الله في جهنبي عقوقا</span> <span class='hemistich2'>وبعد الموت زقوما ونارا</span></span> فلما بلغه قوله أرسل إليه فاعطاه وفضله فأرضاه أخبرنا أبو محمد عبد الرحمن بن أبي الحسن الداراني أنا سهل بن بشر أنا عبد الوهاب بن الحسين بن عمر بن برهان نا محمد بن العباس اليزيدي نا العباس بن الفرج الرياشي نا سوار قال سمعت أبا عبيدة يقول إن عمرو بن معدي كرب حمل يوم القادسية على مرزبان وهو يرى أنه رستم فقتله فقال في ذلك <span class='poetry-line'><span class='hemistich1'>ألم بسلمى قبل أن تظغنا</span> <span class='hemistich2'>إن لسلمى عندنا ديدنا</span></span> <span class='poetry-line'><span class='hemistich1'>قد علمت سلمى وأشياعها</span> <span class='hemistich2'>وما قطر الفارس إلا أنا </span></span> <span class='poetry-line'><span class='hemistich1'>شككت بالرمح حيازيمه</span> <span class='hemistich2'>فالخيل يعدو رهبا بيننا. </span></span> <span class="page-no" title="end of page 382 of vol. 46">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV02P069B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P069B">TDSHV02P069B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 pp. 69-70</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن محمد بن المسلمة أنا أبو الحسن علي بن أحمد الحمامي أنا أبو علي بن الصواف نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر حدثني محمد بن إسحاق عن العلاء بن عبد الرحمن بن يعقوب عن رجل من بني سهم عن علي بن ماجد السهمي أنه قال حج أبو بكر في خلافته سنة ثنتي عشرة فلما قفل أبو بكر من الحج جهز الجيوش إلى الشام فبعث عمرو بن العاص قبل فلسطين فأخذ الطريق <span class="page-no" title="end of page 69 of vol. 2">§</span> المغربة على أيلة وبعث يزيد بن أبي سفيان وأبا عبيدة بن الجراح وشرحبيل بن حسنة وأمرهم أن يسلكوا التبوكية من علياء الشام كذا قال ابن ماجد وإنما هو ابن ماجدة كما تقدم أخبرنا أبو بكر الفرضي أنا أبو محمد الجوهري أنا أبو عمر بن حيوية أنا أبو الحسن بن معروف نا الحسين بن الفهم نا محمد بن سعد أنا محمد بن عمر حدثني عبد الله بن وابصة العبسي عن أبيه عن جده قال كنا مع خالد بن الوليد في الردة أعوانا له فلما رجع إلى المدينة ومعه العرب رجعت العرب إلى أوطانها ورجعت عبس وطئ ومن كان من أسد إلى منازلهم حتى جاءهم النفير إلى الشام فقدموا المدينة فجعل أبو بكر يفرق الجيوش على ولاته وهم ثلاثة عمرو بن العاص وشرحبيل بن حسنة ويزيد بن أبي سفيان فخرجوا معهم إلى الشام. <span class="page-no" title="end of page 70 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV02P095B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P095B">TDSHV02P095B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 pp. 95-96</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن المسلمة أنا أبو الحسن الحمامي أنا أبو علي الصواف نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا أبو حذيفة إسحاق بن بشر قال قال ابن إسحاق أنبأ محمد بن <span class="page-no" title="end of page 95 of vol. 2">§</span> جعفر بن الزبير عن عروة بن الزبير أن القبقلان بعث رجلا من غسان فقال له ادخل في هؤلاء القوم يعني أبا عبيدة وجنوده فأقم فيهم يوما وليلة ثم ائتني بخبرهم قالوا فدخل في الناس ذلك الغساني فأقام فيهم يوما وليلة ثم جاءه فقال ماذا وراءكم ما وجدت عليه القوم فقال هم بالليل رهبان وبالنهار فرسان ولو سرق ملكهم قطعوا يده ولو زنا رجموه يعني بذلك إقامتهم الحق لله تعالى قال فقال القيقلان إن كنت صدقتني لبطن الأرض خير لنا من ظهرها ولوددت إن شاء الله يحول بيني وبينهم فلا ينصرني عليهم ولا ينصرهم علي. <span class="page-no" title="end of page 96 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV02P099B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P099B">TDSHV02P099B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 p. 99</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي بن المسلمة أنا أبو علي بن الصواف نا أبو محمد الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا أبو حذيفة إسحاق بن بشر القرشي قال قالوا وكانت وقعة أجنادين يوم السبت صلاة الظهر لليلتين بقيتا من جمادى الأولى سنة ثلاث عشرة. <span class="page-no" title="end of page 99 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV07P376C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV07P376C">TDSHV07P376C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 7 pp. 376-377</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو محمد عبد الله بن محمد بن إسماعيل بن صدقة بن الغزال المصري بمكة حرسها الله شفاها نا أبو بكر أحمد بن علي الخطيب بدمشق أنا محمد بن أحمد بن رزقويه أنا عثمان بن أحمد الدقاق وأحمد بن سندي الحداد قالا نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا أبو حذيفة إسحاق بن بشر أخبرني محمد بن إسحاق عن الزهري قال إن الله بعث ملكا ليأتيه من تربة الأرض <span class="page-no" title="end of page 376 of vol. 7">§</span> فقالت الأرض ما نريد أن تنقصني إن الله يخلق مني خلقا فيعصيه ذلك الخلق فيعاقبني منه عقوبة فأعوذ بالله منك قال فرجع إلى ربه ثم بعث اخر فكان من قصته مثل ذلك وبعث اخر قال وقال محمد بن إسحاق ومقاتل إن الأول كان إسرافيل والثاني ميكائيل والثالث ملك الموت فلما ذهب ملك الموت ليقبض منها استعاذت منه فقال ملك الموت أرى طاعة ربي أوجب علي من رحمتي إياك قال فحمل منه تربة حتى أتى بها ربه عز وجل. <span class="page-no" title="end of page 377 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV16P077C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV16P077C">TDSHV16P077C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 16 pp. 77-78</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن المسلمة أنا علي بن أحمد بن عمر أنا محمد بن أحمد بن الحسن نا الحسن بن علي القطان نا <span class="page-no" title="end of page 77 of vol. 16">§</span> إسماعيل بن عيسى العطار حدثني إسحاق بن بشر قال قال ابن إسحاق عن عبد الله بن أبي بكر بن محمد بن عمرو بن حزم أن خالد بن سعيد حين قدم من اليمن بعد وفاة رسول الله صلى الله عليه وسلم تربص ببيعته شهرين يقول قد أمرني رسول الله صلى الله عليه وسلم ثم لم يعزلني حتى قبضه الله وأتى علي بن أبي طالب وعثمان بن عفان فقال يا بني عبد مناف لقد طبتم نفسا عن أمركم يليه عليكم غيركم فبلغ ذلك أبا بكر وعمر فأما أبو بكر فلم يحفلها وأما عمر فأضمرها عليه فلما بعث أبو بكر الجنود إلى الشام فكان أول من استعمل خالد بن سعيد فكلم عمر أبا بكر حتى عزله ثم دعا يزيد بن أبي سفيان فعقد له ودعا ربيعة بن عامر من بني عامر بن لؤي فعقد له ثم قال له أنت مع يزيد بن أبي سفيان لا تعصه ولا تخالفه وقال ليزيد إن رأيت أن توليه ميمنتك فافعل فإنه من فرسان العرب وصلحاء قومه. <span class="page-no" title="end of page 78 of vol. 16">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV16P081B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV16P081B">TDSHV16P081B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 16 pp. 81-83</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن أحمد أنا علي بن أحمد بن عمر أنا أبو علي محمد بن أحمد بن الحسن نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار حدثني إسحاق بن بشر عن محمد بن إسحاق أن خالد بن سعيد لما بلغه قول أبي بكر ونزعه لبس ثيابه وتهيأ بأحسن هيئة ثم أقبل نحو أبي بكر وعنده المهاجرون والأنصار أجمع ما كانوا عنده وقد تهيأ الناس وأمروا بالنزول بالعسكر فسلم على أبي بكر ثم على المسلمين ثم جلس فقال لأبي بكر أما أنت قد وليتني أمر المسلمين وأنت غير متهم لي ورأيك في حسن حتى خوفت أمرا والله لأن أخر من رأس حالق وتخطفني الطير بين السماء والأرض أحب إلي من أن يكون مني والله ما أنا في الإمارة براغب ولا أنا على البقاء في الدنيا بحريص وإني لأشهدكم إني وإخوتي ومن خرجنا في وجهنا به من عون أو قوة في سبيل الله نقاتل به المشركين أبدا حتى يهلكوا أو نموت لا نريد به سلطانا ولا عرضا من الدنيا قال فقال له الناس خيرا ودعوا له وقال أبو بكر أعطاني الله في نفسي الذي أحب لك ولأخوتك والله إني لأرجو أن تكون من فصحاء الله في عباده وإقامة كتابه واتباع سنة رسول الله صلى الله عليه وسلم قال فخرج هو وإخوته وغلمانه ومن اتبعه وكان أول من عسكر قال ولما تهيأ الناس للخروج وترافق الناس وانضمت المتطوعة إلى من أحبت نزل خالد بن وسيد تحت لواء أبي عبيدة يسير معه قال فقال بعض الناس لخالد بن سعيد حين تهيأ للخروج مع أبي عبيدة لو كنت خرجت مع ابن عمك يزيد بن أبي سفيان فقال ابن عمي أحب ألي من هذا لقرابته وهذا أحب إلي من أبي عمي في دينه وقرابته هذا كان أخي على عهد رسول الله صلى الله عليه وسلم ووليي وناصري قبل اليوم على ابن عمي فأنا به أشد استئناسا وإليه أشد طمأنينة <span class="page-no" title="end of page 81 of vol. 16">§</span> فلما أراد أن يغدو سائرا إلى الشام لبس سلاحه وأمر أخوته فلبسوا أسلحتهم عمرو والحكم وغلمته ومواليه ثم أقبلوا من العسكر إلى أبي بكر الصديق فصلوا معه الغداة في مسجد رسول الله صلى الله عليه وسلم فلما انصرفوا قام إليه أخوته فجلسوا إليه فحمد الله خالد وأثنى عليه ثم قال يا أبا بكر إن الله قد أكرمنا وإياك والمسلمين طرا بهذا الدين فأحق من أقام السنة وأمات البدعة وعدل في السيرة الوالي على الرعية كل امرئ من هذا الدين محقوق بالإحسان إلى إخوانه ومعدلة الوالي أعم نفعا فاتق الله يا أبا بكر فيما ولاك الله من أمره وارحم الأرملة واليتيم وأعن الضعيف والمظلوم ولا يكن رجل من المسلمين إذا رضيت عنه آثر في الحق عندك منه إذا سخطت عليه ولا تغضب ما قدرت عليه فإن الغضب يجر الجور ولا تحقد وأنت تستطيع فإن حقدك على المسلم يجعله لك عدوا فإن أطلع على ذلك منك عاداك فإذا عادت الرعية الراعي كان ذلك مما يكون إلى هلاكهم داعيا ولن للمحسن واشتد على المريب ولا تأخذك في الله لومة لائم ثم قال هلم يدك يا أبا بكر أودعك فإني لا أدري هل تلقاني في الدنيا أبدا أم لا فإن قضى الله لنا الالتقاء فنسأل الله لنا عفوه وغفرانه وإن كانت هي الفرقة التي ليس بعدها لقاء فعرفنا الله وإياك وجه النبي صلى الله عليه وسلم في جنات النعيم ثم أخذ أبو بكر بيده وبكى وبكى المسلمون وظنوا أنه يريد الشهادة فطال بكاؤهم قال ثم إن أبا بكر قال له انتظرني حتى أمشي معك قال ما أريد أن تفعل قال لكني أنا أريد ذلك ومن أراده من المسلمين وقام الناس معه مشيعا فما زال يمشي معه حتى كثر من يشيع خالدا قال فما رأى الناس مشيعا من المسلمين معه من الناس من الصالحين أكثر مما شيع خالد بن سعيد وأخوته يومئذ فلما خرج من المدينة قال له أبو بكر قد أنصفت لك إذ أوصيتني برشدي وقد وعيت وصيتك فأنا مرضيك فاسمع وصيتي <span class="page-no" title="end of page 82 of vol. 16">§</span> إنك امرؤ قد جعل الله لك شرفا وسابقة في هذا الدين وفضيلة عظيمة في الإسلام والناس ناظرون إليك ومستمعون منك وقد خرجت في هذا الوجه وأنا أرجو أن يكون خروجك بنية صادقة فثبت العالم وعلم الجاهل وعاتب السفيه المترف وانصح لعامة المسلمين واحضص الوالي على الجند بنصيحتك ومشورتك بما يحق لله وللمسلمين وأعمل لله كأنك تراه وأعدد نفسك في الموتى وأعلم أنا عما قليل ميتون ثم مقبورون ثم مبعوثون ثم مسؤولون جعلنا الله لك لأنعمه من الشاكرين ولعقابه من الخائفين ثم أخذ بيده فودعه ثم أخذ بأيدي أخوته بعد ذلك فودعهم واحدا واحدا وودعهم المسلمون ثم دعوا بإبلهم فركبوها وكانوا يمشون مع أبي بكر ثم قيدت خيلهم معهم بهيئة حسنة فلما أدبروا قال أبو بكر اللهم احفظهم من بين أيديهم ومن خلفهم وعن أيمانهم وعن شمائلهم واحطط أوزارهم وأعظم أجورهم ومضوا إلى العسكر الأعظم قال وأنا إسحاق قال قال ابن إسحاق إن خالد بن سعيد خرج وهو بمرج الصفر في يوم مطير ليستمطر فيه فقتله أعلاج من الروم قال ونا إسحاق قال قال غياث حدثني عبد الحميد بن سالم مولى آل عمرو بن العاص عن أشياخ لهم قالوا لما قتل الرومي خالد بن سعيد قلب ترسه وأسلم واستأمن وقال من الرجل الذي قتلنا فإني رأيت له نورا ساطعا في السماء وقد قال خالد بن سعيد وهو يقاتل تلك الأعلاج من الروم <span class='poetry-line'><span class='hemistich1'>هل فارس كره النزال يعيرني</span> <span class='hemistich2'>رمحا إذا نزلوا بمرج الصفر. </span></span> <span class="page-no" title="end of page 83 of vol. 16">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV16P267C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV16P267C">TDSHV16P267C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 16 pp. 267-268</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي بن المسلمة أنا أبو الحسن بن الحمامي أنا أبو علي بن الصواف أنا أبو محمد الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا أبو حذيفة إسحاق بن بشر نا محمد بن إسحاق نا صالح بن كيسان أن عمر بن الخطاب كتب إلى أبي عبيدة بن الجراح في كلام بلغه عن خالد بن الوليد أن سل خالدا فإن أكذب نفسه فهو أمير ما يليه وإن ثبت على قوله فانزع عمامته وقاسمه ماله نصفين وقم على الجند قبلك فكتم أبو عبيدة الكتاب ولم يقرئه خالدا حبا وتكرما حتى فتح الله عليهم دمشق في رجب سنة أربع عشرة ثم إن بلالا مؤذن رسول الله صلى الله عليه وسلم قال لأبي عبيدة ماذا كتب به عمر إليك في خالد بن الوليد قال أمرني أن أنصه في كلام بلغه عنه فإن أكذب نفسه فهو أمير على ما يليه وإن ثبت على قوله نزعت عمامته وقاسمته ماله نصفين فقال بلال فامض لما أمرك به أمير المؤمنين فقال خالد أمهلوني حتى استشير وكانت له أخت لا يكاد أن يعصيها <span class="page-no" title="end of page 267 of vol. 16">§</span> فاستشارها فقالت والله لا يحبك عمر بن الخطاب أبدا وما يريد إلا أن تكذب نفسك ثم يعزلك فقبل رأسها وقال صدقت فثبت على قوله فنزع أبو عبيدة عمامته فلم يبق إلانعلاه فقال بلال لا يصلح هذه إلا بهذه قال خالد فوالله لا أعطيها أمير المؤمنين لي واحدة ولكم واحدة. <span class="page-no" title="end of page 268 of vol. 16">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV17P333B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV17P333B">TDSHV17P333B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 17 p. 333</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو الفضائل الحسن بن الحسن بن أحمد وأبو تراب حيدرة بن أحمد بن الحسين في كتابيهما قالا نا أبو بكر الخطيب أنا أبو الحسن محمد بن أحمد بن محمد أنا أبو عمرو عثمان بن أحمد بن عبد الله وأبو بكر أحمد بن سندي قالا ن الحسن بن علي العطار أنا إسماعيل بن عيسى أنا إسحاق بن بشر عن محمد بن إسحاق حدثني سعيد بن بشير عن قتادة أنه قال الاسكندر هو ذو القرنين وأبوه قيصر وهو أول القياصرة وكان من ولد سام بن نوح عليهما السلام. <span class="page-no" title="end of page 333 of vol. 17">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV17P388C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV17P388C">TDSHV17P388C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 17 pp. 388-389</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا محمد بن محمد بن أحمد بن المسلمة أنبأ علي بن أحمد بن عمر أنبأ محمد بن أحمد بن الحسن نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر قال قال ابن إسحاق فسمعت من <span class="page-no" title="end of page 388 of vol. 17">§</span> حدثني عن أنس بن مالك قال أتيت أهل اليمن فبدأت بهم حيا حيا أقرأ عليهم كتاب أبي بكر حتى إذا فرغت قلت الحمد لله وأشهد أن لا إله إلا الله وأن محمدا عبده ورسوله أما بعد فإني رسول خليفة رسول الله صلى الله عليه وسلم ورسول المؤمنين ألا واني تركتهم معسكرين ليس يثقلهم عن الشخوص إلى عدوهم إلا انتظاركم فاحتملوا إلى إخوانكم بالنصر رحمة الله عليكم أيها المسلمون قال فكل من أقرأ عليه ذلك الكتاب ويسمع مني هذا القول يرد أحسن الرد ويقول نحن سائرون إلى إخواننا حين انتهينا إلى ذي الكلاع فلما قرأنا عليه الكتاب وقلت هذا القول فدعا بفرسه وسلاحه ثم نهض في قومه وأمر بالمعسكر فما برحنا حتى عسكر وقام فيهم فقال لهم أيها الناس إن من رحمة الله عليكم ونعمته فيكم أن بعث منكم نبيا أنزل عليه الكتاب وأحسن عنه البلاغ فعلمكم ما يرشدكم ونهاكم عما يفسدكم حتى علمكم ما لم تكونوا تعلمون ورغبكم فيما لم تكونوا ترغبون فيه من الخير وقد دعاكم إخوانكم الصالحون إلى جهاد المشركين واكتساب الأجر العظيم فلينفر من أراد النفر معي قال فنفر معه بعدة من الناس وأقبل إلى أبي بكر قال ورجعنا نحن فسبقناه بأيام فوجدنا أبا بكر بالمدينة ووجدنا ذلك العسكر على حاله وأبو عبيدة يصلي بأهل العسكر فلما قدمت حمير معها أولادها ونساؤها قال لهم أبو بكر عباد الله ألم نكن نتحدث فنقول إذا مرت حمير معها نساؤها وأولادها نصر الله المسلمين وخذل المشركين أبشروا أيها الناس قد جاءكم النصر كتب إلي أبو الحسن علي بن محمد بن العلاف. <span class="page-no" title="end of page 389 of vol. 17">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV30P029B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV30P029B">TDSHV30P029B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 30 p. 29</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم إسماعيل بن أحمد ثنا أبو علي بن المسلمة أنا أبو الحسن بن الحمامي ثنا أبو علي بن الصواف ثنا الحسين بن علي القطان قال إسماعيل بن عيسى العطار نا أبو حذيفة إسحاق بن بشر قال قال ابن إسحاق عن الزهري في صفة أبي بكر كان أبيض يخالط بياضه الصفرة جعد حسن القامة رقيق حمش الساقين قليل اللحم حسن الثغر. <span class="page-no" title="end of page 29 of vol. 30">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV33P260C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV33P260C">TDSHV33P260C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 33 pp. 260-261</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم إسماعيل بن محمد أنا أبو علي محمد بن محمد بن أحمد أنا أبو الحسن علي بن أحمد بن عمر بن حفص أنا أبو علي محمد بن أحمد بن الحسن أنا أبو محمد الحسن بن علي القطان نا إسماعيل بن عيسى العطار حدثني أبو حذيفة إسحاق بن بشر قال قال ابن إسحاق عن من يخبره عن مجاهد عن ابن عباس قال ثم سار يعني أبا عبيدة حتى إذا دنا من باب الجابية أتاه آت فقال له إن هرقل بأنطاكية وقد جمع لك من الجنود جمعا لم يجمعه أحد من الأمم ممن كان قبله فانصر نصرك الله فاختبر أبو عبيدة عن ذلك فوجده حقا فكتب بسم الله الرحمن الرحيم لعبد الله أبي بكر الصديق خليفة رسول الله صلى الله عليه وسلم من أبي عبيدة بن الجراح سلام عليك فإني أحمد إليك الله الذي لا إله إلا هو وأما بعد فإنا نسأل <span class="page-no" title="end of page 260 of vol. 33">§</span> الله أن يعز الإسلام وأهله عزا منيعا وأن يفتح لهم فتحا يسيرا فإنه بلغني أن ملك الروم نزل قرية من قرى الروم يقال لها أنطاكية وإنه بعث إلى أهل ممكته فحشرهم إليه وأنهم خرجوا إليه على الصعبة والذلول فقد رأيت أن أعلمك ذلك فنرى رأيك ورأيك موفق رشيد والسلام عليك ورحمة الله وبركاته قال فكتب إليه أبو بكر بسم الله الرحمن الرحيم من عبد الله أبي بكر الصديق خليفة رسول الله صلى الله عليه وسلم إلى أبي عبيدة بن الجراح ومنهم من قال إنما كتب من أبي بكر وكان عمر هو الذي أحدث من عبد الله عمر أمير المؤمنين فكتب أبو بكر سلام عليك فإني أحمد إليك الله الذي لا إله إلا هو أما بعد فقد أتاني كتابك وفهمت ما ذكرت من أمر هرقل ملك الروم فأما نزوله بأنطاكية فهزيمة له ولأصحابه وفتح عليك من الله وعلى المسلمين إن شاء الله وأما حشرة للمرء بمملكته وجمعه للمرء الجموع فإن ذلك كما نعلم وأنتم تعلمون أنه سيكون منهم ما كان قوم ليدعوا سلطانهم ولا ليخرجوا من ملكهم بغير قتال ولقد علمت والحمد لله أن قد غزاهم رجال كثير من المسلمين يحتسبون من الله في قتالهم الأجر ويحبون الجهاد في سبيل الله أشد من حبهم أبكار نسائهم وعقائل أمولاهم الرجل منهم عند الهيج خير من ألف رجل من الروم فألقهم بجندك ولا تستوحش لمن غاب عنك من المسلمين فإن الله معك وأنا مع ذلك ممدك بالرجال بعد الرجال حتى تكتفي ولا تحب أن تزداد والسلام عليك ورحمة الله وبركاته وبعث بالكتاب مع عبد الله بن نزار العبسي. <span class="page-no" title="end of page 261 of vol. 33">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV41P070B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV41P070B">TDSHV41P070B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 41 p. 70</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم أيضا أنا أبو علي بن المسلمة أنا أبو الحسن بن الحمامي أنبأ أبو علي بن الصواف نا محمد بن الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا إسحاق بن بشر قال وأخبرني محمد بن إسحاق عن الزهري وأخبرني ابن سمعان أيضا عن الزهري أن عكرمة بن أبي جهل كان يومئذ يعني يوم فحل أعظم الناس بلاء وأنه كان يركب الأسنة حتى جرحت صدره ووجهه فقيل له اتق الله وارفق بنفسك قال كنت أجاهد بنفسي عن اللات والعزى فأبذلها لها فأستبقيها الآن عن الله ورسوله لا والله أبدا قالوا فلم يزدد إلا إقداما حتى قتل يومئذ رحمه الله قالوا قال الزهري فوقف عليه خالد بن الوليد فقال ليت ابن حنتمة يعني عمر نظر إلى ابن عمي وركوبه الأسنة حتى يعلم انا إذا لقينا العدو ركبا الأسنة ركوبا قالوا وقال الزهري كان الذي كان بينهما كالمتجانبين حتى أذهب الله ذلك منهم بعد رحمة الله عليهما. <span class="page-no" title="end of page 70 of vol. 41">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV43P447A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV43P447A">TDSHV43P447A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 43 p. 447</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد أنا أبو الحسن بن الحمامي أنا أبو علي بن الصواف أنا الحسن بن علي القطان أنا إسماعيل بن عيسى العطار أنا إسحاق بن بشر قال ابن إسحاق ونا الثقة عن عبد الله بن أبي الهذيل قال رأيت عمار بن ياسر وهو أمير الناس بالكوفة خرج فابتاع قتا بدرهم ثم رأيته ينازع صاحبه جزء بنصفين فأخذ عمار نصفا وصاحبه نصفا ثم حمله على عاتقه فأدخله القصر. <span class="page-no" title="end of page 447 of vol. 43">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV43P449C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV43P449C">TDSHV43P449C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 43 pp. 449-450</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا محمد بن محمد بن أحمد أنا علي بن أحمد بن عمر المقرئ أنا محمد بن أحمد بن الحسن أنا الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر أنا ابن إسحاق قال إن عمارا كان على الكوفة سنتين إلا ثلاثة أشهر ثم خرج وافدا إلى عمر ومعه أهل الكوفة قال ونا محمد بن إسحاق عن إسماعيل بن أبي خالد البجلي عن قيس بن أبي حازم قال وفد جرير بن عبد الله إلى عمر بن الخطاب مع عمار بن ياسر معه ما نزع سعدا قال فقال عمر ألا تخبروني أي منزلتكم أعجب إليكم يعني الكوفة أو المدائن مع <span class="page-no" title="end of page 449 of vol. 43">§</span> ذلك إني أسألكم عنها وإني لأعرف فضل أحدهما على الآخر في وجوهكم فقال جرير أصلحك الله أما مزلنا هذا الأدنى فهو أدنى محلة من السواد من البر وأما الآخر بأرض فارس وعكتها وحدها وبعوضها وبقها وعصبها فقال له عمار بن ياسر كذبت فقال له عمر لم تكذب ثم قال عمر ألا تخبروني عن أميركم هذا مجزي هو فقال جرير هو والله غير مجزي ولا كاف ولا عالم بالسياسة وقال سعد بن مسعود الثقفي والله ما ندري ما استعملته عليه فقال ما الذي استعملتك عليه قال استعملتني على الحيرة وأرضها فقال عمر أما الحيرة فقد سمعنا بها وتجارنا يختلفون إليها قال استعملتني على بابل وأرضها قال عمر قد سمعنا ببابل وذكرها في القرآن قال استعملتني على المدائن مدائن كسرى فقالوا قد أخبرناك أنه لا يدري ما استعملته عليه فعزله. <span class="page-no" title="end of page 450 of vol. 43">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV44P400C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV44P400C">TDSHV44P400C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 44 pp. 400-401</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم إسماعيل بن أحمد أنا أبو علي محمد بن محمد بن المسلمة أنا علي بن أحمد بن عمر أنا محمد بن أحمد بن الحسن نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار أنا إسحاق بن بشير قال وقال إسحاق وحدثني الزهري قال حج عمر فلما رمى الجمرة أصابته حصاة فأدمته فقال رجل من لهب أشعروه لا يحج بعد العام أبدا فلما كان ليلة الحصبة اضطجع عمر بالأبطح ثم كوم كومة من بطحائها ثم استلقى عليها ومد يديه إلى السماء فقال اللهم كبرت سني وضعفت قوتي وانتشرت رعيتي فاقبضني إليك غير مفرط ولا مضيع فأقبل رجل إلى عمر منتقب فسلم عليه ثم قال <span class='poetry-line'><span class='hemistich1'>جزى الله خيرا من إمام وباركت</span> <span class='hemistich2'>يد الله في ذاك الأديم الممزق </span></span> <span class='poetry-line'><span class='hemistich1'>قضيت أمورا ثم غادرت بعدها</span> <span class='hemistich2'>بوائج في أكمامها لم تفتق </span></span> <span class='poetry-line'><span class='hemistich1'>وكنت تشوب الدين بالحلم والتقى</span> <span class='hemistich2'>وحكم صليب الرأي غير مروق </span></span> <span class='poetry-line'><span class='hemistich1'>فمن يسع أو يركب جناحي نعامة</span> <span class='hemistich2'>ليدرك ما قدمت بالأمس يسبق </span></span> <span class='poetry-line'><span class='hemistich1'>وزير النبي حياته ووليه</span> <span class='hemistich2'>كساه الإله جنة لم تخرق </span></span> <span class='poetry-line'><span class='hemistich1'>من الفضل والإسلام والدين والتقى</span> <span class='hemistich2'>فبابك عن كل الفواحش مغلق <span class="page-no" title="end of page 400 of vol. 44">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>أبعد قتيل بالمدينة أظلمت</span> <span class='hemistich2'>له الأرض واهتز العضاه بأسوق </span></span> <span class='poetry-line'><span class='hemistich1'>فما كنت أخشى أن تكون وفاته</span> <span class='hemistich2'>بكفي سبنتى أزرق العين مطرق </span></span> <span class='poetry-line'><span class='hemistich1'>تظل الحصان البكر تبدي عويلها</span> <span class='hemistich2'>تنادي فويق الأيطل المتأرق. </span></span> <span class="page-no" title="end of page 401 of vol. 44">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV70P144C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV70P144C">TDSHV70P144C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 70 pp. 144-145</div>
+  </header>
+  <div class="witness-text">
+    أنبأنا أبو بكر محمد بن عبد الباقي وجماعة عن أبي بكر أحمد بن علي بن ثابت أنا أبو الحسن محمد بن أحمد بن رزقويه أنا عثمان بن أحمد الدقاق وأحمد بن سندي بن الحسن الحداد قالا أنا الحسن بن علي العطار نا إسماعيل بن عيسى أنا إسحاق بن بشر عن محمد بن إسحاق قال سمعت من حدثني عن عروة بن الزبير أن آجر كانت جارية من جرهم فسبيت فوقعت عند فرعون بمصر فمن ثم قال أبو هريرة فتلك أمكم يا بني ماء السماء قال وكانت جارية شعراء كحلاء جعدة مفلجة الثنايا حسناء عربية اللسان والحسب فأعطاها ألف شاة ومائة بقرة برعاتها وأعطاها خمسين بعيرا وخمسين حمارا قال فجاءت سارة إلى إبراهيم فقالت أبشر فقد صنع لك فقال إبراهيم عليه السلام لم يزل بي حفيا قال فانطلق إبراهيم فنزل أرض فلسطين ونزل لوط سدوم ونزل هاران حران وإنما سميت حران لأن هاران نزلها وذلك قبل أن يبوئ الله لإبراهيم البيت وقبل <span class="page-no" title="end of page 144 of vol. 70">§</span> أن يولد له إسماعيل وإسحاق وقبل أن يبعث رسولا. <span class="page-no" title="end of page 145 of vol. 70">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV03P450A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV03P450A">TDSHV03P450A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 3 pp. 450-451</div>
+  </header>
+  <div class="witness-text">
+    وقد روي هذا الحديث أيضا عن الكلبي عن أبي صالح عن ابن عباس وهو في تاريخ اليمن من طريقه أخبرنا أبو الحسن علي بن المسلم بن محمد السلمي الفقيه الفرضي وأبو الفرج غيث بن علي بن عبد السلام الخطيب وأبو محمد عبد الكريم بن حمزة بن الخضر الوكيل قالوا أنبأنا أبو الحسن بن أبي الحديد أنبأنا جدي أبو بكر أنبأنا محمد بن جعفر بن سهل الخرائطي أنبأنا عبد الله بن محمد البلوي حدثنا عمارة بن زيد حدثنا إسحاق بن بشر وسلمة بن الفضل عن محمد بن إسحاق قال حدثني شيخ من الأنصار يقال له عبد الله بن محمود من آل محمد بن مسلمة قال بلغني أن رجالا من خثعم كانوا يقولون إن مما دعانا إلى الإسلام أنا كنا قوما نعبد الأوثان فبينا نحن ذات يوم عند وثن لنا إذ أقبل نفر يتقاضون إليه يرجون الفرج من عنده لشئ شجر بينهم إذ هتف بهم هاتف من الصنم فجعل يقول <span class='poetry-line'><span class='hemistich1'>يا أيها الناس ذوي الأجسام</span> <span class='hemistich2'>من بين أشياخ إلى غلام </span></span> <span class='poetry-line'><span class='hemistich1'>ما أنتم وطائش الأحكام</span> <span class='hemistich2'>ومسند الحكم إلى الأصنام <span class="page-no" title="end of page 450 of vol. 3">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>أكلكم في حيرة النيام</span> <span class='hemistich2'>أم لا ترون مامن رسول صادق الكلام </span></span> <span class='poetry-line'><span class='hemistich1'>أعدل ذي حكم من الأحكام</span> <span class='hemistich2'>يأمر بالصلاة والصيام </span></span> <span class='poetry-line'><span class='hemistich1'>والبر والصلاة للأرحام</span> <span class='hemistich2'>ويزجر الناس عن الآثام</span></span> <span class='poetry-line'><span class='hemistich1'>والرجس والأوثان والحرام</span> <span class='hemistich2'>من هاشم في ذروة السنام </span></span> <span class='poetry-line'><span class='hemistich1'>مستعلنا في البلد الحرام</span> <span class='hemistich2'>أزكى الصلاة عليه والسلام</span></span> قال فلما سمعنا ذلك تفرقنا عنه وأتينا النبي صلى الله عليه وسلم فأسلمنا. <span class="page-no" title="end of page 451 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KJHHV01P041A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KJHHV01P041A">KJHHV01P041A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KJHH" class="source-link"><span class='ref-author'>Muḥammad b. Jaʿfar al-Kharāʾiṭī</span>, <span class='ref-title'>Hawātif al-jinān</span></a>, vol. 1 pp. 41-42</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الله بن محمد البلوي بمصر قال ثنا عمارة بن زيد قال ثنا إسحاق بن بشر وسلمة بن الفضل عن محمد بن إسحاق قال حدثني شيخ من الأنصار يقال له عبد الله بن محمود من آل محمد بن مسلمة قال بلغني أن رجالا من خثعم كانوا يقولون إن مما دعانا من إلى الإسلام أنا كنا قوما نعبد الأوثان فبينا نحن ذات يوم عند وثن لنا إذ أقبل نفر يتقاضون إليه يرجون الفرج من عنده لشيء شجر بينهم إذا هتف بهم هاتف من الصنم فجعل يقول من الرجز <span class='poetry-line'><span class='hemistich1'>يا أيها الناس ذوو الأجسام</span> <span class='hemistich2'>من بين أشياخ إلى غلام</span></span> <span class='poetry-line'><span class='hemistich1'>ما أنتم وطائش الأحلام</span> <span class='hemistich2'>ومسند الحكم إلى الأصنام</span></span> <span class='poetry-line'><span class='hemistich1'>أكلكم في حيرة نيام</span> <span class='hemistich2'>أم لا ترون ما أرى أمامي</span></span> <span class='poetry-line'><span class='hemistich1'>من ساطع يجلو دجى الظلام</span> <span class='hemistich2'>قد لاح للناظر من تهام</span></span> <span class='poetry-line'><span class='hemistich1'>ذاك نبي سيد الأنام</span> <span class='hemistich2'>قد جاء بعد الكفر بالإسلام</span></span> <span class='poetry-line'><span class='hemistich1'>أكرمه الرحمن من إمام</span> <span class='hemistich2'>ومن رسول صادق الكلام</span></span> <span class='poetry-line'><span class='hemistich1'>أعدل ذي حكم من الحكام</span> <span class='hemistich2'>يأمر بالصلاة والصيام</span></span> <span class='poetry-line'><span class='hemistich1'>والبر والصلات للأرحام</span> <span class='hemistich2'>ويزجر الناس عن الآثام <span class="page-no" title="end of page 41 of vol. 1">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>والرجس والأوثان والحرام</span> <span class='hemistich2'>من هاشم في ذروة السنام </span></span> مستعلنا في البلد الحرام قال فلما سمعنا ذلك تفرقنا عنه وأتينا النبي صلى الله عليه وسلم فأسلمنا. <span class="page-no" title="end of page 42 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KTHSV01P361A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KTHSV01P361A">KTHSV01P361A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHS" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span></a>, vol. 1 pp. 361-362</div>
+  </header>
+  <div class="witness-text">
+    قال الخرائطي وحدثنا عبد الله بن محمد البلوي بمصر حدثنا عمارة بن زيد حدثنا إسحاق بن بشر وسلمة بن الفضل عن محمد بن إسحاق حدثني شيخ من الأنصار يقال له عبد الله بن محمود من آل محمد بن مسلمة قال بلغني أن رجالا من خثعم كانوا يقولون إن مما دعانا إلى الإسلام أنا كنا قوما نعبد الأوثان فبينا نحن ذات يوم عند وثن لنا إذ أقبل نفر يتقاضون إليه يرجون الفرج من عنده لشئ شجر بينهم إذ هتف بهم هاتف يقول <span class='poetry-line'><span class='hemistich1'>يا أيها الناس ذوو الأجسام</span> <span class='hemistich2'>من بين أشياخ إلى غلام </span></span> <span class='poetry-line'><span class='hemistich1'>ما أنتم وطائش الأحلام</span> <span class='hemistich2'>ومسند الحكم إلى الأصنام </span></span> <span class='poetry-line'><span class='hemistich1'>أكلكم في حيرة نيام</span> <span class='hemistich2'>أم لا ترون ما الذى أمامي </span></span> <span class='poetry-line'><span class='hemistich1'>من ساطع يجلو دجى الظلام</span> <span class='hemistich2'>قد لاح للناظر من تهام </span></span> <span class='poetry-line'><span class='hemistich1'>ذاك نبي سيد الأنام</span> <span class='hemistich2'>قد جاء بعد الكفر بالإسلام </span></span> <span class='poetry-line'><span class='hemistich1'>أكرمه الرحمن من إمام</span> <span class='hemistich2'>ومن رسول صادق الكلام </span></span> <span class='poetry-line'><span class='hemistich1'>أعدل ذي حكم من الأحكام</span> <span class='hemistich2'>يأمر بالصلاة والصيام </span></span> <span class='poetry-line'><span class='hemistich1'>والبر والصلات للأرحام</span> <span class='hemistich2'>ويزجر الناس عن الآثام <span class="page-no" title="end of page 361 of vol. 1">§</span> </span></span> <span class='poetry-line'><span class='hemistich1'>والرجس والأوثان والحرام</span> <span class='hemistich2'>من هاشم في ذروة السنام</span></span> مستعلنا في البلد الحرام قال فلما سمعنا ذلك تفرقنا عنه وأتينا النبي صلى الله عليه وسلم فأسلمنا. <span class="page-no" title="end of page 362 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+### <span lang="ar" dir="rtl">سنة ثلاث عشرة</span>
+
+
+
+#### <span lang="ar" dir="rtl">ذكر عين التمر</span>
+
+
+```{=html}
+<article class="sira-report" id="TDSHV02P087B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P087B">TDSHV02P087B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 pp. 87-89</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن المسلمة أنا أبو الحسن بن الحمامي أنا أبو علي بن الصواف أنا الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر قال قال ابن إسحاق إن عمرو بن العاص كتب إلى أبي بكر بعد قتل خالد بن سعيد بن العاص يستمده فكتب أبو بكر إلى خالد بن الوليد وهو بالحيرة يأمره أن يمد أهل الشام بمن معه من أهل القوة ويخرج فيهم ويستعمل على ضعفة أصحابه رجلا منهم فلما أتى خالد بن الوليد كتاب أبي بكر قال هذا عمل الأعيسر ابن عم سملة كره أن يكون فتح العراق على يدي فاستعمل على الضعفاء عمير بن سعد واستخلف على من أسلم من العراق المثنى بن حارثة الشيباني وعلى الحيرة والقرياب وخراجها ثم سار حتى نزل على عين التمر وأغار على أهلها ورابط حصونها وفيها مقاتلة كانت لكسرى وضعهم فيها حتى استنزلهم فضرب أعناقهم وسبى من عين التمر بشرا كثيرا فبعث بهم إلى أبي بكر وذلك أول سبي قدم المدينة من ذلك السبي أبو عمرة أبو عبد الله بن أبي عمرة وعبيد مولى المعلى وأبو عبيد الله مولى بني زهرة وخير مولى أبي داود ويسار مولى قيس بن مخرمة. <span class="page-no" title="end of page 87 of vol. 2">§</span> <span class="page-no" title="end of page 89 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-TDSHV02P087B-1]
+
+```{=html}
+<article class="sira-report" id="TDSHV02P087C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV02P087C">TDSHV02P087C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 2 pp. 87-88</div>
+  </header>
+  <div class="witness-text">
+    ونا أبو حذيفة نا محمد بن إسحاق قال وكان فيهم عمير بن زيتون الذي ببيت المقدس ويسار مولى أبي بن كعب وهو أبو الحسن بن أبي الحسن البصري وأفلح مولى أبي أيوب الأنصاري ووجدوا في كنيسة اليهود صبيانا يتعلمون الكتابة في قرية من قرى عين التمر يقال لها نقيرة وكان فيهم حمران بن أبان مولى عثمان وقتل هلال بن عطية بن بشر النمري وصلبه وسار ثم فوز من قراقر وهو ماء <span class="page-no" title="end of page 87 of vol. 2">§</span> لكلب إلى سوى وهو ماء لبهراء بينهما خمس ليال فلم يهتد إلى الطريق فطلب دليلا فدل على رافع بن عميرة الطائي فأتاه رافع فاستدل على الطريق فقال أنشدك الله في نفسك وجيشك فإنها مفازة خمس ليال ليس فيها ماء مع مضلتها وإن الراكب المنفرد يسلكها فيخاف على نفسه المهلكة وما يسلكها إلا مغرور وما علمت أحدا أخذ فيها بثقل فقال خالد إنه لا بد منه وقد كتب إلي الأمير بعزمه فأحضرنا رأيك ونصيحتك ومرنا بأمرك قال رافع فابغني من الإبل عشرين سمان عظام فأتي بهن وظمأهن حتى جهدن فأوردها الماء فشربن حتى تملأن ثم أمر بمشافرها فقطعن ثم كعمهن كيلا يجتررن ثم حل أذنابهن ثم قال لخالد تزود واحمل من أطاق أن يصر على أذن ناقته ماء فليفعل فإنها المهالك ففعل وساروا فسار معهم وسار خالد معه بالخيول والأثقال فكلما سار يوما وليلة اقتطع منهن أربعة فأطعم لحمانها وسقى ما في أكراشها الخيل وشرب الناس ما كانوا حملوا وبقي منزل واحد ونفدت الإبل وخشي خالد على أصحابه في آخر يوم فأرسل خالد إلى رافع أن الإبل قد نفدت فما ترى قال قد انتهيت إلى الري فلا بأس عليك اطلبوا شجرة مثل قعدة الرجل فعندها الماء ورافع يومئذ رمد فطلبوها فلم يصيبوها فرجعوا إلى رافع فقالوا لم نصبها فقال إنا لله وإنا إليه راجعون هلكتم وهلكت لا أبا لكم اطلبوها فطلبوها فأصابوها قد قطعت الشجرة وقد بقي منها بقية فكبر وكبر الناس فقال احتفروا فاحتفروا عينا عذبة مروية فترووا وسقوا وحملوا فقال رافع إن هذه المفازة ما سلكتها قط إلا مرة واحدة مع أبي وأنا غلام قال ابن إسحاق وبلغني أن خالدا لما نفذت الإبل خاف العطش قال لرافع بن عميرة وهو أرمد ويحك ما عندك قال أدركت الري إن شاء الله انظر هل ترى علمين كأنهما ندبان قال نعم فلما دنا من العلمين قال انظروا هل ترون شجرة من عوسج كقعدة الرجل قالوا لا والله قال إنا لله وإنا إليه راجعون على مثل حديث الأول فقال شاعر من المسلمين <span class='poetry-line'><span class='hemistich1'>لله عينا رافع أنى اهتدى</span> <span class='hemistich2'>فوز من قراقر إلى سوى <span class="page-no" title="end of page 88 of vol. 2">§</span></span></span> <span class='poetry-line'><span class='hemistich1'>خمسا إذا ما سارها الجبس بكى</span> <span class='hemistich2'>ما سارها من قبله أنس أرى </span></span> <span class='poetry-line'><span class='hemistich1'>ثم إن خالد بن الوليد أغار على أهل سوى وهو ماء بهراء قبل الصبح وهم يشربون شرابا لهم في جفنة قد اجتمعوا عليها ومغنيهم يقول ألا عللاني قبل جيش أبي بكر</span> <span class='hemistich2'>لعل منايانا قريب وما ندري </span></span> فزعموا أن ذلك الرجل المغني قتل تحت الغارة فسال دمه في الجفنة.
+  </div>
+</article>
+```
+
+[^comment-TDSHV02P087C-1]
+
+
+### <span lang="ar" dir="rtl">سنة الرابع والعشرين</span>
+
+
+
+#### <span lang="ar" dir="rtl">خبر في قتل الهرمزان</span>
+
+
+```{=html}
+<article class="sira-report" id="TDSHV38P065B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV38P065B">TDSHV38P065B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 38 pp. 65-67</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن السمرقندي أنا أبو علي محمد بن محمد بن أحمد بن السلمة أنا أبو الحسن علي بن أحمد بن عمر أنا أبو علي محمد بن أحمد بن الحسن نا الحسن بن علي القطان نا إسماعيل بن عيسى العطار نا إسحاق بن بشر عن ابن إسحاق حدثني سعد بن إبراهيم عن الزهري أن عثمان بن عفان لما استخلف فبويع خطب الناس ودعا المهاجرين والأنصار فقال أشيروا علي في أمر الهرمزان قالوا له إن الهرمزان لما أتى عمر فقال هذا الهرمزان عظيم الأهواز وقد نزل علي وأنا أريد أن أقتله فأشيروا علي فلم يتكلم منهم أحد فأعاد ثلاث مرات فقال رجل من القوم قد رأيته يصلي قال إذا لا أقتله وقال إبراهيم عن عبد الرحمن بن عوف لقد رأيت الهرمزان على الروحاء يصلي مع عمر بن الخطاب يهل بالحج عليه حبرة قال عثمان أشيروا علي في هذا الذي فتق في الدين وقتله وقتل معه من قتل يعني عبيد الله فاجتمع عامة المهاجرين على كلمة واحدة يشجعون عثمان على قتل عبيد الله بن عمر وجل الناس الأعظم يقولون أبعده الله أتريدون أن تلحقوا عمر ابنه وكثر في ذلك اللغط والإختلاف فقال عمرو بن العاص إن هذا الأمر قد كان قبل أن يكون لك على الناس سلطان فأعرض عنه فتركه عثمان فلم يهج عبيد الله وودى عثمان الهرمزان وجفينة من بيت المال وكانت بيعة عثمان في ليلة بقيت من ذي الحجة سنة ثلاث وعشرين فلما بويع أتاه الناس فبايعوه ودعوا له بالبركة فقام عثمان فخطب الناس فحمد الله وأثنى عليه وصلى <span class="page-no" title="end of page 65 of vol. 38">§</span> على النبي صلى الله عليه وسلم ثم قال أيها الناس اتقوا الله واعلموا أن الدنيا كما نعت الله في كتابه لعب ولهو وزينة وتفاخر بينكم وتكاثر في الأموال والأولاد وإنها خضرة حلوة غرارة لأهلها مرارة خداعة مخادعة لا يدوم نعيمها ولا يؤمن فجائعها خير العباد فيها من اعتصم بكتاب الله ثم قال إني قد وليت من أمركم وقلدت منه جسيما لا أرجو العون إلا من عند الله الذي ابتلاني به وإن توفيقي في ذلك إلا بالله ثم قال صلوا على نبيكم صلى الله عليه وسلم أيها الناس إن عبيد الله بن عمر كان أصاب الهرمزان بظنة أبيه وكان الهرمزان مولى الإسلام ومولى أبيه الخليفة وأنا ولي دمه وإني رأيت أن أهب ذلك الدم لله ولعمر فقال المقداد بن الأسود وكان ملكا من ملوك كندة أصاب في قومه دما فأتى البيت فعاذ به وحالف حمزة بن عبد المطلب وقد كان تزوج بعض عمات النبي صلى الله عليه وسلم وكان يسمى فارس رسول الله صلى الله عليه وسلم فقال يا أمير المؤمنين لا يكون أول حكمك فينا حكم الطاغوت إنه من يكن الله مولاه فالله طالب دمه وليس لك أن تهب ما الله أولى به منك فقال عثمان انظروا وينظرون فضاقت الأرض على عبيد الله برحبها فخرجت ذات ليلة فإذا ابن النصر بن الحارث السهمي يتغنى في سواد الليل <span class='poetry-line'><span class='hemistich1'>ألا يا عبيد الله ما لك ملجأ </span> <span class='hemistich2'> ولا مهرب دون ابن أروى ولا خفر أصبت </span></span> <span class='poetry-line'><span class='hemistich1'>دما والله في غير كنهه</span> <span class='hemistich2'>حراما وقتل الهرمزان له خطر غدوت </span></span> <span class='poetry-line'><span class='hemistich1'>عليه ظالما فضربته</span> <span class='hemistich2'>بأبيض مصقول شفاشفه</span></span> ذكر على غير شئ غير أن قال قائل أتتهمون الهرمزان على عمر وذلك أن عمر لما قتل قال قائل قد رأيت هذا الخنجر مع الهرمزان وأبو لؤلؤة يكلمه فقال عبيد الله هذا رأي الهرمزان فضربه بالسيف حتى قتله فعاقد علي بن أبي طالب لئن ملك يوما ليقتلن عبيد الله به ثم إن عثمان دعا عبيد الله فقال قد وهبت لك أمر الهرمزان لأني أمير المؤمنين وأنا ولي دمه فطعن عليه المسلمون في ذلك فكان أول إحداثه فقال زياد بن لبيد بن بياضة الأنصاري <span class="page-no" title="end of page 66 of vol. 38">§</span> <span class='poetry-line'><span class='hemistich1'>أبا عمرو عبيد الله رهن</span> <span class='hemistich2'>فلا تشكك بقتل الهرمزان </span></span> <span class='poetry-line'><span class='hemistich1'>أبا عمرو حكمت بغير حق</span> <span class='hemistich2'>فما لك بالذي حدثت يدان. </span></span> <span class="page-no" title="end of page 67 of vol. 38">§</span>
+  </div>
+</article>
+```
+
+[^comment-TDSHV38P065B-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-TDSHV02P087B-1]: This passage and the one below recount the capture of ʿAyn al-Tamr, where Ibn Isḥāq’s grandfather was taken as a slave when he was a child. It is also found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) (<a href="../references.html#ref-TBRB" class="source-ref">TBRBV03P415A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span>, vol. 3 p. 415)).
+[^comment-TDSHV02P087C-1]: This poem is also recounted in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) in <a href="../references.html#ref-TBRB" class="source-ref">TBRBV03P416A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span>, vol. 3 p. 416). While is mentioned in many texts, these seem to be the only instances in the Ibn Isḥāq corpus.
+[^comment-TDSHV38P065B-1]: This appears to be the only quotation of these poems in the pre-modern corpus. The passage refers to the events of 24/656 just after ʿUthmān became caliph.

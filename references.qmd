@@ -1,0 +1,9 @@
+---
+title: "Bibliography"
+lang: "en"
+---
+
+# Bibliography {.unnumbered}
+
+::: {#refs}
+:::

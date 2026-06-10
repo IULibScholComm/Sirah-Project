@@ -1,0 +1,170 @@
+---
+title: "Mughīrah b. Siqlāb"
+lang: "en"
+witness-code: "WMGHS"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية مغيرة بن سقلاب</span>
+
+**Witness code:** `WMGHS`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMGHS">
+```
+
+
+## <span lang="ar" dir="rtl">كتاب المغازي</span>
+
+
+
+### <span lang="ar" dir="rtl">غزوة بدر</span>
+
+
+```{=html}
+<article class="sira-report" id="DRQLV04P260A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DRQLV04P260A">DRQLV04P260A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQL" class="source-link"><span class='ref-author'>al-Dāraqutnī</span>, <span class='ref-title'>al-ʿIlal al-wārdah fī al-aḥādīth al-nabuwīyah</span></a>, vol. 4 p. 260</div>
+  </header>
+  <div class="witness-text">
+    وسئل عن حديث ابن عباس عن عبد الرحمن بن عوف عبانا رسول الله صلى الله عليه وسلم لبدر ليلا فقال يرويه محمد بن إسحاق واختلف عنه فرواه مغيرة بن سقلاب عن ابن إسحاق عن ثور بن زيد عن عكرمة عن ابن عباس عن عبد الرحمن بن عوف وغيره يرويه عن ابن إسحاق عن عكرمة لا يذكر بينهما ثور بن زيد. <span class="page-no" title="end of page 260 of vol. 4">§</span>
+  </div>
+</article>
+```
+
+### <span lang="ar" dir="rtl">سنة الرسول الله</span>
+
+
+
+#### <span lang="ar" dir="rtl">التهارة</span>
+
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `JJKXV08P081F`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="JJKXV08P081F" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#JJKXV08P081F">JJKXV08P081F</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JJKX" class="source-link"><span class='ref-author'>al-Jurjānī</span>, <span class='ref-title'>al-Kāmil fī ḍuʿafāʾ al-rijāl</span></a>, vol. 8 pp. 81-372</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_IHMSV01P077B</span> <span class="variant-id">VAR_HJRLV06P078B</span> قال الشيخ والمغيرة ترك طريق هذا الحديث وقال عن ابن إسحاق عن نافع عن ابن عمر وكان هذا أسهل عليه ومحمد بن إسحاق يرويه عن عبيد الله بن عبد الله بن عمر <span class="page-no" title="end of page 81 of vol. 8">§</span> حدثنا أحمد بن خالد بن عبد الملك حدثنا عمي حدثنا مغيرة بن سقلاب عن محمد بن إسحاق عن نافع عن ابن عمر قال قال رسول الله صلى الله عليه وسلم إذا كان الماء قلتين من قلال هجر لم ينجسه شيء. <span class="page-no" title="end of page 82 of vol. 8">§</span> <span class="page-no" title="end of page 372 of vol. 12">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DRQLV12P372B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DRQLV12P372B">DRQLV12P372B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DRQL" class="source-link"><span class='ref-author'>al-Dāraqutnī</span>, <span class='ref-title'>al-ʿIlal al-wārdah fī al-aḥādīth al-nabuwīyah</span></a>, vol. 12 p. 372</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_IHMSV01P077B</span> <span class="variant-id">VAR_HJRLV06P078B</span> وسئل عن حديث روي عن مجاهد عن ابن عمر عن النبي صلى الله عليه وسلم إذا كان الماء قلتين فلا ينجسه شيء فقال يرويه زائدة واختلف عنه فرواه معاوية بن عمرو عن زائدة عن ليث عن مجاهد عن ابن عمر موقوفا وروي عن محمد بن كثير المصيصي عن زائدة بهذا الإسناد مرفوعا والموقوف أصح وروي عن مغيرة بن سقلاب عن ابن إسحاق عن نافع عن ابن عمر وهو وهم.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DHTIV14P400I" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DHTIV14P400I">DHTIV14P400I</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHTI" class="source-link"><span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Taʾrīkh al-Islām</span></a>, vol. 14 pp. 400-401</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_IHMSV01P077B</span> <span class="variant-id">VAR_HJRLV06P078B</span> وقال الوليد بن عبد الملك بن مسرح ثنا المغيرة بن سقلاب عن <span class="page-no" title="end of page 400 of vol. 14">§</span> ابن إسحاق عن نافع عن ابن عمر قال رسول الله صلى الله عليه وسلم إذا كان الماء قلتين لم ينجسه شيء. <span class="page-no" title="end of page 401 of vol. 14">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="DHMTV04P163C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DHMTV04P163C">DHMTV04P163C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DHMT" class="source-link"><span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Mīzān al-iʿtidāl fī naqd al-rijāl</span></a>, vol. 4 p. 163</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_IHMSV01P077B</span> <span class="variant-id">VAR_HJRLV06P078B</span> الوليد بن عبد الملك الحراني حدثنا المغيرة بن سقلاب عن محمد بن إسحاق عن نافع عن ابن عمر مرفوعاً إذا كان الماء قلتين لم ينجسه شئ والقلة أربعة آصع. <span class="page-no" title="end of page 163 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="IHMSV01P076D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IHMSV01P076D">IHMSV01P076D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMS" class="source-link"><span class='ref-author'>Ibn Humām Muḥammad b. ʿAbd al-Wāḥid al-Sīwāsī</span>, <span class='ref-title'>Faḥt al-qadīr</span></a>, vol. 1 p. 76</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P077B</span> <span class="variant-id">VAR_HJRLV06P078B</span> ذكره ابن عدي من حديث مغيرة بن سقلاب عن محمد بن إسحاق عن نافع عن ابن عمر عنه صلى الله عليه وسلم إذا كان الماء قلتين من قلال هجر لم ينجسه شيء. <span class="page-no" title="end of page 76 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="IHMSV01P077B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IHMSV01P077B">IHMSV01P077B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMS" class="source-link"><span class='ref-author'>Ibn Humām Muḥammad b. ʿAbd al-Wāḥid al-Sīwāsī</span>, <span class='ref-title'>Faḥt al-qadīr</span></a>, vol. 1 p. 77</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_HJRLV06P078B</span> وروى ابن عدي من حديث المغيرة بن سقلاب عن محمد بن إسحاق عن نافع عن ابن عمر عنه صلى الله عليه وسلم إذا كان الماء قلتين لم ينجسه شيء. <span class="page-no" title="end of page 77 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJRLV06P078B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJRLV06P078B">HJRLV06P078B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRL" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Kitāb lisān al-mīzān</span></a>, vol. 6 p. 78</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_JJKXV08P081F</span> <span class="variant-id">VAR_DRQLV12P372B</span> <span class="variant-id">VAR_DHTIV14P400I</span> <span class="variant-id">VAR_DHMTV04P163C</span> <span class="variant-id">VAR_IHMSV01P076D</span> <span class="variant-id">VAR_IHMSV01P077B</span> الحديث الوليد بن عبد الملك الحراني حدثنا المغيرة بن سقلاب عن محمد بن إسحاق عن نافع عن ابن عمر رضى الله عنهما مرفوعا إذا كان الماء قلتين لم ينجسه شيء والقلة أربعة أصع. <span class="page-no" title="end of page 78 of vol. 6">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `JJKXV08P081F`:** [^comment-JJKXV08P081F-1]
+
+
+#### <span lang="ar" dir="rtl">طبيعة العلم</span>
+
+
+```{=html}
+<article class="sira-report" id="NYHXV03P364C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYHXV03P364C">NYHXV03P364C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYHX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Ḥilyat al-awlīyāʾ wa-ṭabaqāt al-aṣfīyāʾ</span></a>, vol. 3 p. 364</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو أحمد محمد بن أحمد الغطريفي ثنا عمرو بن أيوب ثنا أبو سعيد الأشج ثنا يونس بن بكير عن محمد بن إسحاق عن الزهري قال إن للعلم غوائل فمن غوائله أن يترك العالم حتى يذهب بعلمه ومن غوائله النسيان ومن غوائله الكذب فيه وهو أشد غوائله حدثنا إبراهيم بن محمد المقرئ ثنا عمرو بن سنان ثنا أحمد بن عطاء ثنا مغيرة بن سقلاب حدثني محمد بن إسحاق عن الزهري مثله. <span class="page-no" title="end of page 364 of vol. 3">§</span>
+  </div>
+</article>
+```
+
+[^comment-NYHXV03P364C-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-JJKXV08P081F-1]: al-Jurjānī adds, &quot;وذكر أنهما من قلال هجر وقال الشيخ وقوله في متن هذا من قلال هجر غير محفوظ ولم يذكر إلا في هذا الحديث من رواية مغيرة هذا عن محمد بن إسحاق.&quot; Passage not found in HSNX. Following the model of other early texts, this most likely fell into the category of practices following the death of the Prophet.
+[^comment-NYHXV03P364C-1]: This passage is not found in HSNX. It contains a statement on the nature of knowledge. Most like to be found in a section dealing with the statements of the Prophet normally found after his death.

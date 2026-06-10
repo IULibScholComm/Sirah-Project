@@ -6,10 +6,93 @@ book:
   title: "The Sira Project"
   chapters:
     - index.qmd
-    - editorial-method.qmd
+    - maps.qmd
+    - witnesses/index.qmd
+    - witnesses/WAAAY.qmd
+    - witnesses/WAANH.qmd
+    - witnesses/WAAWH.qmd
+    - witnesses/WABAB.qmd
+    - witnesses/WABAI.qmd
+    - witnesses/WABAM.qmd
     - witnesses/WABAW.qmd
+    - witnesses/WABBS.qmd
+    - witnesses/WABRM.qmd
+    - witnesses/WAFMA.qmd
+    - witnesses/WAHJK.qmd
+    - witnesses/WAHWA.qmd
+    - witnesses/WAIYA.qmd
+    - witnesses/WAKMW.qmd
+    - witnesses/WALMU.qmd
+    - witnesses/WALTH.qmd
+    - witnesses/WAMAQ.qmd
+    - witnesses/WAMRR.qmd
+    - witnesses/WARBN.qmd
+    - witnesses/WARMZ.qmd
+    - witnesses/WASKA.qmd
+    - witnesses/WASMR.qmd
+    - witnesses/WAUAA.qmd
+    - witnesses/WAWAA.qmd
+    - witnesses/WAWSD.qmd
+    - witnesses/WAYSS.qmd
+    - witnesses/WAZID.qmd
+    - witnesses/WBRKA.qmd
+    - witnesses/WBSAB.qmd
+    - witnesses/WFGHK.qmd
+    - witnesses/WGHID.qmd
+    - witnesses/WHACI.qmd
+    - witnesses/WHARA.qmd
+    - witnesses/WHASH.qmd
+    - witnesses/WHAYA.qmd
+    - witnesses/WHBQD.qmd
+    - witnesses/WHGTM.qmd
+    - witnesses/WHSDB.qmd
+    - witnesses/WHSSH.qmd
+    - witnesses/WHZSQ.qmd
+    - witnesses/WIASA.qmd
+    - witnesses/WIBMA.qmd
+    - witnesses/WIBMK.qmd
+    - witnesses/WIJAK.qmd
+    - witnesses/WIMRZ.qmd
+    - witnesses/WIMTR.qmd
+    - witnesses/WISAU.qmd
+    - witnesses/WISIB.qmd
+    - witnesses/WISUL.qmd
+    - witnesses/WITSK.qmd
+    - witnesses/WIYAS.qmd
+    - witnesses/WJAHD.qmd
+    - witnesses/WJHUN.qmd
+    - witnesses/WJHZA.qmd
+    - witnesses/WKMIY.qmd
+    - witnesses/WLYSN.qmd
+    - witnesses/WMAAI.qmd
+    - witnesses/WMAAJ.qmd
+    - witnesses/WMAAK.qmd
+    - witnesses/WMAAW.qmd
+    - witnesses/WMFGH.qmd
+    - witnesses/WMGHS.qmd
+    - witnesses/WMHAL.qmd
+    - witnesses/WMHHA.qmd
+    - witnesses/WMSAH.qmd
+    - witnesses/WMSJK.qmd
+    - witnesses/WMUTK.qmd
+    - witnesses/WSABZ.qmd
+    - witnesses/WSACD.qmd
+    - witnesses/WSASN.qmd
+    - witnesses/WSFAB.qmd
+    - witnesses/WUISL.qmd
+    - witnesses/WUMHA.qmd
+    - witnesses/WUMNJ.qmd
+    - witnesses/WYAHA.qmd
+    - witnesses/WYIAY.qmd
+    - witnesses/WYUAU.qmd
+    - witnesses/WZATB.qmd
+    - references.qmd
 
 lang: en
+
+bibliography: references.bib
+nocite: |
+  @*
 
 format:
   html:

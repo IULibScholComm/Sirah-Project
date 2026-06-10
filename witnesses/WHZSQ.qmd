@@ -1,0 +1,32 @@
+---
+title: "al-Ḥajjāj b. Zayd al-Sāmī al-Qurashī al-Baṣrī"
+lang: "en"
+witness-code: "WHZSQ"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية الحجاج بن زيد السامي القرشي البصري</span>
+
+**Witness code:** `WHZSQ`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHZSQ">
+```
+
+```{=html}
+<article class="sira-report" id="AAIBV01P153A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#AAIBV01P153A">AAIBV01P153A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAIB" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Itḥāf al-khiyrah al-maharah bi-Zawāʾid al-masānid al-ʿashrah</span></a>, vol. 1 p. 153</div>
+  </header>
+  <div class="witness-text">
+    وقال أبو يعلى الموصلي ثنا إبراهيم بن الحجاج ثنا حجاج عن محمد بن إسحاق عن أبي أمامة بن سهل بن حنيف عن عبد الله بن كعب الباهلي أن رسول الله صلى الله عليه وسلم قال ألا تسمعون ألا تسمعون إن البذاذة من الإيمان والبذاذة من هيئة الدنية. <span class="page-no" title="end of page 153 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

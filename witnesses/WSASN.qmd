@@ -1,0 +1,194 @@
+---
+title: "Sharīk b. ʿAbd Allāh al-Najaʿī"
+lang: "en"
+witness-code: "WSASN"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية شريك بن عبد الله النجعي</span>
+
+**Witness code:** `WSASN`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WSASN">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `NSKXV05P143B`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="NSKXV05P143B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NSKXV05P143B">NSKXV05P143B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSKX" class="source-link"><span class='ref-author'>al-Nasāʾī</span>, <span class='ref-title'>al-Sunan al-kubrā</span></a>, vol. 5 pp. 143-370</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IHMAV12P370B</span> أخبرنا عبيد الله بن سعد بن إبراهيم بن سعد قال حدثنا عمي قال حدثنا شريك عن محمد بن إسحاق عن محمد بن المنكدر عن جابر بن عبد الله عن نبي الله صلى الله عليه وسلم قال إذا شرب الرجل فاجلدوه فإن عاد فاجلدوه فإن عاد الرابعة فاقتلوه فأتي رسول الله صلى الله عليه وسلم برجل منا فلم يقتله <span class="page-no" title="end of page 143 of vol. 5">§</span> <span class="page-no" title="end of page 370 of vol. 12">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="IHMAV12P370B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IHMAV12P370B">IHMAV12P370B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IHMA" class="source-link"><span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span></a>, vol. 12 p. 370</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_NSKXV05P143B</span> نا عبد الله بن ربيع نا محمد بن معاوية نا أحمد بن شعيب أنا عبيد الله بن سعد بن إبراهيم بن سعد نا عمي هو يعقوب بن سعد نا شريك عن محمد بن إسحاق عن محمد بن المنكدر عن جابر بن عبد الله عن النبي صلى الله عليه وآله وسلم قال إذا شرب الرجل فاجلدوه فإن عاد فاجلدوه فإن عاد فاجلدوه فإن عاد الرابعة فاقتلوه فأتي رسول الله صلى الله عليه وآله وسلم برجل منا فلم يقتله.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `NSKXV05P143B`:** [^comment-NSKXV05P143B-1]
+
+
+**Comment on passage `IHMAV12P370B`:** [^comment-IHMAV12P370B-1]
+
+
+#### <span lang="ar" dir="rtl">ذكر الخبر عن اليوم والشهر اللذين توفي فيهما رسول الله ص</span>
+
+
+```{=html}
+<article class="sira-report" id="TBRBV03P217E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV03P217E">TBRBV03P217E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 3 p. 217</div>
+  </header>
+  <div class="witness-text">
+    حدثني أحمد بن عثمان بن حكيم قال حدثنا عبد الرحمن بن شريك قال حدثني أبي عن ابن إسحاق عن عبد الله بن أبي بكر بن محمد ابن عمرو بن حزم عن أبيه قال توفي رسول الله ص في شهر ربيع الأول في اثنتي عشرة ليلة مضت من شهر ربيع الأول يوم الاثنين ودفن ليلة الأربعاء. <span class="page-no" title="end of page 217 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TBRBV03P217F" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV03P217F">TBRBV03P217F</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 3 pp. 217-381</div>
+  </header>
+  <div class="witness-text">
+    حدثني أحمد بن عثمان قال حدثنا عبد الرحمن قال حدثنا أبي قال حدثنا محمد بن إسحاق عن عبد الله بن أبي بكر أنه دخل عليه فقال لامرأته فاطمة حدثي محمدا ما سمعت من عمرة بنت عبد الرحمن فقالت سمعت عمرة تقول سمعت عائشة تقول دفن نبى الله ص ليلة الأربعاء وما علمنا به حتى سمعنا صوت المساحى. <span class="page-no" title="end of page 217 of vol. 3">§</span> <span class="page-no" title="end of page 381 of vol. 4">§</span>
+  </div>
+</article>
+```
+
+[^comment-TBRBV03P217F-1]
+
+
+#### <span lang="ar" dir="rtl">ثم دخلت سنة خمسة وثلاثين ذكر الخبر عن قتل عثمان رضى الله عنه</span>
+
+
+```{=html}
+<article class="sira-report" id="TBRBV04P381B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV04P381B">TBRBV04P381B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 4 p. 381</div>
+  </header>
+  <div class="witness-text">
+    حدثني أحمد بن عثمان بن حكيم قال حدثنا عبد الرحمن بن شريك قال حدثني أبي عن محمد بن إسحاق عن يعقوب بن عتبة بن الأخنس عن ابن الحارث بن أبي بكر عن أبيه أبي بكر بن الحارث بن هشام قال كأني أنظر إلى عبد الرحمن بن عديس البلوي وهو مسند ظهره الى مسجد نبى الله ص وعثمان بن عفان رضي الله عنه محصور فخرج مروان بن الحكم فقال من يبارز فقال عبد الرحمن بن عديس لفلان ابن عروة قم إلى هذا الرجل فقام إليه غلام شاب طوال فأخذ رفرف الدرع فغرزه في منطقته فاعور له عن ساقه فأهوى له مروان وضربه ابن عروة على عنقه فكأني أنظر إليه حين استدار وقام إليه عبيد بن رفاعة الزرقي ليدفف عليه قال فوثبت عليه فاطمة ابنه أوس جده ابراهيم ابن عدي قال وكانت أرضعت مروان وأرضعت له فقالت إن كنت إنما تريد قتل الرجل فقد قتل وإن كنت تريد أن تلعب بلحمه فهذا قبيح قال فكف عنه فما زالوا يشكرونها لها فاستعملوا ابنها إبراهيم بعد وقال ابن إسحاق قال عبد الرحمن بن عديس البلوي حين سار إلى المدينة من مصر <span class='poetry-line'><span class='hemistich1'>أقبلن من بلبيس والصعيد</span> <span class='hemistich2'>مستحقبات حلق الحديد</span></span> <span class='poetry-line'><span class='hemistich1'>يطلبن حق الله في سعيد</span> <span class='hemistich2'>حتى رجعن بالذي نريد. </span></span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV21P178A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV21P178A">THRXV21P178A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 21 p. 178</div>
+  </header>
+  <div class="witness-text">
+    م زاهر بن طاهر أنا أبو بكرالبيهقي أنا أبو نصر بن قتادة أنا أبو الحسن بن إسماعيل السراج نا عبد الله بن غنام بن حفص بن عتاب نا علي بن حكيم الأودي أنا شريك عن محمد بن إسحاق عن سعيد بن عبد الرحمن بن حسان قال رأى ابن عمر علي أوضاح (1) فضة فقال إنك قد بلغت أو كبرت. <span class="page-no" title="end of page 178 of vol. 21">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTKXV02P917A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTKXV02P917A">ZTKXV02P917A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 2 p. 917</div>
+  </header>
+  <div class="witness-text">
+    حدثنا ابن الأصبهاني قال أنا شريك عن محمد بن إسحاق عن عمر بن علي بن حسين عن علي بن حسين قال قال لي مروان بن الحكم ما كان في القوم أحد أدفع عن صاحبنا يعني عثمان بن عفان من صاحبكم يعني علي بن أبي طالب قلت فما بالكم تسبوه على المنابر قال لا يستقيم الأمر إلا بذاك. <span class="page-no" title="end of page 917 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TMMXV01P124A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TMMXV01P124A">TMMXV01P124A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TMMX" class="source-link"><span class='ref-author'>Muḥammad b. Aḥmad al-Tamīmī al-Maghribī al-Ifrīrī</span>, <span class='ref-title'>al-Miḥan</span></a>, vol. 1 p. 124</div>
+  </header>
+  <div class="witness-text">
+    وحدثني يحيى بن محمد بن يحيى بن سلام عن أبيه عن جده عن شريك عن محمد ابن إسحاق قال مر علي يوم البصرة على الجرحى وهم يئنون فقال اللهم اغفر لهم فقال رجل من أصحاب علي لعمار بن ياسر اسمع ما يقول قال اسكت لا يزيدك وحدثني يحيى عن أبيه عن جده عن شريك عن أبي العنبس عن أبي البختري قال سئل علي عن أصحاب البصرة أمشركون هم قال من الشرك فروا قيل منافقون هم قال المنافقون لا يذكرون الله إلا قليلا قيل فما هم قال إخواننا بغوا فنحن نقاتلهم على بغيهم <span class="page-no" title="end of page 124 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV12P430B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV12P430B">TDSHV12P430B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 12 pp. 430-124</div>
+  </header>
+  <div class="witness-text">
+    اخبرنا أبو القاسم بن السمرقندي أنا أبو عاصم بن الحسن أنا أبو عمر بن مهدي أنا أبو العباس احمد بن حمد بن عبدة نا أحمد بن يحيى الصوفي نا عبد الرحمن بن شريك نا أبي نا محمد بن إسحاق حدثني يحيى بن عباد بن الزبير عن أبيه عن صفية بنت عبد المطلب أنها قالت كنا مع حسان بن ثابت في حصن فارع والنبي صلى الله عليه وسلم بالخندق فإذا يهودي يطوف بالحصن فخفنا أن يدل على عورتنا فقلت لحسان لو نزلت إلى هذا اليهودي فإني أخاف أن يدل على عورتنا فقال يا بنت عبد المطلب لقد علمت ما أنا بصاحب هذا قالت فتحزمت ثم نزلت فأخذت عمودا فقتلته ثم قالت لحسان اخرج فاسلبه قال لا حاجة لي في سلبه <span class="page-no" title="end of page 430 of vol. 12">§</span> <span class="page-no" title="end of page 124 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-TDSHV12P430B-1]
+
+
+### <span lang="ar" dir="rtl">ثم دخلت سنة ستة وثلاثين</span>
+
+
+
+#### <span lang="ar" dir="rtl">يوم الجمل</span>
+
+
+
+##### <span lang="ar" dir="rtl">قتل يوم الخمل من النلس</span>
+
+
+```{=html}
+<article class="sira-report" id="TMMXV01P122B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TMMXV01P122B">TMMXV01P122B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TMMX" class="source-link"><span class='ref-author'>Muḥammad b. Aḥmad al-Tamīmī al-Maghribī al-Ifrīrī</span>, <span class='ref-title'>al-Miḥan</span></a>, vol. 1 p. 122</div>
+  </header>
+  <div class="witness-text">
+    وحدثني يحيى بن محمد بن يحيى بن سلام عن أبيه عن جده عن شريك عن محمد ابن إسحاق قال مر علي يوم البصرة على الجرحى وهم يئنون فقال اللهم اغفر لهم فقال رجل من أصحاب علي لعمار بن ياسر اسمع ما يقول قال اسكت لا يزيدك.
+  </div>
+</article>
+```
+
+[^comment-TMMXV01P122B-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-NSKXV05P143B-1]: <a href="../references.html#ref-HHMX" class="source-ref">HHMXV07P379A</a> (<span class='ref-author'>ʿAbd al-Razzāq b. Hammām al-Ḥumayrī</span>, <span class='ref-title'>al-Muṣannaf</span>, vol. 7 p. 379) places this in the context of Ibn al-Nuʿmān and <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) quotes a portion of the passage in the biography of al-Nuʿmān b. ʿAmr (although he appears to suggest that Ibn Isḥāq names him as al-Nuʿaymān). <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) states that Nuʿaymān b. ʿAmr was the younger brother of Nuʿmān b. ʿAmr. Ibn al-Nuʿaymān or al-Nuʿaymān is not mentioned in the redaction of Ibn Hishām. He is sometimes identified as al-Nuʿaymān b. ʿAmr b. Rifāʿah b. al-Ḥārith. According to <a href="../references.html#ref-JWZX" class="source-ref">JWZXV05P277A</a> (<span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>al-Muntaẓam fī Tārīkh al-mulūk waʾl-umam</span>, vol. 5 p. 277), al-Nuʿaymān participated in Badr, and all of the famous battles in which Muḥammad fought. He was known to have repeatedly been punished for drinking nabīdh. <a href="../references.html#ref-BKHB" class="source-ref">BKHBV06P431A</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span>, vol. 6 p. 431) and <a href="../references.html#ref-TBRC" class="source-ref">TBRCV11P554A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk</span>, vol. 11 p. 554) mention the account of ʿUqbah b. al-Ḥārith where he describes being ordered by Muḥammad to beat Ibn Nuʿaymān or al-Nuʿaymān with shoes and palm branches for drinking. <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) states he died in during the caliphate of Muʿawīyah but <a href="../references.html#ref-KTHB" class="source-ref">KTHBV08P070A</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 8 p. 70) places his death in the year 54. <a href="../references.html#ref-HJRS" class="source-ref">HJRSV06P353A</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span>, vol. 6 p. 353) states that Ibn Isḥāq identifies him as al-Nuʿmān b. ʿAmr and not as al-Nuʿaymān, this follows the comment of Ibn Hishām in vol. 1, 703A. A person identified as al-Nuʿmān b. ʿAmr is mention twice in the redaction of Ibn Hishām: on vol. 1, 552A he is identified as a Jew who was one of two Rabbis who questioned Muḥammad and then rejected him. On vol. 1, 703A he is identified as al-Nuʿmān b. ʿAmr b. Rifāʿah b. Sawād, a member of the Sawād b. Mālik b. Ghamm clan, among the Anṣ ār, who participated at Badr. Ibn Hishām, in his commentary, states his name was Nuʿaymān. It is not clear if Ibn Isḥāq understood al-Nuʿmān b. ʿAmr to be the individual who is commonly referred to as being punished for drinking. For passages within the Ibn Isḥāq tradition that identify Nuʿaymān or al-Nuʿaymān with the subject of the person punished for drinking, see via <a href="WSASN.html" class="witness-link">WSASN</a> (Sharīk b. ʿAbd Allāh b. Abī Sharīk al-Najaʿī al-Kūfī): <a href="../references.html#ref-NSKX" class="source-ref">NSKXV05P143B</a> (<span class='ref-author'>al-Nasāʾī</span>, <span class='ref-title'>al-Sunan al-kubrā</span>, vol. 5 p. 143) and <a href="../references.html#ref-IHMA" class="source-ref">IHMAV12P370B</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 12 p. 370); via the witness of <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (but not found in the redaction of Ibn Hishām) <a href="../references.html#ref-NSSX" class="source-ref">NSSXV04P415A</a> (<span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span>, vol. 4 p. 415),<a href="../references.html#ref-IHMA" class="source-ref">IHMAV12P370C</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 12 p. 370), <a href="../references.html#ref-BQRX" class="source-ref">BQRXV03P340B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Sunan al-ṣaghīr</span>, vol. 3 p. 340), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV08P545B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 8 p. 545), and <a href="../references.html#ref-BQMX" class="source-ref">BQMXV13P039A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Maʿrifat al-sunan waʾl-āthār</span>, vol. 13 p. 39); via the witness of <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī), <a href="../references.html#ref-IBAB" class="source-ref">IBABV01P081B</a> (<span class='ref-author'>Ibn Bishrān</span>, <span class='ref-title'>Amālī Ibn Bishrān</span>, vol. 1 p. 81), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV08P545A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 8 p. 545), and <a href="../references.html#ref-KHTS" class="source-ref">KHTSV04P307A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>al-Ismāʾ al-mubhamah fī al-anbāʾ al-muḥkamah</span>, vol. 4 p. 307); via <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV32P210A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 32 p. 210); and via <a href="WHSSH.html" class="witness-link">WHSSH</a> (WHSSH): <a href="../references.html#ref-KHTS" class="source-ref">KHTSV04P307B</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>al-Ismāʾ al-mubhamah fī al-anbāʾ al-muḥkamah</span>, vol. 4 p. 307) and <a href="../references.html#ref-YNBH" class="source-ref">YNBHV12P358D</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span>, vol. 12 p. 358). Without a witness, <a href="../references.html#ref-YNBH" class="source-ref">YNBHV12P358A</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span>, vol. 12 p. 358).
+[^comment-IHMAV12P370B-1]: The <em>isnād</em> misidentifies Sharīk’s witness, it should be Yaʿqūb b. Ibrāhīm b. Saʿd, the son of <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).
+[^comment-TBRBV03P217F-1]: A similar passage is found in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P664A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 664) but is phrased differently. Also see <a href="WASKA.html" class="witness-link">WASKA</a> (ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī), <a href="WYSAU.html" class="witness-link">WYSAU</a> (Yaḥyā b. Saʿīd b. Abān al-Qurashī al-Umawī al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).
+[^comment-TDSHV12P430B-1]: This story takes place in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P228B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 228) between the story of the Battle of the Trench and the Attack on the Banū Qurayẓah. In addition to <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī), also see <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) (referenced in two places in TBRC), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).
+[^comment-TMMXV01P122B-1]: For a discussion of those killed at the Battle of the Camel, also see <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī).

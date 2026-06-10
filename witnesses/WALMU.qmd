@@ -1,0 +1,48 @@
+---
+title: "ʿAlī b Muḥammad"
+lang: "en"
+witness-code: "WALMU"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية علي بن محمد</span>
+
+**Witness code:** `WALMU`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WALMU">
+```
+
+
+### <span lang="ar" dir="rtl">بقية الخبر عن أمر الكذاب العنسي</span>
+
+
+```{=html}
+<article class="sira-report" id="TBRBV03P241B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV03P241B">TBRBV03P241B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 3 p. 241</div>
+  </header>
+  <div class="witness-text">
+    وحدثني أبو زيد قال حدثنا علي قال حدثنا ابو معشر ومحمد ابن إسحاق وجويرية بن أسماء بإسناده الذي ذكرت قبل قالوا في العام الذي بويع فيه أبو بكر ملك أهل فارس عليهم يزدجرد. <span class="page-no" title="end of page 241 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TBRBV03P241C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV03P241C">TBRBV03P241C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 3 pp. 241-242</div>
+  </header>
+  <div class="witness-text">
+    حدثني أبو زيد قال حدثنا علي بن محمد بإسناده الذي ذكرت قبل قالوا أقام أبو بكر بالمدينة بعد وفاة رسول الله ص وتوجيهه أسامة في جيشه إلى حيث قتل أبوه زيد بن حارثة من أرض الشام وهو الموضع الذى كان رسول الله ص امره بالمسير إليه لم يحدث شيئا وقد جاءته وفود العرب مرتدين يقرون بالصلاة ويمنعون الزكاة فلم يقبل ذلك منهم وردهم وأقام حتى قدم أسامة بن زيد بن حارثة بعد أربعين يوما من شخوصه ويقال بعد سبعين يوما فلما قدم أسامة بن زيد استخلفه أبو بكر على المدينة وشخص ويقال استخلف سنانا الضمري على المدينة فسار ونزل بذي القصة في جمادى الأولى ويقال في جمادى الآخرة وكان نوفل بن معاويه الديلى بعثه رسول الله ص <span class="page-no" title="end of page 241 of vol. 3">§</span> فلقيه خارجة بن حصن بالشربة فأخذ ما في يديه فرده على بني فزارة فرجع نوفل إلى أبي بكر بالمدينة قبل قدوم أسامة على أبي بكر فأول حرب كانت في الرده بعد وفاه النبي ص حرب العنسي وقد كانت حرب العنسي باليمن ثم حرب خارجة بن حصن ومنظور بن زبان بن سيار في غطفان والمسلمون غارون فانحاز أبو بكر إلى أجمة فاستتر بها ثم هزم الله المشركين. <span class="page-no" title="end of page 242 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

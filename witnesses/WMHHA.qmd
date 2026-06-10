@@ -1,0 +1,32 @@
+---
+title: "Muḥammad b. Ḥasan"
+lang: "en"
+witness-code: "WMHHA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية محمد بن حسن</span>
+
+**Witness code:** `WMHHA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMHHA">
+```
+
+```{=html}
+<article class="sira-report" id="WSTXV01P241D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#WSTXV01P241D">WSTXV01P241D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-WSTX" class="source-link"><span class='ref-author'>Aslam b. Sahl al-Wāsiṭī</span>, <span class='ref-title'>Taʾrīkh al-wāsiṭ</span></a>, vol. 1 pp. 241-242</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أسلم قال ثنا عبد الرحمن بن علي بن عبد الرحمن <span class="page-no" title="end of page 241 of vol. 1">§</span> الشيباني قال ثنا محمد بن الحسن عن محمد بن إسحاق عن عمارة بن غزية عن القاسم بن محمد عن عائشة قالت قال رسول الله صلى الله عليه وسلم أكرموا الشعر. <span class="page-no" title="end of page 242 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

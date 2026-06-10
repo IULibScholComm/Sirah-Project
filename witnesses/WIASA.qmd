@@ -1,0 +1,190 @@
+---
+title: "Ismāʿīl b. ʿAyyāsh b. Sulaym al-ʿAnsī al-Ḥumṣī"
+lang: "en"
+witness-code: "WIASA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية اسماعيل بن عياش بن سليم العنسي</span>
+
+**Witness code:** `WIASA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WIASA">
+```
+
+```{=html}
+<article class="sira-report" id="SBIAV03P812A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SBIAV03P812A">SBIAV03P812A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SBIA" class="source-link"><span class='ref-author'>Abū al-Shaykh al-Iṣbahānī</span>, <span class='ref-title'>al-ʿAẓmah</span></a>, vol. 3 pp. 812-225</div>
+  </header>
+  <div class="witness-text">
+    حدثنا إبراهيم حدثنا عيسى بن خالد الحمصي حدثنا أبو اليمان عن إسماعيل عن محمد بن إسحاق عن محمد بن عمرو بن عطاء <span class="page-no" title="end of page 812 of vol. 3">§</span> قال قال لي علي بن الحسين هل تدري ما اسم جبريل من أسمائكم قلت لا قال عبد الله، واسم ميكائيل عبيد الله وكل شيء رجع إلى إيل فهو معبد لله عز وجل <span class="page-no" title="end of page 813 of vol. 3">§</span> <span class="page-no" title="end of page 225 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SBIAV03P812A-1]
+
+```{=html}
+<article class="sira-report" id="TBRBV01P224B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV01P224B">TBRBV01P224B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 1 p. 224</div>
+  </header>
+  <div class="witness-text">
+    حدثني العباس بن الوليد قال حدثنا أبي عن إسماعيل بن عياش عن محمد بن إسحاق قال لما خرجت الريح على عاد من الوادي قال سبعة رهط منهم أحدهم الخلجان تعالوا حتى نقوم على شفير الوادي فنردها فجعلت الريح تدخل تحت الواحد منهم فتحمله ثم ترمي به فتندق عنقه فتتركهم كما قال الله عز وجل <a href="https://quran.com/69/7" class="quran" title="Qurʾān 69.7" target="_blank">صرعى كأنهم أعجاز نخل خاوية</a> حتى لم يبق منهم إلا الخلجان فمال إلى الجبل فأخذ بجانب منه فهزه فاهتز في يده ثم أنشأ يقول <span class='poetry-line'><span class='hemistich1'>لم يبق الا الخلجان نفسه</span> <span class='hemistich2'>نالك من يوم دهاني أمسه</span></span> <span class='poetry-line'><span class='hemistich1'>بثابت الوطء شديد وطسه</span> <span class='hemistich2'>لو لم يجئني جئته أجسه</span></span> فقال له هود ويحك يا خلجان أسلم تسلم فقال له وما لي عند ربك إن أسلمت قال الجنة قال فما هؤلاء الذين أراهم في هذا السحاب كأنهم البخت قال هود تلك ملائكة ربي قال فإن أسلمت أيعيذني ربك منهم قال ويلك هل رأيت ملكا يعيذ من جنده قال لو فعل ما رضيت قال ثم جاءت الريح فألحقته بأصحابه أو كلاما هذا معناه قال أبو جعفر فأهلك الله الخلجان وأفنى عادا خلا من بقي <span class="page-no" title="end of page 224 of vol. 1">§</span> منهم ثم بادوا بعد ونجى الله هودا ومن آمن به وقيل كان عمر هود مائة سنة وخمسين سنة.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MZTXV13P227A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV13P227A">MZTXV13P227A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 13 p. 227</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا به عبد الرحيم بن عبد الملك المقدسي قال أنبأنا المؤيد بن عبد الرحيم بن الأخوة قال أخبرنا زاهر بن طاهر الشحامي قال أخبرنا أبو سعد الكنجروذي قال أخبرنا أبو عمرو بن حمدان قال حدثنا إبراهيم بن محمد بن يزيد المروزي قال حدثنا علي بن حجر قال حدثنا إسماعيل بن عياش عن محمد بن إسحاق عن الصلت بن عبد الله بن نوفل قال رأيت ابن عباس يلبس خاتمه في كفه اليمنى ولا إخاله إلا قال وقد رأيت النبي صلى الله عليه وسلم يلبسه في كفه اليمني. <span class="page-no" title="end of page 227 of vol. 13">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TLBXV04P1723A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TLBXV04P1723A">TLBXV04P1723A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TLBX" class="source-link"><span class='ref-author'>Ibn al-ʿAdīm</span>, <span class='ref-title'>Bughyat al-ṭalab fī taʾrīkh Ḥalab</span></a>, vol. 4 p. 1723</div>
+  </header>
+  <div class="witness-text">
+    حدثني اسحاق بن الحسن الحربي قال حدثنا يحيى بن عثمان البصري قال حدثنا اسماعيل بن عياش عن محمد بن اسحاق عن عمرو بن شعيب عن أبيه عن جده عن رسول الله صلى الله عليه وسلم قال إذا فزع أحدكم فليقل أعوذ بكلمات الله التامة من غضبه وعذابه ومن شر عباده ومن همزات الشياطين وان يحضرون فإنها لن تضره قال فكان عبد الله يعلمها من بلغ من ولده ومن لم يبلغ منهم كتبها في صك وعلقها في عنقه. <span class="page-no" title="end of page 1723 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SMJXV01P368A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SMJXV01P368A">SMJXV01P368A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 1 p. 368</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الوهاب بن الضحاك قال حدثنا إسماعيل بن عياش عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال أتانا رسول الله صلى الله عليه وسلم في بني عبد الأشهل فصلى بنا المغرب في مسجدنا ثم قال اركعوا هاتين الركعتين في بيوتكم. <span class="page-no" title="end of page 368 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV04P251A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P251A">STBXV04P251A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 251</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو زيد الحوطي ثنا أبو اليمان الحكم بن نافع ثنا إسماعيل بن عياش عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال أتانا النبي صلى الله عليه وسلم في بني عبد الأشهل فصلى بنا المغرب في مسجدنا ثم قال اركعوا هاتين الركعتين في بيوتكم. <span class="page-no" title="end of page 251 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV04P252A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P252A">STBXV04P252A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 252</div>
+  </header>
+  <div class="witness-text">
+    حدثنا موسى بن هارون ثنا الهيثم بن خارجة ثنا إسماعيل بن عياش عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال قال رسول الله صلى الله عليه وسلم إذا أحب الله عز وجل عبدا حماه الدنيا كما يظل أحدكم يحمي سقيمه الماء. <span class="page-no" title="end of page 252 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STKXV01P355A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STKXV01P355A">STKXV01P355A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STKX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>Kitāb al-duʿāʾ</span></a>, vol. 1 p. 355</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أحمد بن المعلى الدمشقي ثنا هشام بن عمار ثنا إسماعيل بن عياش عن محمد بن إسحاق عن عمران بن أبي أنس عن أبي سلمة عن أبي هريرة رضي الله عنه قال كان رسول الله صلى الله عليه وسلم يقول في الصلاة على الجنازة اللهم اغفر لحينا وميتنا وشاهدنا وغائبنا وذكرنا وأنثانا وصغيرنا وكبيرنا اللهم من أحييته منا فأحيه على الإسلام ومن توفيته فتوفه على الإيمان ولا تحرمنا أجره ولا تفتنا بعده. <span class="page-no" title="end of page 355 of vol. 1">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `DKJXV02P510A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="DKJXV02P510A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#DKJXV02P510A">DKJXV02P510A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DKJX" class="source-link"><span class='ref-author'>Aḥmad b. ʿAmr b. Abī ʿĀṣim al-Ḍaḥḥāk</span>, <span class='ref-title'>Kitāb al-jihād.</span></a>, vol. 2 pp. 510-163</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TBJBV07P384A</span> <span class="variant-id">VAR_KTHQV02P163B</span> حدثنا عثمان بن أبي شيبة قال حدثنا عبد الله بن إدريس عن محمد بن إسحاق عن إسماعيل بن أمية عن أبي الزبير عن سعيد بن جبير عن ابن عباس قال قال رسول الله صلى الله عليه وسلم لما أصيب إخوانكم بأحد جعل الله أرواحهم في جوف طير خضر ترد أنهار الجنة وتأكل من ثمارها وتأوي إلى قناديل من ذهب معلقة في ظل العرش فلما وجدوا طيب مأكلهم ومشربهم ومقيلهم قالوا من يبلغ إخواننا عنا أنا أحياء في الجنة نرزق لئلا يزهدوا في الجهاد ولا ينكلوا عند الحرب قال فقال الله جل ثناؤه أنا أبلغهم عنكم فأنزل الله <a href="https://quran.com/3/169" class="quran" title="Qurʾān 3.169" target="_blank">ولا تحسبن الذين قتلوا في سبيل الله أمواتا بل أحياء عند ربهم يرزقون</a> <span class="page-no" title="end of page 510 of vol. 2">§</span> حدثنا أبو بكر بن أبي شيبة قال حدثنا ابن فضيل عن ابن إسحاق عن إسماعيل بن أمية عن أبي الزبير عن ابن عباس عن النبي صلى الله عليه وسلم مثله حدثنا الحوطي قال حدثنا إسماعيل بن عياش عن ابن إسحاق عن إسماعيل عن أبي الزبير عن ابن عباس عن النبي صلى الله عليه وسلم مثله <span class="page-no" title="end of page 511 of vol. 2">§</span> <span class="page-no" title="end of page 163 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TBJBV07P384A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TBJBV07P384A">TBJBV07P384A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBJB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span></a>, vol. 7 p. 384</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_DKJXV02P510A</span> <span class="variant-id">VAR_KTHQV02P163B</span> حدثنا ابن حميد قال حدثنا سلمة عن محمد بن إسحاق وحدثني <span class="page-no" title="end of page 384 of vol. 7">§</span> يونس بن عبد الأعلى قال أخبرنا ابن وهب قال حدثنا إسماعيل بن عياش عن ابن إسحاق عن إسماعيل بن أمية عن أبي الزبير المكي عن ابن عباس قال قال رسول الله صلى الله عليه وسلم لما أصيب إخوانكم بأحد جعل الله أرواحهم في أجواف طير خضر ترد أنهار الجنة وتأكل من ثمارها وتأوي إلى قناديل من ذهب في ظل العرش فلما وجدوا طيب مشربهم ومأكلهم وحسن مقيلهم قالوا يا ليت إخواننا يعلمون ما صنع الله بنا لئلا يزهدوا في الجهاد ولا ينكلوا عن الحرب فقال الله عز وجل أنا أبلغهم عنكم فأنزل الله عز وجل على رسوله صلى الله عليه وسلم هؤلاء الآيات
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHQV02P163B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHQV02P163B">KTHQV02P163B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHQ" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Tafsīr al-Qurʾān al-ʿAẓīm</span></a>, vol. 2 p. 163</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_DKJXV02P510A</span> <span class="variant-id">VAR_TBJBV07P384A</span> هكذا رواه الإمام أحمد وكذا رواه ابن جرير عن يونس عن ابن وهب عن إسماعيل بن عياش عن محمد بن إسحاق به ورواه أبو داود والحاكم في مستدركه من حديث عبد الله بن إدريس عن محمد بن إسحاق عن إسماعيل بن أمية عن أبي الزبير عن سعيد بن جبير عن ابن عباس فذكره وهذا أثبت وكذا رواه سفيان الثوري عن سالم الأفطس عن سعيد بن جبير عن ابن عباس وروى الحاكم في مستدركه من حديث أبي إسحاق الفزاري عن سفيان عن إسماعيل بن أبي خالد عن سعيد بن جبير عن ابن عباس قال نزلت هذه الآية في حمزة وأصحابه <a href="https://quran.com/3/169" class="quran" title="Qurʾān 3.169" target="_blank">ولا تحسبن الذين قتلوا في سبيل الله أمواتا بل أحياء عند ربهم يرزقون</a> ثم قال صحيح على شرط الشيخين ولم يخرجاه وكذا قال قتادة والربيع والضحاك إنها نزلت في قتلى أحد
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `DKJXV02P510A`:** [^comment-DKJXV02P510A-1]
+
+
+**Comment on passage `TBJBV07P384A`:** [^comment-TBJBV07P384A-1]
+
+```{=html}
+<article class="sira-report" id="TDSHV07P456A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV07P456A">TDSHV07P456A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 7 p. 456</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو الحسن الفقيه أنا أبو القاسم بن أبي العلاء أنا أبو علي بن أبي نصر أنا أبو سليمان بن زبر أنا أبي نا الحسن بن السكن الحمصي نا الربيع بن روح نا إسماعيل بن عياش عن محمد بن إسحاق حدثني محمد بن ذكوان الأزدي البصري عن الحسن بن أبي الحسن عن عتي السعدي عن أبي بن كعب أن رسول الله صلى الله عليه وسلم قال أن ادم لما حضرته الوفاة أرسل الله إليه بكفن وحنوط من الجنة فلما رأت حواء الملائكة جزعت فقال خلي بيني وبين رسل ربي فما لقيت الذي لقيت إلا فيك ولا أصابني الذي أصابني إلا فيك وروي عن الحسن من وجه اخر أتم من هذا موقوفا <span class="page-no" title="end of page 456 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-SBIAV03P812A-1]: Passage not located in HSNX, but is also found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) and <a href="WAAAY.html" class="witness-link">WAAAY</a> (ʿAbd Allāh b. al-Ajlaḥ (Yaḥyā) ʿAbd Allāh b. Ḥujayah al-Kindī al-Kūfī).
+[^comment-DKJXV02P510A-1]: A version of this passage is found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P119B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 119) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P120A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 120). It is also located in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī) (that is the most widely repeated), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WIBMK.html" class="witness-link">WIBMK</a> (Ibn al-Mubārak, Abū ʿAbd al-Raḥmān ʿAbd Allāh b. Mubārak), <a href="WMFGH.html" class="witness-link">WMFGH</a> (Muḥammad b. Fuḍayl b. Ghazwān b. Jarīr al-Ḍabbī al-Kūfī), and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī).
+[^comment-TBJBV07P384A-1]: <a href="../references.html#ref-TBJB" class="source-ref">TBJBV07P384A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span>, vol. 7 p. 384) refers to Q3:169.

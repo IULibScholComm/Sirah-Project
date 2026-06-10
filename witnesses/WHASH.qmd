@@ -1,0 +1,38 @@
+---
+title: "al-Ḥasan b. Aḥmad b. Shuʿayb al-Ḥarrānī"
+lang: "en"
+witness-code: "WHASH"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية الحسن بن احمد بن شعيب الحراني</span>
+
+**Witness code:** `WHASH`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHASH">
+```
+
+```{=html}
+<article class="sira-report" id="HYKUV02P105A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYKUV02P105A">HYKUV02P105A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYKU" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>Kashf al-astār ʿan zawāʾid al-Bazzār</span></a>, vol. 2 p. 105</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الحسن بن أحمد بن شعيب الحراني عن محمد بن إسحاق عن محمد بن جعفر بن الزبير عن عروة عن عائشة قالت ابتاع رسول الله صلى الله عليه وسلم جزورا من أعرابي بتمر من تمر الذخرة وهي العجوة فجاء به رسول الله صلى الله عليه وسلم إلى منزله فالتمس التمر فلم يجده فقال للأعرابي يا عبد الله إنا ابتعنا منك جزورا بوسق من تمر الذخرة ونحن نرى أنه عندنا فالتمسناه فلم نجده فقال الأعرابي واغدراه فزجره الناس وقالوا تقول هذا لرسول الله صلى الله عليه وسلم فقال رسول الله صلى الله عليه وسلم دعوه فإن لصاحب الحق مقالا ثم قال له رسول الله صلى الله عليه وسلم يا عبد الله إنا ابتعنا منك جزورا بوسق من تمر الذخرة ونحن نرى أنه عندنا فالتمسناه فلم نجده فقال الأعرابي واغدراه فزجره الناس فقال رسول الله صلى الله عليه وسلم دعوه فإن لصاحب الحق مقالا قال فلما لم يفهم أرسل رسولا إلى خويلة بنت حكيم أقرضينا أوسقا من تمر الذخرة متى تكون عندنا فنقضيك فقالت أرسل رسولا يأخذه فقال للأعرابي انطلق معه حتى يوفيك فانطلق الأعرابي فأخذ التمر ثم مر برسول الله صلى الله عليه وسلم وهو جالس مع أصحابه فقال جزاك الله خيرا فقد أوفيت وأطبت فقال رسول الله صلى الله عليه وسلم أولئك خيار عباد الله يوم القيامة الموفون المطيبون. @HYKUV02P105A_BEG_WHASH <span class="page-no" title="end of page 105 of vol. 2">§</span>
+  </div>
+</article>
+```
+
+[^comment-HYKUV02P105A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-HYKUV02P105A-1]: Passage not found in HSNX. Khuwaylah bint Ḥakīm is only mentioned once in the witness of <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (see <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P484C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 484)) in the story of the capture of Ṭāʾif where she asks Muḥammad for the jewelry of specific women among the Thaqīf (also see <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) in <a href="../references.html#ref-TBRC" class="source-ref">TBRCV03P085A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk</span>, vol. 3 p. 85)). Also see <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) for a similar passage.

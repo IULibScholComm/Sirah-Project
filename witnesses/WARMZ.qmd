@@ -1,0 +1,246 @@
+---
+title: "ʿAbd al-Raḥmān b. Muḥammad b. Ziyād al-Muḥāribī al-Kūfī"
+lang: "en"
+witness-code: "WARMZ"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الرحمن بن محمد بن زياد المحاربي الكوفي</span>
+
+**Witness code:** `WARMZ`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WARMZ">
+```
+
+```{=html}
+<article class="sira-report" id="TBJBV01P200B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBJBV01P200B">TBJBV01P200B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBJB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span></a>, vol. 1 p. 200</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو كريب قال حدثنا المحاربي عن محمد بن إسحاق قال حدثني العلاء بن عبد الرحمن بن يعقوب عن أبي السائب مولى زهرة عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم إذا قال العبد الحمد لله رب العالمين قال الله حمدني عبدي وإذا قال الرحمن الرحيم قال أثنى علي عبدي وإذا قال مالك يوم الدين قال مجدني عبدي فهذا لي وإذا قال إياك نعبد وإياك نستعين إلى أن يختم السورة قال فذاك له. <span class="page-no" title="end of page 200 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZZBXV02P110A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZZBXV02P110A">ZZBXV02P110A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 2 pp. 110-111</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن إسماعيل بن سمرة الأحمسي قال نا عبد الرحمن بن محمد المحاربي عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس <span class="page-no" title="end of page 110 of vol. 2">§</span> وحدثناه مؤمل بن هشام قال نا إسماعيل بن إبراهيم قال نا محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن عبيد الله الخولاني عن ابن عباس قال دخل علي بن أبي طالب رضي الله عنه وقد أهراق الماء فدعا بوضوء فأتيناه بإناء فأخذ قدر المد فلما وضع بين يديه قال يا ابن عباس ألا أتوضأ كما رأيت رسول الله صلى الله عليه وسلم يتوضأ قال قلت بلى قال فأصغى الإناء على يده فغسلها ثلاثا ثم مضمض واستنشق واستنثر وأخذ حفنة من ماء بيديه جميعا فضرب بها وجهه ثم الثانية مثل ذلك ثم الثالثة مثل ذلك ثم ألقم إبهاميه ما أقبل من أذنيه ثم أخذ كفا من ماء بيده اليمنى فصبها على ناصيته ثم أرسلها تسيل على وجهه ثم غسل يده اليمنى إلى المرفقين واليسرى مثل ذلك ثم مسح رأسه وظهور أذنيه ثم أخذ بيديه حفنة من ماء فصك بها على قدميه ثم الثانية مثل ذلك ثم الثالثة مثل ذلك. <span class="page-no" title="end of page 111 of vol. 2">§</span> This fragment is not found in HSNX. There are a complex of traditions that revolve around ʿAlī b. Abī Ṭālib and his performance of wuḍūʿ. Although they most likely deal with the same event since ʿAbd Allāh b. ʿAbbās is the witness for each, they are sufficiently different to treat as distinct traditions. The fragment referred to here is the “entering” tradition, where ʿAlī enters the home of ʿAbd Allāh b. ʿAbbās and asks for water for wuḍūʿ. While it refers to “wiping” it is placed in a specific context and will be categorized here as the “entering” tradition. This tradition is found in WYWAT, WASKA, WMSAH, WISUL, and WISIB, WARMZ.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SMJXV02P859A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SMJXV02P859A">SMJXV02P859A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 2 p. 859</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو بكر بن أبي شيبة قال حدثنا عبد الله بن نمير قال حدثنا محمد بن إسحاق عن يعقوب بن عبد الله بن الأشج عن أبي أمامة بن سهل بن حنيف عن سعيد بن سعد بن عبادة قال كان بين أبياتنا رجل مخدج ضعيف فلم يرع إلا وهو على أمة من إماء الدار يخبث بها فرفع شأنه سعد بن عبادة إلى رسول الله صلى الله عليه وسلم فقال اجلدوه ضرب مائة سوط قالوا يا نبي الله هو أضعف من ذلك لو ضربناه مائة سوط مات قال فخذوا له عثكالا فيه مائة شمراخ فاضربوه ضربة واحدة حدثنا سفيان بن وكيع قال حدثنا المحاربي عن محمد بن إسحاق عن يعقوب بن عبد الله عن أبي أمامة بن سهل عن سعد بن عبادة عن النبي صلى الله عليه وسلم نحوه <span class="page-no" title="end of page 859 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TKXXV06P008C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TKXXV06P008C">TKXXV06P008C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TKXX" class="source-link"><span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span></a>, vol. 6 p. 8</div>
+  </header>
+  <div class="witness-text">
+    قال أخبرنا عبد الرحمن بن محمد المحاربي عن محمد بن إسحاق قال حدثني يحيى بن عباد بن عبد الله بن الزبير عن أبيه عن أسماء بنت أبي بكر قالت لما دخل رسول الله صلى الله عليه وسلم مكة واطمأن وجلس في المسجد أتاه أبو بكر بأبي قحافة فلما رآه رسول الله صلى الله عليه وسلم قال يا أبا بكر ألا تركت الشيخ حتى أكون أنا الذي أمشي إليه قال يا رسول الله هو أحق أن يمشي إليك من أن تمشي إليه فأجلسه رسول الله صلى الله عليه وسلم بين يديه ووضع يده على قلبه ثم قال يا أبا قحافة أسلم تسلم قال فأسلم وشهد شهادة الحق قال وأدخل عليه ورأسه ولحيته كأنهما ثغامة فقال رسول الله صلى الله عليه وسلم غيروا هذا الشيب وجنبوه السواد. <span class="page-no" title="end of page 8 of vol. 6">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="JWZXV04P186B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#JWZXV04P186B">JWZXV04P186B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JWZX" class="source-link"><span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>al-Muntaẓam fī Tārīkh al-mulūk waʾl-umam</span></a>, vol. 4 pp. 186-187</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا محمد بن أبي طاهر أخبرنا الجوهري أخبرنا ابن حيويه أخبرنا أحمد بن معروف حدثنا الحسين بن الفهم وحدثنا محمد بن سعد قال أخبرنا عبد الرحمن بن محمد المحاربي عن محمد بن إسحاق قال حدثني يحيى بن عباد بن عبد الله بن الزبير عن أبيه عن أسماء بنت أبي بكر قالت لما دخل رسول الله صلى الله عليه وآله وسلم مكة واطمأن وجلس في المسجد أتاه أبو بكر بأبي قحافة فلما رآه رسول الله صلى الله عليه وآله وسلم قال يا أبا بكر ألا تركت الشيخ حتى أكون أنا الذي أمشي إليه فقال يا رسول الله هو أحق أن يمشي إليك من أن تمشي إليه فأجلسه رسول الله صلى الله عليه وآله وسلم بين يديه ووضع يده على قلبه ثم قال يا أبا قحافة أسلم تسلم قال <span class="page-no" title="end of page 186 of vol. 4">§</span> فأسلم وشهد شهادة الحق قال وأدخل عليه ورأسه ولحيته كأنها ثغامة فقال رسول الله صلى الله عليه وآله وسلم غيروا هذا الشيب وجنبوه السواد. <span class="page-no" title="end of page 187 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="QNMXV02P201A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#QNMXV02P201A">QNMXV02P201A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-QNMX" class="source-link"><span class='ref-author'>Ibn Qāniʿ</span>, <span class='ref-title'>Muʿjam al-ṣaḥābah</span></a>, vol. 2 p. 201</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أحمد بن القاسم نا عبد الرحمن بن صالح نا عمرو بن هاشم وحدثنا أبو عبد الله بن شاهين نا عبد الله بن عمر نا المحاربي جميعا عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل عن عبد الله بن نيار عن عمرو بن شاس قال سمعت النبي صلى الله عليه وسلم يقول من آذى عليا فقد آذاني. <span class="page-no" title="end of page 201 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV04P1996A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV04P1996A">NYMXV04P1996A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 4 p. 1996</div>
+  </header>
+  <div class="witness-text">
+    المحاربي عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن نمار الأسلمي عن عمرو بن شأس الأسلمي وكان من أصحاب الحديبية قال خرجت مع علي رضي الله عنه إلى اليمن فجفاني في سفري ذلك حتى وجدت في نفسي عليه فلما قدمت أظهرت شكايته في المسجد حتى بلغ ذلك رسول الله صلى الله عليه وسلم فدخلت المسجد ذات غداة ورسول الله صلى الله عليه وسلم في ناس من أصحابه فلما رأى أبدى عينه يقول حدد إلي النظر حتى إذا جلست قال يا عمرو والله لقد آذيتني قلت أعوذ بالله أن أوذيك يا رسول الله قال بلى من آذى عليا فقد آذاني. <span class="page-no" title="end of page 1996 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TDSHV57P025A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV57P025A">TDSHV57P025A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 57 p. 25</div>
+  </header>
+  <div class="witness-text">
+    ونا أبو أحمد محمد بن أحمد نا عبد الله بن شيرويه نا إسحاق بن راهوية أنا وعبد الرحمن بن محمد المحاربي قالا نا محمد بن إسحاق عن أبان بن صالح عن مجاهد قال عرضت القرآن على ابن عباس ثلاث عرضات أفقه على كل آية أسأله فيم نزلت وكيف كانت. <span class="page-no" title="end of page 25 of vol. 57">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="JSHXV21P212A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#JSHXV21P212A">JSHXV21P212A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JSHX" class="source-link"><span class='ref-author'>Muḥammad b. Ḥusayn al-Ājurrī</span>, <span class='ref-title'>Kitāb al-sharīʿah</span></a>, vol. 21 pp. 212-214</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن عبد العزيز ثنا ابن الأصبهاني ثنا <span class="page-no" title="end of page 212 of vol. 24">§</span> عبد الرحمن بن محمد المحاربي ح وحدثنا أبو مسلم الكشي ثنا أبو عمر الضرير ثنا زياد بن عبد الله البكائي ح وحدثنا محمد بن عبد الله الحضرمي ثنا مسروق بن المرزبان الكندي ثنا يحيى بن زكريا بن أبي زائدة كلهم عن محمد بن إسحاق عن جهم بن أبي الجهم مولى الحارث بن حاطب عن عبد الله بن جعفر بن أبي طالب قال حدثتني <span class="page-no" title="end of page 213 of vol. 24">§</span> حليمة بنت أبي ذؤيب السعدية من سعد بن بكر بن هوازن وهي أم النبي صلى الله عليه وسلم التي أرضعته وفصلته أنها حدثت قالت أصابتنا سنة شهباء فلم تبق لنا شيئا فخرجنا في نسوة من بني سعد بن بكر إلى مكة نلتمس الرضعاء فلما قدمنا مكة لم تبق منا امرأة إلا عرض عليها نبي الله صلى الله عليه وسلم فتأباه وتكرهه وذلك أنه كان لا أب له وكانت الظورات إنما يرجون الخير من الآباء وكانت المرأة تقول ما أصنع بهذا ما عسى أن تصنع بي أمه فيكرهنه قالت فعرض علي فأبيته فلم تبق امرأة من قومي إلا وجدت رضيعا وحضر انصرافهن إلى بلادهن فخشيت أن أرجع بغير رضيع فقلت لزوجي لو أخذت ذاك الغلام اليتيم كان أمثل من أن أرجع بغير رضيع فجئت إلى أمه فأخذته وجئت به إلى منزلي وكان لي ابن أرضعه وكان يسهر كثيرا من الليل جوعا ما ينام فلما ألقيت رسول الله صلى الله عليه وسلم على ثديي أقبلا عليه بما شاء من اللبن حتى روى وروى أخوه ونام وقام زوجي في جوف الليل إلى شاف معنا والله أن يبض بقطرة قالت فوقعت يده على ضرعها فإذا هو حافل محلب فجاءني فقال يا ابنة وهب والله إني لأحسب هذه النسمة مباركة ثم أخبرني خبر الشارف فأخبرته خبر ما رأيت من ثديي تلك الليلة فخرجنا على أتان لنا كانت قبل ذلك ما يلحق الحمر ضعفا فلما صرنا عليها متوجهين إلى بلادنا كانت تقدم القوم حتى يصحن بي ويحك يا ابنة أبي ذؤيب قطعت منا إن لأتانك هذه لشأنا قالت فقدمنا به بلاد بني سعد بن بكر لا نتعرف إلا البركة حتى إن كان راعينا ليذهب بغنمنا فيرعاها ويبعث قومنا بأغنامهم فإذا كان عند الليل راحوا فتجيء أغنامنا بحفلان ما من أغنامهم شاة تبض بقطرة فيقولون لرعيانهم ويلكم ارعوا حيث يرعى راعي بنت أبي ذؤيب قالت فلم يزل كذلك معنا فكان ذات يوم خلف بيوتنا في بهم لنا هو وأخوه يلعبان إذ جاء أخوه يسعى فقال ذاك أخي القرشي قد قتل فجئنا نبادره أنا وأبوه فتلقانا منتقع اللون فجعلنا نضمه إلينا أنا مرة وأبوه مرة نقول له ما لك يا بني فيقول لا أدري أتاني رجلان فصرعاني فشقا بطني فجعلا يسوطانه فأقبل علي أبوه فقال ما أرى هذا الغلام إلا قد أصيب فبادري به أهله قبل أن يتفاقم به الأمر عندنا قالت فلم يكن لي همة حتى أقدمته مكة على أمه وقلت لها يا ظئر إني قد فصلت ابني وارتفع عن العاهة فأخبليه فقالت ما لك زاهدة فيه قد كنت تسأليني أن أتركه عندك كأنك خفت عليه الشيطان أولا أحدثك عني وعنه إني رأيت حين ولدته أنه خرج مني نور أضاءت منه قصور بصرى من أرض الشام. <span class="page-no" title="end of page 214 of vol. 24">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="JWZXV02P261A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#JWZXV02P261A">JWZXV02P261A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-JWZX" class="source-link"><span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>al-Muntaẓam fī Tārīkh al-mulūk waʾl-umam</span></a>, vol. 2 pp. 261-263</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا محمد بن ناصر قال أخبرنا أبو الغنائم محمد بن علي بن ميمون قال أخبرنا محمد بن علي بن عبد الرحمن الحسني وأبو طالب علي بن محمد اليماني قالا أخبرنا محمد الحسين السلمي قال أخبرنا عبد الله بن زيدان قال أخبرنا هارون بن إدريس السلمي قال أخبرنا عبد الرحمن يعني المحاربي عن محمد بن إسحاق قال حدثني جهم بن أبي جهم الجمحي عن عبد الله بن جعفر عن حليمة ابنة الحارث أم رسول الله صلى الله عليه وسلم التي أرضعته السعدية قالت خرجت في نسوة من بني سعد بن بكر بن هوازن تلتمس الرضعاء بمكة فخرجت على أتان لي قمراء قد أذمت بالركب قالت وخرجنا في سنة شهباء لم تبق لنا شيئا أنا وزوجي الحارث بن عبد العزى قالت ومعنا شارف لنا والله لم تبض علينا بقطرة من لبن ومعي صبي ما ننام ليلنا من بكائه وما في ثديي من لبن يغنيه ولا في شارفنا من لبن يغذيه إلا أنا نرجو فلما قدمنا مكة لم يبق منا امرأة إلا عرض عليها رسول الله صلى الله عليه وسلم فتأباه وإنما كنا نرجو الكرامة في رضاعة من نرضع له من أبي <span class="page-no" title="end of page 261 of vol. 2">§</span> المولود فكان نبينا صلى الله عليه وسلم فقلنا ما عسى أن تصمع لنا أمه فكنا نأبى حتى لم يبق من صويحباتي امرأة إلا أخذت رضيعا غيري قالت فكرهت أن أرجع ولم آخذ شيئا وأخذ صويحباتي فقلت لزوجي الحارث والله لأرجعن إلى ذلك اليتيم فلآخذنه قالت فأتيته فأخذته ثم رجعت إلى رحلي فقال لي زوجي قد أخذته قالت قلت نعم وذاك أني لم أجد غيره قال قد أصبت عسى الله أن يجعل لنا فيه خيرا قالت والله ما هو إلا أن وضعته في حجري فأقبل عليه ثدياي بما شاء من لبن فشرب حتى روي وشرب أخوه حتى روي وقام زوجي الحارث إلى شارفنا فإذا هي ثجاء فحلب علينا ما شئنا فشرب حتى روي وشربت حتى رويت قالت فمكثنا بخير ليلة شباعا رواء قالت فقال زوجي والله يا حليمة ما أراك إلا قد أصبت نسمة مباركة قد نام صبياننا وقد روينا قالت ثم خرجنا فو الله لخرجت أتاني أمام الركب قد قطعتهم حتى ما يتعلق بها منهم أحد حتى إنهم ليقولون ويحك يا بنت الحارث كفي عنا أليست هذه أتانك التي خرجت عليها فأقول بلى والله فيقولون إن لها لشأنا حتى قدمت منازلنا من حاضر منازل بني سعد بن بكر قالت فقدمنا على أجدب أرض الله قالت فو الذي نفس حليمة بيده إن كانوا ليسرحون أغنامهم إذا أصبحوا وأسرح راعي غنيمتي وتروح غنمي حفلا بطانا وتروح أغنامهم جياعا هلكى ما بها من لبن فنشرب ما شئنا من اللبن وما من الحاضر من أحد يحلب قطرة ولا يجدها قالت فيقولون لرعاتهم ويلكم ألا تسرحون حيث يسرح راعي حليمة فيسرحون في الشعب الذي يسرح فيه وتروح أغنامهم جياعا ما لها من لبن وتروح غنمي حفلا لبنا قالت وكان يشب في اليوم شباب الصبي في الشهر ويشب في الشهر شباب <span class="page-no" title="end of page 262 of vol. 2">§</span> الصبي في سنة قالت فبلغ سنتين وهو غلام جفر قالت فقدمنا به على أمه فقلت لها وقال لها زوجي دعي ابني فلنرجع به فإنا نخشى عليه وباء مكة قالت ونحن أضن شيء به لما رأينا من بركته صلى الله عليه وسلم فلم نزل بها حتى قالت ارجعي به قالت فمكث عندنا شهرين قالت فبينما هو يلعب يوما مع إخوته خلف البيت إذ جاء أخوه يشتد فقال لي ولأبيه أدركا أخي القرشي فقد جاءه رجلان فأضجعاه فشقا بطنه قالت فخرجت وخرج أبوه يشتد نحوه فانتهينا إليه وهو قائم ممتقع لونه فاعتنقته واعتنقه أبوه وقال مالك يا بني قال أتاني رجلان عليهما ثياب بيض فأضجعاني فشقا بطني والله ما أدري ما صنعا قالت فاحتملناه ورجعنا به قالت يقول زوجي يا حليمة والله ما أرى الغلام إلا قد أصيب فانطلقي فلنرده إلى أمه قبل أن يظهر به ما نتخوف عليه قال فرجعنا به إلى أمه فقالت ما ردكما وكنتما حريصين عليه فقلنا لا والله إلا أنا كفلناه وأدينا الذي علينا من الحق فيه ثم تخوفنا عليه الأحداث فقلنا يكون عند أمه قالت والله ما ذاك بكما فأخبراني خبركما وخبره قالت والله ما زالت بنا حتى أخبرناها خبره قالت أتخوفتما عليه لا والله إن لابني هذا شأنا ألا أخبركما عنه إني حملت به فلم أحمل حملا قط هو أخف منه ولا أعظم بركة منه ولقد وضعته فلم يقع كما يقع الصبيان لقد وقع واضعا يده في الأرض رافعا رأسه إلى السماء دعاه والحقا بشأنكما. <span class="page-no" title="end of page 263 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="QZKHV02P448A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#QZKHV02P448A">QZKHV02P448A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-QZKH" class="source-link"><span class='ref-author'>al-Qazwīnī</span>, <span class='ref-title'>al-Tadwīn fī akhbār Qazwīn</span></a>, vol. 2 pp. 448-449</div>
+  </header>
+  <div class="witness-text">
+    الحسين بن عبد الله بن القاسم ابن أبي الخطاب أحد المتقدمين من الفقهاء العدول بقزوين الحسين بن عبد الله الكسائي سمع أبا الحسن القطان في الطوالات ثنا علي بن عبد العزيز المكي ثنا ابن الأصبهاني أنبأ عبد الرحمن بن محمد المحاربي عن محمد بن إسحاق عن جهم بن أبي جهم عن عبد الله بن جعفر عن حليمة بنت الحارث السعدية أم رسول الله صلى الله عليه وآله وسلم التي أرضعت قالت بينما رسول الله صلى الله عليه وآله وسلم يلعب ذات يوم هو وأخوه خلف البيت إذ جاء أخوه يشتد فقال لي ولأبيه ادركا أخي <span class="page-no" title="end of page 448 of vol. 2">§</span> القرشي فقد جاء رجلان فأضجعاه فشقا بطنه قالت فخرجت وخرج أبوه يشتد نحوه فانتهينا إليه وهو قائم منتعقا لونه فاعتنقته واعتنقه أبوه وقال مالك يا بني قال أتاني رجلان عليهما ثياب فأضعاني فشقا بطني والله ما أدري ما صنعا فاحتملناه فرجعنا به فقال زوجي يا حليمة والله ما أدري الغلام إلا قد أصيب انطلقي فلنرده إلى أمه قبل أن يظهر به ما نتخوف عليه فرجعنا به إلى أمه قالت ما رد كما به فقد كنتما حريص عليه فقلنا لا والله إلا أنا كفلناه وأدينا الذي علينا من الحق له ثم تخوفنا عليه الأحداث فقلنا يكون عند أمه قالت والله ما ذاك بكما فأخبراني خبركما وخبره فو الله ما زالت بنا حتى أخبرناها قالت فتخوفتما عليه كلا والله إن لا بني هذا شأنا ألا أخبر كما عنه أني حملت به فلم أحمل حملا قط هو أخف منه ولا أعظم بركة منه ولم يقع كما يقع الصبيان قد وقع واضعا يده بالأرض رافعا رأسه إلى السماء ودعاه والحقا بشأنكما. <span class="page-no" title="end of page 449 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKSSV01P310A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKSSV01P310A">BKSSV01P310A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKSS" class="source-link"><span class='ref-author'>Muḥammad b. Yūsuf b. Yaddās al-Barzālī</span>, <span class='ref-title'>Kitāb sulūk ṭarīq al-Salaf</span></a>, vol. 1 pp. 310-973</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو محمد عبد الله بن عبد الواحد بن الحسن الكناني قراءة عليه في سنة ست وستين وخمسمائة أنا أبو الحسن علي بن الحسن بن الحسين السلمي المعروف بابن الموازني قراءة عليه سنة إحدى عشرة وخمسمائة أنا أبو عبد الله محمد بن عبد السلام بن عبد الرحمن بن سعدان أنا أبو بكر محمد بن سليمان بن <span class="page-no" title="end of page 309 of vol. 1">§</span> يوسف بن يعقوب الربعي أنا حاجب بن أركين الفرغاني نا محمد بن إسماعيل بن سمرة نا المحاربي عن محمد بن إسحاق قال سمعته يذكر عن الحارث بن فضيل عن الزهري عن عبد الرحمن بن كعب بن مالك عن أبيه قال لما حضرت كعباً الوفاة أتته أم مبشر ابنة البراء بن معرور فقالت يا عبد الرحمن إن لقيت ابني فلاناً فاقرأ عليه السلام قال يغفر الله لك يا أم مبشر لنحن أسفل من ذلك فقالت يا أبا عبد الرحمن أما سمعت النبي صلى الله عليه وسلم يقول أرواح المؤمنين في طائرٍ خضر تعلق بشجر الجنة فقال بلى قالت هو ذاك. <span class="page-no" title="end of page 310 of vol. 1">§</span> <span class="page-no" title="end of page 973 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-BKSSV01P310A-1]
+
+```{=html}
+<article class="sira-report" id="TBRCV01P970A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRCV01P970A">TBRCV01P970A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRC" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk</span></a>, vol. 1 pp. 970-972</div>
+  </header>
+  <div class="witness-text">
+    وحدثني هارون بن إدريس الأصم قال حدثنا المحاربي عن ابن إسحاق وحدثنا سعيد بن يحيى الأموي قال حدثني عمي محمد ابن سعيد قال حدثنا محمد بن إسحاق عن الجهم بن أبي الجهم مولى عبد الله بن جعفر عن عبد الله بن جعفر بن أبي طالب قال كانت حليمة ابنة ابى ذؤيب السعديه أم رسول الله ص التي أرضعته تحدث أنها خرجت من بلدها معها زوجها وابن لها ترضعه في نسوة من بني سعد بن بكر تلتمس الرضعاء قالت وذلك في سنة شهباء لم تبق شيئا <span class="page-no" title="end of page 970 of vol. 1">§</span> فخرجت على أتان لي قمراء معنا شارف لنا والله ما تبض بقطرة وما ننام ليلنا أجمع من صبينا الذي معي من بكائه من الجوع وما في ثديي ما يغنيه وما في شارفنا ما يغذوه ولكنا نرجو الغيث والفرج فخرجت على أتاني تلك فلقد أذمت بالركب حتى شق ذلك عليهم ضعفا وعجفا حتى قدمنا مكة نلتمس الرضعاء فما منا امرأة إلا وقد عرض عليها رسول الله ص فتأباه إذا قيل لها إنه يتيم وذلك أنا إنما نرجو المعروف من أبي الصبي فكنا نقول يتيم ما عسى أن تصنع أمه وجده فكنا نكرهه لذلك فما بقيت امرأة قدمت معي إلا أخذت رضيعا غيري فلما أجمعنا الانطلاق قلت لصاحبي إني لأكره أن أرجع من بين صواحباتي ولم آخذ رضيعا والله لأذهبن إلى ذلك اليتيم فلآخذنه قال لا عليك أن تفعلي فعسى الله أن يجعل لنا فيه بركة قالت فذهبت إليه فأخذته وما حملني على ذلك إلا أني لم أجد غيره قالت فلما أخذته رجعت به إلى رحلي فلما وضعته في حجري أقبل عليه ثدياي بما شاء من لبن فشرب حتى روي وشرب معه أخوه حتى روي ثم ناما وما كان ينام قبل ذلك وقام زوجي إلى شارفنا تلك فنظر إليها فإذا إنها لحافل فحلب منها حتى شرب وشربت حتى انتهينا ريا وشبعا فبتنا بخير ليلة قالت يقول لي صاحبي حين أصبحت أتعلمين والله يا حليمة لقد أخذت نسمة مباركة قلت والله إني لأرجو ذلك قالت ثم خرجنا وركبت أتاني تلك وحملته عليها معي فو الله لقطعت بنا الركب ما يقدم عليها شيء من حمرهم حتى إن صواحبي ليقلن لي يا ابنة أبي ذؤيب اربعي علينا أليس هذه أتانك التي كنت خرجت عليها فأقول لهن بلى والله إنها لهي <span class="page-no" title="end of page 971 of vol. 1">§</span> هي فيقلن والله إن لها لشأنا قالت ثم قدمنا منازلنا من بلاد بني سعد وما أعلم أرضا من أرض الله أجدب منها فكانت غنمي تروح على حين قدمنا به معنا شباعا لبنا فنحلب ونشرب وما يحلب إنسان قطرة ولا يجدها في ضرع حتى إن كان الحاضر من قومنا يقولون لرعيانهم ويلكم اسرحوا حيث يسرح راعي ابنة أبي ذؤيب فتروح أغنامهم جياعا ما تبض بقطرة لبن وتروح غنمي شباعا لبنا فلم نزل نتعرف من الله زيادة الخير به حتى مضت سنتان وفصلته وكان يشب شبابا لا يشبه الغلمان فلم يبلغ سنتيه حتى كان غلاما جفرا فقدمنا به على أمه ونحن أحرص شيء على مكثه فينا لما كنا نرى من بركته فكلمنا أمه وقلنا لها يا ظئر لو تركت بني عندي حتى يغلظ فإني أخشى عليه وباء مكة قالت فلم نزل بها حتى رددناه معنا قالت فرجعنا به فو الله إنه بعد مقدمنا به بأشهر مع أخيه في بهم لنا خلف بيوتنا إذ أتانا أخوه يشتد فقال لي ولأبيه ذاك أخي القرشي قد جاءه رجلان عليهما ثياب بياض فأضجعاه وشقا بطنه وهما يسوطانه قالت فخرجت أنا وأبوه نشتد فوجدناه قائما منتقعا وجهه قالت فالتزمه والتزمه أبوه وقلنا له ما لك يا بني قال جاءني رجلان عليهما ثياب بياض فأضجعاني فشقا بطني فالتمسا فيه شيئا لا أدري ما هو قالت فرجعنا إلى خبائنا قالت وقال لي أبوه <span class="page-no" title="end of page 972 of vol. 1">§</span> والله يا حليمة لقد خشيت أن يكون هذا الغلام قد أصيب فألحقيه بأهله قبل أن يظهر به ذلك قالت فاحتملناه فقدمنا به على أمه فقالت ما أقدمك به يا ظئر وقد كنت حريصة عليه وعلى مكثه عندك قالت قلت قد بلغ الله بابني وقضيت الذي علي وتخوفت الأحداث عليه فأديته إليك كما تحبين قالت ما هذا بشأنك فاصدقيني خبرك قالت فلم تدعني حتى أخبرتها الخبر قالت فتخوفت عليه الشيطان قالت فقلت نعم قالت كلا والله ما للشيطان عليه سبيل وإن لبني لشأنا أفلا أخبرك خبره قالت قلت بلى قالت رأيت حين حملت به أنه خرج مني نور أضاء لي قصور بصرى من ارض الشام ثم حملت به فو الله ما رأيت من حمل قط كان أخف منه ولا أيسر منه ثم وقع حين ولدته وإنه لواضع يديه بالأرض رافع رأسه إلى السماء دعيه عنك وانطلقي راشدة.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTKXV02P815A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTKXV02P815A">ZTKXV02P815A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTKX" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span></a>, vol. 2 p. 815</div>
+  </header>
+  <div class="witness-text">
+    حدثنا ابن الأصبهاني قال حدثنا المحاربي عن محمد بن إسحاق عن جهم بن أبي الجهم عن عبد الله بن جعفر عن حليمة بنت الحارث السعدية أم النبي صلى الله عليه وسلم التي أرضعته قالت بينا النبي عليه السلام يلعب مع أخيه إذ جاء أخوه يشتد فقال لي ولأبيه أدركا أخي القرشي فقد جاءه رجلان فأضجعاه فشقا بطنه فخرجت وخرج أبوه يشتد نحوه فانتهينا إليه قالت فاعتنقته واعتنقه أبوه وقال مالك يا بني قال أتاني رجلان عليهما ثياب بيض فأضجعاني فشقا بطني. <span class="page-no" title="end of page 815 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV04P059A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV04P059A">BKHBV04P059A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 4 p. 59</div>
+  </header>
+  <div class="witness-text">
+    حدثني محمد بن عبد الرحيم نا عبد الله بن عمر بن محمد بن أبان نا المحاربي عن محمد بن إسحاق عن سعد بن عبد الرحمن بن أبي أيوب كنت في حجر جدتي أم أبي بنت سعد بن الربيع وكانت عند زيد ابن ثابت رأيتني وأنا جارية والنبي صلى الله عليه وسلم عندنا. <span class="page-no" title="end of page 59 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV05P198A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV05P198A">THRXV05P198A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 5 p. 198</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا يحيى بن محمود إجازة بإسناده إلى ابن أبي عاصم حدثنا الحسن البزار حدثنا عبد الرحمن بن محمد المحاربي حدثنا محمد بن إسحاق عن محمد بن طلحة عن أبيه عن معاوية السلمي قال جئت رسول الله صلى الله عليه وسلم فقلت يا رسول الله جئت أريد الجهاد معك أطلب وجه الله والدار الآخرة قال أحية والدتك قلت نعم قال فاذهب فبرها قال فقلت ما أرى رسول الله صلى الله عليه وسلم فهم فأتيته من ناحية أخرى فقلت له مثل ذلك فقال ويحك أحية أمك قال قلت نعم قال فاذهب فاقعد عند رجلها. <span class="page-no" title="end of page 198 of vol. 5">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFRXV01P437A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFRXV01P437A">SFRXV01P437A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFRX" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Silafī</span>, <span class='ref-title'>Muʿjam al-safar</span></a>, vol. 1 p. 437</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو زكريا يحيى بن محمد بن الحسين بن القلالي بالكوفة أنا أبو عبد الله محمد بن علي بن بن عبد الرحمن العلوي إملاء ثنا محمد بن علي بن الحسين بن أبي الجراح ثنا الحسن بن الطيب البلخي ثنا سفيان بن وكيع ثنا المحاربي عن محمد بن إسحاق عن محمد بن طلحة بن معاوية السلمي عن أبيه عن جده قال أتيت النبي صلى الله عليه وسلم فقلت إني أتيتك لأجاهد معك أبتغي بذلك وجه الله تعالى قال أحية أمك قلت نعم قال اذهب فبرها فقلت ما أحسبه فهم قال فأتيته من ناحية أخرى فقلت له مثل ذلك فقال أحية أمك قلت نعم قال اذهب فاقعد عند رجليها فثم الجهاد. <span class="page-no" title="end of page 437 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="TBJXV07P354A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBJXV07P354A">TBJXV07P354A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBJX" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Jāmiʿ al-bayān ʿan tāʾwīl āy al-Qurʾān</span></a>, vol. 7 pp. 354-355</div>
+  </header>
+  <div class="witness-text">
+    حدثنا ابن حميد قال ثنا سلمة عن محمد بن إسحاق عن يزيد بن عبد الله بن قسيط عن القعقاع بن عبد الله بن أبي حدرد الأسلمي عن أبيه عبد الله بن أبي حدرد قال بعثنا رسول الله صلى الله عليه وسلم إلى إضم فخرجت في نفر من المسلمين فيهم أبو قتادة الحارث بن ربعي ومحلم بن جثامة بن قيس الليثي فخرجنا حتى إذا كنا ببطن إضم مر بنا عامر بن الأضبط الأشجعي على قعود له معه متيع له ووطب من لبن فلما مر بنا سلم علينا بتحية الإسلام فأمسكنا عنه وحمل عليه محلم بن جثامة الليثي لشيء كان بينه وبينه فقتله وأخذ بعيره ومتيعه فلما قدمنا على رسول الله صلى الله عليه وسلم وأخبرناه الخبر نزل فينا القرآن <a href="https://quran.com/4/94" class="quran" title="Qurʾān 4.94" target="_blank">يا أيها الذين آمنوا إذا ضربتم في سبيل الله فتبينوا ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا</a> الآية حدثني هارون بن إدريس الأصم قال ثنا المحاربي عبد الرحمن بن محمد <span class="page-no" title="end of page 354 of vol. 7">§</span> عن محمد بن إسحاق عن يزيد بن عبد الله بن قسيط عن ابن أبي حدرد الأسلمي عن أبيه بنحوه. <span class="page-no" title="end of page 355 of vol. 7">§</span>
+  </div>
+</article>
+```
+
+[^comment-TBJXV07P354A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-BKSSV01P310A-1]: The author makes the following comment about the isnad: أخرجه أبو عبد الرحمن أحمد بن شعيب النسائي في سننه عن محمد بن إسماعيل بن سمرة الأحمسي الكوفي أبي جعفر السراج عن المحاربي هو عبد الرحمن بن محمد عن محمد بن إسحاق بن يسار كما أخرجناه بطوله فوقع لنا موافقة.
+[^comment-TBJXV07P354A-1]: Similar passage also is found in <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), <a href="WSHAK.html" class="witness-link">WSHAK</a> (Sulaymān b. Ḥayyān al-Azdī al-Aḥmar al-Kūfī al-Jaʿfarī), <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī), <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WYSAU.html" class="witness-link">WYSAU</a> (Yaḥyā b. Saʿīd b. Abān al-Qurashī al-Umawī al-Kūfī), and <a href="WARMZ.html" class="witness-link">WARMZ</a> (ʿAbd al-Raḥmān b. Muḥammad b. Ziyād al-Muḥāribī al-Kūfī). This passage refers to the raid of Ibn Abū Ḥadrad on the valley of Iḍam.

@@ -1,0 +1,56 @@
+---
+title: "Ḥafṣ b. ʿAbd al-Raḥmān b. ʿAmr b. Farūkh b. Faḍḍālah al-Balkhī al-Faqīh al-Nīsābūri"
+lang: "en"
+witness-code: "WHARA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية حفص بن عبد الرحمن بن عمر بن فروخ بن فضالة البلخي الفقيه النيسابوري</span>
+
+**Witness code:** `WHARA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHARA">
+```
+
+```{=html}
+<article class="sira-report" id="DQKSV01P052A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DQKSV01P052A">DQKSV01P052A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-DQKS" class="source-link"><span class='ref-author'>al-Dāraquṭnī</span>, <span class='ref-title'>Kitāb al-ṣifāt</span></a>, vol. 1 pp. 52-53</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو محمد بن صاعد ومحمد بن مخلد قالا ثنا أحمد بن منصور الرمادي ثنا يحيى بن معين وعلي بن المديني واللفظ ليحيى وثنا وهب بن جرير بن مطعم عن أبيه عن جده قال أتى رسول الله صلى الله عليه وسلم أعرابي فقال يا رسول الله جهدت الأنفس وضاع العيال ونهكت الأموال وهلكت الأنعام فاستسق الله لنا فإنا نستشفع بك على الله عز وجل ونستشفع بالله عليك فقال رسول الله صلى الله عليه وسلم ويحك أتدري ما تقول وسبح رسول الله صلى الله عليه وسلم فما زال يسبح حتى عرف ذلك أو عرف في وجوه أصحابه قال ويحك لا يستشفع بالله على أحد من خلقه شأن الله عز وجل أعظم <span class="page-no" title="end of page 52 of vol. 1">§</span> من ذلك ويحك أتدري ما الله عز وجل إن عرشه على سمواته وأرضه هكذا وأشار بأصابعه مثل القبة عليه وإنه ليأط أطيط الرحل بالراكب قال الرمادي أما علي ابن المديني فلم يتمه لنا انتهى إلى قوله لا يستشفع بالله على أحد من خلقه وأتمه لنا يحيى بن معين وكتب لي يحيى بن معين بخطه واللفظ لأبي مخلد وكذلك رواه حفص بن عبد الرحمن عن محمد بن إسحاق بهذا الإسنادومن قال فيه عن يعقوب بن عتبة وجبير بن محمد فقد وهم والصواب عن جبير بن محمد كما ذكرناه ههنا. <span class="page-no" title="end of page 53 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HBRXV02P005A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HBRXV02P005A">HBRXV02P005A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HBRX" class="source-link"><span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>al-ʿIlal wa-maʿrifat al-rijāl</span></a>, vol. 2 p. 5</div>
+  </header>
+  <div class="witness-text">
+    قال حدثني إسماعيل أبو معمر قال حدثنا حفص بن عبد الرحمن البلخي عن محمد بن إسحاق عن محمد بن إبراهيم التيمي قال كانت أمي تهب الدراهم على طلب العلم بسم الله الرحمن الرحيم. <span class="page-no" title="end of page 5 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="DRQCV02P455A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#DRQCV02P455A">DRQCV02P455A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> DRQC, vol. 2 pp. 455-456</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عثمان بن أحمد الدقاق حدثنا محمد بن الفضل بن سلمة ثنا محمد بن معاوية النيسابوري نا حفص بن عبد الرحمن عن محمد بن إسحاق عن يعقوب بن عتبة عن أبي غطفان <span class="page-no" title="end of page 455 of vol. 2">§</span> عن أبي هريرة قال قال رسول الله صلى الله عليه وسلم من أشار في صلاته إشارة تفهم عنه فليعد صلاته. <span class="page-no" title="end of page 456 of vol. 2">§</span> # @COMMENT قال لنا ابن أبي داود أبوغطفان هذا رجل مجهول وآخر الحديث زيادة في الحديث ولعله من قول ابن إسحاق والصحيح عن النبي صلى الله عليه وسلم أنه كان يشير في الصلاة رواه أنس وجابر وغيرهما عن النبي صلى الله عليه وسلم قال الشيخ أبو الحسن وقد رواه ابن عمر وعائشة أيضا.
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

@@ -1,0 +1,186 @@
+---
+title: "ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī"
+lang: "en"
+witness-code: "WABRM"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الرحمن بن مغراء بن عياض الدوسي الرازي الكوفي</span>
+
+**Witness code:** `WABRM`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WABRM">
+```
+
+```{=html}
+<article class="sira-report" id="BQWXV05P394B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BQWXV05P394B">BQWXV05P394B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BQWX" class="source-link"><span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Dalāʾil al-nubūwah wa maʿarifah aḥwāl ṣāḥib al-sharīʿah</span></a>, vol. 5 pp. 394-479</div>
+  </header>
+  <div class="witness-text">
+    وأخبرنا أبو عبد الله وأبو سعيد بن أبي عمرو قالا حدثنا أبو العباس محمد بن يعقوب حدثنا أحمد بن عبد الجبار حدثنا يونس بن بكير عن ابن إسحاق حدثنا أبان بن صالح عن عبد الله بن دينار الأسلمي عن خاله عمرو بن شاس الأسلمي وكان من أصحاب الحديبية قال كنت مع علي بن أبي طالب رضي الله عنه في خيله التي بعثه فيها رسول الله صلى الله عليه وسلم إلى اليمن فجفاني علي بعض الجفاء فوجدت في نفسي عليه فلما قدمت المدينة اشتكيته في مجالس المدينة وعند من لقيته وأقبلت يوما ورسول الله صلى الله عليه وسلم جالس فلما رآني أنظر إلى عينيه نظر إلي حتى جلست إليه فلما جلست قال إنه والله يا عمرو بن شاس لقد آذيتني فقلت إنا لله وإنا إليه راجعون <span class="page-no" title="end of page 394 of vol. 5">§</span> أعوذ بالله والإسلام أن أوذي رسول الله صلى الله عليه وسلم فقال من آذى عليا فقد آذاني أخبرنا أبو الحسين بن الفضل القطان أنبأنا عبد الله بن جعفر حدثنا يعقوب بن سفيان حدثنا أحمد بن عمرو وأبو جعفر حدثنا عبد الرحمن بن المغراء عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن بيان أو نيار عن خاله عمرو بن شاس فذكر معناه أتم منه. <span class="page-no" title="end of page 395 of vol. 5">§</span> <span class="page-no" title="end of page 479 of vol. 3">§</span>
+  </div>
+</article>
+```
+
+[^comment-BQWXV05P394B-1]
+
+```{=html}
+<article class="sira-report" id="BKHBV03P478B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV03P478B">BKHBV03P478B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 3 p. 478</div>
+  </header>
+  <div class="witness-text">
+    قال ابن يوسف أخبرنا مالك عن صفوان بن سليم عن سعيد بن سلمة من آل ابن الأزرق سمع المغيرة بن أبي بردة سمع أبا هريرة عن النبي صلى الله عليه وسلم الحل ميتته وقال عبد الله حدثنا الليث حدثنا يزيد بن أبي حبيب عن أبي كثير جلاح أن سعيد بن سلمة المخزومي أخبره أن المغيرة بن أبي بردة أخبره سمع أبا هريرة عن النبي صلى الله عليه وسلم وقال ابن وهب أخبرني عمرو عن جلاح مولى عبد العزيز عن سعيد بن سلمة المخزومي مثله وقال ابن سلام أخبرنا محمد بن سلمة عن ابن إسحاق عن يزيد ابن ابى حبيب عن جلاح عن عبد الله بن سعيد المخزومي عن المغيرة بن أبي بردة عن أبي هريرة عن النبي صلى الله عليه وسلم وقال سلمة حدثنا ابن إسحاق عن يزيد عن اللجلاج عن سلمة عن <span class="page-no" title="end of page 478 of vol. 3">§</span> المغيرة بن أبي بردة حليف بني عبد الدار عن أبي هريرة عن النبي صلى الله عليه وسلم وقال يوسف بن راشد حدثنا عبد الرحمن بن مغراء قال حدثنا ابن إسحاق عن يزيد بن أبي حبيب عن الجلاح وكان رضا عن عبد الله بن سعيد المخزومي عن مغيرة بن أبي بردة الكناني عن أبي هريرة عن النبي صلى الله عليه وسلم.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFMXV01P329A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFMXV01P329A">SFMXV01P329A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFMX" class="source-link"><span class='ref-author'>Yaʿqūb b. Sufyān al-Fārisī</span>, <span class='ref-title'>al-Maʿrifah waʾl-tārīkh</span></a>, vol. 1 pp. 329-457</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبو يوسف حدثني أحمد بن عمر أبو جعفر حدثنا عبد الرحمن ابن مغراء عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن بيان أو نيار عن خاله عمرو بن شاس وكان من أصحاب الحديبية قال خرجت مع علي بن أبي طالب في خيله التي بعثها رسول الله صلى الله عليه وسلم إلى اليمن فجفاني بعض الجفا فوجدت عليه فلما قدمت المدينة أظهرت له الشكاية في مجالس المسجد فأقبلت <span class="page-no" title="end of page 329 of vol. 1">§</span> ذات غداة والنبي صلى الله عليه وسلم جالس في المسجد فلما رآني أبدني عينيه يعني لحظني حتى أخذت حظي من المجلس فلما جلست قال يا عمرو بن شاس قلت لبيك بأبي أنت وأمي يا رسول الله فقال أما والله لقد آذيتني قلت إنا لله وإنا إليه راجعون أعوذ بالله أن أوذي رسول الله قال بلى من آذى عليا فقد آذاني. <span class="page-no" title="end of page 330 of vol. 1">§</span> <span class="page-no" title="end of page 457 of vol. 35">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFMXV01P329A-1]
+
+```{=html}
+<article class="sira-report" id="THRXV35P456A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV35P456A">THRXV35P456A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 35 p. 456</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم بن الحصين انا أبو طالب بن غيلان انا أبو بكر الشافعي نا محمد بن بشر بن مطر اخو خطاب نا سهل بن زنجلة الرازي نا عبد الرحمن بن مغراء انا محمد بن اسحاق عن اسماعيل بن مسلم عن عبد الكريم بن أبي المخارق عن حيان بن جزء السلمي عن أخيه خزيمة بن جزء قال أتيت النبي صلى الله عليه وسلم بالمدينة وقلت يا رسول الله اني جئت ان أسألك عن أحناش الأرض قال سل عما شئت قال فسألته عن الضب فقال لا آكل ولا أحرمه فقلت انى آكل ما لم يحرم قال انها فقدت يعني امة من الأمم وإني رأيت خلقا رابني قال وسألته عن الأرنب فقال لا آكله ولا احرمه قلت فإني آكل ما لم يحرم قال بلغني انها تدمى قال وسألته عن الضبع قال ومن يأكل الضبع قال وسألته عن <span class="page-no" title="end of page 456 of vol. 35">§</span> الذئب فقال لا يأكل الذئب أحد فيه خير.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NYMXV04P1996A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV04P1996A">NYMXV04P1996A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 4 p. 1996</div>
+  </header>
+  <div class="witness-text">
+    وأبو زهير عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن نمار الأسلمي عن عمرو بن شأس الأسلمي وكان من أصحاب الحديبية قال خرجت مع علي رضي الله عنه إلى اليمن فجفاني في سفري ذلك حتى وجدت في نفسي عليه فلما قدمت أظهرت شكايته في المسجد حتى بلغ ذلك رسول الله صلى الله عليه وسلم فدخلت المسجد ذات غداة ورسول الله صلى الله عليه وسلم في ناس من أصحابه فلما رأى أبدى عينه يقول حدد إلي النظر حتى إذا جلست قال يا عمرو والله لقد آذيتني قلت أعوذ بالله أن أوذيك يا رسول الله قال بلى من آذى عليا فقد آذاني. <span class="page-no" title="end of page 1996 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HRWXV01P025A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HRWXV01P025A">HRWXV01P025A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HRWX" class="source-link"><span class='ref-author'>Abū Ismāʿīl ʿAbd Allāh b. Muḥammad b. ̣Alī al-Anṣārī al-Harawī</span>, <span class='ref-title'>Dhamm al-kalām wa ahlih</span></a>, vol. 1 pp. 25-26</div>
+  </header>
+  <div class="witness-text">
+    وأخبرنا الحسن بن يحيى أخبرنا عبد الرحمن بن أحمد أخبرنا سعيد ابن محمد أخو الزبير حدثنا يوسف بن محمد حدثنا عبد الرحمن بن مغراء حدثنا محمد بن إسحاق كلاهما عن عبد الواحد بن أبي عون عن سعد بن إبراهيم حدثنا أبي وهذا لفظ ابن الصباح عن القاسم <span class="page-no" title="end of page 25 of vol. 1">§</span> عن عائشة رضي الله عنها قالت قال رسول الله صلى الله عليه وسلم من أحدث في أمرنا ما ليس منه فهو رد متفق عليه. <span class="page-no" title="end of page 26 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="NSKXV04P423A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSKXV04P423A">NSKXV04P423A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSKX" class="source-link"><span class='ref-author'>al-Nasāʾī</span>, <span class='ref-title'>al-Sunan al-kubrā</span></a>, vol. 4 p. 423</div>
+  </header>
+  <div class="witness-text">
+    حدثنا محمد بن عبد الله القطان حدثنا عبد الرحمن بن مغراء حدثنا محمد وهو ابن إسحاق عن عبد الرحمن بن محمد بن عبد الله عن عمه إبراهيم بن عبد الله عن السائب بن يزيد قال قال رسول الله صلى الله عليه وسلم من السحت ثمن الكلب ومهر البغي وكسب الحجام. <span class="page-no" title="end of page 423 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BBKHV04P119A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BBKHV04P119A">BBKHV04P119A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BBKH" class="source-link"><span class='ref-author'>Muḥammad b. Isḥāq b. al-ʿAbbās al-Makkī al-Fākihī</span>, <span class='ref-title'>Akhbār makkah fī qadīm al-dahr wa-ḥadīthih</span></a>, vol. 4 p. 119</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد السلام بن عاصم قال ثنا أبو زهير قال ثنا ابن إسحاق عن نافع أن ابن عمر رضي الله عنهما كان إذا قدم مكة نزل بذي طوى. <span class="page-no" title="end of page 119 of vol. 4">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `TDSHV10P202A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="TDSHV10P202A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TDSHV10P202A">TDSHV10P202A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 10 p. 202</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_STKXV01P311A</span> أبو الحسن الدارقطني نا أبو عبد الله عبيد الله بن عبد الصمد بن المهتدي بالله نا محمد بن علي بن زيد المكي نا أحمد بن عمر العلاف نا أبو زهير عبد الرحمن بن مغراء عن محمد ابن إسحاق عن أبان بن صالح عن القعقاع عن علي بن الحسين عن بنت عبد الله بن جعفر عن أبيها عن علي قال علمني رسول الله صلى الله عليه وسلم كلمات عند الخوف يصيبه والأمر يتخوفه أن يقول لا إله إلا الله الكريم الحليم سبحانه تبارك الله رب العرش العظيم الحمد لله رب العالمين. <span class="page-no" title="end of page 202 of vol. 70">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STKXV01P311A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STKXV01P311A">STKXV01P311A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STKX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>Kitāb al-duʿāʾ</span></a>, vol. 1 p. 311</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_TDSHV10P202A</span> حدثنا محمد بن علي الصائغ ثنا أحمد بن عمر العلاف الرازي ثنا أبو زهير عبد الرحمن بن مغراء عن محمد بن إسحاق عن القعقاع بن حكيم عن علي بن حسين عن بنت عبد الله بن جعفر عن أبيها عن علي رضي الله عنهما قال علمني رسول الله صلى الله عليه وسلم كلمات عند الخوف يصيبني والأمر أتخوفه أن أقول لا إله إلا الله الحليم الكريم سبحان الله وتبارك الله رب العرش العظيم الحمد لله رب العالمين. <span class="page-no" title="end of page 311 of vol. 1">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="BBKHV04P214A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BBKHV04P214A">BBKHV04P214A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BBKH" class="source-link"><span class='ref-author'>Muḥammad b. Isḥāq b. al-ʿAbbās al-Makkī al-Fākihī</span>, <span class='ref-title'>Akhbār makkah fī qadīm al-dahr wa-ḥadīthih</span></a>, vol. 4 pp. 214-215</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد السلام بن عاصم قال ثنا أبو زهير عن محمد بن إسحاق عن نافع قال إن ابن عمر رضي الله عنهما كان إذا قدم مكة نزل بذي طوى فإذا أصبح اغتسل هو وأصحابه يأمرهم بذلك ثم <span class="page-no" title="end of page 214 of vol. 4">§</span> يدخل مكة فيستلم الحجر ثم يطوف بالبيت وفي ذي طوى يقول الشاعر البحر الطويل <span class='poetry-line'><span class='hemistich1'>إذا جئت أقصى ذي طوى وشعبه</span> <span class='hemistich2'>فقل لهما جاد الربيع عليكما</span></span> <span class='poetry-line'><span class='hemistich1'>وقل لهما ليت الركاب التي مضت</span> <span class='hemistich2'>إلى أهل سلع قد رجعن إليكما</span></span> وقال شاعر يذكرهم أيضا <span class='poetry-line'><span class='hemistich1'>سقا واسطا فالمنحنى من أراكة</span> <span class='hemistich2'>نصيفا بأعلى ذي طوى ومربعا. </span></span> <span class="page-no" title="end of page 215 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BBKHV04P255A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BBKHV04P255A">BBKHV04P255A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BBKH" class="source-link"><span class='ref-author'>Muḥammad b. Isḥāq b. al-ʿAbbās al-Makkī al-Fākihī</span>, <span class='ref-title'>Akhbār makkah fī qadīm al-dahr wa-ḥadīthih</span></a>, vol. 4 p. 255</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد السلام بن عاصم قال ثنا أبو زهير قال ثنا محمد بن إسحاق عن نافع عن ابن عمر رضي الله عنهما قال صلى بنا رسول الله صلى الله عليه وسلم الظهر والعصر والمغرب والعشاء والفجر بمنى قال وكان ابن عمر رضي الله عنهما لا يصلي الظهر يوم التروية إلا بمنى. <span class="page-no" title="end of page 255 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-BQWXV05P394B-1]: Placement based on reference to ʿAlī’s expedition to Yemen and the criticism he received for his management of the affair. Also found in <a href="WSAAS.html" class="witness-link">WSAAS</a> (Ṣāliḥ b. Abī al-Aswad), <a href="WAHJK.html" class="witness-link">WAHJK</a> (ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī), <a href="WMAAK.html" class="witness-link">WMAAK</a> (Mandal (ʿAmr) b. ʿAlī al-ʿAnzī al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WMSJK.html" class="witness-link">WMSJK</a> (Masʿūd b. Saʿd al-Juʿfī al-Kūfī), <a href="WMKHW.html" class="witness-link">WMKHW</a> (Muḥammad b. Khālid al-Wahbī), <a href="WABRM.html" class="witness-link">WABRM</a> (ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī), and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).
+[^comment-SFMXV01P329A-1]: Placement based on reference to ʿAlī’s expedition to Yemen and the criticism he received for his management of the affair. Als found in <a href="WAHJK.html" class="witness-link">WAHJK</a> (ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī), <a href="WSAAS.html" class="witness-link">WSAAS</a> (Ṣāliḥ b. Abī al-Aswad), <a href="WMAAK.html" class="witness-link">WMAAK</a> (Mandal (ʿAmr) b. ʿAlī al-ʿAnzī al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WMSJK.html" class="witness-link">WMSJK</a> (Masʿūd b. Saʿd al-Juʿfī al-Kūfī), <a href="WMKHW.html" class="witness-link">WMKHW</a> (Muḥammad b. Khālid al-Wahbī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).

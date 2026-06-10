@@ -1,0 +1,32 @@
+---
+title: "Ismāʿīl b. Jaʿfar b. Abī Kathīr al-Madinī al-Anṣārī"
+lang: "en"
+witness-code: "WIJAK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية اسماعيل بن جعفر بن ابي كثير</span>
+
+**Witness code:** `WIJAK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WIJAK">
+```
+
+```{=html}
+<article class="sira-report" id="STBXV04P252C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P252C">STBXV04P252C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 252</div>
+  </header>
+  <div class="witness-text">
+    حدثنا علي بن عبد العزيز ثنا أبو عبيد القاسم بن سلام ثنا إسماعيل بن جعفر عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال قال رسول الله صلى الله عليه وسلم العامل على الصدقة بالحق كالغازي في سبيل الله حتى يرجع إلى بيته. <span class="page-no" title="end of page 252 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

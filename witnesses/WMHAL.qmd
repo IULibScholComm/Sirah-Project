@@ -1,0 +1,80 @@
+---
+title: "Muḥammad b. al-Ḥajjāj al-Lakhmī"
+lang: "en"
+witness-code: "WMHAL"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية محمد بن الحجاج اللخمي</span>
+
+**Witness code:** `WMHAL`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMHAL">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `ZZBXV13P043A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="ZZBXV13P043A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ZZBXV13P043A">ZZBXV13P043A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 13 p. 43</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZZBXV13P043A</span> <span class="variant-id">VAR_HYKUV03P061A</span> حدثنا أحمد بن داود الواسطي حدثنا أبو عمرو اللخمي يعني محمد بن الحجاج حدثنا محمد بن إسحاق عن الزهري عن أنس قال كانت جارية لعبد الله بن أبي يقال معاذة يكرهها على الزنا فلما جاء الإسلام نزلت <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">ولا تكرهوا فتياتكم علي البغاء</a> إلى قوله <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">فإن الله من بعد إكرههن غفور رحيم.</a> <span class="page-no" title="end of page 43 of vol. 13">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KTHQV06P055A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KTHQV06P055A">KTHQV06P055A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KTHQ" class="source-link"><span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>Tafsīr al-Qurʾān al-ʿAẓīm</span></a>, vol. 6 p. 55</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZZBXV13P043A</span> <span class="variant-id">VAR_HYKUV03P061A</span> قال الحافظ أبو بكر أحمد بن عمرو بن عبد الخالق البزار رحمه الله في مسنده حدثنا أحمد بن داود الواسطي حدثنا أبو عمرو اللخمي يعني محمد بن الحجاج حدثنا محمد ابن إسحاق عن الزهري قال كانت جارية لعبد الله بن أبي ابن سلول يقال لها معاذة يكرهها على الزنى فلما جاء الإسلام نزلت <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">ولا تكرهوا فتياتكم على البغاء</a> إلى قوله <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">فإن الله من بعد إكراههن غفور رحيم</a>. <span class="page-no" title="end of page 55 of vol. 6">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HYKUV03P061A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HYKUV03P061A">HYKUV03P061A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYKU" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>Kashf al-astār ʿan zawāʾid al-Bazzār</span></a>, vol. 3 p. 61</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_ZZBXV13P043A</span> <span class="variant-id">VAR_ZZBXV13P043A</span> حدثنا أحمد بن داود الواسطي ثنا أبو عمرو اللخمي يعني محمد بن الحجاج ثنا محمد بن إسحاق عن الزهري عن أنس قال كانت جارية لعبد الله بن أبي يقال لها معاذة يكرهها على الزنا فلما جاء الإسلام نزلت <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">ولا تكرهوا فتياتكم على البغاء</a> إلى قوله <a href="https://quran.com/24/33" class="quran" title="Qurʾān 24.33" target="_blank">فإن الله من بعد إكراههن غفور رحيم</a>. <span class="page-no" title="end of page 61 of vol. 3">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+<article class="sira-report" id="ZZBXV13P042C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZZBXV13P042C">ZZBXV13P042C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZZBX" class="source-link"><span class='ref-author'>Abū Bakr Aḥmad b. ʿAmr al-Bazzār</span>, <span class='ref-title'>Musnad al-Bazzār</span></a>, vol. 13 p. 42</div>
+  </header>
+  <div class="witness-text">
+    وحدثناه أحمد بن داود الواسطي حدثنا أبو عمرو أحسبه محمد بن الحجاج عن محمد بن إسحاق عن الزهري عن أنس أن الأنصار استأذنوا رسول الله صلى الله عليه وسلم فقالوا يا رسول الله ائذن لنا فلنترك لابن أخينا العباس فداءه قال لا ولا درهما. <span class="page-no" title="end of page 42 of vol. 13">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

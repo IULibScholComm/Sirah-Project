@@ -1,0 +1,242 @@
+---
+title: "Mandal b. ʿAlī al-ʿAnazī Abū ʿAbd Allāh al-Kūfī"
+lang: "en"
+witness-code: "WMAAK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية مندل بن على العنزي</span>
+
+**Witness code:** `WMAAK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WMAAK">
+```
+
+```{=html}
+<article class="sira-report" id="NYMXV04P1996A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NYMXV04P1996A">NYMXV04P1996A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 4 pp. 1996-265</div>
+  </header>
+  <div class="witness-text">
+    وحدثنا أبو أحمد محمد بن أحمد بن إسحاق الأنماطي ثنا عبدان بن أحمد ثنا زيد بن الحريش ثنا محمد بن الصلت ثنا مندل بن علي عن محمد بن إسحاق عن أبان بن صالح عن الفضل بن معقل بن سنان عن عبد الله بن نمار الأسلمي عن عمرو بن شاس الأسلمي وكان من أصحاب الحديبية قال خرجت مع علي رضي الله عنه إلى اليمن فجفاني في سفري ذلك حتى وجدت في نفسي عليه فلما قدمت أظهرت شكايته في المسجد حتى بلغ ذلك رسول الله صلى الله عليه وسلم فدخلت المسجد ذات غداة ورسول الله صلى الله عليه وسلم في ناس من أصحابه فلما رأى أبدى عينه يقول حدد إلي النظر حتى إذا جلست قال يا عمرو والله لقد آذيتني قلت أعوذ بالله أن أوذيك يا رسول الله قال بلى من آذى عليا فقد آذاني. <span class="page-no" title="end of page 1996 of vol. 4">§</span> <span class="page-no" title="end of page 265 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-NYMXV04P1996A-1]
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `IZMHV01P265A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="IZMHV01P265A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IZMHV01P265A">IZMHV01P265A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IZMH" class="source-link"><span class='ref-author'>Ibn Zanbūr al-Warāq</span>, <span class='ref-title'>Min ḥadīth al-Baghawī</span></a>, vol. 1 p. 265</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا ابن صاعد ثنا أحمد بن سيار ثنا زيد بن الحباب ثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله بن عتبة عن ابن عباس قال كان للنبي صلى الله عليه وسلم قدح من قوارير يشرب فيه.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="SMJXV02P1136A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SMJXV02P1136A">SMJXV02P1136A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SMJX" class="source-link"><span class='ref-author'>Ibn Mājah</span>, <span class='ref-title'>Sunan Ibn Majāh</span></a>, vol. 2 p. 1136</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا أحمد بن سنان قال حدثنا زيد بن الحباب قال حدثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس قال كان لرسول الله صلى الله عليه وسلم قدح قوارير يشرب فيه. <span class="page-no" title="end of page 1136 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="THSHV11P128A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#THSHV11P128A">THSHV11P128A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 11 pp. 128-129</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا علي بن عبد الرحمن حدثنا يحيى بن معين حدثنا زيد بن الحباب حدثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس رضي الله عنهما قال أهدى المقوقس صاحب <span class="page-no" title="end of page 128 of vol. 11">§</span> مصر إلى رسول الله صلى الله عليه وسلم قدحا من زجاج وكان يشرب فيه. <span class="page-no" title="end of page 129 of vol. 11">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="AAMZV04P048A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#AAMZV04P048A">AAMZV04P048A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-AAMZ" class="source-link"><span class='ref-author'>Aḥmad b. Abī Bakr b. Ismāʿīl al-Būṣīrī</span>, <span class='ref-title'>Miṣbāḥ al-zujājah fī zawāʾid Ibn Mājah</span></a>, vol. 4 p. 48</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا أحمد بن سنان ثنا زيد بن الحباب ثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس قال كان لرسول الله صلى الله عليه وسلم قدح قوارير يشرب فيه. <span class="page-no" title="end of page 48 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NSHXV03P289A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NSHXV03P289A">NSHXV03P289A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSHX" class="source-link"><span class='ref-author'>ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Nīsābūrī</span>, <span class='ref-title'>Sharaf al-muṣṭafā</span></a>, vol. 3 p. 289</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> والبغوي في الأنوار برقم من حديث ابن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس أن صاحب اسكندرية بعث إلى رسول الله صلى الله عليه وسلم بقدح قوارير فكان صلى الله عليه وسلم يشرب فيه في إسناده مندل بن علي وهو ضعيف. <span class="page-no" title="end of page 289 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NSHXV04P476A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NSHXV04P476A">NSHXV04P476A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSHX" class="source-link"><span class='ref-author'>ʿAbd al-Mālik b. Muḥammad b. Ibrāhīm al-Nīsābūrī</span>, <span class='ref-title'>Sharaf al-muṣṭafā</span></a>, vol. 4 p. 476</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> أخرجه ابن ماجه في الأشربة باب الشرب في الزجاج رقم وأبو نعيم في الطب كلاهما من حديث مندل بن علي العنزي وهو ضعيف عن ابن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس قال كان لرسول الله صلى الله عليه وسلم قدح قوارير يشرب فيه. <span class="page-no" title="end of page 476 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="BNKXV03P026A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#BNKXV03P026A">BNKXV03P026A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BNKX" class="source-link"><span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>Kitāb al-majrūḥīn min al-muḥaddithīn waʾl-ḍuʿafāʾ waʾl-matrūkīn</span></a>, vol. 3 p. 26</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> أخبرناه بن زهير قال حدثنا أبو زرعة الرازي قال حدثنا أحمد بن عبد الله بن يونس قال حدثنا مندل بن علي وروى عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن بن عباس قال كان لرسول الله صلى الله عليه وسلم قدح قوارير يشرب فيه أخبرناه محمد بن المسيب قال حدثنا أحمد بن سنان القطان قال حدثنا زيد بن الحباب قال حدثنا مندل بن علي عن محمد بن إسحاق. <span class="page-no" title="end of page 26 of vol. 3">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="IQBWV04P608A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#IQBWV04P608A">IQBWV04P608A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-IQBW" class="source-link"><span class='ref-author'>Ibn al-Qaṭṭān</span>, <span class='ref-title'>Bayān al-wahm waʾl-ihām fī kitāb al-aḥkām</span></a>, vol. 4 p. 608</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> وذكر من طريق البزار عن ابن عباس قال أهدى المقوقس إلى رسول الله صلى الله عليه وسلم قدح قوارير فكان يشرب فيه ثم قال هذا يروى منقطعا ووصله مندل بن علي وكان لا بأس به عند بعضهم انتهى لامه فهو به شبه المصحح له وهو من رواية مندل عن ابن إسحاق عن الزهري عن عبيد الله بن عبد الله عن ابن عباس ولم يبين أبو محمد أنه من رواية ابن إسحاق. <span class="page-no" title="end of page 608 of vol. 4">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="MSBFV02P756A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#MSBFV02P756A">MSBFV02P756A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MSBF" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd Allāh b. Ibrāhīm b. ʿAbdawayh al-Shāfiʿī al-Bazzāz</span>, <span class='ref-title'>Kitāb al-fawāʾid</span></a>, vol. 2 p. 756</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا ابن ياسين ثنا أحمد بن سنان القطان ثنا زيد بن الحباب ثنا مندل بن علي عن محمد بن إسحاق عن عبيد الله بن عبد الله عن ابن عباس قال كان لرسول الله صلى الله عليه وسلم قدح من قوارير يشرب فيه. <span class="page-no" title="end of page 756 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="HJRSV06P295A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#HJRSV06P295A">HJRSV06P295A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRS" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span></a>, vol. 6 p. 295</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_NYTNV02P674A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> وذكره ابن مندة في الصّحابة فقال مقوقس صاحب الإسكندريّة روى عنه عبيد اللَّه بن عبد اللَّه بن عتبة ثم ساق من طريق حسين بن حسن الأسواريّ حدّثنا مندل بن علي عن محمد بن إسحاق عن الزهريّ عن عبيد اللَّه حدّثني المقوقس قال أهديت إلى النبيّ صلّى اللَّه عليه وآله وسلم قدح قوارير وكان يشرب فيه. <span class="page-no" title="end of page 295 of vol. 6">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NYTNV02P674A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NYTNV02P674A">NYTNV02P674A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYTN" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>al-Ṭibb al-nabawī</span></a>, vol. 2 pp. 674-675</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYMXV05P2648A</span> حدثنا أبو عمر عثمان بن أحمد بن سمعان حدثنا عبد الله بن محطبة حدثنا أحمد بن عبدة حدثنا الحسين بن الحسن حدثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن المقوقس رضي الله عنه قال أهديت إلى رسول الله صلى الله عليه وسلم قدحا من <span class="page-no" title="end of page 674 of vol. 2">§</span> قوارير فكان يشرب منه. <span class="page-no" title="end of page 675 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="NYMXV05P2648A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NYMXV05P2648A">NYMXV05P2648A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 5 p. 2648</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_IZMHV01P265A</span> <span class="variant-id">VAR_SMJXV02P1136A</span> <span class="variant-id">VAR_THSHV11P128A</span> <span class="variant-id">VAR_AAMZV04P048A</span> <span class="variant-id">VAR_NSHXV03P289A</span> <span class="variant-id">VAR_NSHXV04P476A</span> <span class="variant-id">VAR_BNKXV03P026A</span> <span class="variant-id">VAR_IQBWV04P608A</span> <span class="variant-id">VAR_MSBFV02P756A</span> <span class="variant-id">VAR_HJRSV06P295A</span> <span class="variant-id">VAR_NYTNV02P674A</span> حدثنا أبو عمرو بن عثمان بن أحمد بن سمعان ثنا عبد الله بن قحطبة ثنا أحمد بن عبدة ثنا الحسين بن الحسن ثنا مندل بن علي عن محمد بن إسحاق عن الزهري عن عبيد الله بن عبد الله عن المقوقس قال أهديت إلى النبي صلى الله عليه وسلم قدحا من قوارير فكان يشرب منه رواه إسماعيل بن عمرو عن مندل فقال عن ابن عباس أن المقوقس أهدى. <span class="page-no" title="end of page 2648 of vol. 5">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `THSHV02P323A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="THSHV02P323A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#THSHV02P323A">THSHV02P323A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 2 p. 323</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KJMAV01P026A</span> <span class="variant-id">VAR_ABABV01P166A</span> حدثنا أبو أمية حدثنا إسماعيل بن أبان الوراق حدثنا مندل بن علي عن ابن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن أبي سعيد الخدري قال قال النبي عليه السلام ما شهد رجل على رجل بالكفر إلا باء بها أحدهما إن كان كافرا فهو كما قال وإن لم يكن كافرا فقد كفر بتكفيره إياه. <span class="page-no" title="end of page 323 of vol. 2">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="KJMAV01P026A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KJMAV01P026A">KJMAV01P026A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KJMA" class="source-link"><span class='ref-author'>Muḥammad b. Jaʿfar al-Kharāʾiṭī</span>, <span class='ref-title'>Masāwī al-akhlāq wa-madhmūmuhā</span></a>, vol. 1 p. 26</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV02P323A</span> <span class="variant-id">VAR_ABABV01P166A</span> حدثنا أبو جعفر الحداد ببغداد ثنا يوسف بن موسى القطان حدثني إسماعيل بن أبان ثنا مندل بن علي عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه وسلم ما شهد رجل على رجل بالكفر إلا باء به أحدهما إن كان كافرا فهو كما قال وإن لم يكن كافرا فقد كفر بتكفيره إياه. <span class="page-no" title="end of page 26 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="ABABV01P166A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#ABABV01P166A">ABABV01P166A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ABAB" class="source-link"><span class='ref-author'>Abū Bakr al-Anbārī al-Bundār</span>, <span class='ref-title'>Hadīth Abī Bakr al-Anbārī</span></a>, vol. 1 p. 166</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THSHV02P323A</span> <span class="variant-id">VAR_KJMAV01P026A</span> حدثنا جعفر بن محمد قثنا إسماعيل بن أبان أبو إسحاق الوراق الكوفي وكان ثقة قثنا مندل بن علي عن محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن أبي سعيد الخدري قال قال رسول الله صلى الله عليه وسلم ما شهد رجل على رجل بكفر إلا باء به أحدهما إن كان كافرا فهو كما قال وإن لم يكن كافرا فقد كفر بتكفيره إياه. <span class="page-no" title="end of page 166 of vol. 1">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+```{=html}
+</div>
+```
+
+
+[^comment-NYMXV04P1996A-1]: Placement of <a href="../references.html#ref-NYMX" class="source-ref">NYMXV04P1996A</a> (<span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span>, vol. 4 p. 1996) based on reference to ʿAlī’s expedition to Yemen and the criticism he received for his management of the affair. Also found in <a href="WAHJK.html" class="witness-link">WAHJK</a> (ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī), <a href="WSAAS.html" class="witness-link">WSAAS</a> (Ṣāliḥ b. Abī al-Aswad), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WMSJK.html" class="witness-link">WMSJK</a> (Masʿūd b. Saʿd al-Juʿfī al-Kūfī), <a href="WMKHW.html" class="witness-link">WMKHW</a> (Muḥammad b. Khālid al-Wahbī), <a href="WABRM.html" class="witness-link">WABRM</a> (ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).

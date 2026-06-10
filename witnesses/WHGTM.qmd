@@ -1,0 +1,56 @@
+---
+title: "Ḥafṣ b. Ghayyāth al-Nakhaʿī al-Kūfī"
+lang: "en"
+witness-code: "WHGTM"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية حفص بن غياث النخعي الكوفي</span>
+
+**Witness code:** `WHGTM`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHGTM">
+```
+
+```{=html}
+<article class="sira-report" id="THRXV34P231A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV34P231A">THRXV34P231A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 34 p. 231</div>
+  </header>
+  <div class="witness-text">
+    قال ونا ابن أبي خيثمة نا الأخنسي نا حفص يعني ابن غياث عن ابن إسحاق قال قدم علينا عبد الرحمن بن الأسود حاجا فاعتلت إحدى قدميه فقام يصلي حتى أصبح على قدم فصلى الفجر بوضوء العشاء. <span class="page-no" title="end of page 231 of vol. 34">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV34P231B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV34P231B">THRXV34P231B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 34 p. 231</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو القاسم زاهر بن طاهر أنا أحمد بن الحسين الحافظ نا محمد بن عبد الله الحافظ نا محمد بن حاتم أنا أبو محمد بن منصور أنا محمد بن عبد الوهاب أنا علي بن عثام نا حفص بن غياث عن محمد بن إسحاق قال قدم علينا عبد الرحمن بن الأسود معتلا من رجله فكان يقوم على رجل حتى يصبح قال علي وكان الأسود ذهبت عينه. <span class="page-no" title="end of page 231 of vol. 34">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="ZTTHV02P219A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#ZTTHV02P219A">ZTTHV02P219A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-ZTTH" class="source-link"><span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr al-safar al-thālith</span></a>, vol. 2 p. 219</div>
+  </header>
+  <div class="witness-text">
+    حدثنا الحسين بن حماد قال حدثني حفص بن غياث عن محمد بن إسحاق قال كان أبو جعفر يخضب رأسه. <span class="page-no" title="end of page 219 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

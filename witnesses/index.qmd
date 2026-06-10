@@ -1,0 +1,117 @@
+---
+title: "Witness Versions"
+---
+
+This list of witness versions is generated from `data/meta/Witness_list_sheet.csv`.
+
+| Witness | Name | Arabic | Passages | Words | Organized by Story |
+|---|---|---:|---:|---:|---|
+| [`WABBS`](WABBS.qmd) | ʿAbbād b. Salamah (see Ḥammād b. Salamah b. Dinār folder) | <span lang="ar" dir="rtl">عباد بن سلمة</span> | 13 | 404 | N |
+| [`WABAW`](WABAW.qmd) | ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī | <span lang="ar" dir="rtl">عباد بن عوام الكلابي الوسطي</span> | 26 | 1742 | N |
+| [`WABAI`](WABAI.qmd) | ʿAbbād b. ʿAbbād al-Muhallabī | <span lang="ar" dir="rtl">عباد بن عباد المهلبي</span> | 2 | 299 | N |
+| [`WAIYA`](WAIYA.qmd) | ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī | <span lang="ar" dir="rtl">عبد الله بم هدريس</span> | 293 | 37391 | n |
+| [`WAANH`](WAANH.qmd) | ʿAbd Allāh b. Numayr al-Hamdānī al-Khāraqī al-Kūfī | <span lang="ar" dir="rtl">عبد الله بن نمير</span> | 32 | 3461 | N |
+| [`WAYSS`](WAYSS.qmd) | ʿAbd Allāh b. Yazīd b. al-Ṣalt al-Shaybānī | <span lang="ar" dir="rtl">عبد الله بن يزيد بن الصلت</span> | 3 | 260 | N |
+| [`WAAAY`](WAAAY.qmd) | ʿAbd Allāh b. al-Ajlaḥ (Yaḥyā) ʿAbd Allāh b. Ḥujayah al-Kindī al-Kūfī | <span lang="ar" dir="rtl">عبد الله بن الاجلح</span> | 7 | 1307 | N |
+| [`WAUAA`](WAUAA.qmd) | ʿAbd Allāh b. ʿAbd Allāh b. Uways b. Mālik b. Abī ʿĀmir al-Aṣbaḥī AKA: Abū Uways | <span lang="ar" dir="rtl">عبد الله بن عبد الله بن اويس ابو اويس</span> | 1 | 115 | N |
+| [`WABAM`](WABAM.qmd) | ʿAbd Allāh b. ʿĀmir | <span lang="ar" dir="rtl">عبد الله بن عامر</span> | 1 | 129 | Y |
+| [`WARBN`](WARBN.qmd) | ʿAbd Rabbihi b. Nāfiʿ al-Qurashī al-Umawī | <span lang="ar" dir="rtl">عبد ربه بن نافيع</span> | 2 | 223 | N |
+| [`WABAB`](WABAB.qmd) | ʿAbd al-Aʿlā b. ʿAbd al-Aʿlā al-Shāmī al-Baṣrī | <span lang="ar" dir="rtl">عبد الاعلى بن عبد الاعلى</span> | 105 | 11996 | N |
+| [`WAWAA`](WAWAA.qmd) | ʿAbd al-Mālik b. ʿAbd al-ʿAzīz b. Jurayj al-Qurashī al-Umawī | <span lang="ar" dir="rtl">عبد الملك بن عيد العزيز بن جريج</span> | 1 | 283 | Y |
+| [`WASMR`](WASMR.qmd) | ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī | <span lang="ar" dir="rtl">عبد الرحيم بن سليمان المروزي</span> | 25 | 2552 | N |
+| `WARBS` | ʿAbd al-Raḥmān b. Bashīr al-Shaybānī al-Dimishqī | <span lang="ar" dir="rtl">عبد الرحمن بن بشير</span> | 9 | 1173 | N |
+| [`WABRM`](WABRM.qmd) | ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī | <span lang="ar" dir="rtl">عبد الرحمن بن مغراء بن عياد</span> | 12 | 1427 | N |
+| [`WARMZ`](WARMZ.qmd) | ʿAbd al-Raḥmān b. Muḥammad b. Ziyād al-Muḥāribī al-Kūfī | <span lang="ar" dir="rtl">عبد الرحمن بن محمد بن زياد</span> | 17 | 3959 | N |
+| [`WAWSD`](WAWSD.qmd) | ʿAbd al-Wārith b. Saʿīd b. Dhakhwān al-Tamīmī al-Tanūrī al-Baṣrī | <span lang="ar" dir="rtl">عبد الوارث بن سعيد بن ذخوان</span> | 13 | 2365 | N |
+| [`WAZID`](WAZID.qmd) | ʿAbd al-ʿAzīz b. Muḥammad b. ʿUbayd b. Abī ʿUbayd al-Darāwardī | <span lang="ar" dir="rtl">عبد العزيز بم محمد بن عبيد بن ابي عبيد الدراوردي</span> | 1 | 95 | Y |
+| [`WASKA`](WASKA.qmd) | ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī | <span lang="ar" dir="rtl">عبدة (عبد الرحمن) بن سليمان الكليبي</span> | 52 | 5086 | N |
+| [`WAKMW`](WAKMW.qmd) | Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī | <span lang="ar" dir="rtl">احمد بن خالد بن موسى الوهبي</span> | 72 | 8435 | N |
+| [`WAFMA`](WAFMA.qmd) | Aḥmad b. al-Faḍl b. Muḥammad al-Bāṭraqānī | <span lang="ar" dir="rtl">احمد بن لبفضل بن محمد الباطرقاني</span> | 3 | 392 | N |
+| [`WAAWH`](WAAWH.qmd) | Aḥmad b. ʿAbd al-Mālik b. Wāqid al-Ḥarrānī | <span lang="ar" dir="rtl">احمد بن عبد الملك بن واقد الحراني</span> | 1 | 147 | N |
+| [`WAHWA`](WAHWA.qmd) | ʿAlāʾ b. Hārūn al-Wāsiṭī | <span lang="ar" dir="rtl">علاء بن هارون الوسطي</span> | 2 | 351 | N |
+| [`WALMU`](WALMU.qmd) | ʿAlī b. Muḥammad | <span lang="ar" dir="rtl">علي بن محمد</span> |  |  |  |
+| [`WAMRR`](WAMRR.qmd) | ʿAlī b. Mujāhid b. Rafīʿ al-Rāzī al-Kindī “Ibn al-Kābilī” | <span lang="ar" dir="rtl">علي بن مجاهد بن رفيع الرازي</span> | 20 | 4589 |  |
+| [`WAMAQ`](WAMAQ.qmd) | ʿAlī b. Mushir al-Kūfī al-Qurashī | <span lang="ar" dir="rtl">علي بن مشر الكوفي</span> | 2 | 456 | N |
+| [`WALTH`](WALTH.qmd) | ʿAlī b. Thābit | <span lang="ar" dir="rtl">علي بن ثابت</span> | 1 | 121 | N |
+| [`WAHJK`](WAHJK.qmd) | ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī | <span lang="ar" dir="rtl">عمرو بن هاشم (او هشام) ابو ملك الجنبي</span> | 4 | 677 | Y |
+| [`WBRKA`](WBRKA.qmd) | Bakr b. Ḥārithah al-Juhanī | <span lang="ar" dir="rtl">بكر بن حارثة الجهني</span> | 1 | 667 | Y |
+| [`WBSAB`](WBSAB.qmd) | Bakr b. Sulaymān al-Aswārī al-Baṣrī | <span lang="ar" dir="rtl">بكر بن سليمان الاسواري</span> | 44 | 3981 | N |
+| [`WGHID`](WGHID.qmd) | Ghayyāth b. Ibrāhīm Dāwūd al-Awdī al-Baṣrī | <span lang="ar" dir="rtl">غياث بن ابراهيم داود الاودي</span> | 1 | 119 | Y |
+| [`WHACI`](WHACI.qmd) | Hārūn b. Abī ʿĪsā al-Shāmī | <span lang="ar" dir="rtl">هبرون بن ابي عيسى الشامي</span> | 48 | 10207 |  |
+| [`WHBQD`](WHBQD.qmd) | Hushaym b. Bashīr b. al-Qāsim b. Dīnār al-Salamī | <span lang="ar" dir="rtl">هشيم بن بشير بن القاسم بن دينار</span> | 11 | 1129 |  |
+| [`WHGTM`](WHGTM.qmd) | Ḥafṣ b. Ghayyāth al-Nakhaʿī al-Kūfī | <span lang="ar" dir="rtl">حفص بن غياث النخعي</span> | 3 | 190 |  |
+| [`WHARA`](WHARA.qmd) | Ḥafṣ b. ʿAbd al-Raḥmān b. ʿAmr b. Farūkh b. Faḍḍālah al-Balkhī al-Faqīh al-Nīsābūri | <span lang="ar" dir="rtl">حفص بن عبد الرحمن بن عمرو بن فروخ بن فضالة</span> | 3 | 433 |  |
+| [`WHSDB`](WHSDB.qmd) | Ḥammād b. Salamah b. Dīnār al-Baṣrī | <span lang="ar" dir="rtl">حماد بن سلمة بن دينار البصري</span> | 60 | 6039 | N |
+| [`WIBMK`](WIBMK.qmd) | Ibn al-Mubārak, Abū ʿAbd al-Raḥmān ʿAbd Allāh b. Mubārak | <span lang="ar" dir="rtl">ابن المبارك ابو عبد الرحمن</span> | 10 | 1153 | N |
+| [`WSACD`](WSACD.qmd) | Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī | <span lang="ar" dir="rtl">ابراهيم بن سعد بن ابراهيم بن عبد الرحمن</span> | 1122 | 157909 | Y |
+| [`WITSK`](WITSK.qmd) | Ibrāhīm b. Ṭahmān b. Shuʿbah al-Khurāsānī al-Harawī | <span lang="ar" dir="rtl">ابراهيم بن طهمان بن شعبة</span> |  |  |  |
+| [`WIMTR`](WIMTR.qmd) | Ibrāhīm b. al-Mukhtār al-Tamīmī al-Rāzī | <span lang="ar" dir="rtl">ابراهيم بن المختبار الميمي الرازي</span> | 44 | 3709 |  |
+| [`WIBMA`](WIBMA.qmd) | Isḥāq b. Bashr b. Muḥammad b. ʿAbd Allāh b. Sālim, Abū Ḥudhayfah al-Bukhārī | <span lang="ar" dir="rtl">اسحاق بن بشر بن محمد بن عيد الله</span> |  |  |  |
+| [`WISAU`](WISAU.qmd) | Ismāʿīl b. Abī Uways | <span lang="ar" dir="rtl">اسماعيل بن ابي اويس</span> |  |  |  |
+| [`WISIB`](WISIB.qmd) | Ismāʿīl b. Ibrāhīm b. Muḥammad b. Ṭalḥah al-Ḥijāzī | <span lang="ar" dir="rtl">اسماعيل بن ابراهيم بن محمد</span> |  |  |  |
+| [`WIJAK`](WIJAK.qmd) | Ismāʿīl b. Jaʿfar b. Abī Kathīr al-Madinī al-Anṣārī | <span lang="ar" dir="rtl">اسماعيل بن جعفر بن ابي كثير</span> |  |  |  |
+| [`WIASA`](WIASA.qmd) | Ismāʿīl b. ʿAyyāsh b. Sulaym al-ʿAnsī al-Ḥumṣī | <span lang="ar" dir="rtl">اسماعيل بن عياش بن سليم العنسي</span> |  |  |  |
+| [`WISUL`](WISUL.qmd) | Ismāʿīl b. ʿUlayah | <span lang="ar" dir="rtl">اسماعيل بن علية</span> |  |  |  |
+| [`WIMRZ`](WIMRZ.qmd) | ʿĪsā b. Maysarah al-Rāzī | <span lang="ar" dir="rtl">عيسى بن ميسرة الرازي</span> |  |  |  |
+| [`WIYAS`](WIYAS.qmd) | ʿĪsā b. Yūnus b. Abī Isḥāq al-Sabīʿī al-Kufī **** | <span lang="ar" dir="rtl">عسى بن يونس بن ابي اسحاق السبيعي</span> |  |  |  |
+| [`WJHZA`](WJHZA.qmd) | Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī | <span lang="ar" dir="rtl">جرير بن حازم</span> |  |  |  |
+| [`WJAHD`](WJAHD.qmd) | Jarīr b. ʿAbd al-Ḥamīd al-Ḍabbī | <span lang="ar" dir="rtl">جرير بن عبد الحميد الضبي</span> |  |  |  |
+| [`WJHUN`](WJHUN.qmd) | Jaʿfar b. al-Ḥārith b. ʿUmārah al-Nikhaʿī | <span lang="ar" dir="rtl">جعفر بن الحارث بن عمارة النخعي</span> |  |  |  |
+| [`WKMIY`](WKMIY.qmd) | Karāmah bint Muḥammad b. Isḥāq b. Yasār | <span lang="ar" dir="rtl">كرامة بنت محمد بن اسحاق بن يسار</span> |  |  |  |
+| [`WLYSN`](WLYSN.qmd) | Lūṭ b. Yaḥyā b. Saʿīd b. Mikhnaf al-Azdī Abū Mikhnaf | <span lang="ar" dir="rtl">لوط بن يحيى بن سعيد بن مخنف</span> |  |  |  |
+| [`WMAAK`](WMAAK.qmd) | Mandal (ʿAmr) b. ʿAlī al-ʿAnzī al-Kūfī | <span lang="ar" dir="rtl">مندل (عمرو) بن علي العنزي</span> |  |  |  |
+| [`WMSJK`](WMSJK.qmd) | Masʿūd b. Saʿd al-Juʿfī al-Kūfī | <span lang="ar" dir="rtl">مسعود بن سعد الجعفي</span> |  |  |  |
+| [`WMGHS`](WMGHS.qmd) | Mughīrah b. Siqlāb | <span lang="ar" dir="rtl">مغيرة بن سقلاب</span> |  |  |  |
+| [`WMAAI`](WMAAI.qmd) | Muḥammad b. Abī ʿAdī (Ibrāhīm) al-Baṣrī | <span lang="ar" dir="rtl">محمد بن ابي عدي</span> |  |  |  |
+| [`WMFGH`](WMFGH.qmd) | Muḥammad b. Fuḍayl b. Ghazwān b. Jarīr al-Ḍabbī al-Kūfī | <span lang="ar" dir="rtl">محمد بن فضيل بن غزوان</span> |  |  |  |
+| [`WMHHA`](WMHHA.qmd) | Muḥammad b. Ḥasan | <span lang="ar" dir="rtl">محمد بن حسن</span> |  |  |  |
+| [`WUISL`](WUISL.qmd) | Muḥammad b. Ismāʿīl b. Muslim b. Abī Fadayk, Abū Ismāʿīl | <span lang="ar" dir="rtl">محمد بن اسماعيل بن مسلم بن ابي فديك</span> |  |  |  |
+| `WMKSQ` | Muḥammad b. Kaʿb b. Salīm b. Asad al-Quraẓī al-Madinī AKA: Abū Ḥamzah | <span lang="ar" dir="rtl">محمد بن كعب بن سليم بن اسد ابو حمزة</span> |  |  |  |
+| `WMKHW` | Muḥammad b. Khālid al-Wahbī | <span lang="ar" dir="rtl">محمد بن خالد الوهبي</span> |  |  |  |
+| `WMKHZ` | Muḥammad b. Khāzim al-Ḍarīr, Abū Muʿāwiyah | <span lang="ar" dir="rtl">محمد بن خازم الضرير</span> |  |  |  |
+| `WMMAH` | Muḥammad b. Maslamah al-Makhzūmī al-Madīnī | <span lang="ar" dir="rtl">محمد بن مسلمة المخزومي</span> |  |  |  |
+| `WMMRA` | Muḥammad b. Muʿallā al-Razī al-Azdī | <span lang="ar" dir="rtl">محمد بن معلى (معلا) الرازي</span> |  |  |  |
+| `WMHNS` | Muḥammad b. Naṣr | <span lang="ar" dir="rtl">محمد بن نصر</span> |  |  |  |
+| [`WMSAH`](WMSAH.qmd) | Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī | <span lang="ar" dir="rtl">محمد بن سلمة بن عبد الله الباهلي</span> |  |  |  |
+| `WMYFT` | Muḥammad b. Yaḥyā from “one I trust” | <span lang="ar" dir="rtl">محمد بن يحيى</span> |  |  |  |
+| `WMYKA` | Muḥammad b. Yazīd al-Kalāʿī al-Wāsiṭī | <span lang="ar" dir="rtl">محمد بن يزيد الكلاعي</span> |  |  |  |
+| [`WMHAL`](WMHAL.qmd) | Muḥammad b. al-Ḥajjāj al-Lakhmī | <span lang="ar" dir="rtl">محمد بن الحجاج اللخمي</span> |  |  |  |
+| [`WMAAJ`](WMAAJ.qmd) | Muḥammad b. ʿAbd Allāh al-Jawharī | <span lang="ar" dir="rtl">محمد بن عبد الله الجوهري</span> |  |  |  |
+| [`WMAAW`](WMAAW.qmd) | Muḥammad b. ʿAmr b. ʿAwwan al-Wāsiṭī Abū ʿAwwan | <span lang="ar" dir="rtl">محمد بن عمرو بن عون</span> |  |  |  |
+| [`WMUTK`](WMUTK.qmd) | Muḥammad b. ʿUbayd b. Abī Umayyah ʿAbd al-Raḥmān al-Īyādī al-Ṭanāfisī al-Kūfī | <span lang="ar" dir="rtl">محمد بن عبيد بن ابي امية</span> |  |  |  |
+| `WMJAH` | Mujāhid b. Jabr al-Makkī | <span lang="ar" dir="rtl">مجاهد بن جبر المكي</span> |  |  |  |
+| `WMZAR` | Muthannā b. Zurʿah al-Baṣrī | <span lang="ar" dir="rtl">مثنى بن زرعة البصري</span> |  |  |  |
+| `WMUUQ` | Mūsā b. ʿUqbah | <span lang="ar" dir="rtl">موسى بن عقبة</span> |  |  |  |
+| `WNTZM` | Nuʿmān b. Thābit b. Zūṭā b. Marzubān Abū Ḥanīfah | <span lang="ar" dir="rtl">ابو حنيفة</span> |  |  |  |
+| `WSRTK` | Salamah b. Rajāʾ al-Tamīmī al-Kūfī | <span lang="ar" dir="rtl">سلمة بن رجاء</span> |  |  |  |
+| [`WSFAB`](WSFAB.qmd) | Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī | <span lang="ar" dir="rtl">سلمة بن الفضل الابرش الرازي</span> |  |  |  |
+| `WSYSL` | Saʿdān Saʿīd b. Yaḥyā b. Ṣāliḥ al-Lakhmī al-Kūfī | <span lang="ar" dir="rtl">سعدان سعيد بن يحيى بن صالح</span> |  |  |  |
+| [`WSABZ`](WSABZ.qmd) | Saʿīd b. Bazīʿ | <span lang="ar" dir="rtl">سعيد بن بزيع</span> |  |  |  |
+| [`WSASN`](WSASN.qmd) | Sharīk b. ʿAbd Allāh b. Abī Sharīk al-Najaʿī al-Kūfī | <span lang="ar" dir="rtl">شريك بن عبد الله بن ابي شريك النجعي</span> |  |  |  |
+| `WSHHW` | Shuʿbah b. al-Ḥajjāj b. al-Ward al-ʿAtkī al-Azdī al-Wāsiṭī | <span lang="ar" dir="rtl">شعبه بن الحجاج بن الورد</span> |  |  |  |
+| `WSTHR` | Sufyān al-Thawrī al-Kūfī | <span lang="ar" dir="rtl">سفيان الثوري</span> |  |  |  |
+| `WSUAI` | Sufyān b. ʿUyaynah | <span lang="ar" dir="rtl">سفيان بن عيينة</span> |  |  |  |
+| `WSHAK` | Sulaymān b. Ḥayyān al-Azdī al-Aḥmar al-Kūfī al-Jaʿfarī | <span lang="ar" dir="rtl">سليمان بن حيان اللزدي</span> |  |  |  |
+| `WSSAA` | Ṣadaqah b. Sābiq al-Muqʿad | <span lang="ar" dir="rtl">صدقة بن سابق المقعد</span> |  |  |  |
+| `WSAAS` | Ṣāliḥ b. Abī al-Aswad | <span lang="ar" dir="rtl">صالح بن ابي الاسود</span> |  |  |  |
+| [`WUMHA`](WUMHA.qmd) | ʿUmar b. Ḥabīb | <span lang="ar" dir="rtl">عمر بن حبيب</span> |  |  |  |
+| `WUASQ` | ʿUthmān b. ʿAmr b. Sājj al-Qurashī | <span lang="ar" dir="rtl">عثمان بن عمرو بن ساج</span> |  |  |  |
+| `WYMHA` | Yaḥyā b. Muḥammad b. Hānīʾi | <span lang="ar" dir="rtl">يحيى بن محمد بن هاني</span> |  |  |  |
+| `WYMSH` | Yaḥyā b. Muḥammad b. ʿAbbād b. Hānī al-Shajarī al-Madinī | <span lang="ar" dir="rtl">يحيى بن محمد بن عباد بن هاني</span> |  |  |  |
+| `WYSAU` | Yaḥyā b. Saʿīd b. Abān al-Qurashī al-Umawī al-Kūfī | <span lang="ar" dir="rtl">يحيى بن سعيد بن ابان</span> |  |  |  |
+| `WYSMS` | Yaḥyā b. Sulaymān al-Madīnī | <span lang="ar" dir="rtl">يحيى بن سليمان المديني</span> |  |  |  |
+| `WYWAT` | Yaḥyā b. Wāḍiḥ al-Anṣārī Abū Tumaylah | <span lang="ar" dir="rtl">يحيى بن واضح الاصاري ابو تميلة</span> |  |  |  |
+| [`WYAHA`](WYAHA.qmd) | Yazīd b. Abī Ḥabīb (Suwayd) al-Azdī al-Miṣrī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| [`WHAYA`](WHAYA.qmd) | Yazīd b. Hārūn al-Wāsiṭī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| `WYZAA` | Yazīd b. Zurayʿ al-ʿAyshī al-Baṣrī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| [`WYUAU`](WYUAU.qmd) | Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī | <span lang="ar" dir="rtl">يعلى بن عبيد بن ابي امية</span> |  |  |  |
+| [`WYIAY`](WYIAY.qmd) | Yaʿqūb b. Ibrāhīm | <span lang="ar" dir="rtl">يعقوب بن ابراهيم</span> |  |  |  |
+| `WYBWS` | Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| `WYZNA` | Yūnus b. Yazīd b. Abī al-Najjād al-Aylī al-Qurashī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| `WZAZA` | Zakarīyā b. Abī Zāʾidah | <span lang="ar" dir="rtl"></span> |  |  |  |
+| [`WZATB`](WZATB.qmd) | Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| `WZMHR` | Zuhayr b. Muʿāwiyah b. Ḥudayj al-Juʿfī al-Kūfī | <span lang="ar" dir="rtl"></span> |  |  |  |
+| [`WFGHK`](WFGHK.qmd) | al-Faḍl b. Ghānim al-Khazāʿī | <span lang="ar" dir="rtl">الفضل بن غانم الخزاعي</span> | 1 | 320 | Y |
+| [`WHZSQ`](WHZSQ.qmd) | al-Ḥajjāj b. Zayd al-Sāmī al-Qurashī al-Baṣrī | <span lang="ar" dir="rtl">الحجاج بن زيد السامي</span> | 1 | 113 |  |
+| [`WHASH`](WHASH.qmd) | al-Ḥasan b. Aḥmad b. Shuʿayb al-Ḥarrānī | <span lang="ar" dir="rtl">الحسن بن احمد بن شعيب الحراني</span> | 1 | 332 | Y |
+| `WWAAA` | al-Waḍāḥ b. ʿAbd Allāh al-Yashkarī al-Wāsiṭī al-Bazzāz | <span lang="ar" dir="rtl"></span> |  |  |  |

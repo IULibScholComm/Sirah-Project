@@ -1,0 +1,62 @@
+---
+title: "Aḥmad b. al-Faḍl b. Muḥammad al-Bāṭraqānī"
+lang: "en"
+witness-code: "WAFMA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية احمد بن الفضل بن محمد الباطرقاني</span>
+
+**Witness code:** `WAFMA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAFMA">
+```
+
+```{=html}
+<article class="sira-report" id="TDHSV03P068B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDHSV03P068B">TDHSV03P068B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> TDHS, vol. 3 p. 68</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو العباس أحمد بن الفضل بن أحمد سمكويه الخياط أنبأنا أبو بكر أحمد بن الفضل بن محمد بن الناظر قاني أنبأنا محمد بن إسحاق أنبأنا خيثمة بن سليمان أنبأنا خلف بن محمد كردوس الواسطي أنا المعلى بن عبد الرحمن أنبأنا عبد الحميد بن جعفر عن الزهري عن عبيد الله بن عبد الله عن ابن عباس قال ولد النبي صلى الله عليه وسلم يوم الاثنين في ربيع الأول وأنزلت عليه النبوة يوم الاثنين في أول شهر ربيع الأول وأنزلت عليه البقرة يوم الاثنين في ربيع الأول وهاجر إلى المدينة في ربيع الأول وتوفي يوم الاثنين في ربيع الأول. <span class="page-no" title="end of page 68 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV03P588B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV03P588B">THRXV03P588B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 3 p. 588</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا محمد بن أبي بكر كتابة حدثنا سعيد بن أبي الرجاء أخبرنا أحمد بن الفضل المقرئ حدثنا محمد بن إسحاق حدثنا عبد الله بن محمد بن الحارث أخبرنا صالح بن أحمد بن أبي مقاتل حدثنا عمار بن خالد حدثنا أسد بن عمرو عن أبي حنيفة عن محمد بن المنكدر عن عثمان بن محمد بن طلحة بن عبيد الله قال تذاكرنا لحم صيد يصيده الحلال فيأكله المحرم ورسول الله صلى الله عليه وسلم نائم حتى ارتفعت أصواتنا فاستيقظ رسول الله صلى الله عليه وسلم فقال فيم تتنازعون فقلنا في لحم صيد يصيده الحلال فيأكل منه المحرم قال فأمرنا بأكله قال عبد الله بن محمد كذا رواه أسد بن موسى عن أبي حنيفة وفلان وفلان حتى عد خمسة عشرة رجلا يعني كلهم رواه كذلك وهذا مرسل وخطأ أخرجه أبو موسى قلت لا خلاف في أن عثمان هذا ليست له صحبة لأن أباه قتل يوم الجمل سنة ست وثلاثين وهو شاب وكان مولده آخر أيام رسول الله صلى الله عليه وسلم فيكون ابنه في حجة الوداع ممن يناظر في الأحكام الشرعية هذا لا يصح وقد سقط في شيء والله أعلم. <span class="page-no" title="end of page 588 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV03P589B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV03P589B">THRXV03P589B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 3 p. 589</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق أسلم عثمان بن مظعون بعد ثلاثة عشر رجلا وهاجر إلى الحبشة هو وابنه السائب الهجرة الأولى مع جماعة من المسلمين فبلغهم وهم في الحبشة أن قريشا قد أسلمت فعادوا. <span class="page-no" title="end of page 589 of vol. 3">§</span>
+  </div>
+</article>
+```
+
+[^comment-THRXV03P589B-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-THRXV03P589B-1]: <a href="../references.html#ref-THRX" class="source-ref">THRXV03P589B</a> (<span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span>, vol. 3 p. 589) follows <a href="../references.html#ref-THRX" class="source-ref">THRXV03P588B</a> (<span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span>, vol. 3 p. 588) without the insertion of a new chain of transmission.

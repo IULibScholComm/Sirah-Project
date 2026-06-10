@@ -1,0 +1,66 @@
+---
+title: "ʿAlāʾ b. Hārūn al-Wāsiṭī"
+lang: "en"
+witness-code: "WAHWA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية العلاء بن هارون الواسطي</span>
+
+**Witness code:** `WAHWA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAHWA">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `STJXV04P279A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="STJXV04P279A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STJXV04P279A">STJXV04P279A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 4 pp. 279-293</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_STRDV01P293A</span> حدثنا علي بن عبد الله الفرغاني قال نا إدريس بن محمد بن أبي الرباب قال نا أسباط بن عبد الواحد قال نا العلاء بن هارون عن محمد بن إسحاق عن عبد الرحمن بن القاسم عن أبيه عن عائشة أن رسول الله صلى الله عليه وسلم أمر سهلة بنت سهيل وهي مستحاضة أن تغتسل لكل صلاة فشق ذلك عليها فأمرها أن تجمع بين الظهر والعصر في غسل والمغرب والعشاء في غسل وتغتسل للصبح. <span class="page-no" title="end of page 279 of vol. 4">§</span> <span class="page-no" title="end of page 293 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STRDV01P293A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STRDV01P293A">STRDV01P293A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STRD" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>Al-Rawḍ al-dānī</span></a>, vol. 1 p. 293</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_STJXV04P279A</span> حدثنا سلامة بن مكحول الرملي حدثنا إدريس بن محمد بن أبي الرباب الرملي حدثنا أسباط بن عبد الواحد الرملي حدثنا العلاء بن هارون أخو يزيد بن هارون حدثنا محمد بن إسحاق عن عبد الرحمن بن القاسم عن أبيه عن عائشة أن رسول الله صلى الله عليه وآله وسلم أمر سهلة بنت سهيل وهي مستحاضة أن تغتسل لكل صلاة فشق ذلك عليها وأمرها أن تجمع بين الظهر والعصر في غسل والمغرب والعشاء في غسل وتغتسل للصبح.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `STJXV04P279A`:** [^comment-STJXV04P279A-1]
+
+
+**Comment on passage `STRDV01P293A`:** [^comment-STRDV01P293A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-STJXV04P279A-1]: Sahlah bint Suhayl is mentioned three times in HSNX (<a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P322A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 322) as one of the first to migrate to Abyssinia, <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P365A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 365) as one of the first to return from Abyssinia, and <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P368H</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 368) where she is mentioned again as one of the returnees from Abyssinia, where she is also mentioned by <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī) and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī). She is also mentioned in <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), <a href="WASKA.html" class="witness-link">WASKA</a> (ʿAbdah (ʿAbd al-Raḥmān) b. Sulaymān al-Kilābī al-Kūfī), and <a href="WHAYA.html" class="witness-link">WHAYA</a> (Yazīd b. Hārūn al-Wāsiṭī) but in a different context. This passage is not found in HSNX but appears to be an aside common in Ibn Isḥāq. Placement is based on her first mention.
+[^comment-STRDV01P293A-1]: <a href="../references.html#ref-STRD" class="source-ref">STRDV01P293A</a> (<span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>Al-Rawḍ al-dānī</span>, vol. 1 p. 293) states لم يروه عن العلاء بن هارون إلا أسباط تفرد به ابن أبي الرباب ولا يحفظ للعلاء بن هارون إلا دون عشرة أحاديث مخارجها من الرملة وأظنه كان وقع إلى الرملة من العراق لأنا لا نحفظ عن الواسطيين عنه شيئا وهو ثقة.&quot;

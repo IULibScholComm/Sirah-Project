@@ -1,0 +1,38 @@
+---
+title: "ʿAḥmad b. ʿAbd al-Mālik b. Wāqid al-Ḥarrānī"
+lang: "en"
+witness-code: "WAAWH"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الله بن عبد الله لاز اويس بن ملك بن ابي عامر الشصبحي</span>
+
+**Witness code:** `WAAWH`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAAWH">
+```
+
+```{=html}
+<article class="sira-report" id="RJXXV13P071B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RJXXV13P071B">RJXXV13P071B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RJXX" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd al-Wāḥid al-Maqdisī</span>, <span class='ref-title'>al-Aḥādīth al-mukhtārah</span></a>, vol. 13 p. 71</div>
+  </header>
+  <div class="witness-text">
+    وبه ابنا سليمان الطبراني ثنا محمد بن النضر الأزدي ثنا أحمد بن عبد الملك بن واقد الحراني ثنا محمد بن إسحاق عن ابن أبي نجيح عن مجاهد عن ابن عباس رضي الله عنهما قال أهدى رسول الله صلى الله عليه وسلم في عمرة الحديبية جملا أبي جهل بن هشام عليه خشاش من ذهب وهو الزمام وما فعل ذلك إلا ليغيظ قريشا المشهور من فضة لا من ذهب <span class="page-no" title="end of page 71 of vol. 13">§</span>
+  </div>
+</article>
+```
+
+[^comment-RJXXV13P071B-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-RJXXV13P071B-1]: Similar passage also found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).

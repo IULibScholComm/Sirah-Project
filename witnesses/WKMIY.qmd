@@ -1,0 +1,62 @@
+---
+title: "Karāmah bint Muḥammad b. Isḥāq b. Yasār"
+lang: "en"
+witness-code: "WKMIY"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية كرامة بنت محمد بن اسحاق بن يسار</span>
+
+**Witness code:** `WKMIY`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WKMIY">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `NYMXV05P2808A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="NYMXV05P2808A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#NYMXV05P2808A">NYMXV05P2808A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NYMX" class="source-link"><span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span></a>, vol. 5 pp. 2808-481</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_THRXV05P481A</span> أخبرنا محمد بن محمد بن يعقوب النيسابوري في كتابه ثنا محمد بن محمد بن سليمان ثنا جعفر بن عبد الواحد قال قال لي محمد بن إسحاق بن كثير بن يسار حدثتني كرامة بنت محمد بن إسحاق بن يسار عن أبيها محمد عن أبيه إسحاق عن جده يسار أنه أتى النبي صلى الله عليه وسلم فمسح رأسه ودعا له بالبركة. <span class="page-no" title="end of page 2808 of vol. 5">§</span> <span class="page-no" title="end of page 481 of vol. 5">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="THRXV05P481A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#THRXV05P481A">THRXV05P481A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 5 p. 481</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_NYMXV05P2808A</span> روى جعفر بن عبد الواحد قال قال لي محمد بن إسحاق بن كثير بن يسار حدثتني كرامة بنت محمد بن إسحاق بن يسار عن أبيها محمد عن أبيه إسحاق عن جده يسار أنه أتى النبي صلى الله عليه وسلم فمسح رأسه ودعا له بالبركة.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `NYMXV05P2808A`:** [^comment-NYMXV05P2808A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-NYMXV05P2808A-1]: The identity of Muḥammad b. Isḥāq b. Kathīr b. Yasār is unknown and he is only listed in conjunction with this passage in the pre-modern corpus. <a href="../references.html#ref-TDSH" class="source-ref">TDSHV69P189B</a> (<span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span>, vol. 69 p. 189) lists a Muḥammad b. Isḥāq b. Kathīr al-Ṣawrī, who apparently gave dictation to Abū al-Ḥasan Khaythumah b. Sulaymān and heard from Mūʾmmal b. Ismāʿīl. The editor of the text states that his name may have been Muḥammad b. Ibrāhīm b. Kathīr. <a href="../references.html#ref-BNTH" class="source-ref">BNTHV09P144F</a> (<span class='ref-author'>Ibn Ḥibbān</span>, <span class='ref-title'>al-Thiqāt</span>, vol. 9 p. 144) gives this name but does not list a date of death. <a href="../references.html#ref-TDSH" class="source-ref">TDSHV46P301B</a> (<span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span>, vol. 46 p. 301), however, gives his name as Abū al-Ḥasan Muḥammad b. Ibrāhīm b. Kathīr b. Wafdān al-Ṣawrī, which would seem to eliminate him as the possible source. Khaṭīb al-Baghdādī gives two variations of the name: Muḥammad b. Ibrāhīm b. Kathīr, Abū ʿAbd Allāh al-Ṣayfūrī who lived at the Syria Gate in Baghdād around 273/886 (see <a href="../references.html#ref-KHTG" class="source-ref">KHTGV02P283A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Taʾrīkh Baghdād</span>, vol. 2 p. 283)) and a Muḥammad b. Ibrāhīm b. Kathīr al-Ṣawrī but gives not biographical details (see <a href="../references.html#ref-KHTG" class="source-ref">KHTGV08P665A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Taʾrīkh Baghdād</span>, vol. 8 p. 665)). According to <a href="../references.html#ref-KHTG" class="source-ref">KHTGV07P623A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Taʾrīkh Baghdād</span>, vol. 7 p. 623), Jaʿfar b. ʿAbd al-Wāḥid’s kunyā was al-Hāshimī and Muḥammad b. Muḥammad b. Sulaymān is listed as al-Bāghandī. <a href="../references.html#ref-JJKX" class="source-ref">JJKXV02P396D</a> (<span class='ref-author'>al-Jurjānī</span>, <span class='ref-title'>al-Kāmil fī ḍuʿafāʾ al-rijāl</span>, vol. 2 p. 396) states that Jaʿfar b. ʿAbd al-Wāḥid related from Wahb b. Jarīr, the son of the witness Jarīr b. Ḥāzim. He was also appointed Qāḍī of al-Baṣrah (<a href="../references.html#ref-KHRX" class="source-ref">KHRXV01P328B</a> (<span class='ref-author'>al-Khalīlī</span>, <span class='ref-title'>al-Irshād fī maʿrifah ʿulamāʾ al-ḥadīth</span>, vol. 1 p. 328)). He was also appointed chief judge of Rāʾy in 240/854 and died in 258/871 (<a href="../references.html#ref-KHTG" class="source-ref">KHTGV08P55A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Taʾrīkh Baghdād</span>, vol. 8 p. 55)).

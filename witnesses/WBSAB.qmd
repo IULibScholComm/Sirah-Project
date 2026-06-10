@@ -1,0 +1,718 @@
+---
+title: "Bakr b. Sulaymān al-Aswārī al-Baṣrī"
+lang: "en"
+witness-code: "WBSAB"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية بكر بن سليمان الاسواري البصري</span>
+
+**Witness code:** `WBSAB`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WBSAB">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `KKMKV01P064B`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="KKMKV01P064B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KKMKV01P064B">KKMKV01P064B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KKMK" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Musnad Khalīfah b. Khayyāṭ</span></a>, vol. 1 pp. 64-393</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_STBXV22P393B</span> <span class="variant-id">VAR_TLBXV06P2722C</span> <span class="variant-id">VAR_TLBXV06P2803D</span> حدثنا الحسين بن علي العطار المصيصي ثنا شباب العصفري ثنا بكر بن سليمان ثنا محمد بن إسحاق حدثني نبيه بن وهب عن أبي عزيز بن عمير أخي مصعب بن عمير قال كنت في الأسارى يوم بدر فقال رسول الله صلى الله عليه وسلم استوصوا بالأسارى خيرا وكنت في نفر من الأنصار وكانوا إذا قدموا غداءه <span class="page-no" title="end of page 64 of vol. 1">§</span> وعشاءهم أكلوا التمر وأطعموني الخبز بوصية رسول الله صلى الله عليه وسلم إياهم. <span class="page-no" title="end of page 65 of vol. 1">§</span> <span class="page-no" title="end of page 393 of vol. 22">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STBXV22P393B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STBXV22P393B">STBXV22P393B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 22 p. 393</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KKMKV01P064B</span> <span class="variant-id">VAR_TLBXV06P2722C</span> <span class="variant-id">VAR_TLBXV06P2803D</span> حدثنا الحسين بن علي العطار المصيصي ثنا شباب العصفري ثنا بكر بن سليمان ثنا محمد بن إسحاق حدثني نبيه بن وهب عن أبي عزيز بن عمير أخي مصعب بن عمير قال كنت في الأسارى يوم بدر فقال رسول الله صلى الله عليه وسلم استوصوا بالأسارى خيرا وكنت في نفر من الأنصار وكانوا إذا قدموا غداءهم وعشاءهم أكلوا التمر وأطعموني الخبز بوصية رسول الله صلى الله عليه وسلم إياهم.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TLBXV06P2722C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TLBXV06P2722C">TLBXV06P2722C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TLBX" class="source-link"><span class='ref-author'>Ibn al-ʿAdīm</span>, <span class='ref-title'>Bughyat al-ṭalab fī taʾrīkh Ḥalab</span></a>, vol. 6 p. 2722</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KKMKV01P064B</span> <span class="variant-id">VAR_STBXV22P393B</span> <span class="variant-id">VAR_TLBXV06P2803D</span> حدثنا أبو محمد عبد العزيز بن الحسين بن هلالة الأندلسي قال أخبرنا أسعد ابن أبي سعيد الأصبهاني قال أخبرتنا فاطمة بنت عبد الله الجوزدانية قالت أخبرنا أبو بكر محمد بن عبد الله بن ريذة قال أخبرنا أبو القاسم سليمان بن أحمد بن أيوب قال حدثنا الحسين بن علي العطار المصيصي قال حدثنا شباب العصفري قال حدثنا بكر بن سليمان صاحب المغازي عن محمد بن اسحاق قال حدثني بقية ابن وهب عن أبي عزيز بن عمير أخي مصعب بن عمير قال كنت في الأسارى يوم بدر فقال رسول الله صلى الله عليه وسلم استوصوا بالأسارى خيرا وكنت من نفر من الأنصار فكانوا إذا قدموا غداءهم وعشاءهم أكلوا التمر وأطعموني الخبز لوصية رسول الله صلى الله عليه وسلم إياهم. <span class="page-no" title="end of page 2722 of vol. 6">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="TLBXV06P2803D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#TLBXV06P2803D">TLBXV06P2803D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TLBX" class="source-link"><span class='ref-author'>Ibn al-ʿAdīm</span>, <span class='ref-title'>Bughyat al-ṭalab fī taʾrīkh Ḥalab</span></a>, vol. 6 p. 2803</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KKMKV01P064B</span> <span class="variant-id">VAR_STBXV22P393B</span> <span class="variant-id">VAR_TLBXV06P2722C</span> أخبرنا أبو محمد عبد العزيز بن حسين بن هلالة الأندلسي قال أخبرنا أسعد ابن أبي سعيد قال أخبرتنا فاطمة الجوزجانية قال أخبرنا أبو بكر بن ريذة قال أخبرنا أبو القاسم الطبراني قال حدثنا الحسين بن العطار المصيصي قال حدثنا شباب العصفري قال حدثنا بكر بن سليمان صاحب المغازي قال حدثنا محمد بن اسحاق قال حدثني نبيه بن وهب عن أبي عزيز بن عمير أخي عزيز بن عمير أخي مصعب بن عمير قال كنت في الأسارى يوم بدر فقال رسول الله صلى الله عليه وسلم استوصوا بالأسارى خيرا قد كنت في نفر من الأنصار فكانوا اذا قدموا غداءهم وعشاءهم أكلوا الثمر وأطعموني الخبز لوصية رسول الله صلى الله عليه وسلم. @TLBXV06P2803D_BEG_WBSAB <span class="page-no" title="end of page 2803 of vol. 6">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `KKMKV01P064B`:** [^comment-KKMKV01P064B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P052A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P052A">SFTXV01P052A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 52</div>
+  </header>
+  <div class="witness-text">
+    دثنا خليفة قال نا بكر بن سليمان قال نا ابن إسحاق ووهب بن جرير عن أبيه عن ابن إسحق قال حدثني المطلب بن عبد الله بن قيس بن مخرمة بن المطلب عن أبيه عن جده قيس بن مخرمة قال ولد رسول الله صلى الله عليه وسلم وأنا عام الفيل. <span class="page-no" title="end of page 52 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P053B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P053B">SFTXV01P053B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 53</div>
+  </header>
+  <div class="witness-text">
+    قال ونا بكر عن ابن إسحاق قال حدثني عبد الله بن أبي بكر عن عمرة عن عائشة قالت رأيت قائد الفيل وسائسه أعميين يستطعمان. <span class="page-no" title="end of page 53 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P053C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P053C">SFTXV01P053C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 53</div>
+  </header>
+  <div class="witness-text">
+    نا وهب عن أبيه عن ابن إسحاق وبكر عن ابن إسحاق عن المطلب بن عبد الله بن قيس بن مخرمة قال ولد رسول الله صلى الله عليه وسلم عام الفيل قال وبين الفيل وبين الفجار عشرون سنة وبين الفجار وبين بنيان الكعبة خمس عشرة سنة وبين بنيان الكعبة وبين مبعث رسول الله صلى الله عليه وسلم خمس سنين فبعث رسول الله صلى الله عليه وسلم خمس سنين فبعث رسول الله صلى الله عليه وسلم وهو ابن أربعين سنة. <span class="page-no" title="end of page 53 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P138C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P138C">SFTXV01P138C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 138-89</div>
+  </header>
+  <div class="witness-text">
+    بكر عن ابن إسحاق قال فيها عام الرمادة أصاب الناس مجاعة شديدة فخرج عمر يستسقي ومعه العباس فقال اللهم نستسقيك بعم نبيك. <span class="page-no" title="end of page 138 of vol. 1">§</span> <span class="page-no" title="end of page 89 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P138C-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P089B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P089B">SFTXV01P089B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 89</div>
+  </header>
+  <div class="witness-text">
+    نزوله صلى الله عليه وسلم الجعرانة نا بكر عن ابن إسحاق قال انصرف رسول الله صلى الله عليه وسلم من الطائف فنزل الجعرانة وقسم بها أموال هوازن وسباياها وأعطى المؤلفة قلوبهم.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P092A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P092A">SFTXV01P092A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 92</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق ثم خرج رسول الله صلى الله عليه وسلم من الجعرانة معتمرا ثم انصرف إلى المدينة واستخلف عتاب بن أسيد على مكة فحج عتاب بالمسلمين سنة ثمان وحج المشركون على ما كانوا عليه وفيها أسلم عكرمة بن أبي جهل وفيها ولد إبراهيم ابن رسول الله صلى الله عليه وسلم وفيها توفيت زينب بنت رسول الله وفيها تزوج فاطمة بنت الضحاك الكلابية. <span class="page-no" title="end of page 92 of vol. 1">§</span> COMMENT: SFTXV01P092A follows SFTXV01P089B with the same chain: نا بكر عن ابن إسحاق. <span class="page-no" title="end of page 92 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P092A-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P092C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P092C">SFTXV01P092C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 92</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق خرج رسول الله صلى الله عليه وسلم إلى تبوك فصالحه صاحب أيلة وكتب له رسول الله كتابا قال أبو الحسن خرج في غرة رجب الثلاثة الذين خلفوا وفي غزوة تبوك قصة الثلاثة الذين خلفوا كعب بن مالك وهلال بن أمية ومرارة بن الربيع سرية أكيدر دومة. COMMENT: SFTXV01P092C follows SFTXV01P089B with the same chain: نا بكر عن ابن إسحاق.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P092D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P092D">SFTXV01P092D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 92-93</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبعث رسول الله صلى الله عليه وسلم خالد بن الوليد إلى أكيدر دومة وهو أكيدر بن عبد الملك رجل من أهل اليمن كان ملكا فأخذه <span class="page-no" title="end of page 92 of vol. 1">§</span> خالد فقدم به على رسول الله صلى الله عليه وسلم فحقن دمه وأعطاه الجزية فرده إلى قريته. <span class="page-no" title="end of page 93 of vol. 1">§</span> COMMENT: SFTXV01P092D follows SFTXV01P089B with the same chain: نا بكر عن ابن إسحاق.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P093B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P093B">SFTXV01P093B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 93</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبعث رسول الله صلى الله عليه وسلم أبا بكر سنة تسع يقيم للناس الحج ثم بعث عليا بسورة براءة وأمر ألا يحج بعد العام مشرك ولا يطوف بالبيت عريان. COMMENT: SFTXV01P093B follows SFTXV01P089B with the same chain: نا بكر عن ابن إسحاق.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P086B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P086B">SFTXV01P086B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 86-87</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر عن ابن إسحاق قال حدثني محمد بن جعفر بن الزبير عن عروة بن الزبير قال بعث رسول الله صلى الله عليه وسلم بعثا إلى مؤتة في جمادى الأولى من <span class="page-no" title="end of page 86 of vol. 1">§</span> سنة ثمان واستعمل عليهم زيد بن حارثة فإن أصيب فجعفر بن أبي طالب فإن أصيب فعبد الله بن رواحة فلقيتهم جموع هرقل بالبلقاء فقتل زيد وجعفر وابن رواحة وأخذ خالد بن الوليد الراية فانحاز بالمسلمين. <span class="page-no" title="end of page 87 of vol. 1">§</span> <span class="page-no" title="end of page 87 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P086B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P087B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P087B">SFTXV01P087B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 87</div>
+  </header>
+  <div class="witness-text">
+    نا بكر عن ابن إسحاق عن الزهري عن عبيد الله بن عبد الله بن عتبة قال خرج رسول الله صلى الله عليه وسلم لعشر خلون من شهر رمضان يريد مكة.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P087B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P087E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P087E">SFTXV01P087E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 87-88</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر عن ابن إسحاق قال بعث رسول الله صلى الله عليه وسلم سراياه حوالي مكة يدعون إلى الله ولم يأمرهم بقتال سرية خالد إلى بني جذيمة قال ابن إسحاق فحدثني حكيم بن حكيم بن عباد بن حنف عن أبي جعفر محمد بن علي قال بعث رسول الله صلى الله عليه وسلم خالد بن الوليد حين افتتح <span class="page-no" title="end of page 87 of vol. 1">§</span> مكة داعيا فأتى الغميصاء ماء من مياه جذيمة بن عامر بن عبد مناة فقتل منهم ناسا ولهم حديث. <span class="page-no" title="end of page 88 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P057B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P057B">SFTXV01P057B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 57</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وفيها غزا بواط من ناحية رضوى في شهر ربيع الآخر يعترض عير قريش فلم يلق كيدا وقال علي بن محمد خرج يوم الثلاثاء لثلاث خلون من شهر ربيع الآخر ورجع لعشر وهي على ثلاث مراحل من المدينة من طريق الشام. <span class="page-no" title="end of page 57 of vol. 1">§</span> <span class="page-no" title="end of page 57 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P057B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P057C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P057C">SFTXV01P057C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 57</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق ثم غزا غزوة العشيرة في جمادى الأولى فلم يلق كيدا فوادع بني مدلج قال علي خرج لمستهل جمادى الأولى ورجع لخمس بقين منه.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P057C-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P062F" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P062F">SFTXV01P062F</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 62-57</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق ثم سرية سعد بن مالك في ثمانية رهط من المهاجرين فخرج حتى أتى الخرار من أرض الحجاز فلم يلق كيدا. <span class="page-no" title="end of page 62 of vol. 1">§</span> <span class="page-no" title="end of page 57 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P062F-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P057D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P057D">SFTXV01P057D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 57</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق ثم خرج في طلب كرز بن جابر وكان أغار على سرح المدينة فخرج رسول الله صلى الله عليه وسلم في طلبه حتى بلغ سفوان من ناحية بدر في جمادى الآخرة ورجع في رجب ولم يلق كيدا وهي غزوة بدر الأولى.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P057D-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P058E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P058E">SFTXV01P058E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 58-66</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وقدم رسول الله صلى الله عليه وسلم من بدر في آخر شهر رمضان ويقال في أول شوال فأقام بالمدينة ليالي ثم خرج بنفسه فغزا بني سليم فبلغ ماء يقال له الكدر فأقام ثلاث ليال ثم رجع ولم يلق كيدا قال ابن إسحاق استخلف فيها محمد بن مسلمة قال ابن إسحاق خرج لغرة شهر شوال ورجع لعشر خلون من شوال. <span class="page-no" title="end of page 58 of vol. 1">§</span> <span class="page-no" title="end of page 66 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P058E-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P065B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P065B">SFTXV01P065B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 65</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر عن ابن إسحاق ووهب عن أبيه عن ابن إسحاق قال رجع رسول الله صلى الله عليه وسلم من عزوة السويق فأقام بالمدينة بقية ذي الحجة والمحرم أو قريبا منه ثم غزا نجدا يريد غطفان وهي غزوة ذي أمر حتى دخل صفر ثم رجع ولم يلق كيدا ثم غزا في شهر ربيع الأول يريد قريشا وبني سليم حتى بلغ بحران <span class="page-no" title="end of page 65 of vol. 1">§</span> معدن بالحجاز من ناحية الفرع فأقام حتى مضى جمادى الأولى ورجع ولم يلق كيدا.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P105A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P105A">SFTXV01P105A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 105</div>
+  </header>
+  <div class="witness-text">
+    وحدثنا بكر عن ابن إسحاق قال أخبرنا طلحة بن عبيد الله بن عبد الرحمن بن أبي بكر عن أبي قتادة نحوه وقال إنا لما غشينا القوم أخذوا السلاح فقلنا إنا مسلمون فقالوا ونحن مسلمون قلنا فما بال السلاح معكم قالوا فما بال السلاح معكم قلنا فإن كنتم كما تقولون فضعوا السلاح فوضعوا السلاح ثم صلينا وصلوا. <span class="page-no" title="end of page 105 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P105D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P105D">SFTXV01P105D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 105</div>
+  </header>
+  <div class="witness-text">
+    وودى مالك بن نويرة ورد السبي والمال بكر عن ابن إسحاق قال دخل خالد على أبي بكر فأخبره الخبر فاعتذر إليه فعذره وقال متمم بن نويرة يرثي <span class='poetry-line'><span class='hemistich1'>أخاه مالك بن نويرة</span> <span class='hemistich2'>فعشنا بخير في الحياة وقبلنا</span></span> %~% أصاب المنايا رهط كسرى وتبعا. <span class="page-no" title="end of page 105 of vol. 1">§</span>
+  </div>
+</article>
+```
+::: {.callout-note collapse="true"}
+## Parallel passages: `SFTXV01P054A`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="SFTXV01P054A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SFTXV01P054A">SFTXV01P054A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 54-56</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SFTXV01P055B</span> <span class="variant-id">VAR_STBXV06P030A</span> حدثنا بكر بن سليمان قال نا ابن إسحاق ووهب عن أبيه عن ابن إسحاق قال حدثني محمد بن جعفر بن الزبير عن عروة بن الزبير عن عبد الرحمن بن عويم بن ساعدة قال حدثني رجال من أصحاب رسول الله صلى الله عليه وسلم قالوا لما سمعنا بمخرج رسول الله صلى الله عليه وسلم من مكة توكفنا قدومه فكنا نخرج إذا صلينا <span class="page-no" title="end of page 54 of vol. 1">§</span> الصبح إلى ظاهر حرتنا ننتظر رسول الله صلى الله عليه وسلم فوالله ما نبرح حتى تغلبنا الشمس فلما كان اليوم الذي قدم فيه رسول الله صلى الله عليه وسلم جلسنا حتى إذا لم يبق ظل دخلنا بيوتنا وقدم رسول الله صلى الله عليه وسلم فكان أول من رآه رجل من يهود فصرخ بأعلى صوته يا بني قيلة هذا جدكم قد جاء فخرجنا إلى رسول الله صلى الله عليه وسلم وهو في ظل نخلة ومعه أبو بكر في مثل سنه وأكثرنا من لم يكن رأى رسول الله قام أبو بكر فأظله فعرفنا رسول الله صلى قيل ذلك فركبه الناس فلم ن قبل ذلك فركبه الناس فلم نعرفه من أبي بكر حتى إذا زال الظل عن رسول الله الله عليه وسلم قال ابن إسحاق قدم رسول الله صلى الله عليه وسلم المدينة يوم الاثنين حين اشتد الضحاء لاثنتي عشرة ليلة خلت من شهر ربيع الأول قال ابن إسحاق فنزل بقباء على كلثوم بن هدم أخي بني عمرو بن عوف ويقال بل نزل على سعد بن خيثمة وأقام في بني عمرو بن عوف يوم الاثنين والثلاثاء والأربعاء والخميس وأسس مسجدهم وخرج من بني عمرو بن عوف فأدركته الجمعة في بني سالم بن عوف وصلى الجمعة في المسجد الذي ببطن الوادي قال ابن إسحاق ثم نزل رسول الله صلى الله عليه وسلم على أبي أيوب خالد بن زيد الأنصاري وأمر رسول الله صلى الله عليه وسلم ببناء مسجده في تلك السنة <span class="page-no" title="end of page 55 of vol. 1">§</span> فأقام رسول الله صلى الله عليه وسلم في بيت أبي أيوب حتى بنى مسجده ومساكنه ثم انتقل صلى الله عليه وسلم قال ابن إسحاق وفي هذه السنة وهي سنة إحدى هلك أبو أمامة أسعد بن زرارة أخذته الذبحة في تلك الأشهر والمسجد يبنى قال ابن إسحاق في تلك السنة أسلم عبد الله بن سلام وفيها رأى عبد الله بن زيد الأذان وأمر رسول الله صلى الله عليه وسلم بلالا أن ينادي بالأذان فيما حدثنا بكر عن ابن إسحاق قال حدثني محمد بن إبراهيم بن الحارث عن أبيه. <span class="page-no" title="end of page 56 of vol. 1">§</span> <span class="page-no" title="end of page 56 of vol. 1">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="SFTXV01P055B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#SFTXV01P055B">SFTXV01P055B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 55</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SFTXV01P054A</span> <span class="variant-id">VAR_STBXV06P030A</span> قال ابن إسحاق قدم رسول الله صلى الله عليه وسلم المدينة يوم الاثنين حين اشتد الضحاء لاثنتي عشرة ليلة خلت من شهر ربيع الأول قال ابن إسحاق فنزل بقباء على كلثوم بن هدم أخي بني عمرو بن عوف ويقال بل نزل على سعد بن خيثمة وأقام في بني عمرو بن عوف يوم الاثنين والثلاثاء والأربعاء والخميس وأسس مسجدهم وخرج من بني عمرو بن عوف فأدركته الجمعة في بني سالم بن عوف وصلى الجمعة في المسجد الذي ببطن الوادي قال ابن إسحاق ثم نزل رسول الله صلى الله عليه وسلم على أبي أيوب خالد بن زيد الأنصاري وأمر رسول الله صلى الله عليه وسلم ببناء مسجده في تلك السنة <span class="page-no" title="end of page 55 of vol. 1">§</span> فأقام رسول الله صلى الله عليه وسلم في بيت أبي أيوب حتى بنى مسجده ومساكنه ثم انتقل صلى الله عليه وسلم قال ابن إسحاق وفي هذه السنة وهي سنة إحدى هلك أبو أمامة أسعد بن زرارة أخذته الذبحة في تلك الأشهر والمسجد يبنى قال ابن إسحاق في تلك السنة أسلم عبد الله بن سلام وفيها رأى عبد الله بن زيد الأذان وأمر رسول الله صلى الله عليه وسلم بلالا أن ينادي بالأذان فيما حدثنا بكر عن ابن إسحاق قال حدثني محمد بن إبراهيم بن الحارث عن أبيه.
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="STBXV06P030A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#STBXV06P030A">STBXV06P030A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 6 p. 30</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_SFTXV01P055B</span> <span class="variant-id">VAR_SFTXV01P054A</span> حدثنا موسى بن زكريا التستري ثنا شباب العصفري ثنا بكر بن سليمان عن ابن إسحاق ووهب بن جرير عن أبيه عن ابن إسحاق قال نزل رسول الله صلى الله عليه وسلم بقباء على كلثوم بن هرم أخي بني عمرو بن عوف ويقال بل نزل على سعد بن خيثمة فأقام في بني عمرو بن عوف يوم الاثنين والثلاثاء والأربعاء والخميس وأسس مسجدهم وخرج من بني عمرو بن عوف فأدركته الجمعة في بني سالم بن عوف فصلى الجمعة في المسجد الذي ببطن الوادي قال ابن إسحاق ثم نزل رسول الله صلى الله عليه وسلم على أبي أيوب وأمر رسول الله صلى الله عليه وسلم ببناء مسجده في تلك السنة. <span class="page-no" title="end of page 30 of vol. 6">§</span>
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `SFTXV01P054A`:** [^comment-SFTXV01P054A-1]
+
+
+**Comment on passage `SFTXV01P055B`:** [^comment-SFTXV01P055B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P056B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P056B">SFTXV01P056B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 56-57</div>
+  </header>
+  <div class="witness-text">
+    نا بكر عن ابن إسحاق ووهب عن أبيه عن ابن إسحاق قال إن أول غزوة غزاها رسول الله صلى الله عليه وسلم خرج من المدينة لاثنتي عشرة ليلة خلت من صفر سنة اثنتين حتى بلغ ودان يريد قريشا وبني ضمرة فوادعه مخشي بن عمرو الضمري وهي غزوة الأبواء. <span class="page-no" title="end of page 56 of vol. 1">§</span> <span class="page-no" title="end of page 57 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P056B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P057E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P057E">SFTXV01P057E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 57</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبلغ رسول الله صلى الله عليه وسلم أن أبا سفيان أقبل من الشام في عير لقريش فخرج في طلبه.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P057E-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P058A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P058A">SFTXV01P058A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 58</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق خرج في طلبه يوم الأربعاء لثلاث خلون من شهر رمضان وهي غزوة بدر. <span class="page-no" title="end of page 58 of vol. 1">§</span> <span class="page-no" title="end of page 58 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P058A-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P058B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P058B">SFTXV01P058B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 58</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وحدثني أبو جعفر محمد بن علي قال كانت وقعة بدر الجمعة لسبع عشرة ليلة خلت من شهر رمضان.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P058B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P059A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P059A">SFTXV01P059A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 59-61</div>
+  </header>
+  <div class="witness-text">
+    غزوة السويق قال ابن إسحاق خرج في ذي الحجة قال ابن إسحاق فحدثني محمد بن جعفر بن الزبير ويزيد بن رومان أن أبا سفيان حين رجع إلى مكة ورجع فل قريش نذر ألا يمس رأسه ماء من جنابة حتى يغزو محمدا فخرج في مائتي راكب من قريش وخرج رسول الله صلى الله عليه وسلم في طلبه حتى بلغ قرقرة الكدر ثم انصرف قالوا يا رسول الله أترجو أن تكون لنا غزوة قال نعم. <span class="page-no" title="end of page 59 of vol. 1">§</span> <span class="page-no" title="end of page 61 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P059A-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P061B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P061B">SFTXV01P061B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 61</div>
+  </header>
+  <div class="witness-text">
+    حدثنا خليفة قال نا بكر عن ابن إسحاق ووهب عن أبيه عن ابن إسحاق قال أول سرية بعث فيها عبيدة بن الحارث في شهر ربيع الأول في ثمانين راكبا ويقال ستين من المهجرين ليس فيهم من الأنصار أحد فبلغ سيف البحر حتى بلغ أحيا ماء بالحجاز بأسفل ثنية المرة فلقي بها جمعا من قريش ولم يك بينهم قتال غير أن سعد بن مالك رمى يومئذ بسهم فكان أول سهم رمي به في الإسلام وانصرف بعضهم عن بعض.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="SFTXV01P061C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P061C">SFTXV01P061C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 61-62</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وهرب من المشركين يومئذ إلى المسلمين المقداد بن عمرو حليف بني زهرة وعتبة بن غزوان حليف بني نوفل بن عبد مناف وكانا مسلمين خرجا ليتوصلا بالمسلمين وكانا على المشركين عكرمة بن أبي جهل. <span class="page-no" title="end of page 61 of vol. 1">§</span> <span class="page-no" title="end of page 62 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P061C-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P062A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P062A">SFTXV01P062A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 62</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق راية عبيدة أول راية عقدها رسول الله صلى الله عليه وسلم في الإسلام قال ابن إسحاق وبعض العلماء يزعمون أن رسول الله صلى الله عليه وسلم شيعه حين قفل من غزوة الأبواء قبل أن يصل إلى المدينة.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P062A-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P062C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P062C">SFTXV01P062C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 62</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبعث رسول الله صلى الله عليه وسلم حمزة بن عبد المطلب في ثلاثين راكبا من المهاجرين إلى سيف البحر فلقي أبا جهل في ثلاث مائة راكب من قريش فحجز بينهم مجدي بن عمرو الجهني وكان موادعا للفريقين وانصرفوا ولم يك بينهم قتال. <span class="page-no" title="end of page 62 of vol. 1">§</span> <span class="page-no" title="end of page 62 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P062C-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P062D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P062D">SFTXV01P062D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 62</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبعض الناس يزعمون أن راية حمزة أول راية عقدها رسول الله صلى الله عليه وسلم.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P062D-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P062G" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P062G">SFTXV01P062G</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 pp. 62-80</div>
+  </header>
+  <div class="witness-text">
+    قال ابن إسحاق وبعث <span class="page-no" title="end of page 62 of vol. 1">§</span> ي مغزاه من بدر الأولى في رجب عبد الله بن جحش بن رئاب في ثمانية من المهاجرين إلى نخلة فمرت به عير لقريش فيها عمرو بن الحضرمي وأسر عثمان ابن عبد الله بن المغيرة والحكم بن كيسان مولى هشام بن المغيرة وذلك في آخر رجب فأقام الحكم عند رسول الله صلى الله عليه وسلم حتى قتل ببئر معونة وفدي عثمان بن عبد الله بن المغيرة وقال عبد الله بن جحش إن لرسول الله صلى الله عليه وسلم مما غنمتم الخمس وذلك قبل أن يفرض الله الخمس فعزل لرسول الله خمس العير وقسم سائرا بين أصحابه قال ابن إسحاق والحديث في هذا عن الزهري ويزيد ين رومان عن عروة بن الزبير. <span class="page-no" title="end of page 63 of vol. 1">§</span> <span class="page-no" title="end of page 80 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P062G-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P080A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P080A">SFTXV01P080A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 80</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر عن ابن إسحاق ووهب عن أبيه عن ابن إسحاق قال حدثني عاصم ابن عمر بن قتادة وعبد الله بن أبي بكر ومحمد بن يحيى بن حبان قال بلغ رسول الله صلى الله عليه وسلم أن بني المصطلق يجمعون له فخرج إليهم فلقيهم على ماء من مياههم يقال له مريسيع من ناحية قديد فاقتتلوا فهزم الله بني المصطلق وقتل من قتل منهم ونفل رسول الله صلى الله عليه وسلم المسلمين أبناءهم ونساءهم وأموالهم وكان فيما أصاب من السبايا جويرية بنت الحارث بن أبي ضرار.
+  </div>
+</article>
+```
+
+[^comment-SFTXV01P080A-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P103B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P103B">SFTXV01P103B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 103</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر عن ابن إسحاق قال حدثني محمد بن طلحة بن يزيد بن ركانة عن عبيد الله بن عبد الله بن عتبة قال قاتل عيينة مع طليحة في سبع مائة من بني فزارة فانهزم الناس وهرب طليحة إلى الشام وانفض جمعه. <span class="page-no" title="end of page 103 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KHLSV02P376B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KHLSV02P376B">KHLSV02P376B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHLS" class="source-link"><span class='ref-author'>Muḥammad b. ʿAbd al-Raḥmān b. al-ʿAbbās al-Baghdādī al-Mukhalliṣ</span>, <span class='ref-title'>Al-Mukhalliṣīyāt wa-ajaziʾ akhrā</span></a>, vol. 2 pp. 376-135</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أبوبكر عبدالله بن سليمان بن الأشعث السجستاني إملاء في جامع الرصافة في سنة ست عشرة وثلاثمئة قال حدثنا محمد بن عباد الهذلي قال حدثنا بكر بن سليمان الأسواري عن محمد بن إسحاق قال حدثني يزيد بن رومان عن عروة بن الزبير عن عائشة قالت أمر رسول الله صلى الله عليه وسلم بالقتلى أن يطرحوا في القليب فطرحوا فيه إلا ما كان من أمية بن خلف فإنه انتفخ فذهبوا ليحركوه فتزايل فأقروه وألقوا عليه ما غيبه من التراب والحجارة فلما ألقوهم في القليب وقف عليهم رسول الله صلى الله عليه وسلم فقال يا أهل القليب هل وجدتم ما وعدكم ربكم حقا فإني قد وجدت ما وعدني ربي حقا فقال له أصحابه يا رسول الله أتكلم قوما موتى فقال لهم لقد علموا أن ما وعدتهم حقا فقالت عائشة والناس يقولون سمعوا ما قلت لهم وإنما قال لهم <span class="page-no" title="end of page 376 of vol. 2">§</span> رسول الله صلى الله عليه وسلم لقد علموا. <span class="page-no" title="end of page 376 of vol. 2">§</span> <span class="page-no" title="end of page 135 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-KHLSV02P376B-1]
+
+```{=html}
+<article class="sira-report" id="SFTXV01P135B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#SFTXV01P135B">SFTXV01P135B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-SFTX" class="source-link"><span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span></a>, vol. 1 p. 135</div>
+  </header>
+  <div class="witness-text">
+    وذلك سنة ست عشرة حدثنا بكر عن ابن إسحاق قال أخبرنا محمد بن طلحة بن ركانة عن سالم بن عبد الله بن عمر قال خرج أهل إيلياء إلى عمر فصالحوه على الجزية وفتحوها وفي هذه السنة ماتت مارية أم إبراهيم ابن رسول الله صلى الله عليه وسلم وفيها مات سعد بن عبادة الأنصاري بالشام.
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HYKUV03P198C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYKUV03P198C">HYKUV03P198C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYKU" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>Kashf al-astār ʿan zawāʾid al-Bazzār</span></a>, vol. 3 pp. 198-199</div>
+  </header>
+  <div class="witness-text">
+    حدثنا موسى بن عبد الله أبو طلحة الخزاعي ثنا بكر بن <span class="page-no" title="end of page 198 of vol. 3">§</span> سليمان عن محمد بن إسحاق عن يزيد بن محمد بن خثيم عن محمد بن كعب عن خثيم أبي يزيد عن عمار بن ياسر أن النبي صلى الله عليه وسلم كنى عليا رضي الله عنه بأبي تراب فكانت من أحب كناه إليه. <span class="page-no" title="end of page 199 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV02P087A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV02P087A">BKHBV02P087A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 2 p. 87</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر بن سليمان عن ابن إسحاق قال حدثني الحسن بن الفضل بن الحسن بن عمرو بن أمية الضمري عن أبيه عن عمه بكر بن أمية قال كانت لنا في بلاد بني ضمرة جار من جهينة في أول الإسلام وكنا على شركنا وفينا رجل خارب خبيث يقال له ريشة وكنا قد خلعناه من خبثه. <span class="page-no" title="end of page 87 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="KHTRV02P473A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#KHTRV02P473A">KHTRV02P473A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHTR" class="source-link"><span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>Tālī Talkhīṣ al-mutashābih fī al-rasm</span></a>, vol. 2 p. 473</div>
+  </header>
+  <div class="witness-text">
+    أخبرني أبو القاسم علي بن محمد بن علي بن يعقوب الإيادي حدثنا أبو بكر محمد بن عبد الله بن إبراهيم الشافعي إملاء حدثنا إسماعيل بن محمد بن أبي كثير القاضي الفارسي حدثنا شهاب بن معمر البلخي حدثنا أبو يحيى بكر بن سليمان الأسواري عن ابن إسحاق قال حدثني عاصم بن عمر بن قتادة عن محمود بن لبيد عن عبد الله بن عباس قال حدثني سلمان الفارسي من فيه قال كنت رجلا فارسيا من أهل أصبهان من أهل قرية منها يقال لها جي وكان أبي يقال له دهقان قريته وذكر حديث إسلام سلمان الفارسي بطوله. <span class="page-no" title="end of page 473 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THRXV21P178A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV21P178A">THRXV21P178A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 21 p. 178</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو غالب الماوردي أنا أبو الحسن السيرافي أنا أحمد بن إسحاق نا أحمد بن عمران نا موسى بن زكريا نا خليفة بن خياط نا بكر بن سليمان عن ابن إسحاق عن سعيد بن عبد الرحمن بن حسان بن ثابت قال توفي رسول الله صلى الله عليه وسلم وهو ابن ثلاث وستين. <span class="page-no" title="end of page 178 of vol. 21">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="BKHBV01P130A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV01P130A">BKHBV01P130A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 1 p. 130</div>
+  </header>
+  <div class="witness-text">
+    حدثنا بكر بن سليمان قال أخبرنا ابن إسحاق قال حدثني محمد بن عبد الله بن قيس ابن مخرمة عن الحسن بن محمد بن علي عن أبيه محمد عن جده علي قال سمعت النبي صلى الله عليه وسلم يقول ما هممت بشئ مما كان أهل الجاهلية يعملون به غير مرتين كل ذلك يحول الله بيني وبينه ما هممت بعدهما حتى أكرمني الله برسالته. <span class="page-no" title="end of page 130 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="HYKUV03P129C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HYKUV03P129C">HYKUV03P129C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HYKU" class="source-link"><span class='ref-author'>Nūr al-Dīn ʿAlī b. Abī Bakr Haythamī</span>, <span class='ref-title'>Kashf al-astār ʿan zawāʾid al-Bazzār</span></a>, vol. 3 p. 129</div>
+  </header>
+  <div class="witness-text">
+    حدثنا موسى بن عبد الله أبو طلحة الخزاعي ثنا بكر بن سليمان ثنا محمد بن إسحاق حدثني محمد بن عبد الله بن قيس بن مخرمة عن الحسن بن محمد بن علي عن أبيه محمد بن علي عن جده علي بن أبي طالب قال سمعت رسول الله صلى الله عليه وسلم يقول ما هممت بشيء مما كان أهل الجاهلية يعملون به غير مرتين كل ذلك يحول الله بيني وبين ما أريد من ذلك ثم ما هممت بعدها بشيء حتى أكرمني الله برسالته. <span class="page-no" title="end of page 129 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-KKMKV01P064B-1]: A similar passage is located in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P645B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 645), about the disposition of prisoners after Badr. A similar fragment is mentioned in an unwitnessed passage found in <a href="../references.html#ref-STRD" class="source-ref">STRDV01P250B</a> (<span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>Al-Rawḍ al-dānī</span>, vol. 1 p. 250), <a href="../references.html#ref-SYTH" class="source-ref">SYTHV01P309B</a> (<span class='ref-author'>Ibn Sayyid al-Nās</span>, <span class='ref-title'>ʿUyūn al-athar fī funūn al-maghāzī waʾl-shamāʾil waʾl-siyar</span>, vol. 1 p. 309), <a href="../references.html#ref-KTHS" class="source-ref">KTHSV02P475B</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Sīrat al-nubuwīyah</span>, vol. 2 p. 475), <a href="../references.html#ref-KTHB" class="source-ref">KTHBV03P306C</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 3 p. 306), <a href="../references.html#ref-IHMS" class="source-ref">IHMSV05P477B</a> (<span class='ref-author'>Ibn Humām Muḥammad b. ʿAbd al-Wāḥid al-Sīwāsī</span>, <span class='ref-title'>Faḥt al-qadīr</span>, vol. 5 p. 477), and <a href="../references.html#ref-HJRS" class="source-ref">HJRSV07P228F</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span>, vol. 7 p. 228); also see <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) <a href="../references.html#ref-NYMX" class="source-ref">NYMXV06P2967C</a> (<span class='ref-author'>Abū Nuʿaym</span>, <span class='ref-title'>Maʿrifat al-ṣaḥābah</span>, vol. 6 p. 2967); <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) on <a href="../references.html#ref-TBRB" class="source-ref">TBRBV02P460B</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span>, vol. 2 p. 460); and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī) on <a href="../references.html#ref-THRX" class="source-ref">THRXV06P209C</a> (<span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span>, vol. 6 p. 209), <a href="../references.html#ref-DHSL" class="source-ref">DHSLV01P373E</a> (<span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Siyar aʿlām al-nubalāʾ</span>, vol. 1 p. 373), and <a href="../references.html#ref-DHTI" class="source-ref">DHTIV02P119B</a> (<span class='ref-author'>al-Dhahabī</span>, <span class='ref-title'>Taʾrīkh al-Islām</span>, vol. 2 p. 119). He is not mentioned elsewhere in the redaction of Ibn Hishām.
+[^comment-SFTXV01P138C-1]: This fragment is not found in HSNX. It recounts how ʿUmar b. al-Khaṭṭāb distribute charity during the Year of the Drought (Ramādah), which occurred in the year 18 during a major drought (see <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P138C</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 138)). Also see <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī), <a href="WABAW.html" class="witness-link">WABAW</a> (ʿAbbād b. al-ʿAwwām al-Kilābī al-Wāsiṭī), <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī), and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) for a reference to the event.
+[^comment-SFTXV01P092A-1]: A similar passage is found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P500C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 500) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P500G</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 500) but with a different order. The HSNX section is divided into four seperate statements from Ibn Isḥāq although Ibn Hishām inserted comments into the passage resulting in multiple statements beginning with &quot;qāla Ibn Isḥāq.&quot; It is not known how the original text that al-Bakkāʾī relayed to Ibn Hishām may have been structured. A similar passage is also found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), although this too is structred in a slightly different form than each other as well as <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) and <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī). There is no mention of Fāṭimah bint al-Ḍaḥḥāk. Her father, al-Ḍaḥḥāk b. Sufyān al-Kilābī, is mentioned in three passages in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) as found in HSNX, once in the story of the Battle of Ḥunayn and twice in reference to the sack of al-Ṭāʾif. She is mentioned in a list of the prophet&#x27;s wides in <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).
+[^comment-SFTXV01P086B-1]: This passage is similar to one located in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (<a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P373C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 373)). Also see <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), in both the fragmentary form found in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and as a part of a much longer narrative. <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) include versions that embed them in longer accounts similar to that found in <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī). The passage above is worded slightly differently from <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī).
+[^comment-SFTXV01P087B-1]: This fragment is similar to that that found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV02P437C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 437) that closes the story of Khālid b. al-Walīd’s mission to destroy the image of al-ʿUzzā at Nakhlah, but includes reference to the year. It is part of a compund clause in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī). This clasue is also found as a stand alone fragments in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) (see <a href="../references.html#ref-ZTKX" class="source-ref">ZTKXV01P096A</a> (<span class='ref-author'>Ibn Abī Khaythamah</span>, <span class='ref-title'>al-Tārīkh al-kabīr sifr al-thānī</span>, vol. 1 p. 96)). A similar passage is also found in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī) and <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī). Placement based on initial reference in the first clause.
+[^comment-SFTXV01P057B-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P057B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 57) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P057C-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P057C</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 57) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P062F-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P062F</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 62) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P057D-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P057D</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 57) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P058E-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P058E</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 58) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P054A-1]: A similar passage is found in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P494A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 494) and describes the prophet&#x27;s first week in Madīnah. <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P494B</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 494) forms a part of this passage. The wording in <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) and <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) is different from that found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī), <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī), and <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī).
+[^comment-SFTXV01P055B-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P055B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 55) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P054A</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 54) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P056B-1]: Fragment is similar to one located in <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) on <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P590G</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 590) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P591A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 591). This refers to the first raid undertaken by the Prophet&#x27;s community after the hijrah. For references to the Raid on the Abwāʾ, although not to this specific fragment, also see <a href="WSABZ.html" class="witness-link">WSABZ</a> (Saʿīd b. Bazīʿ), <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), and <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī).
+[^comment-SFTXV01P057E-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P057E</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 57) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P058A-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P058A</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 58) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P058B-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P058B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 58) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P059A-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P059A</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 59) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P056B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 56) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P061C-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061C</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P062A-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P062A</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 62) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P062C-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P062C</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 62) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P062D-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P062D</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 62) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P062G-1]: <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P062C</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 62) follows after <a href="../references.html#ref-SFTX" class="source-ref">SFTXV01P061B</a> (<span class='ref-author'>Khalīfah b. Khayyāṭ al-Shaybānī al-ʿAṣfarī</span>, <span class='ref-title'>Taʾrīkh</span>, vol. 1 p. 61) with the same chains for <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī) and <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī).
+[^comment-SFTXV01P080A-1]: <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) includes a similar story in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV2P294D</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 294) to <a href="../references.html#ref-HSNX" class="source-ref">HSNXV2P295A</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 2 p. 295) in the story of the Raid on the Banū al-Muṣṭaliq and the Prophet&#x27;s marriage to Jūwayrīyah bint al-Ḥārith in a narrative structure much like that found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), <a href="WSSAA.html" class="witness-link">WSSAA</a> (Ṣadaqah b. Sābiq al-Muqʿad), <a href="WAMAQ.html" class="witness-link">WAMAQ</a> (ʿAlī b. Mushir al-Kūfī al-Qurashī), and <a href="WJHZA.html" class="witness-link">WJHZA</a> (Jarīr b. Ḥāzim b. Zayd b. ʿAbd Allāh b. Shajāʿ al-Azdī al-ʿAtkī al-Baṣrī). <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī) also witnessed an account completely unlike his other version and unlike other versions. The story related by <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī) is narratively different and more similar to that found in <a href="WAIYA.html" class="witness-link">WAIYA</a> (ʿAbd Allāh b. Idrīs b. Yazīd al-Awdī al-Zaʿāfarī). <a href="WZAZA.html" class="witness-link">WZAZA</a> (Zakarīyā b. Abī Zāʾidah) also relates the story with yet another narrative structure. <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī) produced a truncated version. <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī) witnessed a tradition that lists Jūwayrīyah bint al-Ḥārith as an eyewitness not found in other witnesses.
+[^comment-KHLSV02P376B-1]: Similar passage found in <a href="../references.html#ref-HSNX" class="source-ref">HSNXV01P638C</a> (<span class='ref-author'>ʿAbd al-Malik b. Hishām</span>, <span class='ref-title'>al-Sīrah al-Nabuwīyah</span>, vol. 1 p. 638) in the aftermath of Badr when Muḥammad orders the death among the attacking Quraysh be thrown into a pit, the so-called &quot;prayer of the people of the pit.&quot; In addition to <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī), the passage is also found in <a href="WBSAB.html" class="witness-link">WBSAB</a> (Bakr b. Sulaymān al-Aswārī al-Baṣrī) and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).

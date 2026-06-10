@@ -1,0 +1,50 @@
+---
+title: "Abū Uways ʿAbd Allāh b. ʿAbd Allāh b. Uways"
+lang: "en"
+witness-code: "WAUAA"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية ابو أويس عبد الله بن عبد الله بن أويس الاصبحي</span>
+
+**Witness code:** `WAUAA`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAUAA">
+```
+
+```{=html}
+<article class="sira-report" id="HJRSV05P185C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJRSV05P185C">HJRSV05P185C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJRS" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span></a>, vol. 5 pp. 185-84</div>
+  </header>
+  <div class="witness-text">
+    وأخرج من طريق أبي أويس عن ابن إسحاق عن عبد اللَّه بن مكرم عن عبد الرحمن بن قارب في قصة وفد ثقيف. <span class="page-no" title="end of page 185 of vol. 5">§</span> <span class="page-no" title="end of page 84 of vol. 5">§</span>
+  </div>
+</article>
+```
+
+[^comment-HJRSV05P185C-1]
+
+```{=html}
+<article class="sira-report" id="HJTTV05P084F" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#HJTTV05P084F">HJTTV05P084F</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-HJTT" class="source-link"><span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>Tahdhīb al-Tahdhīb</span></a>, vol. 5 p. 84</div>
+  </header>
+  <div class="witness-text">
+    روى عن النبي صلى الله عليه وسلم أن المؤمن إذا ابتلى ثم عافاه الله كان كفارة لذنوبه الحديث قاله محمد بن إسحاق عن رجل من أهل الشام يقال له أبو منظور عن عمه عن عامر به قلت قال ابن السكن روى عنه حديث واحد فيه نظر وقال البخاري أبو منظور لا يعرف إلا بهذا وقال هو وأبو حاتم رواه بن أبي أويس عن أبيه عن ابن إسحاق.
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-HJRSV05P185C-1]: Drawn from the biography of ʿAbd al-Raḥmān b. Qārib b. al-Aswad al-Thaqafī.

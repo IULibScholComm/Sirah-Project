@@ -1,0 +1,38 @@
+---
+title: "al-Faḍl b. Ghānim al-Khazāʿī"
+lang: "en"
+witness-code: "WFGHK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية الفضل بن غانم الخزاعي</span>
+
+**Witness code:** `WFGHK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WFGHK">
+```
+
+```{=html}
+<article class="sira-report" id="THRXV01P409A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THRXV01P409A">THRXV01P409A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THRX" class="source-link"><span class='ref-author'>Ibn al-Athīr</span>, <span class='ref-title'>Usd al-ghābah fī maʿrifat al-ṣaḥābah</span></a>, vol. 1 p. 409</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا عبد الله بن أحمد بن عبد القاهر أخبرنا النقيب طراد بن محمد إجازة إن لم يكن سماعا أخبرنا أبو الحسين بن بشران أخبرنا أبو علي بن صفوان البرذعي أخبرنا أبو بكر بن عبد الله بن محمد بن عبيد أخبرنا الفضل بن غانم الخزاعي حدثني محمد بن إسحاق عن الحسن بن الفضل بن الحسن بن عمرو بن أمية عن أبيه عن عمه بكر بن أمية قال كان لنا في بلاد بني ضمرة جار من جهينة في أول الإسلام ونحن إذ ذاك على شركنا وكان منا رجل محارب خبيث قد جعلناه يقال له ريشة وكان لا يزال يعدو على جارنا ذلك الجهني فيصيب له البكر والشارف فيأتينا يشكوه إلينا فنقول والله ما ندري ما نصنع به فاقتله قتله الله حتى عدا عليه مرة فأخذ له ناقة خيارا فأقبل بها إلى شعب في الوادي فنحرها وأخذ سنامها ومطايب لحمها ثم تركها وخرج الجهني في طلبها حين فقدها فاتبع أثرها حتى وجدها عند منحرها فجاء إلى نادي ضمرة وهو آسف وهو يقول أصادق ريشة بال ضمره أن ليس لله عليه قدره ما إن يزال شارفا وبكره يطعن منها في السواد الثغره بصارم ذي رونق أو شفره لا هم إن كان معدا فجره فاجعل أمام العين منه فجره تأكله حتى يوافي الحفره قال فأخرج الله أمام عينيه في مآقيه حيث وصف بشيره مثل النبقة وخرجنا إلى المواسم فرجعنا من الحج وقد صارت أكلة أكلت رأسه أجمع فمات حين قدمنا. <span class="page-no" title="end of page 409 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-THRXV01P409A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-THRXV01P409A-1]: Passage not found in HNSX or TBRC. Story set in pre-Islamic period in the voice of Bakr b. Umayyah, who is not mentioned in HSNX. Similar passages are found in <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī) and <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī).

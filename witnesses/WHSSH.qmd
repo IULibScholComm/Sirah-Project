@@ -1,0 +1,62 @@
+---
+title: "al-Ḥasan b. Ṣāliḥ  b. Ṣāliḥ b. Ḥayy"
+lang: "en"
+witness-code: "WHSSH"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية الحسن بن صالح بن صالح</span>
+
+**Witness code:** `WHSSH`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WHSSH">
+```
+
+::: {.callout-note collapse="true"}
+## Parallel passages: `KHTSV04P307B`
+
+```{=html}
+<section class="sira-variant-scroll" lang="ar" dir="rtl" aria-label="Variant group">
+<div class="sira-variant-inner">
+
+<article class="sira-report sira-variant-card" id="KHTSV04P307B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#KHTSV04P307B">KHTSV04P307B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-KHTS" class="source-link"><span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>al-Ismāʾ al-mubhamah fī al-anbāʾ al-muḥkamah</span></a>, vol. 4 pp. 307-358</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_YNBHV12P358D</span> وأخبرنا أبو الحسن علي بن أحمد بن عمر المقري قال أخبرنا أحمد بن محمد بن السري التميمي بالكوفة قال حدثنا المنذر بن محمد قال حدثنا أبي قال حدثنا الحسن بن صالح عن محمد بن إسحاق عن عبد الملك بن أبي بكر عن محمد بن المنكدر عن جابر بن عبد الله قال جلد رسول الله صلى الله عليه وسلم نعيمان أربع مرات في الخمر فرأى المسلمون فرجا عظيما أن الحد قد وقع وأن القتل قد أخر. <span class="page-no" title="end of page 307 of vol. 4">§</span> <span class="page-no" title="end of page 358 of vol. 12">§</span>
+  </div>
+</article>
+
+
+<article class="sira-report sira-variant-card" id="YNBHV12P358D" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Variant</span>
+    <a class="report-id" href="#YNBHV12P358D">YNBHV12P358D</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-YNBH" class="source-link"><span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span></a>, vol. 12 p. 358</div>
+  </header>
+  <div class="witness-text">
+    <span class="variant-id">VAR_KHTSV04P307B</span> وروى الحاكم وقال أخبرنا ابن أبي دارم الحافظ بالكوفة حدثنا المنذر بن محمد القابوسي حدثنا أبي حدثنا الحسن بن صالح عن محمد بن إسحاق رضي الله عنه عن عبد الله بن أبي بكر عن ابن المنكدر عن جابر رضي الله تعالى عنه قال جلد رسول الله صلى الله عليه وسلم نعيمان أربع مرات في الخمر فرأى المسلمون حرجا عظيما أن الحد قد وقع وأن القتل أخر.
+  </div>
+</article>
+
+</div>
+</section>
+```
+
+:::
+
+
+**Comment on passage `KHTSV04P307B`:** [^comment-KHTSV04P307B-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-KHTSV04P307B-1]: <a href="../references.html#ref-HHMX" class="source-ref">HHMXV07P379A</a> (<span class='ref-author'>ʿAbd al-Razzāq b. Hammām al-Ḥumayrī</span>, <span class='ref-title'>al-Muṣannaf</span>, vol. 7 p. 379) places this in the context of Ibn al-Nuʿmān and <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) quotes a portion of the passage in the biography of al-Nuʿmān b. ʿAmr (although he appears to suggest that Ibn Isḥāq names him as al-Nuʿaymān). <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) states that Nuʿaymān b. ʿAmr was the younger brother of Nuʿmān b. ʿAmr. Ibn al-Nuʿaymān or al-Nuʿaymān is not mentioned in the redaction of Ibn Hishām. He is sometimes identified as al-Nuʿaymān b. ʿAmr b. Rifāʿah b. al-Ḥārith. According to <a href="../references.html#ref-JWZX" class="source-ref">JWZXV05P277A</a> (<span class='ref-author'>Ibn al-Jawzī</span>, <span class='ref-title'>al-Muntaẓam fī Tārīkh al-mulūk waʾl-umam</span>, vol. 5 p. 277), al-Nuʿaymān participated in Badr, and all of the famous battles in which Muḥammad fought. He was known to have repeatedly been punished for drinking nabīdh. <a href="../references.html#ref-BKHB" class="source-ref">BKHBV06P431A</a> (<span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span>, vol. 6 p. 431) and <a href="../references.html#ref-TBRC" class="source-ref">TBRCV11P554A</a> (<span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk</span>, vol. 11 p. 554) mention the account of ʿUqbah b. al-Ḥārith where he describes being ordered by Muḥammad to beat Ibn Nuʿaymān or al-Nuʿaymān with shoes and palm branches for drinking. <a href="../references.html#ref-TKXX" class="source-ref">TKXXV03P375A</a> (<span class='ref-author'>Ibn Saʿd</span>, <span class='ref-title'>Ṭabaqāt al-kubrā</span>, vol. 3 p. 375) states he died in during the caliphate of Muʿawīyah but <a href="../references.html#ref-KTHB" class="source-ref">KTHBV08P070A</a> (<span class='ref-author'>Ibn Kathīr</span>, <span class='ref-title'>al-Bidāyat waʾl-nihāyah</span>, vol. 8 p. 70) places his death in the year 54. <a href="../references.html#ref-HJRS" class="source-ref">HJRSV06P353A</a> (<span class='ref-author'>Ibn Ḥajar al-ʿAsqalānī</span>, <span class='ref-title'>al-Iṣābah fī tamyīz al-ṣaḥābah</span>, vol. 6 p. 353) states that Ibn Isḥāq identifies him as al-Nuʿmān b. ʿAmr and not as al-Nuʿaymān, this follows the comment of Ibn Hishām in vol. 1, 703A. A person identified as al-Nuʿmān b. ʿAmr is mention twice in the redaction of Ibn Hishām: on vol. 1, 552A he is identified as a Jew who was one of two Rabbis who questioned Muḥammad and then rejected him. On vol. 1, 703A he is identified as al-Nuʿmān b. ʿAmr b. Rifāʿah b. Sawād, a member of the Sawād b. Mālik b. Ghamm clan, among the Anṣ ār, who participated at Badr. Ibn Hishām, in his commentary, states his name was Nuʿaymān. It is not clear if Ibn Isḥāq understood al-Nuʿmān b. ʿAmr to be the individual who is commonly referred to as being punished for drinking. For passages within the Ibn Isḥāq tradition that identify Nuʿaymān or al-Nuʿaymān with the subject of the person punished for drinking, see via <a href="WSASN.html" class="witness-link">WSASN</a> (Sharīk b. ʿAbd Allāh b. Abī Sharīk al-Najaʿī al-Kūfī): <a href="../references.html#ref-NSKX" class="source-ref">NSKXV05P143B</a> (<span class='ref-author'>al-Nasāʾī</span>, <span class='ref-title'>al-Sunan al-kubrā</span>, vol. 5 p. 143) and <a href="../references.html#ref-IHMA" class="source-ref">IHMAV12P370B</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 12 p. 370); via the witness of <a href="WZATB.html" class="witness-link">WZATB</a> (Ziyād b. ʿAbd Allāh b. al-Ṭufayl al-Kūfī al-Bakkāʾī al-ʿĀmirī) (but not found in the redaction of Ibn Hishām) <a href="../references.html#ref-NSSX" class="source-ref">NSSXV04P415A</a> (<span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span>, vol. 4 p. 415),<a href="../references.html#ref-IHMA" class="source-ref">IHMAV12P370C</a> (<span class='ref-author'>Ibn Ḥāzim</span>, <span class='ref-title'>al-Muḥallā bil-Āthār</span>, vol. 12 p. 370), <a href="../references.html#ref-BQRX" class="source-ref">BQRXV03P340B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>al-Sunan al-ṣaghīr</span>, vol. 3 p. 340), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV08P545B</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 8 p. 545), and <a href="../references.html#ref-BQMX" class="source-ref">BQMXV13P039A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Maʿrifat al-sunan waʾl-āthār</span>, vol. 13 p. 39); via the witness of <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī), <a href="../references.html#ref-IBAB" class="source-ref">IBABV01P081B</a> (<span class='ref-author'>Ibn Bishrān</span>, <span class='ref-title'>Amālī Ibn Bishrān</span>, vol. 1 p. 81), <a href="../references.html#ref-BQSX" class="source-ref">BQSXV08P545A</a> (<span class='ref-author'>al-Bayhaqī</span>, <span class='ref-title'>Sunan al-kubrā</span>, vol. 8 p. 545), and <a href="../references.html#ref-KHTS" class="source-ref">KHTSV04P307A</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>al-Ismāʾ al-mubhamah fī al-anbāʾ al-muḥkamah</span>, vol. 4 p. 307); via <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī): <a href="../references.html#ref-HBHX" class="source-ref">HBHXV32P210A</a> (<span class='ref-author'>Aḥmad b. Ḥanbal</span>, <span class='ref-title'>Musnad</span>, vol. 32 p. 210); and via <a href="WHSSH.html" class="witness-link">WHSSH</a> (WHSSH): <a href="../references.html#ref-KHTS" class="source-ref">KHTSV04P307B</a> (<span class='ref-author'>al-Khaṭīb al-Baghdādī</span>, <span class='ref-title'>al-Ismāʾ al-mubhamah fī al-anbāʾ al-muḥkamah</span>, vol. 4 p. 307) and <a href="../references.html#ref-YNBH" class="source-ref">YNBHV12P358D</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span>, vol. 12 p. 358). Without a witness, <a href="../references.html#ref-YNBH" class="source-ref">YNBHV12P358A</a> (<span class='ref-author'>al-ʿAynī</span>, <span class='ref-title'>al-Bināyah sharḥ al-Hidāyah</span>, vol. 12 p. 358).

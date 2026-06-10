@@ -76,8 +76,8 @@ PageV05P313
 # @COMMENT: ARKHV05P313A occurs in context of Q58:004, which in other witnbesses of of WJHZA, WZAZA, WMMAH, WHAYA, WJHUN, WMSAH, and WSACD focuses on the story of Aws b. al-Ṣāmit. Passage is not found in HSNX. Aws b. al-Ṣāmit is only mentioned once in HSNXV1P693E in reference to his participation at Badr along with other members of the Anṣār.
 # @COMMENT: According to IAAHV05P272A Q58 is a madīnan sūrah except for verse seven, which originates in the Meccan period and he goes on to say that the event occurred during the month of Ramaḍān, but does not specify a year. The passage describes Aws b. al-Ṣāmit as being in old age and somewhat enfeebled, since he is said to have participated in all of Muḥammad's expeditions it must occur late, likely after the conquest of Mecca.
 
-# @BQSXV07P641B_BEG_WHAYA
-VAR_ARKHV05P313A VAR_BQMXV11P121A وقد أخبرنيه أبو عبد الرحمن السلمي إجازة أن أبا الحسن بن صبيح أخبرهم أنا عبد الله بن محمد بن شيرويه أنا إسحاق الحنظلي أنا @TR1_WAIYA@ عبد الله بن إدريس نا محمد بن إسحاق فذكره بإسناده نحوه وقال في آخره فاذهب إلى صاحب صدقة بني زريق فليدفع إليك وسقا من تمر فأطعم ستين مسكينا وكل بقيته أنت وأهلك  وهذا يدل على أنه يعطي من الوسق ستين مسكينا ثم يأكل بقيته يعني بقية الوسق. @BQSXV07P641B_END_WHAYA
+# @BQSXV07P641B_BEG_WAIYA
+VAR_ARKHV05P313A VAR_BQMXV11P121A وقد أخبرنيه أبو عبد الرحمن السلمي إجازة أن أبا الحسن بن صبيح أخبرهم أنا عبد الله بن محمد بن شيرويه أنا إسحاق الحنظلي أنا @TR1_WAIYA@ عبد الله بن إدريس نا محمد بن إسحاق فذكره بإسناده نحوه وقال في آخره فاذهب إلى صاحب صدقة بني زريق فليدفع إليك وسقا من تمر فأطعم ستين مسكينا وكل بقيته أنت وأهلك  وهذا يدل على أنه يعطي من الوسق ستين مسكينا ثم يأكل بقيته يعني بقية الوسق. @BQSXV07P641B_END_WAIYA
 PageV07P641
 
 # @BQMXV11P121A_BEG_WAIYA
@@ -1053,4 +1053,5 @@ PageV06P172
 
 # @KTHQV04P093B_BEG_WAIYA وقال أبو جعفر بن جرير حدثنا ابن وكيع حدثنا @TR1_WAIYA@ ابن إدريس عن ابن إسحاق عن ابن أبي نجيح عن مجاهد عن ابن عباس قال قال العباس في نزلت @QURS008A067_BEG ما كان لنبي أن يكون له أسرى حتى يثخن في الأرض @QURS008A067_END فأخبرت النبي صلى الله عليه وسلم بإسلامي وسألته أن يحاسبني بالعشرين الأوقية التي أخذ مني فأبى فأبدلني الله بها عشرين عبدا كلهم تاجر مالي في يده وقال ابن إسحاق أيضا حدثني الكلبي عن أبي صالح عن ابن عباس عن جابر بن عبد الله ابن رئاب قال كان العباس بن عبد المطلب يقول في نزلت والله حين ذكرت لرسول الله صلى الله عليه وسلم إسلامي. @KTHQV04P093B_END_WAIYA
 PageV04P093
+
 

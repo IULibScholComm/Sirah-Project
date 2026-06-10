@@ -1,0 +1,78 @@
+---
+title: "Yaʿqūb b. Ibrāhīm, Abū Yūsuf"
+lang: "en"
+witness-code: "WYIAY"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية يعقوب بن ابراهيم أبو يوسف</span>
+
+**Witness code:** `WYIAY`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WYIAY">
+```
+
+```{=html}
+<article class="sira-report" id="NSSXV02P020A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#NSSXV02P020A">NSSXV02P020A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-NSSX" class="source-link"><span class='ref-author'>Abū ʿAbd Allāh al-Ḥākim al-Nīsābūrī</span>, <span class='ref-title'>al-Mustadrak ʿalā al-ṣaḥīḥīn</span></a>, vol. 2 p. 20</div>
+  </header>
+  <div class="witness-text">
+    أخبرناه أبو بكر بن إسحاق أنبأ محمد بن شاذان الجوهري حدثنا معلى بن منصور حدثنا يعقوب أبو يوسف أنبأ محمد بن إسحاق عن عاصم بن عمر عن محمود بن لبيد عن ابن عباس حدثني سلمان أن رجلا من اليهود اشتراه فقدم به المدينة قال فأتيت رسول الله صلى الله عليه وسلم بهدية فقلت هذه صدقة فقال لأصحابه كلوا ولم يأكل ثم ذكر الحديث نحوه <span class="page-no" title="end of page 20 of vol. 2">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="THSMV04P118A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THSMV04P118A">THSMV04P118A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSM" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ maʿānī al-āthār</span></a>, vol. 4 pp. 118-95</div>
+  </header>
+  <div class="witness-text">
+    حدثنا سليمان بن شعيب قال ثنا أبي عن أبي يوسف عن محمد بن إسحاق عن يحيى بن عروة بن الزبير عن رجل من أصحاب النبي صلى الله عليه وسلم أن رسول الله صلى الله عليه وسلم قد قال إن من أحيا أرضا ميتة فهي له وليس لعرق ظالم حق <span class="page-no" title="end of page 118 of vol. 4">§</span> <span class="page-no" title="end of page 95 of vol. 1">§</span>
+  </div>
+</article>
+```
+
+[^comment-THSMV04P118A-1]
+
+```{=html}
+<article class="sira-report" id="MHSHV01P095E" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MHSHV01P095E">MHSHV01P095E</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MHSH" class="source-link"><span class='ref-author'>Muḥammad b. al-Ḥasan al-Shaybānī</span>, <span class='ref-title'>al-Siyar</span></a>, vol. 1 p. 95</div>
+  </header>
+  <div class="witness-text">
+    محمد عن أبي يوسف عن محمد بن اسحاق عن اسماعيل بن أمية عن عطاء بن أبي رباح عن عبد الله بن عباس رضي الله عنهما أنه قال كتب اليه نجدة ابن عامر نحن نسأله هل للعبد في المغنم سهم وهل كن النساء حضرن الحرب مع رسول الله صلى الله عليه وسلم ومتى يجب للصبي سهم في المغنم وعن سهم ذوي القربى قال فكتب اليه ابن عباس أنه لا حق للعبد في المغنم ولكن يرضخ له وكتب اليه أن النساء كن يخرجن مع رسول الله صلى الله عليه وسلم يداوين الجرحى وأنه يرضخ لهن وأنه لا حق للصبي في المغنم حتى يحتلم وكتب اليه في سهم ذوي القربى أن عمر عرض علينا أن نزوج منه أيمنا وأن نقضي منه عن مغرمنا فأبينا إلا أن يسلمه لنا وأبى ذلك علينا
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="MYWXV05P042A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MYWXV05P042A">MYWXV05P042A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MYWX" class="source-link"><span class='ref-author'>Abū Yaʿlā Aḥmad b. ʿAlī al-Mawṣilī</span>, <span class='ref-title'>Musnad</span></a>, vol. 5 p. 42</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو يعلى قال قرئ على بشر أخبركم أبو يوسف عن محمد بن إسحاق عن أبي جعفر والزهري وإسماعيل بن أمية عن يزيد بن هرمز أنه قال أنا كتبت كتاب ابن عباس إلى نجدة كتبت إلي تسألني عن قتل الولدان وأن عالم موسى قتل وليدا وقد نهى رسول الله صلى الله عليه وسلم عن قتل الولدان فلو كنت تعلم في الولدان ما كان يعلم عالم موسى كان ذلك وكتبت أن النساء هل كن يحضرن الحرب مع رسول الله صلى الله عليه وسلم ويرضخ لهن ولا يضرب لهن بسهم بالفيء وقد كن يحضرن الحرب مع رسول الله صلى الله عليه وسلم ويرضخ لهن ولا يضرب لهن بسهم زاد إسماعيل في الحديث وكتبت تسألني عن العبيد هل كانوا يحضرون الحرب مع رسول الله صلى الله عليه وسلم وهل كان يضرب لهم بسهم فكتب إليه بالعبيد كما كتب في النساء وكتبت تسألني عن اليتيم متى يخرج من اليتم فإذا احتلم خرج من اليتم وضرب لهم بسهم. <span class="page-no" title="end of page 42 of vol. 5">§</span>
+  </div>
+</article>
+```
+
+[^comment-MYWXV05P042A-1]
+
+```{=html}
+</div>
+```
+
+
+[^comment-THSMV04P118A-1]: This appears to refer to <a href="WYIAY.html" class="witness-link">WYIAY</a> (Yaʿqūb b. Ibrāhīm) and not <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī).
+[^comment-MYWXV05P042A-1]: Passage not found in HSNX. This fragment refers to Yazīd b. Hurmuz, who is not mentioned in HSNX. Yazīd b. Hurmuz was also known as Yazīd al-Fārisī (<a href="../references.html#ref-TMSM" class="source-ref">TMSMV01P233B</a> (<span class='ref-author'>al-Tirmidhī</span>, <span class='ref-title'>al-Shamāʾil al-Muḥammadīyah</span>, vol. 1 p. 233)). He is not listed by this name in HSNX either. The frangment above describes Najdah al-Ḥarūrī asking about the killing of children. The passage asserts that Yazīd b. Hurmuz wrote Ibn ʿAbbās’ response (for analogous fragments see <a href="WASMR.html" class="witness-link">WASMR</a> (ʿAbd al-Raḥīm b. Sulaymān al-Marwazī al-Rāzī), <a href="WAKMW.html" class="witness-link">WAKMW</a> (Aḥmad b. Khālid b. Mūsā al-Wahbī al-Kindī), <a href="WMSAH.html" class="witness-link">WMSAH</a> (Muḥammad b. Salamah b. ʿAbd Allāh al-Bāhilī al-Ḥarrānī), and <a href="WYUAU.html" class="witness-link">WYUAU</a> (Yaʿlā b. ʿUbayd b. Abī Umayyah al-Īyādī al-Tanāfisī al-Kūfī)).

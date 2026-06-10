@@ -1,0 +1,94 @@
+---
+title: "ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī"
+lang: "en"
+witness-code: "WAHJK"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عمر بن هاشم (او هشام) ابو ملك الجنبي الكوفي</span>
+
+**Witness code:** `WAHJK`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAHJK">
+```
+
+
+### <span lang="ar" dir="rtl">عمرة القضاء في ذي القعدة سنة سبع  SEE_HSNXV02P370B</span>
+
+
+```{=html}
+<article class="sira-report" id="BKHBV01P451C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#BKHBV01P451C">BKHBV01P451C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-BKHB" class="source-link"><span class='ref-author'>Muḥammad b. Ismāʿīl b. Ibrāhīm al-Bukhārī</span>, <span class='ref-title'>Taʾrīkh al-kabīr</span></a>, vol. 1 pp. 451-202</div>
+  </header>
+  <div class="witness-text">
+    قاله عمرو بن هاشم عن ابن اسحاق روى عنه الحارث بن يعقوب مدني نسبه المقرئ عن حيوة وقال لي عبيد بن يعيش حدثنا يونس بن بكير اخبرنا محمد ابن إسحاق قال حدثني أبان بن صالح عن الحسن بن مسلم بن يناق عن صفية بنت شيبة قالت سمعت النبي صلى الله عليه وسلم يخطب عام الفتح <span class="page-no" title="end of page 451 of vol. 1">§</span> <span class="page-no" title="end of page 202 of vol. 42">§</span>
+  </div>
+</article>
+```
+
+[^comment-BKHBV01P451C-1]
+
+
+#### <span lang="ar" dir="rtl">شكا عليا جنده إلى الرسول لانتزاعه عنهم حللا من بز اليمن SEE_HSNXV02P603A</span>
+
+
+```{=html}
+<article class="sira-report" id="TDSHV42P201B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV42P201B">TDSHV42P201B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 42 p. 201</div>
+  </header>
+  <div class="witness-text">
+    أخبرناه أبو القاسم بن السمرقندي وأبو البركات يحيى بن عبد الرحمن بن حبيش <span class="page-no" title="end of page 201 of vol. 42">§</span> قالا أنا أبو الحسين ين النقور أنا عيسى بن علي انا عبد بن البغوي نا عبد الرحمن بن صالح الأزدي نا عمرو بن هاشم الجنبي عن محمد بن إسحاق عن أبان بن صالح بن عمير عن الفضل بن معقل عن عبد الله بن نيار عن عمرو بن شاس سمع النبي يقول من اذى عليا قد اذاني.
+  </div>
+</article>
+```
+
+[^comment-TDSHV42P201B-1]
+
+```{=html}
+<article class="sira-report" id="TDSHV42P202A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV42P202A">TDSHV42P202A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 42 pp. 202-367</div>
+  </header>
+  <div class="witness-text">
+    أنا أبو الحسين ين النقور أنا عيسى بن علي انا عبد بن البغوي نا عبد الرحمن بن صالح الأزدي نا عمرو بن هاشم الجنبي عن محمد بن إسحاق عن أبان بن صالح بن عمير عن الفضل بن معقل عن عبد الله بن نيار عن عمرو بن شأس سمع النبي يقول من اذى عليا قد اذاني. <span class="page-no" title="end of page 202 of vol. 42">§</span> <span class="page-no" title="end of page 367 of vol. 4">§</span>
+  </div>
+</article>
+```
+
+[^comment-TDSHV42P202A-1]
+
+
+### <span lang="ar" dir="rtl">ثم دخلت سنة خمسة وثلاثين ذكر الخبر عن قتل عثمان رضى الله عنه SEE_TBRBV04P365</span>
+
+
+```{=html}
+<article class="sira-report" id="TBRBV04P367C" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TBRBV04P367C">TBRBV04P367C</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TBRB" class="source-link"><span class='ref-author'>al-Ṭabarī</span>, <span class='ref-title'>Taʾrīkh al-rusul waʾl-mulūk (1967)</span></a>, vol. 4 p. 367</div>
+  </header>
+  <div class="witness-text">
+    حدثني أحمد بن إبراهيم قال حدثنا عبد الله بن ادريس عن عبيد الله بن عمر عن نافع أن جهجاها الغفاري أخذ عصا كانت في يد عثمان فكسرها على ركبته فرمي في ذلك المكان بأكلة حدثني جعفر بن عبد الله المحمدي قال حدثنا عمرو عن محمد ابن إسحاق بن يسار المدني عن عمه عبد الرحمن بن يسار أنه قال لما رأى الناس ما صنع عثمان كتب من بالمدينة من اصحاب النبي صلى الله عليه وسلم إلى من بالآفاق منهم وكانوا قد تفرقوا في الثغور إنكم إنما خرجتم أن تجاهدوا في سبيل الله عز وجل تطلبون دين محمد صلى الله عليه وسلم فإن دين محمد قد أفسد من خلفكم وترك فهلموا فأقيموا دين محمد صلى الله عليه وسلم فأقبلوا من كل أفق حتى قتلوه وكتب عثمان إلى عبد الله بن سعد بن أبي سرح عامله على مصر حين تراجع الناس عنه وزعم أنه تائب بكتاب في الذين شخصوا من مصر وكانوا أشد أهل الأمصار عليه أما بعد فانظر فلانا وفلانا فاضرب أعناقهم إذا قدموا عليك فانظر فلانا وفلانا فعاقبهم بكذا وكذا منهم نفر من أصحاب رسول الله صلى الله عليه وسلم ومنهم قوم من التابعين فكان رسوله في ذلك أبو الأعور بن سفيان السلمي حمله عثمان على جمل له ثم أمره أن يقبل حتى يدخل مصر قبل أن يدخلها القوم فلحقهم أبو الأعور ببعض الطريق فسألوه أين يريد قال أريد مصر ومعه رجل من أهل الشام من خولان فلما رأوه على جمل عثمان قالوا له هل معك كتاب قال لا قالوا فيم أرسلت قال لا علم لي قالوا ليس معك كتاب ولا علم لك بما أرسلت إن أمرك لمريب ففتشوه فوجدوا معه كتابا في إداوة يابسة فنظروا في الكتاب فإذا فيه قتل بعضهم وعقوبة بعضهم في أنفسهم وأموالهم فلما رأوا ذلك رجعوا إلى المدينة فبلغ الناس رجوعهم والذي كان من أمرهم فتراجعوا من الآفاق كلها وثار أهل المدينة
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-BKHBV01P451C-1]: Deals with the day of conquest of Mecca and the Prophet&#x27;s sermon <em>*Check</em>*. Similar passage also found in <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).
+[^comment-TDSHV42P201B-1]: Placement based on reference to ʿAlī’s expedition to Yemen and the criticism he received for his management of the affair. Als found in <a href="WAHJK.html" class="witness-link">WAHJK</a> (ʿAmr b. Hāshim (or Hishām) Abū Mālik al-Junubī al-Kūfī), <a href="WSACD.html" class="witness-link">WSACD</a> (Ibrāhīm b. Saʿd b. Ibrāhīm b. ʿAbd al-Raḥmān al-Madinī al-Zuhrī), <a href="WSAAS.html" class="witness-link">WSAAS</a> (Ṣāliḥ b. Abī al-Aswad), <a href="WMAAK.html" class="witness-link">WMAAK</a> (Mandal (ʿAmr) b. ʿAlī al-ʿAnzī al-Kūfī), <a href="WSFAB.html" class="witness-link">WSFAB</a> (Salamah b. al-Faḍl al-Abrash al-Azraqī al-Anṣārī al-Rāzī), <a href="WMSJK.html" class="witness-link">WMSJK</a> (Masʿūd b. Saʿd al-Juʿfī al-Kūfī), <a href="WMKHW.html" class="witness-link">WMKHW</a> (Muḥammad b. Khālid al-Wahbī), <a href="WABRM.html" class="witness-link">WABRM</a> (ʿAbd al-Raḥmān b. Maghrāʾ b. ʿIyāḍ al-Dawsī al-Rāzī al-Kūfī), and <a href="WYBWS.html" class="witness-link">WYBWS</a> (Yūnus b. Bukayr b. Wāṣil al-Shaybānī al-Jamāl al-Kūfī).
+[^comment-TDSHV42P202A-1]: This passage appears to refer to the criticism of ʿAlī’s expedition to Yemen.

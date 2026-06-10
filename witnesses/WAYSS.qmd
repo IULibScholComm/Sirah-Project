@@ -1,0 +1,56 @@
+---
+title: "ʿAbd Allāh b. Yazīd b. al-Ṣalt al-Shaybānī"
+lang: "en"
+witness-code: "WAYSS"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عبد الله بن يزيد بن الصلت الشيباني</span>
+
+**Witness code:** `WAYSS`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WAYSS">
+```
+
+```{=html}
+<article class="sira-report" id="MZTXV16P305A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#MZTXV16P305A">MZTXV16P305A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-MZTX" class="source-link"><span class='ref-author'>al-Mizzī</span>, <span class='ref-title'>Tahdhīb al-kamāl fī asmāʾ al-rijāl</span></a>, vol. 16 pp. 305-306</div>
+  </header>
+  <div class="witness-text">
+    روى له الترمذي في الشمائل والنسائي حديثا عبد الله بن يزيد بن الصلت الشيباني واحدا من رواية محمد بن إسحاق عن يزيد بن رومان عن عروة <span class="page-no" title="end of page 305 of vol. 16">§</span> هكذا في رواية الترمذي وفي رواية النسائي عن محمد بن إسحاق عن يزيد بن رومان عن الزهري عن عروة عن عائشة أن النبي صلى الله عليه وسلم أكل الطبيخ بالرطب وقال النسائي ليس بمحفوظ من حديث الزهري. <span class="page-no" title="end of page 306 of vol. 16">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STJXV07P031A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STJXV07P031A">STJXV07P031A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STJX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-awsaṭ</span></a>, vol. 7 pp. 31-32</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الله بن يزيد نا محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال قال نعيمان يا رسول الله بي وعك شديد من <span class="page-no" title="end of page 31 of vol. 7">§</span> الحمى قال فأين أنت يا نعيمان من مهيعة وكانت أرضا وبيئة. <span class="page-no" title="end of page 32 of vol. 7">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="STBXV04P252B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#STBXV04P252B">STBXV04P252B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-STBX" class="source-link"><span class='ref-author'>al-Ṭabarānī</span>, <span class='ref-title'>al-Muʿjam al-kabīr</span></a>, vol. 4 p. 252</div>
+  </header>
+  <div class="witness-text">
+    حدثنا أحمد بن المعلى الدمشقي ح وحدثنا الحسين بن إسحاق التستري قالا ثنا هشام بن عمار ثنا عبد الله بن يزيد البكري ثنا محمد بن إسحاق عن عاصم بن عمر بن قتادة عن محمود بن لبيد عن رافع بن خديج قال قال نعيمان يا رسول الله بي وعك شديد من الحمى فقال النبي صلى الله عليه وسلم فأين أنت يا نعيمان من مهيعة وكانت أرض وبيئة. <span class="page-no" title="end of page 252 of vol. 4">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

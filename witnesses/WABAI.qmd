@@ -1,0 +1,44 @@
+---
+title: "ʿAbbād b. ʿAbbād  al-Muhallabī"
+lang: "en"
+witness-code: "WABAI"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عباد بن عباد المهلبي</span>
+
+**Witness code:** `WABAI`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WABAI">
+```
+
+```{=html}
+<article class="sira-report" id="THSHV01P015A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#THSHV01P015A">THSHV01P015A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-THSH" class="source-link"><span class='ref-author'>Aḥmad b. Muḥammad al-Ṭaḥāwī</span>, <span class='ref-title'>Sharḥ mushkil al-āthār</span></a>, vol. 1 p. 15</div>
+  </header>
+  <div class="witness-text">
+    وكما حدثنا الحسين بن نصر سمعت يزيد بن هارون قال أنا محمد بن إسحاق عن محمد بن جعفر بن الزبير عن عبيد الله بن عبد الله بن عمر عن أبيه عن النبي صلى الله عليه وسلم أنه سئل عن الحياض التي بالبادية تصيب منها السباع فقال إذا بلغ الماء قلتين لم يحمل خبثا حدثنا محمد بن الحجاج ثنا علي بن معبد ثنا عباد بن عباد المهلبي عن محمد بن إسحاق عن محمد بن جعفر عن عبيد الله بن عبد الله بن عمر عن أبيه عن رسول الله صلى الله عليه وسلم مثله <span class="page-no" title="end of page 15 of vol. 1">§</span>
+  </div>
+</article>
+```
+```{=html}
+<article class="sira-report" id="QNMXV03P065A" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#QNMXV03P065A">QNMXV03P065A</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-QNMX" class="source-link"><span class='ref-author'>Ibn Qāniʿ</span>, <span class='ref-title'>Muʿjam al-ṣaḥābah</span></a>, vol. 3 pp. 65-66</div>
+  </header>
+  <div class="witness-text">
+    حدثنا عبد الله بن أحمد بن حنبل نا أبو بكر بن أبي شيبة نا ابن نمير وحدثنا أحمد بن يحيى أخو خازم نا سعيد بن سليمان نا عباد بن <span class="page-no" title="end of page 65 of vol. 3">§</span> عباد جميعا عن محمد بن إسحاق عن محمد بن طلحة بن يزيد بن ركانة عن أم عائشة بنت الأسود عن أبيها مسعود بن الأسود قال لما سرقت المرأة المنطقة من بيت رسول الله صلى الله عليه وسلم أعظمنا ذلك وكانت المرأة من قريش فجئت إلى النبي صلى الله عليه وسلم فقلت نحن نفديها بأربعين أوقية فقال تطهر خير لها فأتينا أسامة فقلنا كلم رسول الله صلى الله عليه وسلم فلما رأى رسول الله صلى الله عليه وسلم ذلك قام خطيبا فقال ما إكثاركم في حد من حدود الله وقع على أمة من إماء الله والذي نفسي بيده لو كانت فاطمة بنت محمد نزلت بالذي نزلت به لقطعت يدها صلى الله عليه وسلم. <span class="page-no" title="end of page 66 of vol. 3">§</span>
+  </div>
+</article>
+```
+```{=html}
+</div>
+```

@@ -1,0 +1,50 @@
+---
+title: "ʿUmar b. Najīḥ"
+lang: "en"
+witness-code: "WUMNJ"
+source-language: "ar"
+---
+
+# <span lang="ar" dir="rtl">السيرة النبوية لمحمد بن اسحاق في رواية عمر بن نجيح</span>
+
+**Witness code:** `WUMNJ`
+
+This witness version is generated from the encoded source file prepared for this edition.
+
+```{=html}
+<div class="sira-witness" data-witness="WUMNJ">
+```
+
+```{=html}
+<article class="sira-report" id="RZJXV09P367J" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#RZJXV09P367J">RZJXV09P367J</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-RZJX" class="source-link"><span class='ref-author'>Ibn Abī Ḥātim al-Rāzī</span>, <span class='ref-title'>al-Jarḥ waʾl-taʿdīl</span></a>, vol. 9 pp. 367-42</div>
+  </header>
+  <div class="witness-text">
+    أبو داود المازنى وقد كان شهد بدرا روى محمد بن اسحاق عن أبيه عن رجل من بنى مازن عنه فيما رواه محمد بن سلمة ورواه يعقوب الزهري عن عمر بن نجيح عن محمد بن إسحاق عن ابيه عن حفص بن مازن عن ابى داود المازنى. <span class="page-no" title="end of page 367 of vol. 9">§</span> <span class="page-no" title="end of page 42 of vol. 44">§</span>
+  </div>
+</article>
+```
+
+[^comment-RZJXV09P367J-1]
+
+```{=html}
+<article class="sira-report" id="TDSHV44P042B" lang="ar" dir="rtl">
+  <header class="sira-report-header" lang="en" dir="ltr">
+    <span class="report-label">Passage</span>
+    <a class="report-id" href="#TDSHV44P042B">TDSHV44P042B</a>
+    <div class="sira-source-line" lang="en" dir="ltr"><span class="source-label">Source:</span> <a href="../references.html#ref-TDSH" class="source-link"><span class='ref-author'>Ibn ʿAsākir</span>, <span class='ref-title'>Taʾrīkh madīnat Dimashq</span></a>, vol. 44 p. 42</div>
+  </header>
+  <div class="witness-text">
+    أخبرنا أبو غالب وأبو عبد الله ابنا البناء قالا أنا أبو جعفر بن المسلمة أنا أبو طاهر المخلص أنا أحمد بن سليمان نا الزبير بن بكار حدثني علي بن صالح عن يعقوب بن محمد بن عيسى عن عمر بن نجيح عن محمد بن إسحاق عن نافع عن ابن عمر قال إني مع أبي غلام أتبعه أعقل ما يصنع حتى أتى جميل بن معمر الجمحي وكان امرأ يذيع الحديث فقال يا جميل أعلمت أني اتبعت محمدا فقام جميل يجر رداءه من العجلة يطوف على أندية قريش ويقول إن ابن الخطاب صبأ وأبي يتبعه ويقول كذب ولكني أسلمت فلم يصنعوا شيئا فصاح إني أشهد أن لا إله إلا الله وأن محمدا رسول الله فقاموا إليه فجعلوا يضربونه ويضربهم حتى قامت الشمس على رأسه فجلس وقد أعيا وهو يقول أما والله لو قد بلغنا ثلاثمائة لقد أخرجناكم منها أو أجرتمونا إلى أن جاءه رجل عليه قوسي ورداء يجره فقال ما هذا قالوا صبأ ابن الخطاب فقال رجل اختار لنفسه أمرا ما لكم وله أترون بني عدي تاركيكم وصاحبهم هذا وكأنما كشف بالناس ثوبا فقلت له بالمدينة يا أبه من الرجل الذي أتاك يوم أسلمت.
+  </div>
+</article>
+```
+```{=html}
+</div>
+```
+
+
+[^comment-RZJXV09P367J-1]: The Yaʿqūb al-Zuhrī referred to in the <em>isnād</em> is Yaʿqūb b. Muḥammad al-Zuhrī.
